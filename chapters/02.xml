@@ -202,55 +202,55 @@
     <para>所有Lojban单词拼读一致；没有不发音的字母。</para>
   </section>
   <section xml:id="section-sumti-cmavo">
-    <title><anchor xml:id="c2s3"/>Words that can act as sumti</title>
-    <para> <indexterm type="general"><primary>pro-sumti</primary><secondary>quick-tour version</secondary></indexterm> Here is a short table of single words used as sumti. This table provides examples only, not the entire set of such words, which may be found in 
-    <xref linkend="section-koha-summary"/>.</para>
+    <title><anchor xml:id="c2s3"/>可以充当sumti的词</title>
+    <para> <indexterm type="general"><primary>代sumti</primary><secondary>快览版</secondary></indexterm> 这里有一个用作sumti的单词的短表。该表仅提供例子而非可能在
+    <xref linkend="section-koha-summary"/>中找到的该类单词的全集。</para>
     <cmavo-list>
       <cmavo-entry>
         <cmavo>mi</cmavo>
-        <description>I/me, we/us</description>
+        <description>我（们）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>do</cmavo>
-        <description>you</description>
+        <description>你（们）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>ti</cmavo>
-        <description>this, these</description>
+        <description>这（些）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>ta</cmavo>
-        <description>that, those</description>
+        <description>那（些）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>tu</cmavo>
-        <description>that far away, those far away</description>
+        <description>很远的那（些）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>zo'e</cmavo>
-        <description>unspecified value (used when a sumti is unimportant or obvious)</description>
+        <description>未指定的值（当一个sumti不重要或显而易见时使用）</description>
       </cmavo-entry>
     </cmavo-list>
-    <para role="indent">Lojban sumti are not specific as to number (singular or plural), nor gender (masculine/feminine/neutral). Such distinctions can be optionally added by methods that are beyond the scope of this chapter.</para>
+    <para role="indent">Lojban的sumti不指明数（单/多）、性（阳/阴/中）。这样的区分可以通过超出本章范围的方法选择性添加。</para>
     
-    <para> <indexterm type="general"><primary>pointing cmavo</primary><secondary>quick-tour version</secondary></indexterm> The cmavo 
-    <valsi>ti</valsi>, 
-    <valsi>ta</valsi>, and 
-    <valsi>tu</valsi> refer to whatever the speaker is pointing at, and should not be used to refer to things that cannot in principle be pointed at.</para>
-    <para> <indexterm type="general"><primary>names</primary><secondary>quick-tour version</secondary></indexterm> Names may also be used as sumti, provided they are preceded with the word 
-    <valsi>la</valsi>:</para>
+    <para> <indexterm type="general"><primary>指示cmavo</primary><secondary>快览版</secondary></indexterm>cmavo
+    <valsi>ti</valsi>、
+    <valsi>ta</valsi>和
+    <valsi>tu</valsi>指任何说话者所指的东西，且不应用来指原则上不能（物理意义上）指的东西。</para>
+    <para> <indexterm type="general"><primary>名字</primary><secondary>快览版</secondary></indexterm> 名字也可用作sumti，假如在前面插入
+    <valsi>la</valsi>的话：</para>
     <informaltable>
           <tr>
             <td><jbophrase>la meris.</jbophrase></td>
-            <td>the one/ones named Mary</td>
+            <td>Mary（们）</td>
           </tr>
           <tr>
             <td><jbophrase>la djan.</jbophrase></td>
-            <td>the one/ones named John</td>
+            <td>John（们）</td>
           </tr>
     </informaltable>
-    <para>Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see 
-    <xref linkend="section-names"/> for more information.</para>
+    <para>来自其他语言的名字可能产生其他Lojban拼写，而且有对那些字母能出现在Lojban名字里的限制：更多信息参见
+    <xref linkend="section-names"/>。</para>
   </section>
   <section xml:id="section-some-selbri">
     <title><anchor xml:id="c2s4"/>Some words used to indicate selbri relations</title>
