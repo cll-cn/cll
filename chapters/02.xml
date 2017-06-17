@@ -44,7 +44,7 @@
       <para>John比Sam更高。</para>
       
     </example>
-    <para role="indent"> <indexterm type="general"><primary>sumti</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>谓句</primary><secondary>与bridi的比较</secondary></indexterm>  <indexterm type="general"><primary>bridi</primary><secondary>与谓句相比</secondary></indexterm>  <indexterm type="general"><primary>谓句</primary><secondary>作为关系</secondary></indexterm>  <indexterm type="general"><primary>关系</primary><secondary>动作/静态/限定</secondary></indexterm> 这些例子都描述了John和Sam直接的关系。但在中文中，我们用名词 
+    <para role="indent"> <indexterm type="general"><primary>sumti</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>断言</primary><secondary>与bridi的比较</secondary></indexterm>  <indexterm type="general"><primary>bridi</primary><secondary>与谓句相比</secondary></indexterm>  <indexterm type="general"><primary>断言</primary><secondary>作为关系</secondary></indexterm>  <indexterm type="general"><primary>关系</primary><secondary>动作/静态/限定</secondary></indexterm> 这些例子都描述了John和Sam直接的关系。但在中文中，我们用名词 
     
     <quote>父亲</quote>描述静态关系
     <xref linkend="example-random-id-qIuj"/>，用动词 
@@ -54,7 +54,7 @@
     <quote>更高</quote>来描述限定关系
     
     <xref linkend="example-random-id-qIuS"/>。在Lojban中我们没有这样的语法分别；这三个句子，当用Lojban表达时，在结构上是相同的。句子的同一部分用来表达关系。在形式逻辑中这整个结构叫做
-    <quote>谓句</quote>；在Lojban中叫做
+    <quote>断言</quote>；在Lojban中叫做
     <valsi>bridi</valsi>，语言的中心部分是
     <valsi>selbri</valsi>。逻辑学家称这样联系起来的事物为
     <quote>论元</quote>，而Lojban语者称之为
@@ -253,8 +253,8 @@
     <xref linkend="section-names"/>。</para>
   </section>
   <section xml:id="section-some-selbri">
-    <title><anchor xml:id="c2s4"/>Some words used to indicate selbri relations</title>
-    <para> <indexterm type="general"><primary>selbri list for quick tour</primary></indexterm> Here is a short table of some words used as Lojban selbri in this chapter:</para>
+    <title><anchor xml:id="c2s4"/>一些用以指明selbri关系的词</title>
+    <para> <indexterm type="general"><primary>用于快览的selbri列表</primary></indexterm> 这里有一个在本章中用作Lojban selbri的短表：</para>
     <para role="allowbreaks"/>
     <informaltable class="vertsep">
       <!-- This table is redundant with the glossary, but there's
@@ -262,69 +262,69 @@
            -->
           <tr>
             <td><valsi>vecnu</valsi></td>
-            <td>x1 (seller) sells x2 (goods) to x3 (buyer) for x4 (price)</td>
+            <td>x1（商家）将x2（货物）销售给x3（消费者）以x4（价格）</td>
           </tr>
           <tr>
             <td><valsi>tavla</valsi></td>
-            <td>x1 (talker) talks to x2 (audience) about x3 (topic) in language x4</td>
+            <td>x1（讲话者）向x2（听众）说x3（话题）以语言x4</td>
           </tr>
           <tr>
             <td><valsi>sutra</valsi></td>
-            <td>x1 (agent) is fast at doing x2 (action)</td>
+            <td>x1（行为主体）做x2（行动）快</td>
           </tr>
           <tr>
             <td><valsi>blari'o</valsi></td>
-            <td>x1 (object/light source) is blue-green</td>
+            <td>x1（物体或光源）蓝绿</td>
           </tr>
           <tr>
             <td><valsi>melbi</valsi></td>
-            <td>x1 (object/idea) is beautiful to x2 (observer) by standard x3</td>
+            <td>x1（物体或想法）对x2（观察者）以标准x3来说漂亮</td>
           </tr>
           <tr>
             <td><valsi>cutci</valsi></td>
-            <td>x1 is a shoe/boot for x2 (foot) made of x3 (material)</td>
+            <td>x1是为x2（脚）以x3（材料）制造的鞋</td>
           </tr>
           <tr>
             <td><valsi>bajra</valsi></td>
-            <td>x1 runs on x2 (surface) using x3 (limbs) in manner x4 (gait)</td>
+            <td>x1在x2（表面）上用x3（肢体）以x4方式跑</td>
           </tr>
           <tr>
             <td><valsi>klama</valsi></td>
-            <td>x1 goes/comes to x2 (destination) from x3 (origin point) via x4 (route) using x5 (means of transportation)</td>
+            <td>x1去/来到x2（目的地）从x3（出发地）通过x4（路径）使用x5（交通方式）</td>
           </tr>
           <tr>
             <td><valsi>pluka</valsi></td>
-            <td>x1 pleases/is pleasing to x2 (experiencer) under conditions x3</td>
+            <td>x1使x2（体验者）在情形x3下满意</td>
           </tr>
 
           <tr>
             <td><valsi>gerku</valsi></td>
-            <td>x1 is a dog of breed x2</td>
+            <td>x1是x2品种的狗</td>
           </tr>
           <tr>
             <td><valsi>kurji</valsi></td>
-            <td>x1 takes care of x2</td>
+            <td>x1照顾x2</td>
           </tr>
           <tr>
             <td><valsi>kanro</valsi></td>
-            <td>x1 is healthy by standard x2</td>
+            <td>x1以标准x2健康</td>
           </tr>
 
           <tr>
             <td><valsi>stali</valsi></td>
-            <td>x1 stays/remains with x2</td>
+            <td>x1容忍/留在x2</td>
           </tr>
           <tr>
             <td><valsi>zarci</valsi></td>
-            <td>x1 is a market/store/shop selling x2 (products) operated by x3 (storekeeper)</td>
+            <td>x1是卖x2（产品）被x3（店主）经营的市场/商店</td>
           </tr>
     </informaltable>
-    <para> <indexterm type="general"><primary>x1</primary><secondary>notation convention</secondary><tertiary>quick-tour version</tertiary></indexterm> Each selbri (relation) has a specific rule that defines the role of each sumti in the bridi, based on its position. In the table above, that order was expressed by labeling the sumti positions as x1, x2, x3, x4, and x5.</para>
-    <para> <indexterm type="general"><primary>words not in the dictionary</primary></indexterm> Like the table in 
-    <xref linkend="section-sumti-cmavo"/>, this table is far from complete: in fact, no complete table can exist, because Lojban allows new words to be created (in specified ways) whenever a speaker or writer finds the existing supply of words inadequate. This notion is a basic difference between Lojban (and some other languages such as German and Chinese) and English; in English, most people are very leery of using words that 
-    <quote>aren't in the dictionary</quote>. Lojbanists are encouraged to invent new words; doing so is a major way of participating in the development of the language. 
-    <xref linkend="chapter-morphology"/> explains how to make new words, and 
-    <xref linkend="chapter-lujvo"/> explains how to give them appropriate meanings.</para>
+    <para> <indexterm type="general"><primary>x1</primary><secondary>惯例</secondary><tertiary>快览版</tertiary></indexterm> 每个bridi（关系）有一个特定的定义bridi中每个sumti角色的规则。在上面的表格中，那种关系被以将sumti位置标为x1、x2、x3、x4和x5的方式来表达。</para>
+    <para> <indexterm type="general"><primary>不在词典中的词</primary></indexterm> 像 
+    <xref linkend="section-sumti-cmavo"/>里的表格，该表远非完整；实际上没有完整表格能够存在，因为Lojban允许任何说话者或作者发现现有词汇供应不足时有新单词被创造（通过特定方式）。该主张是Lojban（以及其他一些语言如德语和汉语）和英语的不同之处；英语中，大多数人对使用
+    <quote>不在词典中</quote>的词持怀疑态度。Lojban语者被鼓励发明新词汇；这么做是参与到该语言的发展中来的一种主要方式。
+    <xref linkend="chapter-morphology"/>解释了如何发明新词汇，而
+    <xref linkend="chapter-lujvo"/>解释了如何给予它们大约的意思。</para>
   </section>
   <section xml:id="section-some-simple-bridi">
     <title><anchor xml:id="c2s5"/>Some simple Lojban bridi</title>
