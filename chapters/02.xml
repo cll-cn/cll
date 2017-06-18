@@ -327,42 +327,42 @@
     <xref linkend="chapter-lujvo"/>解释了如何给予它们大约的意思。</para>
   </section>
   <section xml:id="section-some-simple-bridi">
-    <title><anchor xml:id="c2s5"/>Some simple Lojban bridi</title>
-    <para> <indexterm type="general"><primary>bridi</primary><secondary>quick-tour version</secondary></indexterm> Let's look at a simple Lojban bridi. The place structure of the gismu 
-    <valsi>tavla</valsi> is</para>
+    <title><anchor xml:id="c2s5"/>一些简单的Lojban的bridi</title>
+    <para> <indexterm type="general"><primary>bridi</primary><secondary>快览版</secondary></indexterm> 让我们看一个简单的Lojban的bridi。gismu
+    <valsi>tavla</valsi>的位结构是</para>
     <example xml:id="example-random-id-5Lis">
       <title>
         <anchor xml:id="c2e5d1"/>
       </title>
-      <para>x1 talks to x2 about x3 in language x4</para>
+      <para>x1向x2说x3以语言x4</para>
     </example>
-    <para role="noindent">where the 
-    <quote>x</quote> es with following numbers represent the various arguments that could be inserted at the given positions in the English sentence. For example:</para>
+    <para role="noindent">其中带着数字的
+    <quote>x</quote>代表在英语句子中可插入该位置的多样的论元。例如：</para>
     <example xml:id="example-random-id-3bc3">
       <title>
-        <indexterm type="example"><primary>engineering</primary></indexterm>
+        <indexterm type="example"><primary>工程学</primary></indexterm>
         <anchor xml:id="c2e5d2"/>
       </title>
-      <para>John talks to Sam about engineering in Lojban.</para>
+      <para>John对Sam谈论工程学用Lojban。</para>
       
     </example>
     <para role="noindent"> 
 
 
- has 
-    <quote>John</quote> in the x1 place, 
-    <quote>Sam</quote> in the x2 place, 
-    <quote>engineering</quote> in the x3 place, and 
+ 有
+    <quote>John</quote>在x1位，
+    <quote>Sam</quote>在x2位，
+    <quote>工程学</quote>在x3位，
     
-    <quote>Lojban</quote> in the x4 place, and could be paraphrased:</para>
+    <quote>Lojban</quote>在x4位，且可被意译为：</para>
     <example xml:id="example-random-id-pVMH">
       <title>
         <anchor xml:id="c2e5d3"/>
       </title>
-      <para>Talking is going on, with speaker John and listener Sam and subject matter engineering and language Lojban.</para>
+      <para>谈话正在进行，说话者为John，听者为Sam，主题为工程学，语言为Lojban。</para>
     </example>
-    <para role="indent">The Lojban bridi corresponding to 
-    <xref linkend="example-random-id-5Lis"/> will have the form</para>
+    <para role="indent">与
+    <xref linkend="example-random-id-5Lis"/>对应的Lojban的bridi将有形式</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k01t">
       <title>
         <anchor xml:id="c2e5d4"/>
@@ -378,8 +378,8 @@
         </jbo>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>cu</primary><secondary>use of</secondary><tertiary>quick-tour version</tertiary></indexterm>  <indexterm type="general"><primary>cu</primary><secondary>omission of</secondary><tertiary>quick-tour version</tertiary></indexterm> The word 
-    <valsi>cu</valsi> serves as a separator between any preceding sumti and the selbri. It can often be omitted, as in the following examples.</para>
+    <para role="indent"> <indexterm type="general"><primary>cu</primary><secondary>使用</secondary><tertiary>快览版</tertiary></indexterm>  <indexterm type="general"><primary>cu</primary><secondary>省略</secondary><tertiary>快览版</tertiary></indexterm> 单词
+    <valsi>cu</valsi>充当任何在前的sumti与selbri的分隔符。它可以常常被省略，如下例所示。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k02C">
       <title>
         <anchor xml:id="c2e5d5"/>
@@ -392,7 +392,7 @@
           <sumti>zo'e</sumti> 
           <sumti>zo'e</sumti>
         </jbo>
-        <natlang>I talk to you about something in some language.</natlang>
+        <natlang>我向你说了些什么以某种语言。</natlang>
 
         
       </interlinear-gloss-itemized>
@@ -409,7 +409,7 @@
           <sumti>ta</sumti> 
           <sumti>zo'e</sumti>
         </jbo>
-        <natlang>You talk to me about that thing in a language.</natlang>
+        <natlang>你对我说了那件事以某种语言。You </natlang>
 
         
       </interlinear-gloss-itemized>
@@ -426,11 +426,11 @@
           <sumti>tu</sumti> 
           <sumti>ti</sumti>
         </jbo>
-        <natlang>I talk to someone about that thing yonder in this language.</natlang>
+        <natlang>我对某人谈论较远的那个东西以这种语言。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">(<xref linkend="example-random-id-k03n"/> is a bit unusual, as there is no easy way to point to a language; one might point to a copy of this book, and hope the meaning gets across!)</para>
-    <para> <indexterm type="general"><primary>ellipsis</primary><secondary>quick-tour version</secondary></indexterm> When there are one or more occurrences of the cmavo 
+    <para role="noindent">（<xref linkend="example-random-id-k03n"/>很不寻常，因为没有指明语言的容易方式；一个人可能指着本书的一份复制品，希望含义能传达到。）</para>
+    <para> <indexterm type="general"><primary>省略</primary><secondary>快览版</secondary></indexterm> 当有一或多个cmavo出现时，
     <valsi>zo'e</valsi> at the end of a bridi, they may be omitted, a process called 
     <quote>ellipsis</quote>. 
 
@@ -446,7 +446,7 @@
           <selbri>tavla</selbri> 
           <sumti>do</sumti>
         </jbo>
-        <natlang>I talk to you (about something in some language).</natlang>
+        <natlang>我对你谈论（某个东西，以某种语言）。</natlang>
 
         
       </interlinear-gloss-itemized>
@@ -462,13 +462,13 @@
           <sumti>mi</sumti> 
           <sumti>ta</sumti>
         </jbo>
-        <natlang>You talk to me about that thing (in some language).</natlang>
+        <natlang>你对我说了那件事（以某种语言）。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Note that 
-    <xref linkend="example-random-id-k03n"/> is not subject to ellipsis by this direct method, as the 
+    <para role="indent">注意
+    <xref linkend="example-random-id-k03n"/>不适用于这种直接的省略，因为其中的
 
-    <valsi>zo'e</valsi> in it is not at the end of the bridi.</para>
+    <valsi>zo'e</valsi>不在bridi的末尾。</para>
   </section>
   <section xml:id="section-variant-bridi-structure">
     <title><anchor xml:id="c2s6"/>Variant bridi structure</title>
