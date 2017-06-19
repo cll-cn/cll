@@ -8,7 +8,7 @@
   </mediaobject>
   <section xml:id="section-bridi">
     <title><anchor xml:id="c2s1"/>bridi的概念</title>
-    <para> <indexterm type="general"><primary>bridi</primary><secondary>概念</secondary></indexterm> 本章给出了Lojban句子结构的有简图的例子。先给出最一般的模式，再接上连续的Lojban句子基本成分的变体。有许多更多的能力未在本章给出，但在之后的章节中详细地给出了，所以本章是之后在全书中更缓慢地给出的材料的
+    <para> <indexterm type="general"><primary>bridi</primary><secondary>概念</secondary></indexterm> 本章给出了Lojban句子结构的有简图e的例子。先给出最一般的模式，再接上连续的Lojban句子基本成分的变体。有许多更多的能力未在本章给出，但在之后的章节中详细地给出了，所以本章是之后在全书中更缓慢地给出的材料的
     <quote>快览</quote>。它也介绍了用以讨论Lojban语法的大部分Lojban词汇。</para>
     <para> 
 
@@ -471,8 +471,8 @@
     <valsi>zo'e</valsi>不在bridi的末尾。</para>
   </section>
   <section xml:id="section-variant-bridi-structure">
-    <title><anchor xml:id="c2s6"/>Variant bridi structure</title>
-    <para> <indexterm type="general"><primary>sumti placement</primary><secondary>variant</secondary><tertiary>quick-tour version</tertiary></indexterm> Consider the sentence</para>
+    <title><anchor xml:id="c2s6"/>变量bridi结构</title>
+    <para> <indexterm type="general"><primary>sumti位置</primary><secondary>变量</secondary><tertiary>快览版</tertiary></indexterm> 考虑这个句子</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k068">
       <title>
         <anchor xml:id="c2e6d1"/>
@@ -487,27 +487,27 @@
           <sumti>zo'e</sumti>
         </jbo>
         <gloss>
-          <sumti>seller-x1</sumti>
+          <sumti>销售者-x1</sumti>
           <elidable></elidable>
-          <selbri>sells</selbri>
-          <sumti>goods-sold-x2</sumti>
-          <sumti>buyer-x3</sumti>
-          <sumti>price-x4</sumti>
+          <selbri>贩卖</selbri>
+          <sumti>被销售的货物-x2</sumti>
+          <sumti>购买者-x3</sumti>
+          <sumti>价格-x4</sumti>
         </gloss>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>sell</selbri>
-          <sumti>this</sumti>
-          <sumti>to that</sumti>
-          <sumti>for some price.</sumti>
+          <selbri>贩卖</selbri>
+          <sumti>这个</sumti>
+          <sumti>给那个</sumti>
+          <sumti>以某个价格。</sumti>
         </gloss>
-        <natlang>I sell this-thing/these-things to that-buyer/those-buyers.</natlang>
+        <natlang>我贩卖这个（些）东西给那个（些）购买者、</natlang>
         <comment>(the price is obvious or unimportant)</comment>
       </interlinear-gloss-itemized>
     </example>
     <para role="indent">
-    <xref linkend="example-random-id-k068"/> has one sumti (the x1) before the selbri. It is also possible to put more than one sumti before the selbri, without changing the order of sumti:</para>
+    <xref linkend="example-random-id-k068"/>在selbri前有一个sumti（x1）。在selbri前放不知一个sumti也是可能的，如果不改变sumti的顺序的话：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0aR">
       <title>
         <anchor xml:id="c2e6d2"/>
@@ -521,21 +521,21 @@
           <sumti>ta</sumti>
         </jbo>
         <gloss>
-          <sumti>seller-x1</sumti>
-          <sumti>goods-sold-x2</sumti>
+          <sumti>销售者-x1</sumti>
+          <sumti>被贩卖的货物-x2</sumti>
           <elidable></elidable>
-          <selbri>sells</selbri>
-          <sumti>buyer-x3</sumti>
+          <selbri>贩卖</selbri>
+          <sumti>购买者-x3</sumti>
         </gloss>
         <gloss>
-          <sumti>I</sumti>
-          <sumti>this</sumti>
+          <sumti>我</sumti>
+          <sumti>这个</sumti>
           <elidable></elidable>
-          <selbri>sell</selbri>
-          <sumti>to that.</sumti>
+          <selbri>销售</selbri>
+          <sumti>给了那个。</sumti>
         </gloss>
-        <comment>(translates as stilted or poetic English)</comment>
-        <natlang>I this thing do sell to that buyer.</natlang>
+        <comment>（翻译为生硬或者诗歌化的汉语）</comment>
+        <natlang>吾以此售彼。</natlang>
       </interlinear-gloss-itemized>
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Bm">
@@ -551,28 +551,28 @@
           <selbri>vecnu</selbri>
         </jbo>
         <gloss>
-          <sumti>seller-x1</sumti>
-          <sumti>goods-sold-x2</sumti>
-          <sumti>buyer-x3</sumti>
+          <sumti>销售者-x1</sumti>
+          <sumti>被贩卖的货物-x2</sumti>
+          <sumti>购买者-x3</sumti>
           <elidable></elidable>
-          <selbri>sells</selbri>
+          <selbri>贩卖</selbri>
         </gloss>
         <gloss>
-          <sumti>I</sumti>
-          <sumti>this</sumti>
-          <sumti>to that</sumti>
+          <sumti>我</sumti>
+          <sumti>这个</sumti>
+          <sumti>给那个</sumti>
           <elidable></elidable>
-          <selbri>sell</selbri>
+          <selbri>贩卖</selbri>
         </gloss>
-        <comment>(translates as stilted or poetic English)</comment>
-        <natlang>I this thing to that buyer do sell.</natlang>
+        <comment>（翻译为生硬或诗歌化的汉语）</comment>
+        <natlang>吾以此彼之售也。</natlang>
       </interlinear-gloss-itemized>
     </example>
     <para role="indent">
-      <xref linkend="example-random-id-k068"/> through 
-    <xref linkend="example-random-id-k0Bm"/> mean the same thing. Usually, placing more than one sumti before the selbri is done for style or for emphasis on the sumti that are out-of-place from their normal position. (Native speakers of languages other than English may prefer such orders.)</para>
-    <para> <indexterm type="general"><primary>observatives</primary><secondary>quick-tour version</secondary></indexterm> If there are no sumti before the selbri, then it is understood that the x1 sumti value is equivalent to 
-    <valsi>zo'e</valsi>; i.e. unimportant or obvious, and therefore not given. Any sumti after the selbri start counting from x2.</para>
+      从<xref linkend="example-random-id-k068"/>到
+    <xref linkend="example-random-id-k0Bm"/>意味着一样的东西。通常，将多于一个sumti放在selbri前面是为了风格或者是为了强调不在通常位置的sumti。（非汉语母语者可能偏爱这样的顺序。）</para>
+    <para> <indexterm type="general"><primary>observatives</primary><secondary>快览版</secondary></indexterm> 如果selbri前没有sumti，那么它被理解为x1位的sumti的价值相当于
+    <valsi>zo'e</valsi>；也就是说不重要或显而易见，因此没被给出。selbri后的任意从x2开始数。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0br">
       <title>
         <anchor xml:id="c2e6d4"/>
@@ -585,22 +585,22 @@
           <comment></comment>
         </jbo>
         <gloss>
-          <sumti>object/idea-x1</sumti>
+          <sumti>对象/主意-x1</sumti>
           <elidable></elidable>
-          <selbri>is-beautiful</selbri> 
-          <comment>(to someone by some standard)</comment>
+          <selbri>漂亮</selbri> 
+          <comment>（对于某人以某标准）</comment>
         </gloss>
         <gloss>
-          <sumti>That/Those</sumti>
+          <sumti>那个（些）</sumti>
           <elidable></elidable>
-          <selbri>is/are beautiful.</selbri>
+          <selbri>漂亮。</selbri>
           <comment></comment>
         </gloss>
-        <natlang>That is beautiful.</natlang>
-        <natlang>Those are beautiful.</natlang>
+        <natlang>那漂亮。</natlang>
+        <natlang>那些漂亮。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">when the x1 is omitted, becomes:</para>
+    <para role="noindent">当x1省略时，变成：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Ch">
       <title>
         <anchor xml:id="c2e6d5"/>
@@ -612,28 +612,28 @@
           <comment/>
         </jbo>
         <gloss>
-          <sumti>unspecified-x1</sumti>
-          <selbri>is-beautiful</selbri> 
-          <comment>to someone by some standard</comment>
+          <sumti>不确定的-x1</sumti>
+          <selbri>漂亮</selbri> 
+          <comment>对于某人以某标准</comment>
         </gloss>
-        <natlang>Beautiful!</natlang>
-        <natlang>It's beautiful!</natlang>
+        <natlang>漂亮！</natlang>
+        <natlang>真漂亮！</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Omitting the x1 adds emphasis to the selbri relation, which has become first in the sentence. This kind of sentence is termed an observative, because it is often used when someone first observes or takes note of the relationship, and wishes to quickly communicate it to someone else. Commonly understood English observatives include 
+    <para role="indent">省略x1增进了对句中在首位的selbri关系的强调。这种句子被称为观察句，因为它常在某人首次观察或注意关系且希望快速将其传达给他人时使用。通常被认为的汉语观察句包括当看到烟或闻到其气味时的
     
     
-    <quote>Smoke!</quote> upon seeing smoke or smelling the odor, or 
-    <quote>Car!</quote> to a person crossing the street who might be in danger. Any Lojban selbri can be used as an observative if no sumti appear before the selbri.</para>
+    <quote>烟！</quote>，或对某个可能在危险中的在过马路的人的
+    <quote>车！</quote>。如果selbri前sumti的话任何Lojban的selbri可以被用为观察句。</para>
     
-    <para>The word 
-    <valsi>cu</valsi> does not occur in an observative; 
+    <para>单词
+    <valsi>cu</valsi>不在观察句中出现；
     
-    <valsi>cu</valsi> is a separator, and there must be a sumti before the selbri that needs to be kept separate for 
-    <valsi>cu</valsi> to be used. With no sumti preceding the selbri, 
-    <valsi>cu</valsi> is not permitted. Short words like 
-    <valsi>cu</valsi> which serve grammatical functions are called 
-    <valsi>cmavo</valsi> in Lojban.</para>
+    <valsi>cu</valsi>是分隔符，且必须在selbri前有需要使用
+    <valsi>cu</valsi>的sumti来使相互分离。既然selbri前没有sumti，
+    <valsi>cu</valsi>不被允许。用为语法功能的短单词像
+    <valsi>cu</valsi>在Lojban中叫做
+    <valsi>cmavo</valsi>。</para>
   </section>
   <section xml:id="section-order-of-sumti">
     <title><anchor xml:id="c2s7"/>Varying the order of sumti</title>
