@@ -636,9 +636,9 @@
     <valsi>cmavo</valsi>。</para>
   </section>
   <section xml:id="section-order-of-sumti">
-    <title><anchor xml:id="c2s7"/>Varying the order of sumti</title>
-    <para> <indexterm type="general"><primary>sumti reordering</primary><secondary>quick-tour version</secondary></indexterm> For one reason or another you may want to change the order, placing one particular sumti at the front of the bridi. The cmavo 
-    <valsi>se</valsi>, when placed before the last word of the selbri, will switch the meanings of the first and second sumti places. So</para>
+    <title><anchor xml:id="c2s7"/>变换sumti的顺序</title>
+    <para> <indexterm type="general"><primary>sumti重序化</primary><secondary>快览版</secondary></indexterm> 因为某些原因你可能想改变顺序，将一个特定的sumti放在bridi的开头。cmavo
+    <valsi>se</valsi>，放在selbri的最后一个单词前时，将交换第一个和第二个sumti位的意思。所以</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0dU">
       <title>
         <anchor xml:id="c2e7d1"/>
@@ -650,10 +650,10 @@
           <sumti>do</sumti>
           <sumti>ti</sumti>
         </jbo>
-        <natlang>I talk to you about this.</natlang>
+        <natlang>我对你说这个。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">has the same meaning as</para>
+    <para role="noindent">意思同于</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0eV">
       <title>
         <anchor xml:id="c2e7d2"/>
@@ -665,11 +665,11 @@
           <sumti>mi</sumti>
           <sumti>ti</sumti>
         </jbo>
-        <natlang>You are talked to by me about this.</natlang>
+        <natlang>你被我说了这个。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> The cmavo 
-    <valsi>te</valsi>, when used in the same location, switches the meanings of the first and the third sumti places.</para>
+    <para role="indent"> cmavo
+    <valsi>te</valsi>，用在相同位置时，交换第一个和第三个sumti位的意思。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0FJ">
       <title>
         <anchor xml:id="c2e7d3"/>
@@ -681,10 +681,10 @@
           <sumti>do</sumti>
           <sumti>ti</sumti>
         </jbo>
-        <natlang>I talk to you about this.</natlang>
+        <natlang>我对你说这个。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">has the same meaning as</para>
+    <para role="noindent">意思同于</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0fo">
       <title>
         <anchor xml:id="c2e7d4"/>
@@ -696,26 +696,26 @@
           <sumti>do</sumti>
           <sumti>mi</sumti>
         </jbo>
-        <natlang>This is talked about to you by me.</natlang>
+        <natlang>这个东西对你说，我。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Note that only the first and third sumti have switched places; the second sumti has remained in the second place.</para>
-    <para> The cmavo 
-    <valsi>ve</valsi> and 
-    <valsi>xe</valsi> switch the first and fourth sumti places, and the first and fifth sumti places, respectively. These changes in the order of places are known as 
-    <quote>conversions</quote>, and the 
-    <valsi>se</valsi>, 
-    <valsi>te</valsi>, 
-    <valsi>ve</valsi>, and 
-    <valsi>xe</valsi> cmavo are said to convert the selbri.</para>
-    <para>More than one of these operators may be used on a given selbri at one time, and in such a case they are evaluated from left to right. However, in practice they are used one at a time, as there are better tools for complex manipulation of the sumti places. See 
-    <xref linkend="section-SE"/> for details.</para>
-    <para> <indexterm type="general"><primary>passive voice</primary></indexterm> The effect is similar to what in English is called the 
-    <quote>passive voice</quote>. In Lojban, the converted selbri has a new place structure that is renumbered to reflect the place reversal, thus having effects when such a conversion is used in combination with other constructs such as 
+    <para role="indent">注意只有第一个和第三个sumti被交换了位置；第二个sumti留在第二位。</para>
+    <para> cmavo
+    <valsi>ve</valsi>和
+    <valsi>xe</valsi>分别交换第一个和第四个sumti位，第一个和第五个sumti位。这些位置的改变被称为
+    <quote>换位</quote>，cmavo
+    <valsi>se</valsi>、
+    <valsi>te</valsi>、
+    <valsi>ve</valsi>和
+    <valsi>xe</valsi>被称为换了selbri的位。</para>
+    <para>多于一个这样的运算符可能同时作用于一个给定的selbri，在这种情况下它们从左到右作用。然而，实际上它们一次用一个，因为有更好的用于sumti位复杂操作的工具详见
+    <xref linkend="section-SE"/>。</para>
+    <para> <indexterm type="general"><primary>被动语态</primary></indexterm> 其效果类似汉语中的
+    <quote>被动语态</quote>。Lojban中，被换了位的selbri有被重编号来相应位翻转的新位结构，这样就在这样一个换位在与其他结构例如
     
     
-    <jbophrase>le selbri [ku]</jbophrase> (see 
-    <xref linkend="section-description-sumti"/>).</para>
+    <jbophrase>le selbri [ku]</jbophrase>的组合中发挥作用（见
+    <xref linkend="section-description-sumti"/>）。</para>
   </section>
   <section xml:id="section-structure-of-utterances">
     <title><anchor xml:id="c2s8"/>The basic structure of longer utterances</title>
