@@ -718,52 +718,52 @@
     <xref linkend="section-description-sumti"/>）。</para>
   </section>
   <section xml:id="section-structure-of-utterances">
-    <title><anchor xml:id="c2s8"/>The basic structure of longer utterances</title>
-    <para> People don't always say just one sentence. Lojban has a specific structure for talk or writing that is longer than one sentence. The entirety of a given speech event or written text is called an utterance. The sentences (usually, but not always, bridi) in an utterance are separated by the cmavo 
-    <valsi>ni'o</valsi> and 
-    <valsi>i</valsi>. These correspond to a brief pause (or nothing at all) in spoken English, and the various punctuation marks like period, question mark, and exclamation mark in written English. These separators prevent the sumti at the beginning of the next sentence from being mistaken for a trailing sumti of the previous sentence.</para>
+    <title><anchor xml:id="c2s8"/>更长话语的基本结构</title>
+    <para> 人们通常不会只说一句话。Lojban有多于一句话的说话或写作的明确结构。一个给定的说话事件或写作文本整体被称作一个话语。一个话语中的句子（通常，但不总是bridi）被cmavo
+    <valsi>ni'o</valsi>和
+    <valsi>i</valsi>分隔。这些在汉语口语中对应着短暂的停顿（或者什么也不对应），在书面语中对应着象句号、问号和叹号之类的多样的标点。这些分隔符避免了下一句打头的sumti被误认为上一句最后的sumti。</para>
     
-    <para>The cmavo 
-    <valsi>ni'o</valsi> separates paragraphs (covering different topics of discussion). In a long text or utterance, the topical structure of the text may be indicated by multiple 
-    <valsi>ni'o</valsi> s, with perhaps 
-    <jbophrase>ni'oni'oni'o</jbophrase> used to indicate a chapter, 
-    <jbophrase>ni'oni'o</jbophrase> to indicate a section, and a single 
-    <valsi>ni'o</valsi> to indicate a subtopic corresponding to a single English paragraph.</para>
-    <para>The cmavo 
-    <valsi>i</valsi> separates sentences. It is sometimes compounded with words that modify the exact meaning (the semantics) of the sentence in the context of the utterance. (The cmavo 
-    <valsi>xu</valsi>, discussed in 
-    <xref linkend="section-basic-questions"/>, is one such word &ndash; it turns the sentence from a statement to a question about truth.) When more than one person is talking, a new speaker will usually omit the 
-    <valsi>i</valsi> even though she/he may be continuing on the same topic.</para>
-    <para>It is still O.K. for a new speaker to say the 
-    <valsi>i</valsi> before continuing; indeed, it is encouraged for maximum clarity (since it is possible that the second speaker might merely be adding words onto the end of the first speaker's sentence). A good translation for 
-    <valsi>i</valsi> is the 
-    <quote>and</quote> used in run-on sentences when people are talking informally: 
-    <quote>I did this, and then I did that, and ..., and ...</quote>.</para>
+    <para>cmavo 
+    <valsi>ni'o</valsi>分隔（包括不同主题的）段落。在一份长文本或长话语中，文本的话题结构可能由许多
+    <valsi>ni'o</valsi>提示，同时可能用
+    <jbophrase>ni'oni'oni'o</jbophrase>指示章，
+    <jbophrase>ni'oni'o</jbophrase>指示节，单个的
+    <valsi>ni'o</valsi>指示对应于一个汉语段的子话题。</para>
+    <para>cmavo 
+    <valsi>i</valsi>分隔句子。他有时与在话语上下文中修饰句子中特定意思（语义）的词构成组合词。（cmavo 
+    <valsi>xu</valsi>，在
+    <xref linkend="section-basic-questions"/>第三章中被讨论，是一个这样的词——它将句子从陈述句转为对真假的提问句（译：即一般疑问句。）当多余一个人在谈论时，一个新的对话者通常将省略
+    <valsi>i</valsi>，即使他/她可能继续相同的话题。</para>
+    <para>新对话者依然可以在继续前说
+    <valsi>i</valsi>；实际上，最大化的清晰是被鼓励的（因为第二名对话者可能只是在第一名对话者句子后面加词）。好的对
+    <valsi>i</valsi>的翻译为人们非正式谈话时用的
+    <quote>然后</quote>：
+    <quote>我做了这个，然后我做了那个，然后……然后……</quote></para>
   </section>
   <section xml:id="section-basic-tanru">
     <title><anchor xml:id="c2s9"/>tanru</title>
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>quick-tour version</secondary></indexterm> When two gismu are adjacent, the first one modifies the second, and the selbri takes its place structure from the rightmost word. Such combinations of gismu are called 
-    <valsi>tanru</valsi>. For example,</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>快览版</secondary></indexterm> 当两个gismu相邻，第一个修饰第二个，且selbri使用最右边的词的位结构。这样的gismu的组合叫做
+    <valsi>tanru</valsi>。例如，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-GPcS">
       <title>
         <anchor xml:id="c2e9d1"/>
       </title>
       <jbophrase>sutra tavla</jbophrase>
     </example>
-    <para role="noindent">has the place structure</para>
+    <para role="noindent">具有位结构</para>
     <example xml:id="example-random-id-ANfh">
       <title>
-        <indexterm type="example"><primary>fast talker</primary></indexterm>
+        <indexterm type="example"><primary>快的说话者</primary></indexterm>
 
         <anchor xml:id="c2e9d2"/>
       </title>
-      <para>x1 is a fast type-of talker to x2 about x3 in language x4</para>
-      <para>x1 talks fast to x2 about x3 in language x4</para>
+      <para>x1是一个快型的说话者对于x2来说关于x3以语言x4</para>
+      <para>x1对x2快速地说x3以语言x4</para>
     </example>
     <para role="indent"> 
 
 
-  <indexterm type="general"><primary>tanru default grouping</primary><secondary>quick-tour version</secondary></indexterm> When three or more gismu are in a row, the first modifies the second, and that combined meaning modifies the third, and that combined meaning modifies the fourth, and so on. For example</para>
+  <indexterm type="general"><primary>tanru默认结合</primary><secondary>快览版</secondary></indexterm>当有三个或更多gismu在同一行时，第一个修饰第二个，然后结合义修饰第三个，然后结合义修饰第四个，然后接着下去。例如，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pzS9">
       <title>
         <anchor xml:id="c2e9d3"/>
@@ -773,65 +773,65 @@
     <para role="noindent"> 
 
 
- has the place structure</para>
+ 具有位结构</para>
     <example xml:id="example-random-id-7KPn">
       <title>
-        <indexterm type="example"><primary>fast-talker shoe</primary></indexterm>
+        <indexterm type="example"><primary>快速说话者的鞋</primary></indexterm>
 
         <anchor xml:id="c2e9d4"/>
       </title>
-      <para>s1 is a fast-talker type of shoe worn by s2 of material s3</para>
+      <para>s1是一个快速说话者型的鞋被s2穿着由s3材料制造</para>
     </example>
-    <para role="indent">That is, it is a shoe that is worn by a fast talker rather than a shoe that is fast and is also worn by a talker.</para>
+    <para role="indent">那就是说，它是被一个快速说话者穿着的鞋而非一个既快又被一个说话者穿着的鞋。</para>
     
-    <para>Note especially the use of 
-    <quote>type-of</quote> as a mechanism for connecting the English translations of the two or more gismu; this convention helps the learner understand each tanru in its context. Creative interpretations are also possible, however:</para>
+    <para>特别注意
+    <quote>型</quote>作为一种连接两个或多个gismu的汉语翻译的方法的使用；这个惯例帮助学习者理解其上下文中每个tanru的意思。创造性的理解也有可能，然而：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-jE94">
       <title>
-        <indexterm type="example"><primary>runner shoe</primary></indexterm>
+        <indexterm type="example"><primary>跑步鞋</primary></indexterm>
 
         <anchor xml:id="c2e9d5"/>
       </title>
       <interlinear-gloss>
         <jbo>bajra cutci</jbo>
-        <gloss>runner shoe</gloss>
+        <gloss>跑步 鞋</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent"> 
 
 
- most probably refers to shoes suitable for runners, but might be interpreted in some imaginative instances as 
-    <quote>shoes that run (by themselves?)</quote>. In general, however, the meaning of a tanru is determined by the literal meaning of its components, and not by any connotations or figurative meanings. Thus</para>
+ 多数可能指的是适合跑步者穿着的鞋，但也可能被理解为一些创作型的例子如
+    <quote>（自己？）会跑的鞋</quote>。通常，然而，tanru的意思被其组分的字面意思而不被任意内涵或比喻性的含义决定。这样，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HcV5">
       <title>
        <anchor xml:id="c2e9d6"/>
       </title>
       <interlinear-gloss>
         <jbo>sutra tavla</jbo>
-        <gloss>fast talker</gloss>
+        <gloss>快速 说话者</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent">would not necessarily imply any trickery or deception, unlike the English idiom, and a</para>
+    <para role="noindent">未必暗示任何诡计或骗局，而不像中文习语，且</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-8umU">
       <title>
-        <indexterm type="example"><primary>Lepidoptera</primary></indexterm>
-        <indexterm type="example"><primary>butterfly</primary><secondary>social</secondary></indexterm> 
-        <indexterm type="example"><primary>social butterfly</primary></indexterm> 
+        <indexterm type="example"><primary>鳞翅类</primary></indexterm>
+        <indexterm type="example"><primary>蝴蝶</primary><secondary>社交</secondary></indexterm> 
+        <indexterm type="example"><primary>社交蝴蝶</primary></indexterm> 
         <anchor xml:id="c2e9d7"/>
       </title>
       <interlinear-gloss>
         <jbo>jikca toldi</jbo>
-        <gloss>social butterfly</gloss>
+        <gloss>社交 蝴蝶</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent"> 
 
 
- must always be an insect with large brightly-colored wings, of the family 
-    <emphasis>Lepidoptera</emphasis>.</para>
+ 必然总是有着大且颜色鲜艳的翅膀的昆虫，属于
+    <emphasis>鳞翅目</emphasis>.</para>
     
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>place structure of</secondary><tertiary>quick-tour version</tertiary></indexterm> The place structure of a tanru is always that of the final component of the tanru. Thus, the following has the place structure of 
-    <valsi>klama</valsi>:</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>位结构</secondary><tertiary>快览版</tertiary></indexterm> tanru的位结构与tanru的最后一个组分一致。这样下例有着
+    <valsi>klama</valsi>的位结构：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0FP">
       <title>
         <anchor xml:id="c2e9d8"/>
@@ -844,16 +844,16 @@
           <sumti>la meris.</sumti>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>quickly-go</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>快速地去</selbri>
+          <sumti>Mary那里。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>tanru conversion</primary><secondary>effect on place structure</secondary><tertiary>quick-tour version</tertiary></indexterm> With the conversion 
-    <jbophrase>se klama</jbophrase> as the final component of the tanru, the place structure of the entire selbri is that of 
-    <jbophrase>se klama</jbophrase>: the x1 place is the destination, and the x2 place is the one who goes:</para>
+    <para role="indent"> <indexterm type="general"><primary>tanru换位</primary><secondary>位结构上的影响</secondary><tertiary>快览版</tertiary></indexterm> 有着换位
+    <jbophrase>se klama</jbophrase>作为tanru的最后组分，整个selbri的位结构是
+    <jbophrase>se klama</jbophrase>的：x1位是终点，x2位是行者：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0J1">
       <title>
@@ -868,15 +868,15 @@
           <sumti>la meris.</sumti>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>quickly</selbri>
-          <selbri>am-gone-to</selbri>
-          <sumti>by Mary.</sumti>
+          <selbri>快速地</selbri>
+          <selbri>被接近</selbri>
+          <sumti>被Mary。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>tanru</primary><secondary>and conversion</secondary><tertiary>quick-tour version</tertiary></indexterm> The following example shows that there is more to conversion than merely switching places, though:</para>
+    <para role="indent"> <indexterm type="general"><primary>tanru</primary><secondary>换位</secondary><tertiary>快览版</tertiary></indexterm> 然而下例表明换位不只是仅仅交换位置：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0LW">
       <title>
         <anchor xml:id="c2e9d10"/>
@@ -891,20 +891,20 @@
         <gloss>
           <sumti>Tom</sumti>
           <elidable></elidable>
-          <selbri>beautifully-talks</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>漂亮地对之说话</selbri>
+          <sumti>其名为Mary。</sumti>
         </gloss>
         <gloss>
           <sumti>Tom</sumti>
           <elidable></elidable>
-          <selbri>is a beautiful-talker</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>是一个漂亮的谈话者</selbri>
+          <sumti>对Mary而言。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">has the place structure of 
-    <valsi>tavla</valsi>, but note the two distinct interpretations.</para>
-    <para>Now, using conversion, we can modify the place structure order:</para>
+    <para role="noindent">有着
+    <valsi>tavla</valsi>的位结构，但注意两种单独的理解。</para>
+    <para>现在，使用换位，我们可以修饰位结构顺序：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0mh">
       <title>
@@ -920,23 +920,23 @@
         <gloss>
           <sumti>Mary</sumti>
           <elidable></elidable>
-          <selbri>is beautifully-talked-to</selbri>
-          <sumti>by Tom.</sumti>
+          <selbri>漂亮地被之讲话</selbri>
+          <sumti>其名为Tom。</sumti>
         </gloss>
         <gloss>
           <sumti>Mary</sumti>
           <elidable></elidable>
-          <selbri>is a beautiful-audience</selbri>
+          <selbri>是一个漂亮的听众</selbri>
           <sumti>for Tom.</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">and we see that the modification has been changed so as to focus on Mary's role in the bridi relationship, leading to a different set of possible interpretations.</para>
-    <para>Note that there is no place structure change if the modifying term is converted, and so less drastic variation in possible meanings:</para>
+    <para role="noindent">我们发现修饰已经改变来关注于bridi关系中Mary的角色，导致另一群不同的理解。</para>
+    <para>注意如果修饰成分被换位了不会有位结构的变动，因此造成较少可能意思上的激烈改变：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-qIv0">
       <title>
         <anchor xml:id="c2e9d12"/>
-        <indexterm type="example"><primary>talker</primary></indexterm>
+        <indexterm type="example"><primary>说话者</primary></indexterm>
       </title>
       <interlinear-gloss-itemized>
         <jbo>
@@ -948,8 +948,8 @@
         <gloss>
           <sumti>Tom</sumti>
           <elidable></elidable>
-          <selbri>is talkerly-beautiful</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>以讲话者来说漂亮</selbri>
+          <sumti>对Mary。</sumti>
         </gloss>
 
       </interlinear-gloss-itemized>
@@ -968,24 +968,24 @@
         <gloss>
           <sumti>Tom</sumti>
           <elidable></elidable>
-          <selbri>is audiencely-beautiful</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>以听者来说漂亮</selbri>
+          <sumti>对Mary。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">and we see that the manner in which Tom is seen as beautiful by Mary changes, but Tom is still the one perceived as beautiful, and Mary, the observer of beauty.</para>
+    <para role="noindent">我们注意到Tom被Mary视为漂亮的方式改变了，但Tom仍然是被感觉为漂亮的那一个，Mary仍是漂亮的观察者。</para>
   </section>
   <section xml:id="section-description-sumti">
-    <title><anchor xml:id="c2s10"/>Description sumti</title>
+    <title><anchor xml:id="c2s10"/>描述型sumti</title>
     <para> 
 
-  <indexterm type="general"><primary>descriptions</primary><secondary>quick-tour version</secondary></indexterm> Often we wish to talk about things other than the speaker, the listener and things we can point to. Let's say I want to talk about a talker other than 
-    <valsi>mi</valsi>. What I want to talk about would naturally fit into the first place of 
-    <valsi>tavla</valsi>. Lojban, it turns out, has an operator that pulls this first place out of a selbri and converts it to a sumti called a 
-    <quote>description sumti</quote>. The description sumti 
-    <jbophrase>le tavla ku</jbophrase> means 
-    <quote>the talker</quote>, and may be used wherever any sumti may be used.</para>
-    <para>For example,</para>
+  <indexterm type="general"><primary>项描述</primary><secondary>快览版</secondary></indexterm> 常常我们希望谈论不是说话者、听者和我们可以指向的东西。假设我想谈论一个不是
+    <valsi>mi</valsi>的说话者。我想谈论的东西自然适合
+    <valsi>tavla</valsi>的第一个位。Lojban，事实证明，有一个将一个selbri的第一个位提取出来并将其转化为一个被称为
+    <quote>描述型sumti</quote>的sumti的操作符。描述型sumti
+    <jbophrase>le tavla ku</jbophrase>意味着
+    <quote>讲话者</quote>，可以在任何任意sumti可以出现的地方出现。</para>
+    <para>例如，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Pj">
       <title>
         <anchor xml:id="c2e10d1"/>
@@ -1000,24 +1000,24 @@
         </jbo>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">means the same as</para>
+    <para role="noindent">与下例同义</para>
     <example xml:id="example-random-id-oH9T">
       <title>
         <anchor xml:id="c2e10d2"/>
       </title>
-      <para>I talk to you about the talker</para>
+      <para>我对你说说话者</para>
     </example>
-    <para role="noindent">where 
-    <quote>the talker</quote> is presumably someone other than me, though not necessarily.</para>
-    <para>Similarly 
-    <jbophrase>le sutra tavla ku</jbophrase> is 
-    <quote>the fast talker</quote>, and 
+    <para role="noindent">其中
+    <quote>说话者</quote>假设为不是我的某人，尽管并不必要。</para>
+    <para>相似地
+    <jbophrase>le sutra tavla ku</jbophrase>是
+    <quote>快速说话者</quote>，
     
-    <jbophrase>le sutra te tavla ku</jbophrase> is 
-    <quote>the fast subject of talk</quote> or 
-    <quote>the subject of fast talk</quote>. Which of these related meanings is understood will depend on the context in which the expression is used. The most plausible interpretation within the context will generally be assumed by a listener to be the intended one.</para>
-    <para>In many cases the word 
-    <valsi>ku</valsi> may be omitted. In particular, it is never necessary in a description at the end of a sentence, so:</para>
+    <jbophrase>le sutra te tavla ku</jbophrase>是
+    <quote>说话的快速主题</quote>或
+    <quote>快速说话的主题</quote>。这些相关意思哪个被理解取决于该表达所处的上下文。上下文中看起来最可能的理解通常将会被听者假定为所想表达的理解。</para>
+    <para>许多情形下单词
+    <valsi>ku</valsi>可省略。特别地，ku在句子末尾的项描述永不必要，因此：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Q2">
       <title>
         <anchor xml:id="c2e10d3"/>
@@ -1030,33 +1030,33 @@
           <sumti>le tavla</sumti>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
-          <selbri>talk-to</selbri>
-          <sumti>you</sumti>
-          <sumti>about-the talker</sumti>
+          <sumti>我</sumti>
+          <selbri>说</selbri>
+          <sumti>对你</sumti>
+          <sumti>关于说话者</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">means exactly the same thing as 
-    <xref linkend="example-random-id-k0Pj"/>.</para>
-    <para> <indexterm type="general"><primary>cu</primary><secondary>need for</secondary><tertiary>quick-tour version</tertiary></indexterm> There is a problem when we want to say 
-    <quote>The fast one is talking.</quote> The 
-    <quote>obvious</quote> translation 
-    <jbophrase>le sutra tavla</jbophrase> turns out to mean 
-    <quote>the fast talker</quote>, and has no selbri at all. To solve this problem we can use the word 
+    <para role="noindent">完全与下例同义
+    <xref linkend="example-random-id-k0Pj"/>。</para>
+    <para> <indexterm type="general"><primary>cu</primary><secondary>需要</secondary><tertiary>快览版</tertiary></indexterm> 当我们想说
+    <quote>快速的在说话</quote>是有个问题。
+    <quote>显然的</quote>翻译
+    <jbophrase>le sutra tavla</jbophrase>实际上意味着
+    <quote>快速的说话者</quote>，根本没有selbri。为解决该问题我们可在selbri前用到现在为止一直可选的词
     
-    <valsi>cu</valsi>, which so far has always been optional, in front of the selbri.</para>
-    <para>The word 
-    <valsi>cu</valsi> has no meaning, and exists only to mark the beginning of the selbri within the bridi, separating it from a previous sumti. It comes before any other part of the selbri, including other cmavo like 
-    <valsi>se</valsi> or 
-    <valsi>te</valsi>. Thus:</para>
+    <valsi>cu</valsi>。</para>
+    <para>单词
+    <valsi>cu</valsi>无意义，只为标识bridi中selbri的开始而存在，将它与前一个sumti中分开。它在selbri的任何其他部分之前出现，包括其他cmavo像
+    <valsi>se</valsi>或
+    <valsi>te</valsi>。这样：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0QA">
       <title>
         <anchor xml:id="c2e10d4"/>
       </title>
       <interlinear-gloss-itemized>
         <jbo> <sumti>le sutra tavla</sumti> </jbo>
-        <gloss> <sumti>The fast talker</sumti> </gloss>
+        <gloss> <sumti> 快速的 说话者</sumti> </gloss>
       </interlinear-gloss-itemized>
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0qb">
@@ -1070,9 +1070,9 @@
           <selbri>tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The fast one</sumti>
+          <sumti>那快速的</sumti>
           <elidable></elidable>
-          <selbri>is talking.</selbri>
+          <selbri>在说话。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
@@ -1082,7 +1082,7 @@
       </title>
       <interlinear-gloss-itemized>
         <jbo><sumti>le sutra se tavla</sumti></jbo>
-        <gloss><sumti>The fast talked-to one</sumti> </gloss>
+        <gloss><sumti> 快速地 被 说的</sumti> </gloss>
       </interlinear-gloss-itemized>
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0ru">
@@ -1096,13 +1096,13 @@
           <selbri>se tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The fast one</sumti>
+          <sumti>快速的</sumti>
           <elidable></elidable>
-          <selbri>is talked to.</selbri>
+          <selbri>被说。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>KU selma'o</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>ku</primary><secondary>quick-tour version</secondary></indexterm> Consider the following more complex example, with two description sumti.</para>
+    <para role="indent"> <indexterm type="general"><primary>KU selma'o</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>ku</primary><secondary>快览版</secondary></indexterm> 考虑下面用两个描述型sumti的更复杂的例子。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0S1">
       <title>
         <anchor xml:id="c2e10d8"/>
@@ -1118,34 +1118,34 @@
           <elidable>ku</elidable>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>talk-to</selbri>
-          <sumti>the seller</sumti>
+          <selbri>说</selbri>
+          <sumti>对销售者</sumti>
           <elidable></elidable>
-          <sumti>about the blue-green-thing.</sumti>
+          <sumti>蓝绿色的东西。</sumti>
           <elidable></elidable>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The sumti 
-    <jbophrase>le vecnu</jbophrase> contains the selbri 
-    <valsi>vecnu</valsi>, which has the 
-    <quote>seller</quote> in the x1 place, and uses it in this sentence to describe a particular 
-    <quote>seller</quote> that the speaker has in mind (one that he or she probably expects the listener will also know about). Similarly, the speaker has a particular blue-green thing in mind, which is described using 
-    <valsi>le</valsi> to mark 
-    <valsi>blari'o</valsi>, a selbri whose first sumti is something blue-green.</para>
-    <para>It is safe to omit both occurrences of 
-    <valsi>ku</valsi> in 
-    <xref linkend="example-random-id-k0S1"/>, and it is also safe to omit the 
-    <valsi>cu</valsi>.</para>
+    <para role="indent">sumti
+    <jbophrase>le vecnu</jbophrase>包括有着
+    <quote>销售者</quote>在x1位的selbri
+    <valsi>vecnu</valsi>，在本句中用它来描述一个特定的说话者心中的
+    <quote>销售者</quote>（他/她可能认为听者会知道的一个销售者）。相似地，说话者心中有一个用
+    <valsi>le</valsi>来标记
+    <valsi>blari'o</valsi>的特定的蓝绿色的东西，一个第一个sumti是什么暗绿色东西的selbri。</para>
+    <para>省略两个
+    <xref linkend="example-random-id-k0S1"/>中的
+    <valsi>ku</valsi>也是安全的，省略
+    <valsi>cu</valsi>也是安全的。</para>
   </section>
   <section xml:id="section-some-brivla">
-    <title><anchor xml:id="c2s11"/>Examples of brivla</title>
-    <para> <indexterm type="general"><primary>brivla</primary><secondary>types of</secondary><tertiary>quick-tour version</tertiary></indexterm> The simplest form of selbri is an individual word. A word which may by itself express a selbri relation is called a 
-    <valsi>brivla</valsi>. The three types of brivla are gismu (root words), lujvo (compounds), and fu'ivla (borrowings from other languages). All have identical grammatical uses. So far, most of our selbri have been gismu or tanru built from gismu.</para>
+    <title><anchor xml:id="c2s11"/>brivla的例子</title>
+    <para> <indexterm type="general"><primary>brivla</primary><secondary>类型</secondary><tertiary>快览版</tertiary></indexterm> selbru最简单的形式是一个独立的单词。一个可以独自表达selbri关系的单词叫做一个
+    <valsi>brivla</valsi>。brivla的三种类型是gismu（根词）、lujvo（组合词）和fu'ivla（借自其他语言）。全部语法功能相同。至今，大部分selbri是gismu或gismu构建的tanru。</para>
     
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>quick-tour version</secondary></indexterm> gismu:</para>
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>快览版</secondary></indexterm> gismu：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0SM">
       <title>
         <anchor xml:id="c2e11d1"/>
@@ -1161,18 +1161,18 @@
           <sumti>ta</sumti>
         </jbo>
         <gloss>
-          <sumti>Go-er</sumti>
+          <sumti>行者</sumti>
           <elidable></elidable>
-          <selbri>goes</selbri>
-          <sumti>destination</sumti>
-          <sumti>origin</sumti>
-          <sumti>route</sumti>
-          <sumti>means.</sumti>
+          <selbri>去</selbri>
+          <sumti>终点</sumti>
+          <sumti>起始地</sumti>
+          <sumti>路线</sumti>
+          <sumti>交通方式。</sumti>
         </gloss>
-        <natlang>I go here (to this) using that means (from somewhere via some route).</natlang>
+        <natlang>我去这里（到这）用那种交通方式（从某地通过某些路线）。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>lujvo</primary><secondary>quick-tour version</secondary></indexterm> lujvo:</para>
+    <para role="noindent"> <indexterm type="general"><primary>lujvo</primary><secondary>快览版</secondary></indexterm> lujvo：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0SR">
       <title>
         <anchor xml:id="c2e11d2"/>
@@ -1184,13 +1184,13 @@
           <selbri>blari'o</selbri>
         </jbo>
         <gloss>
-          <sumti>That</sumti>
+          <sumti>那</sumti>
           <elidable></elidable>
-          <selbri>is-blue-green.</selbri>
+          <selbri>蓝绿。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>fu'ivla</primary><secondary>quick-tour version</secondary></indexterm> fu'ivla:</para>
+    <para role="noindent"> <indexterm type="general"><primary>fu'ivla</primary><secondary>快览版</secondary></indexterm> fu'ivla：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Tj">
       <title>
         <anchor xml:id="c2e11d3"/>
@@ -1202,15 +1202,15 @@
           <selbri>djarspageti</selbri>
         </jbo>
         <gloss>
-          <sumti>This</sumti>
+          <sumti>这</sumti>
           <elidable></elidable>
-          <selbri>is-spaghetti.</selbri>
+          <selbri>是意大利面。</selbri>
         </gloss>
 
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>cmavo as selbri</primary><secondary>quick-tour version</secondary></indexterm> Some cmavo may also serve as selbri, acting as variables that stand for another selbri. The most commonly used of these is 
-    <valsi>go'i</valsi>, which represents the main bridi of the previous Lojban sentence, with any new sumti or other sentence features being expressed replacing the previously expressed ones. Thus, in this context:</para>
+    <para role="indent"> <indexterm type="general"><primary>作为selbri的cmavo</primary><secondary>快览版</secondary></indexterm> 一些cmavo也可做selbri，充当代表另一selbri的变量。这中最常用的是代表上一Lojban句的主bridi（译：原文如此）、填充任意新sumti或其他被表述的详情的句子来代替已被表述的那些的
+    <valsi>go'i</valsi>。这样，在该上下文中：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0UC">
       <title>
         <anchor xml:id="c2e11d4"/>
@@ -1222,11 +1222,11 @@
           <selbri>go'i</selbri>
         </jbo>
         <gloss>
-          <sumti>That</sumti>
+          <sumti>那</sumti>
           <elidable></elidable>
-          <selbri>too/same-as-last selbri.</selbri>
+          <selbri>也/相同与上一selbri。</selbri>
         </gloss>
-        <natlang>That (is spaghetti), too.</natlang>
+        <natlang>那也（是意大利面）。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
