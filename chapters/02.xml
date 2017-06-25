@@ -1232,15 +1232,15 @@
     </example>
   </section>
   <section xml:id="section-dihu-and-lahe-dihu">
-    <title><anchor xml:id="c2s12"/>The sumti <valsi>di'u</valsi> and <jbophrase>la'e di'u</jbophrase></title>
-    <para> <indexterm type="general"><primary>reference</primary><secondary>quick-tour version</secondary></indexterm> In English, I might say 
-    <quote>The dog is beautiful</quote>, and you might reply 
-    <quote>This pleases me.</quote> How do you know what 
+    <title><anchor xml:id="c2s12"/>sumti<valsi>di'u</valsi>和<jbophrase>la'e di'u</jbophrase></title>
+    <para> <indexterm type="general"><primary>reference</primary><secondary>快览版</secondary></indexterm> 汉语中，我可能说
+    <quote>狗漂亮</quote>，然后你可能回应
+    <quote>这使我高兴</quote>。你如何知道
     
-    <quote>this</quote> refers to? Lojban uses different expressions to convey the possible meanings of the English:</para>
+    <quote>这</quote>指什么？Lojban用几种不同的表达方式来表达汉语的可能意思：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0wB">
       <title>
-        <indexterm type="example"><primary>beautiful dog</primary></indexterm>
+        <indexterm type="example"><primary>漂亮的狗</primary></indexterm>
         <anchor xml:id="c2e12d1"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1250,11 +1250,11 @@
           <elidable elidable="false">cu</elidable> 
           <selbri>melbi</selbri>
         </jbo>
-        <natlang>The dog is beautiful.</natlang>
+        <natlang>狗漂亮。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The following three sentences all might translate as 
-    <quote>This pleases me.</quote></para>
+    <para role="indent">以下三个句子都可被翻译为
+    <quote>这使我高兴</quote>。</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0wS">
       <title>
@@ -1267,7 +1267,7 @@
           <selbri>pluka</selbri>
           <sumti>mi</sumti>
         </jbo>
-        <natlang>This (the dog) pleases me.</natlang>
+        <natlang>这（狗）使我高兴。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
@@ -1282,7 +1282,7 @@
           <selbri>pluka</selbri>
           <sumti>mi</sumti>
         </jbo>
-        <natlang>This (the last sentence) pleases me (perhaps because it is grammatical or sounds nice).</natlang>
+        <natlang>这（上个句子）使我高兴。（可能因为符合语法或听起来很好。（译：指像押韵或者别的不涉及内容方面的好。））</natlang>
 
       </interlinear-gloss-itemized>
     </example>
@@ -1297,22 +1297,22 @@
           <selbri>pluka</selbri>
           <sumti>mi</sumti>
         </jbo>
-        <natlang>This (the meaning of the last sentence; i.e. that the dog is beautiful) pleases me.</natlang>
+        <natlang>这（上个句子的意思，即狗漂亮）使我高兴。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>pleases</primary></indexterm> 
-    <xref linkend="example-random-id-k0YS"/> uses one sumti to point to or refer to another by inference. It is common to write 
-    <valsi>la'edi'u</valsi> as a single word; it is used more often than 
+    <para role="indent"> <indexterm type="general"><primary>使高兴</primary></indexterm> 
+    <xref linkend="example-random-id-k0YS"/>通过推理用一个sumti指向另一个。把
+    <valsi>la'edi'u</valsi>写为一个单词很平常；它比单独
     
-    <valsi>di'u</valsi> by itself.</para>
+    <valsi>di'u</valsi>用得多。</para>
   </section>
   <section xml:id="section-possession">
-    <title><anchor xml:id="c2s13"/>Possession</title>
-    <para> <indexterm type="general"><primary>possession</primary><secondary>quick-tour version</secondary></indexterm> 
-    <quote>Possession</quote> refers to the concept of specifying an object by saying who it belongs to (or with). A full explanation of Lojban possession is given in 
-    <xref linkend="chapter-relative-clauses"/>. A simple means of expressing possession, however, is to place a sumti representing the possessor of an object within the description sumti that refers to the object: specifically, between the 
-    <valsi>le</valsi> and the selbri of the description:</para>
+    <title><anchor xml:id="c2s13"/>领属关系</title>
+    <para> <indexterm type="general"><primary>领属关系</primary><secondary>快览版</secondary></indexterm> 
+    <quote>领属关系</quote>指通过说明归属于谁来修饰对象的概念。Lojban领属关系的完整解释在
+    <xref linkend="chapter-relative-clauses"/>中给出。表达领属关系的一种简单方式，然而，是在指示该物的描述型sumti中放置表示其拥有者的sumti；特别地，在
+    <valsi>le</valsi>和描述的selbri中：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0zY">
       <title>
         <anchor xml:id="c2e13d1"/>
@@ -1324,18 +1324,18 @@
           <selbri>sutra</selbri>
         </jbo>
         <gloss>
-          <sumti>The of-me dog</sumti>
+          <sumti>我的狗</sumti>
           <elidable></elidable>
-          <selbri>is fast.</selbri>
+          <selbri>快。</selbri>
         </gloss>
-        <natlang>My dog is fast.</natlang>
+        <natlang>我的狗快。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>possession not ownership</primary><secondary>quick-tour version</secondary></indexterm> In Lojban, possession doesn't necessarily mean ownership: one may 
-    <quote>possess</quote> a chair simply by sitting on it, even though it actually belongs to someone else. English uses possession casually in the same way, but also uses it to refer to actual ownership or even more intimate relationships: 
-    <quote>my arm</quote> doesn't mean 
-    <quote>some arm I own</quote> but rather 
-    <quote>the arm that is part of my body</quote>. Lojban has methods of specifying all these different kinds of possession precisely and easily.</para>
+    <para role="indent"> <indexterm type="general"><primary>非拥有型领属关系</primary><secondary>快览版</secondary></indexterm> Lojban中，领属关系不必意味着拥有关系；一个人可能
+    <quote>有</quote>一把椅子，简单地通过坐在它上面，即使它可能实际上属于另外某人。汉语随便地用相同方式使用领属关系，但也用它指确实的领属关系甚至更密切的关系：
+    <quote>我的胳膊</quote>不意味着
+    <quote>我拥有的某只胳膊</quote>而是
+    <quote>作为我身体一部分的胳膊</quote>。Lojban有精确容易地区分所有这些不同类型的方法。</para>
   </section>
   <section xml:id="section-vocatives-and-commands">
     <title><anchor xml:id="c2s14"/>Vocatives and commands</title>
