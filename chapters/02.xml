@@ -1338,39 +1338,39 @@
     <quote>作为我身体一部分的胳膊</quote>。Lojban有精确容易地区分所有这些不同类型的方法。</para>
   </section>
   <section xml:id="section-vocatives-and-commands">
-    <title><anchor xml:id="c2s14"/>Vocatives and commands</title>
+    <title><anchor xml:id="c2s14"/>呼格和命令</title>
     
-    <para> <indexterm type="general"><primary>vocatives</primary><secondary>quick-tour version</secondary></indexterm> You may call someone's attention to the fact that you are addressing them by using 
-    <valsi>doi</valsi> followed by their name. The sentence</para>
+    <para> <indexterm type="general"><primary>呼格</primary><secondary>快览版</secondary></indexterm> 你可能用跟着某人名字的
+    <valsi>doi</valsi>来提醒他们注意到你在称呼他们。句子</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ahVb">
       <title>
         <anchor xml:id="c2e14d1"/>
       </title>
       <jbophrase>doi djan.</jbophrase>
     </example>
-    <para role="noindent">means 
-    <quote>Oh, John, I'm talking to you</quote>. It also has the effect of setting the value of 
-    <valsi>do</valsi>; 
-    <valsi>do</valsi> now refers to 
-    <quote>John</quote> until it is changed in some way in the conversation. Note that 
-    <xref linkend="example-random-id-ahVb"/> is not a bridi, but it is a legitimate Lojban sentence nevertheless; it is known as a 
-    <quote>vocative phrase</quote>.</para>
+    <para role="noindent">意味着
+    <quote>喔，John，我再对你说话</quote>。它也有设置
+    <valsi>do</valsi>的值的作用； 
+    <valsi>do</valsi>现在指
+    <quote>John</quote>直到在谈话中它被以某些方式改变。注意
+    <xref linkend="example-random-id-ahVb"/>不是bridi，但它是合法的Lojban句子虽然；它叫做
+    <quote>呼格词组</quote>。</para>
     
-    <para> Other cmavo can be used instead of 
-    <valsi>doi</valsi> in a vocative phrase, with a different significance. For example, the cmavo 
+    <para> 其他cmavo可在呼格词组中被用以取代
+    <valsi>doi</valsi>，伴随着不同的意味。例如，cmavo
     
-    <valsi>coi</valsi> means 
-    <quote>hello</quote> and 
-    <valsi>co'o</valsi> means 
-    <quote>good-bye</quote>. Either word may stand alone, they may follow one another, or either may be followed by a pause and a name. (Vocative phrases with 
-    <valsi>doi</valsi> do not need a pause before the name.)</para>
+    <valsi>coi</valsi>意味着
+    <quote>你好</quote>，
+    <valsi>co'o</valsi>意味着
+    <quote>再见</quote>。它们都可以独自存在，跟随另一个或被一个停顿和名字跟随。（有着
+    <valsi>doi</valsi>的呼格词组不需要在名字前有停顿。）</para>
     <example xml:id="example-random-id-qIWX" role="interlinear-gloss-example">
       <title>
         <anchor xml:id="c2e14d2"/>
       </title>
       <interlinear-gloss>
         <jbo>coi. djan.</jbo>
-        <gloss>Hello, John.</gloss>
+        <gloss>你好， John。</gloss>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qIxE" role="interlinear-gloss-example">
@@ -1379,10 +1379,10 @@
       </title>
       <interlinear-gloss>
         <jbo>co'o. djan.</jbo>
-        <gloss>Good-bye, John.</gloss>
+        <gloss>再见， John。</gloss>
       </interlinear-gloss>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>imperatives</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>commands</primary><secondary>quick-tour version</secondary></indexterm> Commands are expressed in Lojban by a simple variation of the main bridi structure. If you say</para>
+    <para role="indent"> <indexterm type="general"><primary>祈使语气</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>命令</primary><secondary>快览版</secondary></indexterm> Lojban中命令用主bridi结构的简单变式表达。如果你说</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k11I">
       <title>   
         <anchor xml:id="c2e14d4"/>
@@ -1393,17 +1393,17 @@
           <selbri>tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>You</sumti>
-          <selbri>are-talking.</selbri>
+          <sumti>你</sumti>
+          <selbri>说话。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">you are simply making a statement of fact. In order to issue a command in Lojban, substitute the word 
-    <valsi>ko</valsi> for 
-    <valsi>do</valsi>. The bridi</para>
+    <para role="noindent">你只是简单陈述事实。为了在Lojban中表达命令，用单词
+    <valsi>ko</valsi>代替
+    <valsi>do</valsi>。bridi</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k11z">
       <title>
-        <indexterm type="example"><primary>Talk!</primary></indexterm>
+        <indexterm type="example"><primary>说话！</primary></indexterm>
         <anchor xml:id="c2e14d5"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1416,9 +1416,9 @@
     <para role="noindent">
  
 
- instructs the listener to do whatever is necessary to make 
-    <xref linkend="example-random-id-k11I"/> true; it means 
-    <quote>Talk!</quote> Other examples:</para>
+ 指示听话者做任何使
+    <xref linkend="example-random-id-k11I"/>实现的必要的事；它意味着
+    <quote>说话！</quote>其他例子：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k13h">
       <title>
         <anchor xml:id="c2e14d6"/>
@@ -1428,11 +1428,11 @@
           <sumti>ko</sumti>
           <selbri>sutra</selbri>
         </jbo>
-        <natlang>Be fast!</natlang>
+        <natlang>快！</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The 
-    <valsi>ko</valsi> need not be in the x1 place, but rather can occur anywhere a sumti is allowed, leading to possible Lojban commands that are very unlike English commands:</para>
+    <para role="indent">
+    <valsi>ko</valsi>不必在x1位，而是可出现在任何sumti被允许的地方，引导与汉语命令非常不同的可能Lojban命令：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k14j">
       <title>
@@ -1444,15 +1444,15 @@
           <selbri>tavla</selbri>
           <sumti>ko</sumti>
         </jbo>
-        <natlang>Be talked to by me.</natlang>
-        <natlang>Let me talk to you.</natlang>
+        <natlang>被我对着说话！</natlang>
+        <natlang>让我对你说话。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The cmavo 
-    <valsi>ko</valsi> can fill any appropriate sumti place, and can be used as often as is appropriate for the selbri:</para>
+    <para role="indent">cmavo
+    <valsi>ko</valsi>能填充任何合适的sumti位，可被用对selbri合适的任意多次：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k14X">
       <title>
-        <indexterm type="example"><primary>Take care!</primary></indexterm>
+        <indexterm type="example"><primary>照顾！</primary></indexterm>
         <anchor xml:id="c2e14d8"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1463,7 +1463,7 @@
         </jbo>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">and</para>
+    <para role="noindent">和/para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k15M">
       <title>
         <anchor xml:id="c2e14d9"/>
@@ -1476,13 +1476,13 @@
         </jbo>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent"> 
+    <para role="noindent">
 
 
- both mean 
-    <quote>You take care of you</quote> and 
-    <quote>Be taken care of by you</quote>, or to put it colloquially, 
-    <quote>Take care of yourself</quote>.</para>
+都意味着
+    <quote>你照顾你自己</quote>和
+    <quote>被你自己照顾</quote>，或者口语化地说，
+    <quote>照顾你自己</quote>。</para>
   </section>
   <section xml:id="section-basic-questions">
     <title><anchor xml:id="c2s15"/>Questions</title>
