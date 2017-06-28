@@ -44,7 +44,7 @@
       <para>John比Sam更高。</para>
       
     </example>
-    <para role="indent"> <indexterm type="general"><primary>sumti</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>断言</primary><secondary>与bridi的比较</secondary></indexterm>  <indexterm type="general"><primary>bridi</primary><secondary>与谓句相比</secondary></indexterm>  <indexterm type="general"><primary>断言</primary><secondary>作为关系</secondary></indexterm>  <indexterm type="general"><primary>关系</primary><secondary>动作/静态/限定</secondary></indexterm> 这些例子都描述了John和Sam直接的关系。但在中文中，我们用名词 
+    <para role="indent"> <indexterm type="general"><primary>sumti</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>断言</primary><secondary>与bridi的比较</secondary></indexterm>  <indexterm type="general"><primary>bridi</primary><secondary>与断言相比</secondary></indexterm>  <indexterm type="general"><primary>断言</primary><secondary>作为关系</secondary></indexterm>  <indexterm type="general"><primary>关系</primary><secondary>动作/静态/限定</secondary></indexterm> 这些例子都描述了John和Sam直接的关系。但在中文中，我们用名词 
     
     <quote>父亲</quote>描述静态关系
     <xref linkend="example-random-id-qIuj"/>，用动词 
@@ -1772,11 +1772,11 @@
     <xref linkend="chapter-negation"/>中看到。</para>
   </section>
   <section xml:id="section-attitudinals">
-    <title><anchor xml:id="c2s16"/>Indicators</title>
-    <para> <indexterm type="general"><primary>interjections</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>attitudinal indicators</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>indicators</primary><secondary>快览版</secondary></indexterm> Different cultures express emotions and attitudes with a variety of intonations and gestures that are not usually included in written language. Some of these are available in some languages as interjections (i.e. <quote>Aha!</quote>, <quote>Oh no!</quote>, <quote>Ouch!</quote>, <quote>Aahh!</quote>, etc.), but they vary greatly from culture to culture.</para>
+    <title><anchor xml:id="c2s16"/>指示词</title>
+    <para> <indexterm type="general"><primary>感叹词</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>情感指示词</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>指示词</primary><secondary>快览版</secondary></indexterm> 不同文化用各种各样不通常包含在书面语中的腔调和手势表达情绪和态度。部分语言中这些中的一部分被用作感叹词（例如<quote>Aha!</quote>、<quote>Oh no!</quote>、<quote>Ouch!</quote>、<quote>Aahh!</quote>等），但他们在语言间变化得非常厉害。</para>
     
-    <para>Lojban has a group of cmavo known as 
-    <quote>attitudinal indicators</quote> which specifically covers this type of commentary on spoken statements. They are both written and spoken, but require no specific intonation or gestures. Grammatically they are very simple: one or more attitudinals at the beginning of a bridi apply to the entire bridi; anywhere else in the bridi they apply to the word immediately to the left. For example:</para>
+    <para>Lojban有一组被叫做
+    <quote>感情指示词</quote>的特别包含口头陈述中此类评论的cmavo。它们既被写又被说，但不要求特定的腔调或手势。从语法层面来说它们特别简单：bridi开头的一或多个情感词适用于整个bridi；在bridi中任何其他地方的它们适用于最靠近它们的左面的词。例如：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1LH">
       <title>
@@ -1790,12 +1790,12 @@
           <selbri>klama</selbri>
         </jbo>
         <gloss>
-          <cmavo>Agreement!</cmavo>
-          <sumti>I</sumti>
+          <cmavo>同意！</cmavo>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
         </gloss>
-        <natlang>Yep! I'll go.</natlang>
+        <natlang>是的！我会走的。</natlang>
 
         
       </interlinear-gloss-itemized>
@@ -1812,12 +1812,12 @@
           <selbri>klama</selbri>
         </jbo>
         <gloss>
-          <cmavo>Obligation!</cmavo>
-          <sumti>I</sumti>
+          <cmavo>义务！</cmavo>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
         </gloss>
-        <natlang>I should go.</natlang>
+        <natlang>我该走了。</natlang>
 
         
       </interlinear-gloss-itemized>
@@ -1834,10 +1834,10 @@
           <sumti>le melbi</sumti>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go</selbri>
-          <sumti>to-the beautiful-thing</sumti>
+          <selbri>走</selbri>
+          <sumti>向漂亮的东西</sumti>
         </gloss>
       </interlinear-gloss-itemized>
       <interlinear-gloss-itemized>
@@ -1846,20 +1846,20 @@
           <elidable>ku</elidable>
         </jbo>
         <gloss>
-          <cmavo>and I am happy because it is the beautiful thing I'm going to</cmavo>
+          <cmavo>我高兴因为我正走向漂亮的东西</cmavo>
           <elidable></elidable>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>but/and equivalence</primary></indexterm>  <indexterm type="general"><primary>metalinguistic words</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>discursives</primary><secondary>快览版</secondary></indexterm> Not all indicators indicate attitudes. Discursives, another group of cmavo with the same grammatical rules as attitudinal indicators, allow free expression of certain kinds of commentary about the main utterances. Using discursives allows a clear separation of these so-called 
+    <para role="indent"> <indexterm type="general"><primary>但/和等价</primary></indexterm>  <indexterm type="general"><primary>元语言单词</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>语篇词</primary><secondary>快览版</secondary></indexterm> 不是所有指示词都指示态度。语篇词，与情感指示词有相同语法规则的另一类cmavo，允许关于主话语的某些种类的评论的自由表达。用语篇词允许这些所谓的
     
-    <quote>metalinguistic</quote> features from the underlying statements and logical structure. By comparison, the English words 
+    <quote>元语言</quote>特征与接下来的陈述与语法结构之间的清晰分界。通过比较，通过推论的方式指示示例的对比或增加的分量的汉语词汇
     
-    <quote>but</quote> and 
-    <quote>also</quote>, which discursively indicate contrast or an added weight of example, are logically equivalent to 
-    <quote>and</quote>, which does not have a discursive content. The average English-speaker does not think about, and may not even realize, the paradoxical idea that 
-    <quote>but</quote> basically means 
-    <quote>and</quote>.</para>
+    <quote>但</quote>和
+    <quote>也</quote>，逻辑上相当于没有话语内容的
+    <quote>然后</quote>。通常的汉语使用者没有想过，甚至没意识到，
+    <quote>但</quote>基本上意味着
+    <quote>然后</quote>的悖论。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1Rd">
       <title>
         <anchor xml:id="c2e16d4"/>
@@ -1875,13 +1875,13 @@
           <selbri>stali</selbri>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
           <cmavo></cmavo>
-          <sumti>You</sumti>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>stay.</selbri>
+          <selbri>留。</selbri>
         </gloss>
 
         
@@ -1903,15 +1903,15 @@
           <selbri>stali</selbri>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
           <cmavo></cmavo>
-          <cmavo>In addition,</cmavo>
-          <sumti>you</sumti>
+          <cmavo>另外，</cmavo>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>stay.</selbri>
-          <comment>added weight</comment>
+          <selbri>留。</selbri>
+          <comment>增加的分量</comment>
         </gloss>
 
         
@@ -1933,27 +1933,27 @@
           <selbri>stali</selbri>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
           <cmavo></cmavo>
-          <cmavo>However,</cmavo>
-          <sumti>you</sumti>
+          <cmavo>然而，</cmavo>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>stay.</selbri>
-          <comment>contrast</comment>
+          <selbri>留。</selbri>
+          <comment>对比</comment>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>evidentials</primary><secondary>快览版</secondary></indexterm> Another group of indicators are called 
-    <quote>evidentials</quote>. Evidentials show the speaker's relationship to the statement, specifically how the speaker came to make the statement. These include 
+    <para role="indent"> <indexterm type="general"><primary>证据词</primary><secondary>快览版</secondary></indexterm> 另一组指示词叫做
+    <quote>证据词</quote>。证据词展示了说话人与陈述间的关系，特别地，展示了说话者如何得出陈述。这包括
     
     
-    <valsi>za'a</valsi> (I directly observe the relationship), 
+    <valsi>za'a</valsi>（我直接观察到了关系）、
     
-    <valsi>pe'i</valsi> (I believe that the relationship holds), 
+    <valsi>pe'i</valsi>（我相信这关系成立）、
     
-    <valsi>ru'a</valsi> (I postulate the relationship), and others. Many American Indian languages use this kind of words.</para>
+    <valsi>ru'a</valsi>（我假定这关系）和其他的。许多美国印第安语用这种词。</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1uT">
       <title>
@@ -1968,10 +1968,10 @@
           <selbri>melbi</selbri>
         </jbo>
         <gloss>
-          <cmavo>I opine!</cmavo>
-          <sumti>You</sumti>
+          <cmavo>我认为！</cmavo>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>are beautiful.</selbri>
+          <selbri>漂亮。</selbri>
         </gloss>
 
         
@@ -1990,32 +1990,32 @@
           <selbri>melbi</selbri>
         </jbo>
         <gloss>
-          <cmavo>I directly observe!</cmavo>
-          <sumti>You</sumti>
+          <cmavo>我直接观察到！</cmavo>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>are beautiful.</selbri>
+          <selbri>漂亮。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
   </section>
   <section xml:id="section-tenses">
-    <title><anchor xml:id="c2s17"/>Tenses</title>
-    <para> <indexterm type="general"><primary>time tenses</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>快览版</secondary></indexterm> In English, every verb is tagged for the grammatical category called tense: past, present, or future. The sentence</para>
+    <title><anchor xml:id="c2s17"/>时态词</title>
+    <para> <indexterm type="general"><primary>时间意义上的时态</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>快览版</secondary></indexterm> 英语中，每个动词第一附着有叫做时态的语法标记：过去时、现在时、将来时。句子</para>
     <example xml:id="example-random-id-xIVa">
       <title>
         <anchor xml:id="c2e17d1"/>
       </title>
-      <para>John went to the store</para>
+      <para>John went to the store（John去了商店）</para>
     </example>
-    <para role="noindent">necessarily happens at some time in the past, whereas</para>
+    <para role="noindent">必须发生在过去的某个时点，而</para>
     <example xml:id="example-random-id-1Acu">
       <title>
         <anchor xml:id="c2e17d2"/>
       </title>
-      <para>John is going to the store</para>
+      <para>John is going to the store（John正在去商店）</para>
     </example>
-    <para role="noindent">is necessarily happening right now.</para>
-    <para> <indexterm type="general"><primary>sentences</primary><secondary>tenseless</secondary><tertiary>快览版</tertiary></indexterm> The Lojban sentence</para>
+    <para role="noindent">必须正在发生。</para>
+    <para> <indexterm type="general"><primary>句子</primary><secondary>无时态</secondary><tertiary>快览版</tertiary></indexterm> Lojban句子</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1xz">
       <title>
         <anchor xml:id="c2e17d3"/>
@@ -2030,15 +2030,15 @@
         <gloss>
           <sumti>John</sumti>
           <elidable></elidable>
-          <selbri>goes/went/will-go</selbri>
-          <sumti>to-the store</sumti>
+          <selbri>去/去过/要去</selbri>
+          <sumti>商店</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">serves as a translation of either 
-    <xref linkend="example-random-id-xIVa"/> or 
-    <xref linkend="example-random-id-1Acu"/>, and of many other possible English sentences as well. It is not marked for tense, and can refer to an event in the past, the present or the future. This rule does not mean that Lojban has no way of representing the time of an event. A close translation of 
-    <xref linkend="example-random-id-xIVa"/> would be:</para>
+    <para role="noindent">充当
+    <xref linkend="example-random-id-xIVa"/>或
+    <xref linkend="example-random-id-1Acu"/>的翻译，也充当许多其他可能英语句子的翻译。它不标记时态，可以指一个过去、现在或将来的事件。这规则不意味着Lojban没有表示事件事件的方法。
+    <xref linkend="example-random-id-xIVa"/>的一项近似翻译可为：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1Y5">
       <title>
         <anchor xml:id="c2e17d4"/>
@@ -2052,14 +2052,14 @@
         </jbo>
         <gloss>
           <sumti>John</sumti>
-          <cmavo>[past]</cmavo>
-          <selbri>goes</selbri>
-          <sumti>to-the store</sumti>
+          <cmavo>[过去]</cmavo>
+          <selbri>去</selbri>
+          <sumti>商店</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">where the tag 
-    <valsi>pu</valsi> forces the sentence to refer to a time in the past. Similarly,</para>
+    <para role="noindent">，其中标签
+    <valsi>pu</valsi>使句子指一个过去时间。相似地，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1Y8">
       <title>
         <anchor xml:id="c2e17d5"/>
@@ -2073,20 +2073,20 @@
         </jbo>
         <gloss>
           <sumti>John</sumti>
-          <cmavo>[present]</cmavo>
-          <selbri>goes</selbri>
-          <sumti>to-the store</sumti>
+          <cmavo>[现在]</cmavo>
+          <selbri>去</selbri>
+          <sumti>商店</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">necessarily refers to the present, because of the tag 
-    <valsi>ca</valsi>. Tags used in this way always appear at the very beginning of the selbri, just after the 
-    <valsi>cu</valsi>, and they may make a 
-    <valsi>cu</valsi> unnecessary, since tags cannot be absorbed into tanru. Such tags serve as an equivalent to English tenses and adverbs. In Lojban, tense information is completely optional. If unspecified, the appropriate tense is picked up from context.</para>
+    <para role="noindent">必须指向现在，因为标签
+    <valsi>ca</valsi>。这种形式使用的标签通常出现在selbri的非常前边的地方，仅在
+    <valsi>cu</valsi>之后，他们可以使
+    <valsi>cu</valsi>没有必要，因为标签不能被包含在tanru中。这样的标签充当英语中时态和副词的等效品。Lojban中，时态信息完全是选用的。如果不特定，可能时态从上下文中摘取。</para>
     
-    <para> <indexterm type="general"><primary>space tenses</primary><secondary>快览版</secondary></indexterm> Lojban also extends the notion of 
-    <quote>tense</quote> to refer not only to time but to space. The following example uses the tag 
-    <valsi>vu</valsi> to specify that the event it describes happens far away from the speaker:</para>
+    <para> <indexterm type="general"><primary>空间意义上的时态</primary><secondary>快览版</secondary></indexterm> Lojban也拓展了
+    <quote>时态</quote>的概念来指不仅时间还有空间。下例使用了标签
+    <valsi>vu</valsi>来指明它描述的事件发生在距说话者很远的地方：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k20b">
       <title>
         <anchor xml:id="c2e17d6"/>
@@ -2098,13 +2098,13 @@
           <sumti>zo'e</sumti>
         </jbo>
         <gloss>
-          <sumti>You</sumti>
-          <selbri>yonder sell</selbri>
-          <sumti>something-unspecified.</sumti>
+          <sumti>你</sumti>
+          <selbri>在远处卖</selbri>
+          <sumti>不明确的某物。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">In addition, tense tags (either for time or space) can be prefixed to the selbri of a description, producing a tensed sumti:</para>
+    <para role="indent">另，时态标签（时间或空间的）可以附着到项描述的selbri前，产生一个带时态的sumti：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k26N">
       <title>
         <anchor xml:id="c2e17d7"/>
@@ -2117,20 +2117,20 @@
           <selbri>tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The earlier/former/past runner</sumti>
+          <sumti>之前的跑步者</sumti>
           <elidable></elidable>
           <elidable></elidable>
-          <selbri>talked/talks.</selbri>
+          <selbri>说过话/说话。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">(Since Lojban tense is optional, we don't know when he or she talks.)</para>
-    <para>Tensed sumti with space tags correspond roughly to the English use of 
-    <quote>this</quote> or 
-    <quote>that</quote> as adjectives, as in the following example, which uses the tag 
+    <para role="noindent">（因为Lojban时态可选，我们不知道他或她什么时候说话。）</para>
+    <para>带空间标签时态的sumti粗略对应汉语对作为副词的
+    <quote>这里</quote>或
+    <quote>那里</quote>的使用，正如在使用了意为
     
-    <valsi>vi</valsi> meaning 
-    <quote>nearby</quote>:</para>
+    <quote>附近</quote>
+    <valsi>vi</valsi>的下例中：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k28N">
       <title>
         <anchor xml:id="c2e17d8"/>
@@ -2143,22 +2143,22 @@
           <selbri>tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The nearby runner</sumti>
+          <sumti>附近的跑步者</sumti>
           <elidable></elidable>
           <elidable></elidable>
-          <selbri>talks.</selbri>
+          <selbri>说话。</selbri>
         </gloss>
-        <natlang>This runner talks.</natlang>
+        <natlang>这跑步者说话。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Do not confuse the use of 
-    <valsi>vi</valsi> in 
-    <xref linkend="example-random-id-k28N"/> with the cmavo 
-    <valsi>ti</valsi>, which also means 
-    <quote>this</quote>, but in the sense of 
-    <quote>this thing</quote>.</para>
-    <para> <indexterm type="general"><primary>sumti with tenses</primary><secondary>快览版</secondary></indexterm> Furthermore, a tense tag can appear both on the selbri and within a description, as in the following example (where 
-    <valsi>ba</valsi> is the tag for future time):</para>
+    <para role="indent">勿混淆
+    <xref linkend="example-random-id-k28N"/>中
+    <valsi>vi</valsi>的使用与也意为
+    <quote>这</quote>但在
+    <quote>这东西</quote>意义上的
+    <valsi>ti</valsi>。</para>
+    <para> <indexterm type="general"><primary>带时态的sumti</primary><secondary>快览版</secondary></indexterm> 而且，时态标签可同时出现在selvri和项描述中，如下例（其中
+    <valsi>ba</valsi>是未来时间的标签）：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k29L">
       <title>
         <anchor xml:id="c2e17d9"/>
@@ -2171,37 +2171,37 @@
           <selbri>ba klama</selbri>
         </jbo>
         <gloss>
-          <sumti>The here talker</sumti>
+          <sumti>这里的说话者</sumti>
           <elidable></elidable>
           <elidable></elidable>
-          <selbri>[future] goes.</selbri>
+          <selbri>[将来]走。</selbri>
         </gloss>
-        <natlang>The talker who is here will go.</natlang>
-        <natlang>This talker will go.</natlang>
+        <natlang>这里的说话者将走。</natlang>
+        <natlang>这说话者将走。</natlang>
       </interlinear-gloss-itemized>
     </example>
   </section>
   <section xml:id="section-terms">
-    <title><anchor xml:id="c2s18"/>Lojban grammatical terms</title>
+    <title><anchor xml:id="c2s18"/>Lojban语法术语</title>
     
-    <para> <indexterm type="general"><primary>grammatical terms</primary><secondary>快览版</secondary></indexterm> Here is a review of the Lojban grammatical terms used in this chapter, plus some others used throughout this book. Only terms that are themselves Lojban words are included: there are of course many expressions like 
+    <para> <indexterm type="general"><primary>语法术语</primary><secondary>快览版</secondary></indexterm> 这是本章中用的Lojban语法术语的复习，加上一些其他用在本书中的。只包括本身是Lojban词的术语：当然有许多像
     
-    <quote>indicator</quote> in 
-    <xref linkend="chapter-quantifiers"/> that are not explained here. See the Index for further help with these.</para>
+    <xref linkend="chapter-quantifiers"/>中的
+    <quote>指示词</quote>的未在此解释的。参见目录以获得关于这些的进一步帮助。</para>
     <para role="allowbreaks"/>
     <informaltable class="vertsep">
       <colgroup/>
-        <tr><td><valsi>bridi</valsi></td><td>  <indexterm type="general"><primary>bridi</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> predication; the basic unit of Lojban expression; the main kind of Lojban sentence; a claim that some objects stand in some relationship, or that some single object has some property. </td></tr>
-        <tr><td><valsi>sumti</valsi></td><td>  <indexterm type="general"><primary>sumti</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> argument; words identifying something which stands in a specified relationship to something else, or which has a specified property. See <xref linkend="chapter-sumti"/>. </td></tr>
-        <tr><td><valsi>selbri</valsi></td><td>  <indexterm type="general"><primary>selbri</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> logical predicate; the core of a bridi; the word or words specifying the relationship between the objects referred to by the sumti. See <xref linkend="chapter-selbri"/>. </td></tr>
-        <tr><td><valsi>cmavo</valsi></td><td>  <indexterm type="general"><primary>cmavo</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> one of the Lojban parts of speech; a short word; a structural word; a word used for its grammatical function. </td></tr>
-        <tr><td><valsi>brivla</valsi></td><td>  <indexterm type="general"><primary>brivla</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> one of the Lojban parts of speech; a content word; a predicate word; can function as a selbri; is a gismu, a lujvo, or a fu'ivla. See <xref linkend="chapter-morphology"/>. </td></tr>
-        <tr><td><valsi>gismu</valsi></td><td>  <indexterm type="general"><primary>gismu</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> a root word; a kind of brivla; has associated rafsi. See <xref linkend="chapter-morphology"/>. </td></tr>
-        <tr><td><valsi>lujvo</valsi></td><td>  <indexterm type="general"><primary>lujvo</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> a compound word; a kind of brivla; may or may not appear in a dictionary; does not have associated rafsi. See <xref linkend="chapter-morphology"/> and <xref linkend="chapter-lujvo"/>. </td></tr>
-        <tr><td><valsi>fu'ivla</valsi></td><td>  <indexterm type="general"><primary>fu'ivla</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> a borrowed word; a kind of brivla; may or may not appear in a dictionary; copied in a modified form from some non-Lojban language; usually refers to some aspect of culture or the natural world; does not have associated rafsi. See <xref linkend="chapter-morphology"/>. </td></tr>
-        <tr><td><valsi>rafsi</valsi></td><td>  <indexterm type="general"><primary>rafsi</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> a word fragment; one or more is associated with each gismu; can be assembled according to rules in order to make lujvo; not a valid word by itself. See <xref linkend="chapter-morphology"/>. </td></tr>
-        <tr><td><valsi>tanru</valsi></td><td>  <indexterm type="general"><primary>tanru</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> a group of two or more brivla, possibly with associated cmavo, that form a selbri; always divisible into two parts, with the first part modifying the meaning of the second part (which is taken to be basic). See <xref linkend="chapter-selbri"/>. </td></tr>
-        <tr><td><valsi>selma'o</valsi></td><td>  <indexterm type="general"><primary>selma'o</primary><secondary>definition</secondary><tertiary>快览版</tertiary></indexterm> a group of cmavo that have the same grammatical use (can appear interchangeably in sentences, as far as the grammar is concerned) but differ in meaning or other usage. See <xref linkend="chapter-catalogue"/>. </td></tr>
+        <tr><td><valsi>bridi</valsi></td><td>  <indexterm type="general"><primary>bridi</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>断言；Lojban表达的基本单位；Lojban句主要种类；某些对象有某关系或某单个对象有某特性的声明。</td></tr>
+        <tr><td><valsi>sumti</valsi></td><td>  <indexterm type="general"><primary>sumti</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>论元；定义在别的某些事物有特定联系的或有某特性的事物的词。参见<xref linkend="chapter-sumti"/>。</td></tr>
+        <tr><td><valsi>selbri</valsi></td><td>  <indexterm type="general"><primary>selbri</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>逻辑谓语；bridi的中心；明确被sumti指向的对象间关系的词或词组。参见<xref linkend="chapter-selbri"/>。</td></tr>
+        <tr><td><valsi>cmavo</valsi></td><td>  <indexterm type="general"><primary>cmavo</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>Lojban话语的一部分；短小单词；结构词；因为其语法作用而被使用的词。</td></tr>
+        <tr><td><valsi>brivla</valsi></td><td>  <indexterm type="general"><primary>brivla</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>Lojban话语的一部分；内容词；谓语词；能充当selbri；是gismu、lujvo或fu'ivla。参见<xref linkend="chapter-morphology"/>。</td></tr>
+        <tr><td><valsi>gismu</valsi></td><td>  <indexterm type="general"><primary>gismu</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>根词；一种brivla；有关联rafsi。参见<xref linkend="chapter-morphology"/>。</td></tr>
+        <tr><td><valsi>lujvo</valsi></td><td>  <indexterm type="general"><primary>lujvo</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>复合词；一种brivla；可以也可以不出现在词典中；没有关联rafsi。参见<xref linkend="chapter-morphology"/>和<xref linkend="chapter-lujvo"/>。</td></tr>
+        <tr><td><valsi>fu'ivla</valsi></td><td>  <indexterm type="general"><primary>fu'ivla</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>借词；一种brivla；可以也可以不出现在词典中；从某非Lojban语言中以调整后的形式借用；通常指文化或自然世界的某些方面；没有关联rafsi。参见<xref linkend="chapter-morphology"/>。</td></tr>
+        <tr><td><valsi>rafsi</valsi></td><td>  <indexterm type="general"><primary>rafsi</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>词的碎片；每个gismu关联一或多个；可以规则集合起来来创造lujvo；独自不是有效单词。参见<xref linkend="chapter-morphology"/>。</td></tr>
+        <tr><td><valsi>tanru</valsi></td><td>  <indexterm type="general"><primary>tanru</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>两个或多个brivla、可能还有有关的cmavo组成的、来构成selbri的集团，第一个部分修饰第二个部分（基本的）意思。参见<xref linkend="chapter-selbri"/>。</td></tr>
+        <tr><td><valsi>selma'o</valsi></td><td>  <indexterm type="general"><primary>selma'o</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>一组有相同语法功能（若只关心语法，能在句子中相互交换地出现）但意思或其他方面不同的cmavo。参见<xref linkend="chapter-catalogue"/>。</td></tr>
     </informaltable>
   </section>
 </chapter>
