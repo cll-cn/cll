@@ -1,16 +1,16 @@
 <chapter xml:id="chapter-phonology">
-  <title><anchor xml:id="c3"/>The Hills Are Alive With The Sounds Of Lojban</title>
+  <title><anchor xml:id="c3"/>群山在Lojban的声音中充满生机</title>
   <mediaobject xml:id="chapter-phonology-picture">
-    <textobject><phrase>The picture for chapter 3</phrase></textobject>
+    <textobject><phrase>第3章的图片</phrase></textobject>
     <imageobject>
       <imagedata fileref="media/chapter-phonology.gif"  />
     </imageobject>
   </mediaobject>
   <section xml:id="section-orthography">
-    <title><anchor xml:id="c3s1"/>Orthography</title>
-    <para> <indexterm type="general"><primary>orthography</primary><secondary>relation to pronunciation</secondary></indexterm>  <indexterm type="general"><primary>pronunciation</primary><secondary>relation to orthography</secondary></indexterm>  <indexterm type="general"><primary>audio-visual isomorphism</primary></indexterm>  <indexterm type="general"><primary>isomorphism</primary><secondary>audio-visual</secondary></indexterm> Lojban is designed so that any properly spoken Lojban utterance can be uniquely transcribed in writing, and any properly written Lojban can be spoken so as to be uniquely reproduced by another person. As a consequence, the standard Lojban orthography must assign to each distinct sound, or phoneme, a unique letter or symbol. Each letter or symbol has only one sound or, more accurately, a limited range of sounds that are permitted pronunciations for that phoneme. Some symbols indicate stress (speech emphasis) and pause, which are also essential to Lojban word recognition. In addition, everything that is represented in other languages by punctuation (when written) or by tone of voice (when spoken) is represented in Lojban by words. These two properties together are known technically as <quote>audio-visual isomorphism</quote>.</para>
+    <title><anchor xml:id="c3s1"/>正字法</title>
+    <para> <indexterm type="general"><primary>正字法</primary><secondary>与发音的关系</secondary></indexterm>  <indexterm type="general"><primary>发音</primary><secondary>与正字法的关系</secondary></indexterm>  <indexterm type="general"><primary>音形一致</primary></indexterm>  <indexterm type="general"><primary>一致</primary><secondary>音形</secondary></indexterm> Lojban被设计为任何恰当的口头Lojban句可被唯一书面转写，任何恰当的书面Lojban可被另一人唯一重产生。所以，标准Lojban正字法必须给每个独立音，或者说音位，一个独特的字母或符号。每个字母或符号只有一种声音或者，更精确地说，那个音位被允许的一种限制范围内的声音。一些符号指示同样对Lojban词语辨认必要的重音（话语的强调）和停顿。另，（书写时）被另一种语言用发音或者（说话时）用音调表示的每样东西在Lojban中用词表示。这两种特性合称<quote>音形一致</quote>.</para>
     
-    <para> <indexterm type="general"><primary>alphabet</primary><secondary>Lojban</secondary></indexterm>  <indexterm type="general"><primary>Lojban alphabet</primary></indexterm>  <indexterm type="general"><primary>Latin alphabet</primary></indexterm> Lojban uses a variant of the Latin (Roman) alphabet, consisting of the following letters and symbols:
+    <para> <indexterm type="general"><primary>字母表</primary><secondary>Lojban</secondary></indexterm>  <indexterm type="general"><primary>Lojban字母表</primary></indexterm>  <indexterm type="general"><primary>拉丁字母表</primary></indexterm> Lojban用拉丁（罗马）字母表的一个变种，由以下字母和符号组成：
     <simplelist type="horiz" columns="13">
       <member>'</member>
       <member>,</member>
@@ -39,23 +39,23 @@
       <member>y</member>
       <member>z</member>
     </simplelist>
-    omitting the letters 
-    <quote>h</quote>, 
-    <quote>q</quote>, and 
-    <quote>w</quote>.</para>
-    <para> <indexterm type="general"><primary>alphabetic order</primary></indexterm> The alphabetic order given above is that of the ASCII coded character set, widely used in computers. By making Lojban alphabetical order the same as ASCII, computerized sorting and searching of Lojban text is facilitated.</para>
+    省略字母
+    <quote>h</quote>、
+    <quote>q</quote>和
+    <quote>w</quote>。</para>
+    <para> <indexterm type="general"><primary>字母表顺序</primary></indexterm> 上面给出的字母表顺序是广泛在计算机中使用的ASCII编码集的顺序。通过使Lojban字母表顺序与ASCII一致，Lojban文本的计算机化的排序和搜索被简化。</para>
     
     
-    <para> <indexterm type="general"><primary>stress</primary><secondary>showing non-standard</secondary></indexterm>  <indexterm type="general"><primary>capital letters</primary><secondary>use of</secondary></indexterm> Capital letters are used only to represent non-standard stress, which can appear only in the representation of Lojbanized names. Thus the English name 
-    <quote>Josephine</quote>, as normally pronounced, is Lojbanized as 
-    <cmevla>DJOsefin.</cmevla>, pronounced 
-    <phrase role="IPA">['dʒosɛfinʔ]</phrase>. (See 
-    <xref linkend="section-basic-phonetics"/> for an explanation of the symbols within square brackets.) Technically, it is sufficient to capitalize the vowel letter, in this case 
+    <para> <indexterm type="general"><primary>重音</primary><secondary>展示不标准的</secondary></indexterm>  <indexterm type="general"><primary>大写字母</primary><secondary>使用</secondary></indexterm> 大写字母只用来表示只在Lojban化的名字中出现的不标准重音。这样英文名
+    <quote>Josephine</quote>，按通常发音，被Lojban化为
+    <cmevla>DJOsefin.</cmevla>，发音为
+    <phrase role="IPA">['dʒosɛfinʔ]</phrase>。（参见
+    <xref linkend="section-basic-phonetics"/>以获得方括号中符号的解释。）技术上，大写原因字母足够了，在本例中为
     
-    <letteral>O</letteral>, but it is easier on the reader to capitalize the whole syllable.</para>
-    <para>Without the capitalization, the ordinary rules of Lojban stress would cause the 
+    <letteral>O</letteral>，但对读者来说大写整个音节更为容易。</para>
+    <para>没有大写，Lojban重音通常规则会使
     
-    <valsi>se</valsi> syllable to be stressed. Lojbanized names are meant to represent the pronunciation of names from other languages with as little distortion as may be; as such, they are exempt from many of the regular rules of Lojban phonology, as will appear in the rest of this chapter.</para>
+    <valsi>se</valsi>音节被重读。Lojban化的名字用来表示尽可能少变形地从其他语言中借来的名字的发音；这样，他们不符合将在本章其余部分出现的许多Lojban音韵学的通常规则。</para>
   </section>
   <section xml:id="section-basic-phonetics">
     <title><anchor xml:id="c3s2"/>Basic Phonetics</title>
