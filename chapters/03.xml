@@ -58,44 +58,44 @@
     <valsi>se</valsi>音节被重读。Lojban化的名字用来表示尽可能少变形地从其他语言中借来的名字的发音；这样，他们不符合将在本章其余部分出现的许多Lojban音韵学的通常规则。</para>
   </section>
   <section xml:id="section-basic-phonetics">
-    <title><anchor xml:id="c3s2"/>Basic Phonetics</title>
-    <para> <indexterm type="general"><primary>brackets</primary><secondary>use in IPA notation</secondary></indexterm>  <indexterm type="general"><primary>phonetic alphabet</primary></indexterm>  <indexterm type="general"><primary>IPA</primary></indexterm>  <indexterm type="general"><primary>International Phonetic Alphabet (see also IPA)</primary></indexterm> Lojban pronunciations are defined using the International Phonetic Alphabet, or IPA, a standard method of transcribing pronunciations. By convention, IPA transcriptions are always within square brackets: for example, the word 
+    <title><anchor xml:id="c3s2"/>基本音韵学</title>
+    <para> <indexterm type="general"><primary>方括号</primary><secondary>在国际音标中的使用</secondary></indexterm>  <indexterm type="general"><primary>语音字母表</primary></indexterm>  <indexterm type="general"><primary>国际音标</primary></indexterm>  <indexterm type="general"><primary>国际注音字母（参见国际音标）</primary></indexterm> Lojban发音用国际注音字母，或者说国际音标，一种转写发音的标准格式来定义。按惯例，国际音标转写通常放在方括号中：例如单词
     
-    <quote>cat</quote> is pronounced (in General American pronunciation) 
+    <quote>cat</quote>发音为（在通用美式发音中）
     
-    <phrase role="IPA">[kæt]</phrase>. 
-    <xref linkend="section-anglophone-phonetics"/> contains a brief explanation of the IPA characters used in this chapter, with their nearest analogues in English, and will be especially useful to those not familiar with the technical terms used in describing speech sounds.</para>
+    <phrase role="IPA">[kæt]</phrase>。
+    <xref linkend="section-anglophone-phonetics"/>包含对本章中使用的国际音标符号的简略解释，包含他们在英语中最接近的类似物（译：以及汉语），将对那些不熟悉描述话语时技术形式的特别有用。</para>
     
-    <para> <indexterm type="general"><primary>standard pronunciation</primary></indexterm>  <indexterm type="general"><primary>pronunciation</primary><secondary>standard</secondary></indexterm> The standard pronunciations and permitted variants of the Lojban letters are listed in the table below. The descriptions have deliberately been made a bit ambiguous to cover variations in pronunciation by speakers of different native languages and dialects. In all cases except 
+    <para> <indexterm type="general"><primary>标准发音</primary></indexterm>  <indexterm type="general"><primary>发音</primary><secondary>标准</secondary></indexterm> Lojban字母的标准发音和允许的变体列如下表。描述特意模糊来覆盖来自不同母语与方言的说话者的发音变体。除
     
-    <letteral>r</letteral> the first IPA symbol shown represents the preferred pronunciation; for 
-    <letteral>r</letteral>, all of the variations (and any other rhotic sound) are equally acceptable.</para>
+    <letteral>r</letteral>外所有情况第一个出现的symbol符号代表偏爱的发音；对
+    <letteral>r</letteral>来说，所有变体（和任何其他r的变体的音）平等地可接受。</para>
     <informaltable class="vertsep">
         <thead>
           <tr>
-            <td>Letter</td>
-            <td>IPA</td>
+            <td>字母</td>
+            <td>国际音标</td>
             <td>X-SAMPA</td>
-            <td>Description</td>
+            <td>描述</td>
           </tr>
         </thead>
           <tr>
             <td><letteral>'</letteral></td>
             <td><phrase role="IPA">[h]</phrase></td>
             <td><phrase role="X-SAMPA">[h]</phrase></td>
-            <td>an unvoiced glottal spirant</td>
+            <td>清声门擦音</td>
           </tr>
           <tr>
             <td><letteral>,</letteral></td>
             <td>-</td>
             <td>-</td>
-            <td>the syllable separator</td>
+            <td>音节分隔符</td>
           </tr>
           <tr>
             <td><letteral>.</letteral></td>
             <td><phrase role="IPA">[ʔ]</phrase></td>
             <td><phrase role="X-SAMPA">[?]</phrase></td>
-            <td>a glottal stop or a pause</td>
+            <td>喉塞音或停顿</td>
           </tr>
           <tr>
             <td><letteral>a</letteral></td>
@@ -103,13 +103,13 @@
             </td>
             <td><phrase role="X-SAMPA">[a]</phrase>, <phrase role="X-SAMPA">[A]</phrase>
             </td>
-            <td>an open vowel</td>
+            <td>开元音</td>
           </tr>
           <tr>
             <td><letteral>b</letteral></td>
             <td><phrase role="IPA">[b]</phrase></td>
             <td><phrase role="X-SAMPA">[b]</phrase></td>
-            <td>a voiced bilabial stop</td>
+            <td>浊双唇塞音</td>
           </tr>
           <tr>
             <td><letteral>c</letteral></td>
@@ -117,13 +117,13 @@
             </td>
             <td><phrase role="X-SAMPA">[S]</phrase>, <phrase role="X-SAMPA">[s`]</phrase>
             </td>
-            <td>an unvoiced coronal sibilant</td>
+            <td>清舌尖擦音</td>
           </tr>
           <tr>
             <td><letteral>d</letteral></td>
             <td><phrase role="IPA">[d]</phrase></td>
             <td><phrase role="X-SAMPA">[d]</phrase></td>
-            <td>a voiced dental/alveolar stop</td>
+            <td>浊齿/齿龈塞音</td>
           </tr>
           <tr>
             <td><letteral>e</letteral></td>
@@ -131,7 +131,7 @@
             </td>
             <td><phrase role="X-SAMPA">[E]</phrase>, <phrase role="X-SAMPA">[e]</phrase>
             </td>
-            <td>a front mid vowel</td>
+            <td>前央元音</td>
           </tr>
           <tr>
             <td><letteral>f</letteral></td>
@@ -139,19 +139,19 @@
             </td>
             <td><phrase role="X-SAMPA">[f]</phrase>, <phrase role="X-SAMPA">[p\]</phrase>
             </td>
-            <td>an unvoiced labial fricative</td>
+            <td>清唇擦音</td>
           </tr>
           <tr>
             <td><letteral>g</letteral></td>
             <td><phrase role="IPA">[ɡ]</phrase></td>
             <td><phrase role="X-SAMPA">[g]</phrase></td>
-            <td>a voiced velar stop</td>
+            <td>浊软腭塞音</td>
           </tr>
           <tr>
             <td><letteral>i</letteral></td>
             <td><phrase role="IPA">[i]</phrase></td>
             <td><phrase role="X-SAMPA">[i]</phrase></td>
-            <td>a front close vowel</td>
+            <td>前闭元音</td>
           </tr>
           <tr>
             <td><letteral>j</letteral></td>
@@ -159,13 +159,13 @@
             </td>
             <td><phrase role="X-SAMPA">[Z]</phrase>, <phrase role="X-SAMPA">[z`]</phrase>
             </td>
-            <td>a voiced coronal sibilant</td>
+            <td>浊舌尖擦音</td>
           </tr>
           <tr>
             <td><letteral>k</letteral></td>
             <td><phrase role="IPA">[k]</phrase></td>
             <td><phrase role="X-SAMPA">[k]</phrase></td>
-            <td>an unvoiced velar stop</td>
+            <td>清软腭塞音</td>
           </tr>
           <tr>
             <td><letteral>l</letteral></td>
@@ -173,7 +173,7 @@
             </td>
             <td><phrase role="X-SAMPA">[l]</phrase>, <phrase role="X-SAMPA">[l=]</phrase>
             </td>
-            <td>a voiced lateral approximant (may be syllabic)</td>
+            <td>浊边近音（可能音节化）</td>
           </tr>
           <tr>
             <td><letteral>m</letteral></td>
@@ -181,7 +181,7 @@
             </td>
             <td><phrase role="X-SAMPA">[m]</phrase>, <phrase role="X-SAMPA">[m=]</phrase>
             </td>
-            <td>a voiced bilabial nasal (may be syllabic)</td>
+            <td>浊双唇鼻音（可能音节化）</td>
           </tr>
           <tr>
             <td><letteral>n</letteral></td>
@@ -189,7 +189,7 @@
             </td>
             <td><phrase role="X-SAMPA">[n]</phrase>, <phrase role="X-SAMPA">[n=]</phrase>, <phrase role="X-SAMPA">[N]</phrase>, <phrase role="X-SAMPA">[N=]</phrase>
             </td>
-            <td>a voiced dental or velar nasal (may be syllabic)</td>
+            <td>浊齿/齿龈鼻音（可能音节化）</td>
           </tr>
           <tr>
             <td><letteral>o</letteral></td>
@@ -197,13 +197,13 @@
             </td>
             <td><phrase role="X-SAMPA">[o]</phrase>, <phrase role="X-SAMPA">[O]</phrase>
             </td>
-            <td>a back mid vowel</td>
+            <td>后央元音</td>
           </tr>
           <tr>
             <td><letteral>p</letteral></td>
             <td><phrase role="IPA">[p]</phrase></td>
             <td><phrase role="X-SAMPA">[p]</phrase></td>
-            <td>an unvoiced bilabial stop</td>
+            <td>清双唇塞音</td>
           </tr>
           <tr>
             <td><letteral>r</letteral></td>
@@ -211,25 +211,25 @@
             </td>
             <td><phrase role="X-SAMPA">[r]</phrase>, <phrase role="X-SAMPA">[r\]</phrase>, <phrase role="X-SAMPA">[4]</phrase>, <phrase role="X-SAMPA">[R\]</phrase>, <phrase role="X-SAMPA">[r=]</phrase>, <phrase role="X-SAMPA">[r\=]</phrase>, <phrase role="X-SAMPA">[4=]</phrase>, <phrase role="X-SAMPA">[R\=]</phrase>
             </td>
-            <td>a rhotic sound</td>
+            <td>r的变体的声音</td>
           </tr>
           <tr>
             <td><letteral>s</letteral></td>
             <td><phrase role="IPA">[s]</phrase></td>
             <td><phrase role="X-SAMPA">[s]</phrase></td>
-            <td>an unvoiced alveolar sibilant</td>
+            <td>清齿龈擦音</td>
           </tr>
           <tr>
             <td><letteral>t</letteral></td>
             <td><phrase role="IPA">[t]</phrase></td>
             <td><phrase role="X-SAMPA">[t]</phrase></td>
-            <td>an unvoiced dental/alveolar stop</td>
+            <td>清齿/齿龈塞音</td>
           </tr>
           <tr>
             <td><letteral>u</letteral></td>
             <td><phrase role="IPA">[u]</phrase></td>
             <td><phrase role="X-SAMPA">[u]</phrase></td>
-            <td>a back close vowel</td>
+            <td>后闭元音</td>
           </tr>
           <tr>
             <td><letteral>v</letteral></td>
@@ -237,77 +237,77 @@
             </td>
             <td><phrase role="X-SAMPA">[v]</phrase>, <phrase role="X-SAMPA">[B]</phrase>
             </td>
-            <td>a voiced labial fricative</td>
+            <td>浊唇擦音</td>
           </tr>
           <tr>
             <td><letteral>x</letteral></td>
             <td><phrase role="IPA">[x]</phrase></td>
             <td><phrase role="X-SAMPA">[x]</phrase></td>
-            <td>an unvoiced velar fricative</td>
+            <td>清软腭擦音</td>
           </tr>
           <tr>
             <td><letteral>y</letteral></td>
             <td><phrase role="IPA">[ə]</phrase></td>
             <td><phrase role="X-SAMPA">[@]</phrase></td>
-            <td>a central mid vowel</td>
+            <td>中央元音</td>
           </tr>
           <tr>
             <td><letteral>z</letteral></td>
             <td><phrase role="IPA">[z]</phrase></td>
             <td><phrase role="X-SAMPA">[z]</phrase></td>
-            <td>a voiced alveolar sibilant</td>
+            <td>浊舌尖擦音</td>
           </tr>
     </informaltable>
-    <para> <indexterm type="general"><primary>sounds</primary><secondary>clarity of</secondary></indexterm>  <indexterm type="general"><primary>clarity of sounds</primary></indexterm>  <indexterm type="general"><primary>Lojban letters</primary><secondary>list with IPA pronunciation</secondary></indexterm>  <indexterm type="general"><primary>Lojban letters</primary><secondary>IPA for pronouncing</secondary></indexterm>  <indexterm type="general"><primary>pronunciation</primary><secondary>IPA for Lojban</secondary></indexterm> The Lojban sounds must be clearly pronounced so that they are not mistaken for each other. Voicing and placement of the tongue are the key factors in correct pronunciation, but other subtle differences will develop between consonants in a Lojban-speaking community. At this point these are the only mandatory rules on the range of sounds.</para>
-    <para> <indexterm type="general"><primary>rounded/unrounded vowels</primary></indexterm> Note in particular that Lojban vowels can be pronounced with either rounded or unrounded lips; typically 
-    <letteral>o</letteral> and 
-    <letteral>u</letteral> are rounded and the others are not, as in English, but this is not a requirement; some people round 
-    <letteral>y</letteral> as well. Lojban consonants can be aspirated or unaspirated. Palatalizing of consonants, as found in Russian and other languages, is not generally acceptable in pronunciation, though a following 
-    <letteral>i</letteral> may cause it.</para>
-    <para> <indexterm type="general"><primary>sounds for letters</primary><secondary>Lojban contrasted with English</secondary></indexterm>  <indexterm type="general"><primary>sounds</primary><secondary>difficult</secondary></indexterm> The sounds represented by the letters 
-    <letteral>c</letteral>, 
-    <letteral>g</letteral>, 
-    <letteral>j</letteral>, 
-    <letteral>s</letteral>, and 
-    <letteral>x</letteral> require special attention for speakers of English, either because they are ambiguous in the orthography of English (<letteral>c</letteral>, 
-    <letteral>g</letteral>, 
-    <letteral>s</letteral>), or because they are strikingly different in Lojban (<letteral>c</letteral>, 
-    <letteral>j</letteral>, 
-    <letteral>x</letteral>). The English 
-    <quote>c</quote> represents three different sounds, 
-    <phrase role="IPA">[k]</phrase> in 
-    <quote>cat</quote> and 
-    <phrase role="IPA">[s]</phrase> in 
-    <quote>cent</quote>, as well as the 
-    <phrase role="IPA">[ʃ]</phrase> of 
-    <quote>ocean</quote>. Similarly, English 
-    <quote>g</quote> can represent 
-    <phrase role="IPA">[ɡ]</phrase> as in 
-    <quote>go</quote>, 
-    <phrase role="IPA">[dʒ]</phrase> as in 
-    <quote>gentle</quote>, and 
-    <phrase role="IPA">[ʒ]</phrase> as in the second "g" in 
-    <quote>garage</quote> (in some pronunciations). English 
-    <quote>s</quote> can be either 
-    <phrase role="IPA">[s]</phrase> as in 
-    <quote>cats</quote>, 
-    <phrase role="IPA">[z]</phrase> as in 
-    <quote>cards</quote>, 
-    <phrase role="IPA">[ʃ]</phrase> as in 
-    <quote>tension</quote>, or 
-    <phrase role="IPA">[ʒ]</phrase> as in 
-    <quote>measure</quote>. The sound of Lojban 
-    <letteral>x</letteral> doesn't appear in most English dialects at all.</para>
-    <para> <indexterm type="general"><primary>j-sound in English</primary><secondary>representation in Lojban</secondary></indexterm>  <indexterm type="general"><primary>ch-sound in English</primary><secondary>representation in Lojban</secondary></indexterm>  <indexterm type="general"><primary>ts-sound in Russian</primary><secondary>representation in Lojban</secondary></indexterm>  <indexterm type="general"><primary>sounds</primary><secondary>complex</secondary></indexterm> There are two common English sounds that are found in Lojban but are not Lojban consonants: the 
-    <quote>ch</quote> of 
-    <quote>church</quote> and the 
-    <quote>j</quote> of 
-    <quote>judge</quote>. In Lojban, these are considered two consonant sounds spoken together without an intervening vowel sound, and so are represented in Lojban by the two separate consonants: 
-    <morphology>tc</morphology> (IPA 
-    <phrase role="IPA">[tʃ]</phrase>) and 
-    <morphology>dj</morphology> (IPA 
-    <phrase role="IPA">[dʒ]</phrase>). In general, whether a complex sound is considered one sound or two depends on the language: Russian views 
-    <quote>ts</quote> as a single sound, whereas English, French, and Lojban consider it to be a consonant cluster.</para>
+    <para> <indexterm type="general"><primary>声音</primary><secondary>分类</secondary></indexterm>  <indexterm type="general"><primary>声音的分类</primary></indexterm>  <indexterm type="general"><primary>Lojban字母</primary><secondary>有国际音标发音的表</secondary></indexterm>  <indexterm type="general"><primary>Lojban字母</primary><secondary>发音的国际音标</secondary></indexterm>  <indexterm type="general"><primary>发音</primary><secondary>Lojban的国际音标</secondary></indexterm> Lojban声音必须清楚地被发出以免被误认为其他。清浊和舌头的位置是正确发音的关键因素。但其他微妙的区别会在一个说Lojban的社区发展。此时只有声音范围的强制规定。</para>
+    <para> <indexterm type="general"><primary>圆唇/扁唇元音</primary></indexterm> 特别注意Lojban元音发音时既可圆唇又可扁唇；典型的
+    <letteral>o</letteral>和
+    <letteral>u</letteral>圆唇的，其他的不是，如同在英语里一样，但这并非要求；一些人在发
+    <letteral>y</letteral>时也圆唇。Lojban辅音可颚音化也可不颚音化。在俄语和其他语言中发现的辅音的颚音化，不通常在发音上被接受，尽管接着的
+    <letteral>i</letteral>可能会导致这件事。</para>
+    <para> <indexterm type="general"><primary>字母的发音</primary><secondary>Lojban与英语的对比</secondary></indexterm>  <indexterm type="general"><primary>发音</primary><secondary>困难</secondary></indexterm> 字母
+    <letteral>c</letteral>、
+    <letteral>g</letteral>、
+    <letteral>j</letteral>、
+    <letteral>s</letteral>和
+    <letteral>x</letteral>要求说英语的人给出足够的重视，或是因为其发音在英语正字法中模糊（<letteral>c</letteral>、
+    <letteral>g</letteral>、
+    <letteral>s</letteral>），或是因为其发音在Lojban中显著不同（<letteral>c</letteral>、
+    <letteral>j</letteral>、
+    <letteral>x</letteral>）。英语的
+    <quote>c</quote>表示三种不同的音，
+    <quote>cat</quote>中的
+    <phrase role="IPA">[k]</phrase>
+    <quote>cent</quote>中的
+    <phrase role="IPA">[s]</phrase>还有
+    <quote>ocean</quote>中的
+    <phrase role="IPA">[ʃ]</phrase>。相似地，英语的
+    <quote>g</quote>可表示
+    <quote>go</quote>中的
+    <phrase role="IPA">[ɡ]</phrase>、
+    <quote>gentle</quote>中的
+    <phrase role="IPA">[dʒ]</phrase>和（在某些发音中）
+    <quote>garage</quote>中的第二个“g”
+    <phrase role="IPA">[ʒ]</phrase>。英语的
+    <quote>s</quote>可以是
+    <quote>cats</quote>中的
+    <phrase role="IPA">[s]</phrase>、
+    <quote>cards</quote>中的
+    <phrase role="IPA">[z]</phrase>或
+    <quote>tension</quote>中的
+    <phrase role="IPA">[ʃ]</phrase>、
+    <quote>measure</quote>中的
+    <phrase role="IPA">[ʒ]</phrase>。Lojban中
+    <letteral>x</letteral>的发音根本不出现在多数英语方言中。</para>
+    <para> <indexterm type="general"><primary>英语中j的发音</primary><secondary>Lojban表示</secondary></indexterm>  <indexterm type="general"><primary>英语中ch的发音</primary><secondary>Lojban表示</secondary></indexterm>  <indexterm type="general"><primary>俄语中的ts的发音</primary><secondary>Lojban表示</secondary></indexterm>  <indexterm type="general"><primary>发音</primary><secondary>复杂</secondary></indexterm> 有两种常见英语发音在Lojban中能找到但不是Lojban的辅音：
+    <quote>church</quote>中的
+    <quote>ch</quote>和
+    <quote>judge</quote>中的
+    <quote>j</quote>。在Lojban中，这些被认为是两个一起说出的没有中间元音的辅音，因此在Lojban中用两个单独的辅音表示：
+    <morphology>tc</morphology>（国际音标
+    <phrase role="IPA">[tʃ]</phrase>）和
+    <morphology>dj</morphology>（国际音标
+    <phrase role="IPA">[dʒ]</phrase>）通常，一个复杂发音是被认为是一个还是两个发音取决于语言：俄语把
+    <quote>ts</quote>看做单个音，而英语、法语和Lojban将它看作辅音群。</para>
   </section>
   <section xml:id="section-lojban-characters">
     <title><anchor xml:id="c3s3"/>The Special Lojban Characters</title>
