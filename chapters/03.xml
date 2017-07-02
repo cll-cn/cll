@@ -173,7 +173,7 @@
             </td>
             <td><phrase role="X-SAMPA">[l]</phrase>, <phrase role="X-SAMPA">[l=]</phrase>
             </td>
-            <td>浊边近音（可能音节化）</td>
+            <td>浊边近音（可能成音节）</td>
           </tr>
           <tr>
             <td><letteral>m</letteral></td>
@@ -181,7 +181,7 @@
             </td>
             <td><phrase role="X-SAMPA">[m]</phrase>, <phrase role="X-SAMPA">[m=]</phrase>
             </td>
-            <td>浊双唇鼻音（可能音节化）</td>
+            <td>浊双唇鼻音（可能成音节）</td>
           </tr>
           <tr>
             <td><letteral>n</letteral></td>
@@ -189,7 +189,7 @@
             </td>
             <td><phrase role="X-SAMPA">[n]</phrase>, <phrase role="X-SAMPA">[n=]</phrase>, <phrase role="X-SAMPA">[N]</phrase>, <phrase role="X-SAMPA">[N=]</phrase>
             </td>
-            <td>浊齿/齿龈鼻音（可能音节化）</td>
+            <td>浊齿/齿龈鼻音（可能成音节）</td>
           </tr>
           <tr>
             <td><letteral>o</letteral></td>
@@ -307,7 +307,7 @@
     <phrase role="IPA">[tʃ]</phrase>）和
     <morphology>dj</morphology>（国际音标
     <phrase role="IPA">[dʒ]</phrase>）通常，一个复杂发音是被认为是一个还是两个发音取决于语言：俄语把
-    <quote>ts</quote>看做单个音，而英语、法语和Lojban将它看作辅音群。</para>
+    <quote>ts</quote>看做单个音，而英语、法语和Lojban将它看作辅音簇。</para>
   </section>
   <section xml:id="section-lojban-characters">
     <title><anchor xml:id="c3s3"/>特别Lojban字符</title>
@@ -317,7 +317,7 @@
     <phrase role="IPA">[h]</phrase>）（译：不同于汉语拼音方案的h）。因为两种原因字母
     <quote>h</quote>不用来表示这个音：首先为了简化形态学解释，也因为该音非常常见，而撇号是一个它的视觉上分量小的表示。撇号的声音本来是一个辅音，但为了Lojban形态学（单词构成）既不被当成辅音也不被当成元音，在
     <xref linkend="chapter-morphology"/>中有解释。另，撇号看起来与同用来（以不同方式）分隔音节的逗号和句号相似。</para>
-    <para> <indexterm type="general"><primary>无声元音过渡</primary><secondary>以撇号充当</secondary></indexterm>  <indexterm type="general"><primary>撇号</primary><secondary>目的</secondary></indexterm> 撇号被包含在Lojban中只是为单个单词中元音碰到一起时提供元音间的平滑过渡。实际上，看待撇号的一种方法是表示无声的元音过渡。</para>
+    <para> <indexterm type="general"><primary>无声元音持阻</primary><secondary>以撇号充当</secondary></indexterm>  <indexterm type="general"><primary>撇号</primary><secondary>目的</secondary></indexterm> 撇号被包含在Lojban中只是为单个单词中元音碰到一起时提供元音间的平滑持阻。实际上，看待撇号的一种方法是表示无声的元音持阻。</para>
     
     <para> <indexterm type="general"><primary>撇号</primary><secondary>变体</secondary></indexterm> 作为被允许的变体，任何不在Lojban中使用的清擦音可以表达撇号：国际音标
     <phrase role="IPA">[θ]</phrase>是一种可能。听者的便利应视为决定代替
@@ -329,7 +329,7 @@
     <xref linkend="section-pauses"/>中有详解&ndash;必须出现。特别地，以元音开始的单词通常在前边有一个停顿，以辅音结尾的单词通常在后边有一个停顿。</para>
     <para> <indexterm type="general"><primary>句号</primary><secondary>选用</secondary></indexterm> 技术上来说，句号是选用的提醒读者语言规则决定的强制停顿的提醒着；因为这些规则不模糊，漏掉的句号能从其余正确文本中推断出来。句号被包含只是作为对读者的帮助。</para>
     <para> <indexterm type="general"><primary>句号</primary><secondary>词内</secondary></indexterm> 句号也可被发现显然嵌在词中。当这发生时，这样的书面字符串不是一个而是两个，写在一起来表明作者使这组合词表达了一个意思。若句号出现，用词间空格并不真的有必要。</para>
-    <para> <indexterm type="general"><primary>停顿</primary><secondary>与破开音节相比</secondary></indexterm>  <indexterm type="general"><primary>破开音节</primary><secondary>与停顿相比</secondary></indexterm>  <indexterm type="general"><primary>破开音节</primary><secondary>Lojban中的表示</secondary></indexterm>  <indexterm type="general"><primary>逗号</primary><secondary>定义</secondary></indexterm> 逗号用来指示单词中通常对读者并不明显的破开的音节。这样一个逗号写来分隔音节，但指示其间并无停顿，异于句号。元音间逗号指示某类过渡的必要性以避免将两音节分为不同单词的停顿。用撇号（国际音标
+    <para> <indexterm type="general"><primary>停顿</primary><secondary>与破开音节相比</secondary></indexterm>  <indexterm type="general"><primary>破开音节</primary><secondary>与停顿相比</secondary></indexterm>  <indexterm type="general"><primary>破开音节</primary><secondary>Lojban中的表示</secondary></indexterm>  <indexterm type="general"><primary>逗号</primary><secondary>定义</secondary></indexterm> 逗号用来指示单词中通常对读者并不明显的破开的音节。这样一个逗号写来分隔音节，但指示其间并无停顿，异于句号。元音间逗号指示某类持阻的必要性以避免将两音节分为不同单词的停顿。用撇号（国际音标
     
     <phrase role="IPA">[h]</phrase>的声音来发逗号通常是合法的。然而，逗号不能发作其分隔两字母间的停顿或喉塞音，因为那发音将单词分为两个单词。</para>
     
@@ -369,7 +369,7 @@
     </example>
     <para role="indent"> <indexterm type="general"><primary>逗号</primary><secondary>变体</secondary></indexterm> 逗号表示新的破开音节，但禁止停顿或喉塞音的使用。展示的发音只是一种可能，但接近英语发音。</para>
     
-    <para>然而，这样的逗号使用危险以致不明确的解释，因为过渡可能被某些听者听为双元音产生某些像这样的东西：</para>
+    <para>然而，这样的逗号使用危险以致不明确的解释，因为持阻可能被某些听者听为双元音产生某些像这样的东西：</para>
     <example role="pronunciation-example" xml:id="example-random-id-dQfn">
       <title>
         <anchor xml:id="c3e3d3"/>
@@ -378,7 +378,7 @@
         <jbo>.i,iai,ii,iai,ion.</jbo>
       </pronunciation>
     </example>
-    <para role="noindent">，技术上是一个不同的Lojban名字。因为Lojban化名字的意图是使他们听起来更像其原本对应物，逗号被允许表示元音过渡或某些不Lojban的音。这样的例外只影响拼写准确度和读者恰当地重产生期望的发音；它将不影响单词边界的识别。</para>
+    <para role="noindent">，技术上是一个不同的Lojban名字。因为Lojban化名字的意图是使他们听起来更像其原本对应物，逗号被允许表示元音持阻或某些不Lojban的音。这样的例外只影响拼写准确度和读者恰当地重产生期望的发音；它将不影响单词边界的识别。</para>
     <para> <indexterm type="general"><primary>撇号</primary><secondary>在名字中比逗号更被偏好</secondary></indexterm> 仍然，若Lojban名字通常分立更好。因此，撇号在常见的不试图完美模拟非Lojban发音的Lojban化名字中更被偏好。（完美，在任何时候，不是真的可以达到的，因为一些音就是缺少合理的Lojban对应物。）</para>
     <para>若
     <xref linkend="example-random-id-k2b9"/>中撇号用来代替逗号，它会呈现为：</para>
@@ -394,141 +394,141 @@
     <para role="noindent"> <indexterm type="general"><primary>撇号</primary><secondary>例子</secondary></indexterm>，保留了原英语版本的韵律和长度，若不是恰好的音。</para>
   </section>
   <section xml:id="section-diphthongs">
-    <title><anchor xml:id="c3s4"/>Diphthongs and Syllabic Consonants</title>
-    <para> <indexterm type="general"><primary>diphthongs</primary><secondary>definition of</secondary></indexterm> There exist 16 diphthongs in the Lojban language. A diphthong is a vowel sound that consists of two elements, a short vowel sound and a glide, either a labial (IPA 
-    <phrase role="IPA">[w]</phrase>) or palatal (IPA 
-    <phrase role="IPA">[j]</phrase>) glide, that either precedes (an on-glide) or follows (an off-glide) the main vowel. Diphthongs always constitute a single syllable.</para>
-    <para> <indexterm type="general"><primary>vowels</primary><secondary>contrasted with consonants</secondary></indexterm>  <indexterm type="general"><primary>consonants</primary><secondary>contrasted with vowels</secondary></indexterm> For Lojban purposes, a vowel sound is a relatively long speech-sound that forms the nucleus of a syllable. Consonant sounds are relatively brief and normally require an accompanying vowel sound in order to be audible. Consonants may occur at the beginning or end of a syllable, around the vowel, and there may be several consonants in a cluster in either position. Each separate vowel sound constitutes a distinct syllable; consonant sounds do not affect the determination of syllables.</para>
-    <para> <indexterm type="general"><primary>vowels</primary><secondary>definition of</secondary></indexterm> The six Lojban vowels are 
-    <letteral>a</letteral>, 
-    <letteral>e</letteral>, 
-    <letteral>i</letteral>, 
-    <letteral>o</letteral>, 
-    <letteral>u</letteral>, and 
-    <letteral>y</letteral>. The first five vowels appear freely in all kinds of Lojban words. The vowel 
-    <letteral>y</letteral> has a limited distribution: it appears only in Lojbanized names, in the Lojban names of the letters of the alphabet, as a glue vowel in compound words, and standing alone as a space-filler word (like English 
+    <title><anchor xml:id="c3s4"/>双元音和成音节辅音</title>
+    <para> <indexterm type="general"><primary>双元音</primary><secondary>定义</secondary></indexterm> Lojban中有16个双元音。双元音是由两项组成的元音，一个短元音和一个持阻，或是唇音（国际音标
+    <phrase role="IPA">[w]</phrase>）或是腭音（国际音标
+    <phrase role="IPA">[j]</phrase>）持阻，或是前置（成阻）或是后置（除阻）于主元音。双元音通常构成单个音节</para>
+    <para> <indexterm type="general"><primary>元音</primary><secondary>于辅音相比</secondary></indexterm>  <indexterm type="general"><primary>辅音</primary><secondary>与元音相比</secondary></indexterm> 按Lojban的目的，元音是相对长的形成音节的核心的说话的声音。辅音相对短且通常要求一相伴元音来被听到。辅音能出现在音节的头尾，围着元音，在每个位置可有几个辅音在一个辅音簇中。每个单独的元音形成独立音节；辅音不影响音节的决定。</para>
+    <para> <indexterm type="general"><primary>元音</primary><secondary>定义</secondary></indexterm> 六个Lojban元音为
+    <letteral>a</letteral>、
+    <letteral>e</letteral>、
+    <letteral>i</letteral>、
+    <letteral>o</letteral>、
+    <letteral>u</letteral>和
+    <letteral>y</letteral>。前五个元音可自由出现在所有种类的Lojban词汇中。元音
+    <letteral>y</letteral>具有被限制的布局：它只出现在Lojban化的名字中，出现字母表中字母的Lojban名中，作为黏合元音出现在组合词中和独自出现作为占位符（像英语的
     
-    <quote>uh</quote> or 
-    <quote>er</quote>).</para>
-    <para> <indexterm type="general"><primary>diphthongs</primary><secondary>list of</secondary></indexterm>  <indexterm type="general"><primary>diphthongs</primary><secondary>IPA for</secondary></indexterm> The Lojban diphthongs are shown in the table below. (Variant pronunciations have been omitted, but are much as one would expect based on the variant pronunciations of the separate vowel letters: 
-    <diphthong>ai</diphthong> may be pronounced 
-    <phrase role="IPA">[ɑj]</phrase>, for example.)</para>
+    <quote>uh</quote>或
+    <quote>er</quote>）。</para>
+    <para> <indexterm type="general"><primary>双元音</primary><secondary>列表</secondary></indexterm>  <indexterm type="general"><primary>双元音</primary><secondary>国际音标</secondary></indexterm> Lojban双元音展示在下表中。（变体发音被禁止，但如任何人所期望的一般筑基于分别的元音字母的发音（译：我也很绝望。下为原文：but are much as one would expect based on the variant pronunciations of the separate vowel letters）： 
+    <diphthong>ai</diphthong>可被发音为
+    <phrase role="IPA">[ɑj]</phrase>，例如。）</para>
     <informaltable class="vertsep">
         <thead>
           <tr>
-            <td>Letters</td>
-            <td>IPA</td>
-            <td>Description</td>
+            <td>字母</td>
+            <td>国际音标</td>
+            <td>描述</td>
           </tr>
         </thead>
           <tr>
             <td><diphthong>ai</diphthong></td>     
             <td><phrase role="IPA">[aj]</phrase></td>
-            <td>an open vowel with palatal off-glide</td>
+            <td>腭除阻开元音</td>
           </tr>
           <tr>
             <td><diphthong>ei</diphthong></td>     
             <td><phrase role="IPA">[ɛj]</phrase></td>
-            <td>a front mid vowel with palatal off-glide</td>
+            <td>腭除阻前中元音</td>
           </tr>
           <tr>
             <td><diphthong>oi</diphthong></td>     
             <td><phrase role="IPA">[oj]</phrase></td>
-            <td>a back mid vowel with palatal off-glide</td>
+            <td>腭除阻后中元音</td>
           </tr>
           <tr>
             <td><diphthong>au</diphthong></td>     
             <td><phrase role="IPA">[aw]</phrase></td>
-            <td>an open vowel with labial off-glide</td>
+            <td>唇除阻开元音</td>
           </tr>
           <tr>
             <td><diphthong>ia</diphthong></td>     
             <td><phrase role="IPA">[ja]</phrase></td>
-            <td>an open vowel with palatal on-glide</td>
+            <td>腭成阻开元音</td>
           </tr>
           <tr>
             <td><diphthong>ie</diphthong></td>     
             <td><phrase role="IPA">[jɛ]</phrase></td>
-            <td>a front mid vowel with palatal on-glide</td>
+            <td>腭成阻前中元音</td>
           </tr>
           <tr>
             <td><diphthong>ii</diphthong></td>     
             <td><phrase role="IPA">[ji]</phrase></td>
-            <td>a front close vowel with palatal on-glide</td>
+            <td>腭成阻前闭元音</td>
           </tr>
           <tr>
             <td><diphthong>io</diphthong></td>     
             <td><phrase role="IPA">[jo]</phrase></td>
-            <td>a back mid vowel with palatal on-glide</td>
+            <td>腭成阻后中元音</td>
           </tr>
           <tr>
             <td><diphthong>iu</diphthong></td>     
             <td><phrase role="IPA">[ju]</phrase></td>
-            <td>a back close vowel with palatal on-glide</td>
+            <td>腭成阻后闭元音</td>
           </tr>
           <tr>
             <td><diphthong>ua</diphthong></td>     
             <td><phrase role="IPA">[wa]</phrase></td>
-            <td>an open vowel with labial on-glide</td>
+            <td>唇成阻开元音</td>
           </tr>
           <tr>
             <td><diphthong>ue</diphthong></td>     
             <td><phrase role="IPA">[wɛ]</phrase></td>
-            <td>a front mid vowel with labial on-glide</td>
+            <td>唇成阻前中元音</td>
           </tr>
           <tr>
             <td><diphthong>ui</diphthong></td>     
             <td><phrase role="IPA">[wi]</phrase></td>
-            <td>a front close vowel with labial on-glide</td>
+            <td>唇成阻前闭元音</td>
           </tr>
           <tr>
             <td><diphthong>uo</diphthong></td>     
             <td><phrase role="IPA">[wo]</phrase></td>
-            <td>a back mid vowel with labial on-glide</td>
+            <td>唇成阻后中元音</td>
           </tr>
           <tr>
             <td><diphthong>uu</diphthong></td>     
             <td><phrase role="IPA">[wu]</phrase></td>
-            <td>a back close vowel with labial on-glide</td>
+            <td>唇成阻后闭元音</td>
           </tr>
           <tr>
             <td><diphthong>iy</diphthong></td>     
             <td><phrase role="IPA">[jə]</phrase></td>
-            <td>a central mid vowel with palatal on-glide</td>
+            <td>腭成阻央中元音</td>
           </tr>
           <tr>
             <td><diphthong>uy</diphthong></td>     
             <td><phrase role="IPA">[wə]</phrase></td>
-            <td>a central mid vowel with labial on-glide</td>
+            <td>唇成阻央中元音</td>
           </tr>
     </informaltable>
-    <para>(Approximate English equivalents of most of these diphthongs exist: see 
-    <xref linkend="section-anglophone-diphthongs"/> for examples.)</para>
-    <para> <indexterm type="general"><primary>diphthongs</primary><secondary>classification of</secondary></indexterm> The first four diphthongs above (<diphthong>ai</diphthong>, 
-    <diphthong>ei</diphthong>, 
-    <diphthong>oi</diphthong>, and 
-    <diphthong>au</diphthong>, the ones with off-glides) are freely used in most types of Lojban words; the ten following ones are used only as stand-alone words and in Lojbanized names and borrowings; and the last two (<diphthong>iy</diphthong> and 
-    <diphthong>uy</diphthong>) are used only in Lojbanized names.</para>
-    <para> <indexterm type="general"><primary>syllabic consonants</primary></indexterm>  <indexterm type="general"><primary>consonants</primary><secondary>syllabic</secondary></indexterm> The syllabic consonants of Lojban, 
+    <para>（这些双元音大部分大约的英语等价物存在：参见
+    <xref linkend="section-anglophone-diphthongs"/>来获取例子。）</para>
+    <para> <indexterm type="general"><primary>双元音</primary><secondary>分类</secondary></indexterm> 上面前四个双元音（<diphthong>ai</diphthong>、
+    <diphthong>ei</diphthong>、
+    <diphthong>oi</diphthong>和
+    <diphthong>au</diphthong>除阻双元音）在多数种类Lojban单词中自由使用；之后的十个仅在独立单词及Lojban化名字与借词中使用；最后两个(<diphthong>iy</diphthong>和
+    <diphthong>uy</diphthong>）只用于Lojban化名字。</para>
+    <para> <indexterm type="general"><primary>成音节辅音</primary></indexterm>  <indexterm type="general"><primary>辅音</primary><secondary>成音节的</secondary></indexterm> Lojban的成音节辅音，
     
-    <phrase role="IPA">[l̩]</phrase>, 
-    <phrase role="IPA">[m̩]</phrase>, 
-    <phrase role="IPA">[n̩]</phrase>, and 
-    <phrase role="IPA">[r̩]</phrase>, are variants of the non-syllabic 
-    <phrase role="IPA">[l]</phrase>, 
-    <phrase role="IPA">[m]</phrase>, 
-    <phrase role="IPA">[n]</phrase>, and 
-    <phrase role="IPA">[r]</phrase> respectively. They normally have only a limited distribution, appearing in Lojban names and borrowings, although in principle any 
+    <phrase role="IPA">[l̩]</phrase>、
+    <phrase role="IPA">[m̩]</phrase>、
+    <phrase role="IPA">[n̩]</phrase>和
+    <phrase role="IPA">[r̩]</phrase>，分别是不成音节
+    <phrase role="IPA">[l]</phrase>、
+    <phrase role="IPA">[m]</phrase>、
+    <phrase role="IPA">[n]</phrase>和
+    <phrase role="IPA">[r]</phrase>的变体。它们正常情况下只有受限的布局，出现在Lojban名和借词中，尽管原则上任何
     
-    <letteral>l</letteral>, 
-    <letteral>m</letteral>, 
-    <letteral>n</letteral>, or 
-    <letteral>r</letteral> may be pronounced syllabically. If a syllabic consonant appears next to a 
+    <letteral>l</letteral>、
+    <letteral>m</letteral>、
+    <letteral>n</letteral>或
+    <letteral>r</letteral>可成音节地发音。若成音节辅音紧邻着不成音节的
     
-    <letteral>l</letteral>, 
-    <letteral>m</letteral>, 
-    <letteral>n</letteral>, or 
-    <letteral>r</letteral> that is not syllabic, it may not be clear which is which:</para>
+    <letteral>l</letteral>、
+    <letteral>m</letteral>、
+    <letteral>n</letteral>或
+    <letteral>r</letteral>出现，可能哪个是哪个分不太清：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2CE">
       <title>
         <anchor xml:id="c3e4d1"/>
@@ -536,24 +536,24 @@
       <pronunciation>
         <jbo>brlgan.</jbo>
         <ipa>[br̩l gan]</ipa>
-        <comment>or</comment>
+        <comment>或</comment>
         <ipa>[brl̩ gan]</ipa>
       </pronunciation>
     </example>
-    <para role="noindent">is a hypothetical Lojbanized name with more than one valid pronunciation; however it is pronounced, it remains the same word.</para>
+    <para role="noindent">是一个有着不止一种有效发音方式的假象Lojban化名字；无论它被怎么发音，它依然是同一个单词。</para>
     <para> 
 
-<indexterm type="general"><primary>Earl</primary><secondary>example</secondary></indexterm>
+<indexterm type="general"><primary>Earl</primary><secondary>例子</secondary></indexterm>
 
-  <indexterm type="general"><primary>syllabic consonants</primary><secondary>final in word</secondary></indexterm> Syllabic consonants are treated as consonants rather than vowels from the standpoint of Lojban morphology. Thus Lojbanized names, which are generally required to end in a consonant, are allowed to end with a syllabic consonant. An example is 
+  <indexterm type="general"><primary>成音节辅音</primary><secondary>最终在单词中</secondary></indexterm> 成音节辅音从Lojban音韵学视角上被视为辅音而非元音。这样通常要求以辅音终止的Lojban化名字，允许以成音节辅音结尾。一例为
     
-    <cmevla>rl.</cmevla>, which is an approximation of the English name 
-    <quote>Earl</quote>, and has two syllabic consonants.</para>
+    英文名<quote>Earl</quote>的近似的
+    <cmevla>rl.</cmevla>，具有两个成音节辅音。</para>
     
     
-    <para> <indexterm type="general"><primary>syllabic consonants</primary><secondary>effect on stress</secondary></indexterm>  <indexterm type="general"><primary>stress</primary><secondary>effect of syllabic consonants on</secondary></indexterm> Syllables with syllabic consonants and no vowel are never stressed or counted when determining which syllables to stress (see 
+    <para> <indexterm type="general"><primary>成音节辅音</primary><secondary>对重音的影响</secondary></indexterm>  <indexterm type="general"><primary>重音</primary><secondary>成音节辅音的影响</secondary></indexterm> 无元音而有成音节辅音的音节既不被重读也不在决定那个音节被重读时计入（参见
     
-    <xref linkend="section-stress"/>).</para>
+    <xref linkend="section-stress"/>）。</para>
   </section>
   <section xml:id="section-vowel-pairs">
     <title><anchor xml:id="c3s5"/>Vowel Pairs</title>
