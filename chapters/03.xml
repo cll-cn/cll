@@ -83,7 +83,7 @@
             <td><letteral>'</letteral></td>
             <td><phrase role="IPA">[h]</phrase></td>
             <td><phrase role="X-SAMPA">[h]</phrase></td>
-            <td>清声门擦音</td>
+            <td>清喉擦音</td>
           </tr>
           <tr>
             <td><letteral>,</letteral></td>
@@ -131,7 +131,7 @@
             </td>
             <td><phrase role="X-SAMPA">[E]</phrase>, <phrase role="X-SAMPA">[e]</phrase>
             </td>
-            <td>前央元音</td>
+            <td>前中元音</td>
           </tr>
           <tr>
             <td><letteral>f</letteral></td>
@@ -197,7 +197,7 @@
             </td>
             <td><phrase role="X-SAMPA">[o]</phrase>, <phrase role="X-SAMPA">[O]</phrase>
             </td>
-            <td>后央元音</td>
+            <td>后中元音</td>
           </tr>
           <tr>
             <td><letteral>p</letteral></td>
@@ -249,7 +249,7 @@
             <td><letteral>y</letteral></td>
             <td><phrase role="IPA">[ə]</phrase></td>
             <td><phrase role="X-SAMPA">[@]</phrase></td>
-            <td>中央元音</td>
+            <td>央中元音</td>
           </tr>
           <tr>
             <td><letteral>z</letteral></td>
@@ -262,7 +262,7 @@
     <para> <indexterm type="general"><primary>圆唇/扁唇元音</primary></indexterm> 特别注意Lojban元音发音时既可圆唇又可扁唇；典型的
     <letteral>o</letteral>和
     <letteral>u</letteral>圆唇的，其他的不是，如同在英语里一样，但这并非要求；一些人在发
-    <letteral>y</letteral>时也圆唇。Lojban辅音可颚音化也可不颚音化。在俄语和其他语言中发现的辅音的颚音化，不通常在发音上被接受，尽管接着的
+    <letteral>y</letteral>时也圆唇。Lojban辅音可送气也可不送气。在俄语和其他语言中发现的辅音的送气，不通常在发音上被接受，尽管接着的
     <letteral>i</letteral>可能会导致这件事。</para>
     <para> <indexterm type="general"><primary>字母的发音</primary><secondary>Lojban与英语的对比</secondary></indexterm>  <indexterm type="general"><primary>发音</primary><secondary>困难</secondary></indexterm> 字母
     <letteral>c</letteral>、
@@ -310,36 +310,36 @@
     <quote>ts</quote>看做单个音，而英语、法语和Lojban将它看作辅音群。</para>
   </section>
   <section xml:id="section-lojban-characters">
-    <title><anchor xml:id="c3s3"/>The Special Lojban Characters</title>
-    <para> <indexterm type="general"><primary>characters</primary><secondary>special</secondary></indexterm> The apostrophe, period, and comma need special attention. They are all used as indicators of a division between syllables, but each has a different pronunciation, and each is used for different reasons:</para>
-    <para> <indexterm type="general"><primary>apostrophe</primary><secondary>type of letter in word-formation</secondary></indexterm>  <indexterm type="general"><primary>' symbol</primary><secondary>definition (see also apostrophe)</secondary></indexterm>  <indexterm type="general"><primary>apostrophe</primary><secondary>definition of</secondary></indexterm> The apostrophe represents a phoneme similar to a short, breathy English 
-    <quote>h</quote>, (IPA 
-    <phrase role="IPA">[h]</phrase>). The letter 
-    <quote>h</quote> is not used to represent this sound for two reasons: primarily in order to simplify explanations of the morphology, but also because the sound is very common, and the apostrophe is a visually lightweight representation of it. The apostrophe sound is a consonant in nature, but is not treated as either a consonant or a vowel for purposes of Lojban morphology (word-formation), which is explained in 
-    <xref linkend="chapter-morphology"/>. In addition, the apostrophe visually parallels the comma and the period, which are also used (in different ways) to separate syllables.</para>
-    <para> <indexterm type="general"><primary>unvoiced vowel glide</primary><secondary>apostrophe as</secondary></indexterm>  <indexterm type="general"><primary>apostrophe</primary><secondary>purpose of</secondary></indexterm> The apostrophe is included in Lojban only to enable a smooth transition between vowels, while joining the vowels within a single word. In fact, one way to think of the apostrophe is as representing an unvoiced vowel glide.</para>
+    <title><anchor xml:id="c3s3"/>特别Lojban字符</title>
+    <para> <indexterm type="general"><primary>字符</primary><secondary>特别</secondary></indexterm> 撇号、句号和逗号需要特别关注。它们都用作音节分界指示，但每个有不同的发音，每个的使用有着不同的理由：</para>
+    <para> <indexterm type="general"><primary>撇号</primary><secondary>单词构成中字母的类型</secondary></indexterm>  <indexterm type="general"><primary>'符号</primary><secondary>定义（参见撇号）</secondary></indexterm>  <indexterm type="general"><primary>撇号</primary><secondary>定义</secondary></indexterm> 撇号表示类似于短的、带呼吸的英语的
+    <quote>h</quote>（国际音标
+    <phrase role="IPA">[h]</phrase>）（译：不同于汉语拼音方案的h）。因为两种原因字母
+    <quote>h</quote>不用来表示这个音：首先为了简化形态学解释，也因为该音非常常见，而撇号是一个它的视觉上分量小的表示。撇号的声音本来是一个辅音，但为了Lojban形态学（单词构成）既不被当成辅音也不被当成元音，在
+    <xref linkend="chapter-morphology"/>中有解释。另，撇号看起来与同用来（以不同方式）分隔音节的逗号和句号相似。</para>
+    <para> <indexterm type="general"><primary>无声元音过渡</primary><secondary>以撇号充当</secondary></indexterm>  <indexterm type="general"><primary>撇号</primary><secondary>目的</secondary></indexterm> 撇号被包含在Lojban中只是为单个单词中元音碰到一起时提供元音间的平滑过渡。实际上，看待撇号的一种方法是表示无声的元音过渡。</para>
     
-    <para> <indexterm type="general"><primary>apostrophe</primary><secondary>variant of</secondary></indexterm> As a permitted variant, any unvoiced fricative other than those already used in Lojban may be used to render the apostrophe: IPA 
-    <phrase role="IPA">[θ]</phrase> is one possibility. The convenience of the listener should be regarded as paramount in deciding to use a substitute for 
-    <phrase role="IPA">[h]</phrase>.</para>
-    <para> <indexterm type="general"><primary>pause</primary><secondary>representation of in Lojban</secondary></indexterm>  <indexterm type="general"><primary>glottal stop</primary><secondary>as pause in Lojban</secondary></indexterm>  <indexterm type="general"><primary>period</primary><secondary>definition of</secondary></indexterm> The period represents a mandatory pause, with no specified length; a glottal stop (IPA 
+    <para> <indexterm type="general"><primary>撇号</primary><secondary>变体</secondary></indexterm> 作为被允许的变体，任何不在Lojban中使用的清擦音可以表达撇号：国际音标
+    <phrase role="IPA">[θ]</phrase>是一种可能。听者的便利应视为决定代替
+    <phrase role="IPA">[h]</phrase>的音最重要的因素。</para>
+    <para> <indexterm type="general"><primary>停顿</primary><secondary>Lojban中的表示</secondary></indexterm>  <indexterm type="general"><primary>喉塞音</primary><secondary>作为Lojban中的停顿</secondary></indexterm>  <indexterm type="general"><primary>句号</primary><secondary>定义</secondary></indexterm> 句号表示吾明确长度的强制停顿；喉塞音（国际音标
     
-    <phrase role="IPA">[ʔ]</phrase>) is considered a pause of shortest length. A pause (or glottal stop) may appear between any two words, and in certain cases &ndash; explained in detail in 
+    <phrase role="IPA">[ʔ]</phrase>）被认为是最短的停顿。停顿（或喉塞音）可出现在任意两个单词间，在某些场合&ndash;在
     
-    <xref linkend="section-pauses"/> &ndash; must occur. In particular, a word beginning with a vowel is always preceded by a pause, and a word ending in a consonant is always followed by a pause.</para>
-    <para> <indexterm type="general"><primary>period</primary><secondary>optional</secondary></indexterm> Technically, the period is an optional reminder to the reader of a mandatory pause that is dictated by the rules of the language; because these rules are unambiguous, a missing period can be inferred from otherwise correct text. Periods are included only as an aid to the reader.</para>
-    <para> <indexterm type="general"><primary>period</primary><secondary>within a word</secondary></indexterm> A period also may be found apparently embedded in a word. When this occurs, such a written string is not one word but two, written together to indicate that the writer intends a unitary meaning for the compound. It is not really necessary to use a space between words if a period appears.</para>
-    <para> <indexterm type="general"><primary>pause</primary><secondary>contrasted with syllable break</secondary></indexterm>  <indexterm type="general"><primary>syllable break</primary><secondary>contrasted with pause</secondary></indexterm>  <indexterm type="general"><primary>syllable break</primary><secondary>representation in Lojban</secondary></indexterm>  <indexterm type="general"><primary>comma</primary><secondary>definition of</secondary></indexterm> The comma is used to indicate a syllable break within a word, generally one that is not obvious to the reader. Such a comma is written to separate syllables, but indicates that there must be no pause between them, in contrast to the period. Between two vowels, a comma indicates that some type of glide may be necessary to avoid a pause that would split the two syllables into separate words. It is always legal to use the apostrophe (IPA 
+    <xref linkend="section-pauses"/>中有详解&ndash;必须出现。特别地，以元音开始的单词通常在前边有一个停顿，以辅音结尾的单词通常在后边有一个停顿。</para>
+    <para> <indexterm type="general"><primary>句号</primary><secondary>选用</secondary></indexterm> 技术上来说，句号是选用的提醒读者语言规则决定的强制停顿的提醒着；因为这些规则不模糊，漏掉的句号能从其余正确文本中推断出来。句号被包含只是作为对读者的帮助。</para>
+    <para> <indexterm type="general"><primary>句号</primary><secondary>词内</secondary></indexterm> 句号也可被发现显然嵌在词中。当这发生时，这样的书面字符串不是一个而是两个，写在一起来表明作者使这组合词表达了一个意思。若句号出现，用词间空格并不真的有必要。</para>
+    <para> <indexterm type="general"><primary>停顿</primary><secondary>与破开音节相比</secondary></indexterm>  <indexterm type="general"><primary>破开音节</primary><secondary>与停顿相比</secondary></indexterm>  <indexterm type="general"><primary>破开音节</primary><secondary>Lojban中的表示</secondary></indexterm>  <indexterm type="general"><primary>逗号</primary><secondary>定义</secondary></indexterm> 逗号用来指示单词中通常对读者并不明显的破开的音节。这样一个逗号写来分隔音节，但指示其间并无停顿，异于句号。元音间逗号指示某类过渡的必要性以避免将两音节分为不同单词的停顿。用撇号（国际音标
     
-    <phrase role="IPA">[h]</phrase>) sound in pronouncing a comma. However, a comma cannot be pronounced as a pause or glottal stop between the two letters separated by the comma, because that pronunciation would split the word into two words.</para>
+    <phrase role="IPA">[h]</phrase>的声音来发逗号通常是合法的。然而，逗号不能发作其分隔两字母间的停顿或喉塞音，因为那发音将单词分为两个单词。</para>
     
-    <para> <indexterm type="general"><primary>comma</primary><secondary>optional</secondary></indexterm>  <indexterm type="general"><primary>comma</primary><secondary>main use of</secondary></indexterm> Otherwise, a comma is usually only used to clarify the presence of syllabic 
-    <letteral>l</letteral>, 
-    <letteral>m</letteral>, 
-    <letteral>n</letteral>, or 
-    <letteral>r</letteral> (discussed later). Commas are never required: no two Lojban words differ solely because of the presence or placement of a comma.</para>
-    <para>   <indexterm type="general"><primary>period</primary><secondary>example of</secondary></indexterm> Here is a somewhat artificial example of the difference in pronunciation between periods, commas and apostrophes. In the English song about Old MacDonald's Farm, the vowel string which is written as 
-    <quote>ee-i-ee-i-o</quote> in English could be Lojbanized with periods as:</para>
+    <para> <indexterm type="general"><primary>逗号</primary><secondary>选用</secondary></indexterm>  <indexterm type="general"><primary>逗号</primary><secondary>主要用途</secondary></indexterm> 否则，逗号通常只用来清晰化成音节的
+    <letteral>l</letteral>、
+    <letteral>m</letteral>、
+    <letteral>n</letteral>或
+    <letteral>r</letteral>（稍后讨论）。逗号从不被要求：没有两个Lojban单词不同主要因为逗号的存在或位置。</para>
+    <para>   <indexterm type="general"><primary>句号</primary><secondary>例子</secondary></indexterm> 这里有一些某种程度上说人造的句号、逗号和撇号发音差异的例子。在英文歌Old MacDonald's Farm中，以英语写作
+    <quote>ee-i-ee-i-o</quote>的元音串可用句号Lojban化成：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2B4">
       <title>
         
@@ -352,12 +352,12 @@
       <pronunciation>
         <jbo>.i.ai.i.ai.o</jbo>
         <ipa>[ʔi ʔaj ʔi ʔaj ʔo]</ipa>
-        <natlang>Ee! Eye! Ee! Eye! Oh!</natlang>
+        <natlang>咿！哎！咿！哎！喔！</natlang>
       </pronunciation>
     </example>
-    <para role="indent">However, this would sound clipped, staccato, and unmusical compared to the English. Furthermore, although 
-    <xref linkend="example-random-id-k2B4"/> is a string of meaningful Lojban words, as a sentence it makes very little sense. (Note the use of periods embedded within the written word.)</para>
-    <para> <indexterm type="general"><primary>comma</primary><secondary>example of</secondary></indexterm> If commas were used instead of periods, we could represent the English string as a Lojbanized name, ending in a consonant:</para>
+    <para role="indent">然而，这听起来被剪断、断奏，且与英语相比缺乏音乐性。进一步，虽然
+    <xref linkend="example-random-id-k2B4"/>是有意义的Lojban单词的序列，作为句子它几乎没有意义。（注意嵌在书面单词中句号的使用。）</para>
+    <para> <indexterm type="general"><primary>逗号</primary><secondary>例子</secondary></indexterm> 若用逗号代替句号。我们可将英语字符串表示为Lojban化的名字，以辅音结尾：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2b9">
       <title>
         <anchor xml:id="c3e3d2"/>
@@ -367,9 +367,9 @@
         <ipa>[ʔi jaj ji jaj jonʔ]</ipa>
       </pronunciation>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>comma</primary><secondary>variant of</secondary></indexterm> The commas represent new syllable breaks, but prohibit the use of pauses or glottal stop. The pronunciation shown is just one possibility, but closely parallels the intended English pronunciation.</para>
+    <para role="indent"> <indexterm type="general"><primary>逗号</primary><secondary>变体</secondary></indexterm> 逗号表示新的破开音节，但禁止停顿或喉塞音的使用。展示的发音只是一种可能，但接近英语发音。</para>
     
-    <para>However, the use of commas in this way is risky to unambiguous interpretation, since the glides might be heard by some listeners as diphthongs, producing something like</para>
+    <para>然而，这样的逗号使用危险以致不明确的解释，因为过渡可能被某些听者听为双元音产生某些像这样的东西：</para>
     <example role="pronunciation-example" xml:id="example-random-id-dQfn">
       <title>
         <anchor xml:id="c3e3d3"/>
@@ -378,10 +378,10 @@
         <jbo>.i,iai,ii,iai,ion.</jbo>
       </pronunciation>
     </example>
-    <para role="noindent">which is technically a different Lojban name. Since the intent with Lojbanized names is to allow them to be pronounced more like their native counterparts, the comma is allowed to represent vowel glides or some non-Lojbanic sound. Such an exception affects only spelling accuracy and the ability of a reader to replicate the desired pronunciation exactly; it will not affect the recognition of word boundaries.</para>
-    <para> <indexterm type="general"><primary>apostrophe</primary><secondary>as preferable over comma in names</secondary></indexterm> Still, it is better if Lojbanized names are always distinct. Therefore, the apostrophe is preferred in regular Lojbanized names that are not attempting to simulate a non-Lojban pronunciation perfectly. (Perfection, in any event, is not really achievable, because some sounds simply lack reasonable Lojbanic counterparts.)</para>
-    <para>If apostrophes were used instead of commas in 
-    <xref linkend="example-random-id-k2b9"/>, it would appear as:</para>
+    <para role="noindent">，技术上是一个不同的Lojban名字。因为Lojban化名字的意图是使他们听起来更像其原本对应物，逗号被允许表示元音过渡或某些不Lojban的音。这样的例外只影响拼写准确度和读者恰当地重产生期望的发音；它将不影响单词边界的识别。</para>
+    <para> <indexterm type="general"><primary>撇号</primary><secondary>在名字中比逗号更被偏好</secondary></indexterm> 仍然，若Lojban名字通常分立更好。因此，撇号在常见的不试图完美模拟非Lojban发音的Lojban化名字中更被偏好。（完美，在任何时候，不是真的可以达到的，因为一些音就是缺少合理的Lojban对应物。）</para>
+    <para>若
+    <xref linkend="example-random-id-k2b9"/>中撇号用来代替逗号，它会呈现为：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2bc">
       <title>
         <anchor xml:id="c3e3d4"/>
@@ -391,7 +391,7 @@
         <ipa>[ʔi hai hi hai honʔ]</ipa>
       </pronunciation>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>apostrophe</primary><secondary>example of</secondary></indexterm> which preserves the rhythm and length, if not the exact sounds, of the original English.</para>
+    <para role="noindent"> <indexterm type="general"><primary>撇号</primary><secondary>例子</secondary></indexterm>，保留了原英语版本的韵律和长度，若不是恰好的音。</para>
   </section>
   <section xml:id="section-diphthongs">
     <title><anchor xml:id="c3s4"/>Diphthongs and Syllabic Consonants</title>
