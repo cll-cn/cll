@@ -768,11 +768,11 @@
     <cmevla valid="false">djeimz.</cmevla>。</para>
   </section>
   <section xml:id="section-initial-pairs">
-    <title><anchor xml:id="c3s7"/>Initial Consonant Pairs</title>
-    <para> <indexterm type="general"><primary>consonant pairs</primary><secondary>initial</secondary></indexterm> The set of consonant pairs that may appear at the beginning of a word (excluding Lojbanized names) is far more restricted than the fairly large group of permissible consonant pairs described in 
+    <title><anchor xml:id="c3s7"/>开头辅音对</title>
+    <para> <indexterm type="general"><primary>辅音对</primary><secondary>开头</secondary></indexterm> 能出现在单词（排除Lojban化名字）开头的辅音对远比
     
-    <xref linkend="section-clusters"/>. Even so, it is more than English allows, although hopefully not more than English-speakers (and others) can learn to pronounce.</para>
-    <para> <indexterm type="general"><primary>initial consonant pairs</primary><secondary>list of</secondary></indexterm> There are just 48 such permissible initial consonant pairs, as follows:</para>
+    <xref linkend="section-clusters"/>中描述的允许辅音对的相当巨大的集团要受限得多。即使如此，它也比英语允许的要多，尽管希望不只是说英语的人（还有其他（译：就是我们））能学着发音。</para>
+    <para> <indexterm type="general"><primary>开头辅音对</primary><secondary>表格</secondary></indexterm> 只有48个这样允许的开头辅音对，如下：</para>
     <informaltable class="noborder">
           <tr>
             <td><morphology>bl</morphology></td>
@@ -857,7 +857,7 @@
             <td><morphology>zv</morphology></td>
           </tr>
     </informaltable>
-    <para>Lest this list seem almost random, a pairing of voiced and unvoiced equivalent vowels will show significant patterns which may help in learning:</para>
+    <para>为了不使这表看上去几乎随机，清浊等价元音（译：原文如此，元音似为衍文）的配对将展示可能帮助学习的优美的模式：</para>
     <informaltable class="noborder">
           <tr>
             <td><morphology>pl</morphology></td>
@@ -985,26 +985,26 @@
             <td><morphology>xr</morphology></td>
           </tr>
     </informaltable>
-    <para> <indexterm type="general"><primary>unvoiced consonants</primary><secondary>contrasted with voiced in allowable consonant pairs</secondary></indexterm>  <indexterm type="general"><primary>voiced consonants</primary><secondary>contrasted with unvoiced in allowable consonant pairs</secondary></indexterm> Note that if both consonants of an initial pair are voiced, the unvoiced equivalent is also permissible, and the voiced pair can be pronounced simply by voicing the unvoiced pair. (The converse is not true: 
-    <morphology>cn</morphology> is a permissible initial pair, but 
-    <morphology>jn</morphology> is not.)</para>
-    <para> <indexterm type="general"><primary>consonant triples</primary></indexterm> Consonant triples can occur medially in Lojban words. They are subject to the following rules:</para>
+    <para> <indexterm type="general"><primary>清辅音</primary><secondary>在允许辅音对中与浊音的对比</secondary></indexterm>  <indexterm type="general"><primary>浊辅音</primary><secondary>在允许辅音对中与清音的对比</secondary></indexterm> 注意如开头对的两个辅音都浊，清对应物也允许，且浊对可简单地浊化清对来发音。（反过来不对：
+    <morphology>cn</morphology>是允许开头对，但
+    <morphology>jn</morphology>不是。）</para>
+    <para> <indexterm type="general"><primary>三辅音结合体</primary></indexterm> 三辅音结合体能出现在Lojban单词中间。它们遵守如下规则：</para>
     <orderedlist>
       <listitem>
-        <para> <indexterm type="general"><primary>consonant triples</primary><secondary>restrictions on</secondary></indexterm> The first two consonants must constitute a permissible consonant pair;</para>
+        <para> <indexterm type="general"><primary>三辅音结合体</primary><secondary>限制</secondary></indexterm> 前两个辅音必须组成允许辅音对；</para>
       </listitem>
       <listitem>
-        <para>The last two consonants must constitute a permissible initial consonant pair;</para>
+        <para>后两个辅音必须组成允许开头辅音对；</para>
       </listitem>
       <listitem>
-        <para>The triples 
-        <morphology>ndj</morphology>, 
-        <morphology>ndz</morphology>, 
-        <morphology>ntc</morphology>, and 
-        <morphology>nts</morphology> are forbidden.</para>
+        <para>三结合体
+        <morphology>ndj</morphology>、
+        <morphology>ndz</morphology>、
+        <morphology>ntc</morphology>和
+        <morphology>nts</morphology>禁止。</para>
       </listitem>
     </orderedlist>
-    <para> <indexterm type="general"><primary>consonant clusters</primary><secondary>more than three consonants in</secondary></indexterm> Lojbanized names can begin or end with any permissible consonant pair, not just the 48 initial consonant pairs listed above, and can have consonant triples in any location, as long as the pairs making up those triples are permissible. In addition, names can contain consonant clusters with more than three consonants, again requiring that each pair within the cluster is valid.</para>
+    <para> <indexterm type="general"><primary>辅音群</primary><secondary>超过三个辅音</secondary></indexterm> Lojban化名字可以任意允许辅音对开始或结束，不仅是上面列的48开头辅音对，且能在任意位置出现三辅音结合体，只要组成那些三结合体的对是允许的。另，名字可包含超过三辅音的辅音群，也要求群中每对有效。</para>
     
     
     
