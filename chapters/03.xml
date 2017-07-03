@@ -648,15 +648,15 @@
     <quote>Meh Yeen</quote>。</para>
   </section>
   <section xml:id="section-clusters">
-    <title><anchor xml:id="c3s6"/>Consonant Clusters</title>
-    <para> <indexterm type="general"><primary>consonant</primary><secondary>effect on syllable count</secondary></indexterm>  <indexterm type="general"><primary>consonant</primary><secondary>definition</secondary></indexterm> A consonant sound is a relatively brief speech-sound that precedes or follows a vowel sound in a syllable; its presence either preceding or following does not add to the count of syllables, nor is a consonant required in either position for any syllable. Lojban has seventeen consonants: for the purposes of this section, the apostrophe is not counted as a consonant.</para>
-    <para> <indexterm type="general"><primary>consonants</primary><secondary>voicing of</secondary></indexterm>  <indexterm type="general"><primary>consonants</primary><secondary>voiced/unvoiced equivalents</secondary></indexterm> An important distinction dividing Lojban consonants is that of voicing. The following table shows the unvoiced consonants and the corresponding voiced ones:</para>
+    <title><anchor xml:id="c3s6"/>辅音丛</title>
+    <para> <indexterm type="general"><primary>辅音</primary><secondary>在音节计数上的影响</secondary></indexterm>  <indexterm type="general"><primary>辅音</primary><secondary>定义</secondary></indexterm> 辅音是相对短的在音节中前置或后置于元音的话语音；它的要么前置要么后置的表现不对音节计数造成影响，辅音也不被要求在任意音节的任意部分。Lojban有17个辅音：为了本章的目的，撇号不记为辅音。</para>
+    <para> <indexterm type="general"><primary>辅音</primary><secondary>发音</secondary></indexterm>  <indexterm type="general"><primary>辅音</primary><secondary>清浊等价物</secondary></indexterm> 划分Lojban辅音的重要分别是清浊。下表展示了清辅音和对应的浊辅音：</para>
     
     <informaltable class="vertsep">
         <thead>
           <tr>
-            <td>UNVOICED</td>
-            <td>VOICED</td>
+            <td>清音</td>
+            <td>浊音</td>
           </tr>
         </thead>
           <tr>
@@ -688,64 +688,64 @@
             <td>-</td>
           </tr>
     </informaltable>
-    <para>The consonant 
-    <letteral>x</letteral> has no voiced counterpart in Lojban. The remaining consonants, 
-    <letteral>l</letteral>, 
-    <letteral>m</letteral>, 
-    <letteral>n</letteral>, and 
-    <letteral>r</letteral>, are typically pronounced with voice, but can be pronounced unvoiced.</para>
-    <para> <indexterm type="general"><primary>consonant clusters</primary><secondary>contrasted with single consonants</secondary></indexterm>  <indexterm type="general"><primary>consonant clusters</primary><secondary>contrasted with doubled consonants</secondary></indexterm>  <indexterm type="general"><primary>doubled consonants</primary><secondary>contrasted with consonant clusters</secondary></indexterm>  <indexterm type="general"><primary>doubled consonants</primary><secondary>contrasted with single consonants</secondary></indexterm>  <indexterm type="general"><primary>single consonants</primary><secondary>contrasted with consonant clusters</secondary></indexterm>  <indexterm type="general"><primary>single consonants</primary><secondary>contrasted with doubled consonants</secondary></indexterm>  <indexterm type="general"><primary>consonant clusters</primary><secondary>definition of</secondary></indexterm> Consonant sounds occur in languages as single consonants, or as doubled, or as clustered combinations. Single consonant sounds are isolated by word boundaries or by intervening vowel sounds from other consonant sounds. Doubled consonant sounds are either lengthened like 
-    <phrase role="IPA">[s]</phrase> in English 
-    <quote>hiss</quote>, or repeated like 
-    <phrase role="IPA">[k]</phrase> in English 
-    <quote>backcourt</quote>. Consonant clusters consist of two or more single or doubled consonant sounds in a group, each of which is different from its immediate neighbor. In Lojban, doubled consonants are excluded altogether, and clusters are limited to two or three members, except in Lojbanized names.</para>
+    <para>辅音
+    <letteral>x</letteral>在Lojban中没有浊对应。剩余辅音，
+    <letteral>l</letteral>、
+    <letteral>m</letteral>、
+    <letteral>n</letteral>和
+    <letteral>r</letteral>，一般发为浊音，但可发为清音。</para>
+    <para> <indexterm type="general"><primary>辅音群</primary><secondary>与单个辅音相比</secondary></indexterm>  <indexterm type="general"><primary>辅音群</primary><secondary>与重辅音相比</secondary></indexterm>  <indexterm type="general"><primary>重辅音</primary><secondary>与辅音群相比</secondary></indexterm>  <indexterm type="general"><primary>重辅音</primary><secondary>与单辅音相比</secondary></indexterm>  <indexterm type="general"><primary>单辅音</primary><secondary>与辅音群相比</secondary></indexterm>  <indexterm type="general"><primary>单辅音</primary><secondary>与重辅音相比</secondary></indexterm>  <indexterm type="general"><primary>辅音群</primary><secondary>定义</secondary></indexterm> 出现在语言中的辅音是单辅音或重辅音或辅音群。单辅音被单词分界或介入的元音与其他辅音隔离开。重辅音或者被拉长了，像英语
+    <quote>hiss</quote>中的
+    <phrase role="IPA">[s]</phrase>，或者被重复了，像是英语
+    <quote>backcourt</quote>中的
+    <phrase role="IPA">[k]</phrase>。辅音群由两个或以上的单辅音或重辅音为一组构成，其中每个都与其紧邻的邻居不同。在Lojban中，重辅音被完全排除，辅音群被限制在两到三个成员，除非在Lojban化的名字中。</para>
     
-    <para> <indexterm type="general"><primary>consonants</primary><secondary>position of</secondary></indexterm> Consonants can occur in three positions in words: initial (at the beginning), medial (in the middle), and final (at the end). In many languages, the sound of a consonant varies depending upon its position in the word. In Lojban, as much as possible, the sound of a consonant is unrelated to its position. In particular, the common American English trait of changing a 
-    <quote>t</quote> between vowels into a 
-    <quote>d</quote> or even an alveolar tap (IPA 
-    <phrase role="IPA">[ɾ]</phrase>) is unacceptable in Lojban.
+    <para> <indexterm type="general"><primary>辅音</primary><secondary>位置</secondary></indexterm> 辅音可出现在单词的三种位置：开头（在开头）、中间（在中间）和结尾（在结尾）。在许多语言中，辅音的音随着它在单词中的位置而变化。在Lojban中，最大程度地，辅音的音与其位置无关。特别地，通常美式英语将元音间
+    <quote>t</quote>改为
+    <quote>d</quote>甚至齿龈轻触音（国际音标
+    <phrase role="IPA">[ɾ]</phrase>）在Lojban中无法接受。
     </para>
-    <para> <indexterm type="general"><primary>consonants</primary><secondary>final</secondary></indexterm>  <indexterm type="general"><primary>consonants</primary><secondary>restrictions on</secondary></indexterm> Lojban imposes no restrictions on the appearance of single consonants in any valid consonant position; however, no consonant (including syllabic consonants) occurs final in a word except in Lojbanized names.</para>
+    <para> <indexterm type="general"><primary>辅音</primary><secondary>结尾</secondary></indexterm>  <indexterm type="general"><primary>辅音</primary><secondary>限制</secondary></indexterm> Lojban对单辅音在任何辅音可能的位置出现没有强加限制；然而，没有辅音（包括成音节辅音）出现在除Lojban化名字以外的单词结尾。</para>
     
-    <para> <indexterm type="general"><primary>consonant pairs</primary><secondary>restrictions on</secondary></indexterm> Pairs of consonants can also appear freely, with the following restrictions:</para>
+    <para> <indexterm type="general"><primary>辅音对</primary><secondary>限制</secondary></indexterm> 辅音对也可自由出现，伴随以下限制：</para>
     <orderedlist>
       <listitem>
-        <para>It is forbidden for both consonants to be the same, as this would violate the rule against double consonants.</para>
+        <para>禁止两辅音相同，因为这会违反反重辅音规则。</para>
       </listitem>
       <listitem>
-        <para> <indexterm type="general"><primary>voiced/unvoiced consonants</primary><secondary>restrictions on</secondary></indexterm> It is forbidden for one consonant to be voiced and the other unvoiced. The consonants
-        <letteral>l</letteral>, 
-        <letteral>m</letteral>, 
-        <letteral>n</letteral>, and 
-        <letteral>r</letteral> are exempt from this restriction. As a result, 
-        <morphology>bf</morphology> is forbidden, and so is 
-        <morphology>sd</morphology>, but both 
-        <morphology>fl</morphology> and 
-        <morphology>vl</morphology>, and both 
-        <morphology>ls</morphology> and 
-        <morphology>lz</morphology>, are permitted.
+        <para> <indexterm type="general"><primary>请/浊辅音</primary><secondary>限制</secondary></indexterm> 禁止一个是浊音，一个是清音。辅音
+        <letteral>l</letteral>、
+        <letteral>m</letteral>、
+        <letteral>n</letteral>和
+        <letteral>r</letteral>为此项规则例外。因此，
+        <morphology>bf</morphology>禁止，
+        <morphology>sd</morphology>也是，但
+        <morphology>fl</morphology>与
+        <morphology>vl</morphology>、
+        <morphology>ls</morphology>与
+        <morphology>lz</morphology>，允许。
         </para>
       </listitem>
       <listitem>
-        <para>It is forbidden for both consonants to be drawn from the set 
-        <letteral>c</letteral>, 
-        <letteral>j</letteral>, 
-        <letteral>s</letteral>, 
-        <letteral>z</letteral>.
+        <para>两元音禁止都来自集合
+        <letteral>c</letteral>、
+        <letteral>j</letteral>、
+        <letteral>s</letteral>、
+        <letteral>z</letteral>。
         </para>
       </listitem>
       <listitem>
-        <para>The specific pairs 
-        <morphology>cx</morphology>, 
-        <morphology>kx</morphology>, 
-        <morphology>xc</morphology>, 
-        <morphology>xk</morphology>, and 
-        <morphology>mz</morphology> are forbidden.
+        <para>特别配对
+        <morphology>cx</morphology>、
+        <morphology>kx</morphology>、
+        <morphology>xc</morphology>、
+        <morphology>xk</morphology>和
+        <morphology>mz</morphology>禁止。
         </para>
       </listitem>
     </orderedlist>
-    <para>   <indexterm type="general"><primary>y</primary><secondary>use in avoiding forbidden consonant pairs</secondary></indexterm> These rules apply to all kinds of words, even Lojbanized names. If a name would normally contain a forbidden consonant pair, a 
-    <letteral>y</letteral> can be inserted to break up the pair:
+    <para>   <indexterm type="general"><primary>y</primary><secondary>防止禁止辅音对时使用</secondary></indexterm> 这些规则适用于所有单词，即使是Lojban化的名字。若名字平常包含禁止辅音对，
+    <letteral>y</letteral>可以插入来破坏配对：
     </para>
     <example role="pronunciation-example" xml:id="example-random-id-k2cK">
       <title>
@@ -762,10 +762,10 @@
         <natlang>James</natlang>
       </pronunciation>
     </example>
-    <para role="indent">The regular English pronunciation of 
-    <quote>James</quote>, which is 
-    <phrase role="IPA">[dʒɛjmz]</phrase>, would Lojbanize as 
-    <cmevla valid="false">djeimz.</cmevla>, which contains a forbidden consonant pair.</para>
+    <para role="indent">
+    <quote>James</quote>的通常英语发音，
+    <phrase role="IPA">[dʒɛjmz]</phrase>，会被Lojban化为含禁止辅音对的
+    <cmevla valid="false">djeimz.</cmevla>。</para>
   </section>
   <section xml:id="section-initial-pairs">
     <title><anchor xml:id="c3s7"/>Initial Consonant Pairs</title>
