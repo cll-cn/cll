@@ -307,7 +307,7 @@
     <phrase role="IPA">[tʃ]</phrase>）和
     <morphology>dj</morphology>（国际音标
     <phrase role="IPA">[dʒ]</phrase>）通常，一个复杂发音是被认为是一个还是两个发音取决于语言：俄语把
-    <quote>ts</quote>看做单个音，而英语、法语和Lojban将它看作辅音簇。</para>
+    <quote>ts</quote>看做单个音，而英语、法语和Lojban将它看作辅音群。</para>
   </section>
   <section xml:id="section-lojban-characters">
     <title><anchor xml:id="c3s3"/>特别Lojban字符</title>
@@ -398,7 +398,7 @@
     <para> <indexterm type="general"><primary>双元音</primary><secondary>定义</secondary></indexterm> Lojban中有16个双元音。双元音是由两项组成的元音，一个短元音和一个持阻，或是唇音（国际音标
     <phrase role="IPA">[w]</phrase>）或是腭音（国际音标
     <phrase role="IPA">[j]</phrase>）持阻，或是前置（成阻）或是后置（除阻）于主元音。双元音通常构成单个音节</para>
-    <para> <indexterm type="general"><primary>元音</primary><secondary>于辅音相比</secondary></indexterm>  <indexterm type="general"><primary>辅音</primary><secondary>与元音相比</secondary></indexterm> 按Lojban的目的，元音是相对长的形成音节的核心的说话的声音。辅音相对短且通常要求一相伴元音来被听到。辅音能出现在音节的头尾，围着元音，在每个位置可有几个辅音在一个辅音簇中。每个单独的元音形成独立音节；辅音不影响音节的决定。</para>
+    <para> <indexterm type="general"><primary>元音</primary><secondary>于辅音相比</secondary></indexterm>  <indexterm type="general"><primary>辅音</primary><secondary>与元音相比</secondary></indexterm> 按Lojban的目的，元音是相对长的形成音节的核心的说话的声音。辅音相对短且通常要求一相伴元音来被听到。辅音能出现在音节的头尾，围着元音，在每个位置可有几个辅音在一个辅音群中。每个单独的元音形成独立音节；辅音不影响音节的决定。</para>
     <para> <indexterm type="general"><primary>元音</primary><secondary>定义</secondary></indexterm> 六个Lojban元音为
     <letteral>a</letteral>、
     <letteral>e</letteral>、
@@ -556,13 +556,13 @@
     <xref linkend="section-stress"/>）。</para>
   </section>
   <section xml:id="section-vowel-pairs">
-    <title><anchor xml:id="c3s5"/>Vowel Pairs</title>
-    <para> <indexterm type="general"><primary>vowel pairs</primary><secondary>use of apostrophe in</secondary></indexterm>  <indexterm type="general"><primary>apostrophe</primary><secondary>use in vowel pairs</secondary></indexterm>  <indexterm type="general"><primary>vowel pairs</primary><secondary>definition of</secondary></indexterm> Lojban vowels also occur in pairs, where each vowel sound is in a separate syllable. These two vowel sounds are connected (and separated) by an apostrophe. Lojban vowel pairs should be pronounced continuously with the 
+    <title><anchor xml:id="c3s5"/>元音对</title>
+    <para> <indexterm type="general"><primary>元音对</primary><secondary>撇号在其中的使用</secondary></indexterm>  <indexterm type="general"><primary>撇号</primary><secondary>在元音对中的使用</secondary></indexterm>  <indexterm type="general"><primary>元音对</primary><secondary>定义</secondary></indexterm> Lojban元音也成对出现，其中每个元音在单独的音节中。这两个元音由撇号联系（和分隔）。Lojban元音对应在其间用
     
-    <phrase role="IPA">[h]</phrase> sound between (and not by a glottal stop or pause, which would split the two vowels into separate words).</para>
+    <phrase role="IPA">[h]</phrase>音（而非会将两元音破为分别单词的喉塞音或停顿）连续发音。</para>
     
-    <para> <indexterm type="general"><primary>diphthongs</primary><secondary>contrasted with vowel pairs</secondary></indexterm>  <indexterm type="general"><primary>vowel pairs</primary><secondary>contrasted with diphthongs</secondary></indexterm> All vowel combinations are permitted in two-syllable pairs with the apostrophe separating them; this includes those which constitute diphthongs when the apostrophe is not included.</para>
-    <para> <indexterm type="general"><primary>vowel pairs</primary><secondary>list of</secondary></indexterm> The Lojban vowel pairs are:</para>
+    <para> <indexterm type="general"><primary>双元音</primary><secondary>与元音对相比</secondary></indexterm>  <indexterm type="general"><primary>元音对</primary><secondary>与双元音相比</secondary></indexterm> 有撇号分隔时所有元音组合在双音节对中都允许；这包括那些在在没有撇号时组成双元音的。</para>
+    <para> <indexterm type="general"><primary>元音对</primary><secondary>表格</secondary></indexterm> Lojban元音对是：</para>
     
     <simplelist type="horiz" columns="6">
       <member><morphology>a'a</morphology></member>
@@ -612,12 +612,12 @@
       <member><morphology>y'u</morphology></member>
       <member><morphology>y'y</morphology></member>
     </simplelist>
-    <para> <indexterm type="general"><primary>vowel pairs</primary><secondary>involving y</secondary></indexterm> Vowel pairs involving 
-    <letteral>y</letteral> appear only in Lojbanized names. They could appear in cmavo (structure words), but only 
+    <para> <indexterm type="general"><primary>元音对</primary><secondary>包括y的</secondary></indexterm> 包括
+    <letteral>y</letteral>的元音对只出现在Lojban化的名字中。它们可以出现在cmavo（结构词）中，但只有
     
-    <valsi>.y'y.</valsi> is so used &ndash; it is the Lojban name of the apostrophe letter (see 
-    <xref linkend="section-lerfu-liste"/>).</para>
-    <para> <indexterm type="general"><primary>vowel pairs</primary><secondary>grouping of</secondary></indexterm> When more than two vowels occur together in Lojban, the normal pronunciation pairs vowels from the left into syllables, as in the Lojbanized name:</para>
+    <valsi>.y'y.</valsi>被如此使用&ndash;它是撇号字母的Lojban名字（参见
+    <xref linkend="section-lerfu-liste"/>）。</para>
+    <para> <indexterm type="general"><primary>元音对</primary><secondary>组团</secondary></indexterm> 当Lojban中两个以上元音同时出现时，通常发音从左开始给元音配对，如同在Lojban化名字中：</para>
     <example role="pronunciation-example" xml:id="example-random-id-RxtI">
       <title>
         <anchor xml:id="c3e5d1"/>
@@ -628,9 +628,9 @@
       </pronunciation>
     </example>
     <para role="indent">
-      <xref linkend="example-random-id-RxtI"/> contains the diphthong 
-      <diphthong>ei</diphthong> followed by the vowel 
-    <letteral>i</letteral>. In order to indicate a different grouping, the comma must always be used, leading to:</para>
+      <xref linkend="example-random-id-RxtI"/>包含被元音
+      <letteral>i</letteral>跟随的
+    <diphthong>ei</diphthong>。为指示不同的组团方式，逗号必须总是使用，产生：</para>
     <example role="pronunciation-example" xml:id="example-random-id-H0wB">
       <title>
         <anchor xml:id="c3e5d2"/>
@@ -639,13 +639,13 @@
         <jbo role="pronunciation">me,iin.</jbo>
       </pronunciation>
     </example>
-    <para role="noindent">which contains the vowel 
-    <letteral>e</letteral> followed by the diphthong 
-    <diphthong>ii</diphthong>. In rough English representation, 
-    <xref linkend="example-random-id-RxtI"/> is 
-    <quote>May Een</quote>, whereas 
-    <xref linkend="example-random-id-H0wB"/> is 
-    <quote>Meh Yeen</quote>.</para>
+    <para role="noindent">，包含被双元音跟随的
+    <diphthong>ii</diphthong>元音
+    <letteral>e</letteral>。在大约的英语表示中，
+    <xref linkend="example-random-id-RxtI"/>是
+    <quote>May Een</quote>，而
+    <xref linkend="example-random-id-H0wB"/>是
+    <quote>Meh Yeen</quote>。</para>
   </section>
   <section xml:id="section-clusters">
     <title><anchor xml:id="c3s6"/>Consonant Clusters</title>
