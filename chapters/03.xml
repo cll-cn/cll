@@ -1012,13 +1012,13 @@
     
   </section>
   <section xml:id="section-buffer-vowels">
-    <title><anchor xml:id="c3s8"/>Buffering Of Consonant Clusters</title>
-    <para> <indexterm type="general"><primary>vowel</primary><secondary>buffer</secondary></indexterm>  <indexterm type="general"><primary>buffer vowel</primary></indexterm>  <indexterm type="general"><primary>consonant clusters</primary><secondary>buffering of</secondary></indexterm> Many languages do not have consonant clusters at all, and even those languages that do have them often allow only a subset of the full Lojban set. As a result, the Lojban design allows the use of a buffer sound between consonant combinations which a speaker finds unpronounceable. This sound may be any non-Lojbanic vowel which is clearly separable by the listener from the Lojban vowels. Some possibilities are IPA 
-    <phrase role="IPA">[ɪ]</phrase>, 
-    <phrase role="IPA">[ɨ]</phrase>, 
-    <phrase role="IPA">[ʊ]</phrase>, or even 
-    <phrase role="IPA">[ʏ]</phrase>, but there probably is no universally acceptable buffer sound. When using a consonant buffer, the sound should be made as short as possible. Two examples showing such buffering (we will use 
-    <phrase role="IPA">[ɪ]</phrase> in this chapter) are:</para>
+    <title><anchor xml:id="c3s8"/>辅音群的缓冲</title>
+    <para> <indexterm type="general"><primary>元音</primary><secondary>缓冲</secondary></indexterm>  <indexterm type="general"><primary>缓冲元音</primary></indexterm>  <indexterm type="general"><primary>辅音群</primary><secondary>缓冲</secondary></indexterm> 许多元音根本没有辅音群，甚至那些有辅音群的语言通常只允许全Lojban集合的一个子集。因此，Lojban的设计允许在说话者发现无法发音的辅音组合间使用缓冲音。这声音可以是任何听者能与Lojban元音清晰分辨的非Lojban元音。一些可能为国际音标
+    <phrase role="IPA">[ɪ]</phrase>、
+    <phrase role="IPA">[ɨ]</phrase>、
+    <phrase role="IPA">[ʊ]</phrase>或甚至
+    <phrase role="IPA">[ʏ]</phrase>，但大概不存在广泛接受的缓冲音。用缓冲音时，音必须被发得尽量短。展示这样的缓冲音（我们在本章中用
+    <phrase role="IPA">[ɪ]</phrase>）的两个例子为：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2dg">
       <title>
         <anchor xml:id="c3e8d1"/>
@@ -1026,7 +1026,7 @@
       <pronunciation>
         <jbo>vrusi</jbo>
         <ipa>[ˈvru si]</ipa>
-        <comment>or</comment>
+        <comment>或</comment>
         <ipa>[vɪ ˈru si]</ipa>
       </pronunciation>
     </example>
@@ -1042,13 +1042,13 @@
       <pronunciation>
         <jbo role="pronunciation">.AMsterdam.</jbo>  
         <ipa>[ʔam ster damʔ]</ipa>
-        <comment>or</comment>
+        <comment>或</comment>
         <ipa>[ˈʔa mɪ sɪ tɛ rɪ da mɪʔ]</ipa>
       </pronunciation>
     </example>
-    <para role="indent">   <indexterm type="general"><primary>stress</primary><secondary>effect of buffer vowel on</secondary></indexterm>  <indexterm type="general"><primary>buffer vowel</primary><secondary>and stress</secondary></indexterm> When a buffer vowel is used, it splits each buffered consonant into its own syllable. However, the buffering syllables are never stressed, and are not counted in determining stress. They are, in effect, not really syllables to a Lojban listener, and thus their impact is ignored.</para>
+    <para role="indent">   <indexterm type="general"><primary>重音</primary><secondary>缓冲音的影响</secondary></indexterm>  <indexterm type="general"><primary>缓冲元音</primary><secondary>与重音</secondary></indexterm> 用缓冲元音时，它将每个被缓冲的辅音裂为它自己的音节。然而，缓冲音节永远不会被重读，不在决定重音时计入。它们，在效果上，对Lojban听者来说不是真正的音节，这样它们的影响忽略。</para>
     
-    <para>Here are more examples of unbuffered and buffered pronunciations:</para>
+    <para>这里有更多不被缓冲和被缓冲的发音的例子：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2DT">
       <title>
         <anchor xml:id="c3e8d3"/>
@@ -1070,10 +1070,10 @@
         <ipa>[ˈxa pɪ ʃɪ kɛ]</ipa>
       </pronunciation>
     </example>
-    <para role="indent">In 
-    <xref linkend="example-random-id-k2Gg"/>, we see that buffering vowels can be used in just some, rather than all, of the possible places: the second pronunciation buffers the 
-    <morphology>pc</morphology> consonant pair but not the 
-    <morphology>ck</morphology>. The third pronunciation buffers both.</para>
+    <para role="indent">在
+    <xref linkend="example-random-id-k2Gg"/>中，我们看到缓冲元音可指用在一些而非全部可能的位置：第二个发音缓冲了
+    <morphology>pc</morphology>辅音对而非
+    <morphology>ck</morphology>。第三个发音缓冲了它们两个。</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2hN">
       <title>
         <anchor xml:id="c3e8d5"/>
@@ -1083,15 +1083,15 @@
         <ipa>[po nə 'ni hu]</ipa>
       </pronunciation>
     </example>
-    <para role="indent">   <indexterm type="general"><primary>y sound</primary><secondary>contrasted with vowel buffer</secondary></indexterm>  <indexterm type="general"><primary>vowel buffer</primary><secondary>contrasted with y sound</secondary></indexterm> 
-      <xref linkend="example-random-id-k2hN"/> cannot contain any buffering vowel. It is important not to confuse the vowel 
-      <letteral>y</letteral>, which is pronounced 
-    <phrase role="IPA">[ə]</phrase>, with the buffer, which has a variety of possible pronunciations and is never written. Consider the contrast between</para>
+    <para role="indent">   <indexterm type="general"><primary>y音</primary><secondary>与元音缓冲相比</secondary></indexterm>  <indexterm type="general"><primary>元音缓冲</primary><secondary>与y音相比</secondary></indexterm> 
+      <xref linkend="example-random-id-k2hN"/>不能包含任何缓冲元音。不混淆发音为
+      <phrase role="IPA">[ə]</phrase>的元音
+    <letteral>y</letteral>与有许多可能发音且从不被写出的缓冲音很重要。考虑</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2jU">
       <title>
         
 
-<indexterm type="example"><primary>bone bread</primary></indexterm>
+<indexterm type="example"><primary>骨面包</primary></indexterm>
 
 
         <anchor xml:id="c3e8d6"/>
@@ -1101,12 +1101,12 @@
         <ipa>[boŋ gə ˈnan ba]</ipa>
       </pronunciation>
     </example>
-    <para role="noindent">an unlikely Lojban compound word meaning 
-    <quote>bone bread</quote> (note the use of 
+    <para role="noindent">一个意为
+    <quote>骨面包</quote>的不可能的Lojban组合词（注意作为
     
-    <phrase role="IPA">[ŋ]</phrase> as a representative of 
-    <letteral>n</letteral> before 
-    <letteral>g</letteral>) and</para>
+    <letteral>g</letteral>后的
+    <letteral>n</letteral>的代表的
+    <phrase role="IPA">[ŋ]</phrase>的使用）与</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2jv">
       <title>
         <anchor xml:id="c3e8d7"/>
@@ -1116,10 +1116,10 @@
         <ipa>[boŋ ˈgnan ba]</ipa>
       </pronunciation>
     </example>
-    <para role="noindent">a possible borrowing from another language (Lojban borrowings can only take a limited form). If 
+    <para role="noindent">一个可能的从其他语言来的借词（Lojban借词只能采取一种限制的形式）间的辅音。若
     
     
-    <xref linkend="example-random-id-k2jv"/> were pronounced with buffering, as</para>
+    <xref linkend="example-random-id-k2jv"/>用缓冲发音，如同</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2Kb">
       <title>
         <anchor xml:id="c3e8d8"/>
@@ -1128,12 +1128,12 @@
         <ipa>[boŋ gɪ ˈnan ba]</ipa>
       </pronunciation>
     </example>
-    <para role="noindent">it would be very similar to 
-    <xref linkend="example-random-id-k2jU"/>. Only a clear distinction between 
-    <letteral>y</letteral> and any buffering vowel would keep the two words distinct.</para>
-    <para> <indexterm type="general"><primary>buffer vowel</primary><secondary>shortening of</secondary></indexterm>  <indexterm type="general"><primary>vowels</primary><secondary>length of</secondary></indexterm> Since buffering is done for the benefit of the speaker in order to aid pronounceability, there is no guarantee that the listener will not mistake a buffer vowel for one of the six regular Lojban vowels. The buffer vowel should be as laxly pronounced as possible, as central as possible, and as short as possible. Furthermore, it is worthwhile for speakers who use buffers to pronounce their regular vowels a bit longer than usual, to avoid confusion with buffer vowels. The speakers of many languages will have trouble correctly hearing any of the suggested buffer vowels otherwise. By this guideline, 
+    <para role="noindent">一样，它会非常像
+    <xref linkend="example-random-id-k2jU"/>。只有
+    <letteral>y</letteral>与任何缓冲元音间清晰的区别才会保持两个单词不同。</para>
+    <para> <indexterm type="general"><primary>缓冲元音</primary><secondary>缩短</secondary></indexterm>  <indexterm type="general"><primary>元音</primary><secondary>长度</secondary></indexterm> 因为缓冲音是为了使用者来帮助可发音性，没有保证听者不会把缓冲元音错当成六个Lojban通常元音之一。缓冲元音应尽可能发得松、央、短。进一步，用缓冲音的说话者值得把他们的通常元音发得比平常长得多，来避免与缓冲元音的混淆。许多语言的说话者会在正确地听任何建议的缓冲元音的方面有困难否则。通过这指导，
     
-    <xref linkend="example-random-id-k2Kb"/> would be pronounced</para>
+    <xref linkend="example-random-id-k2Kb"/>会伴随着拉长的元音被发音为</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2oF">
       <title>
         <anchor xml:id="c3e8d9"/>
@@ -1142,7 +1142,7 @@
         <ipa>[boːŋ gɪ ˈnaːn baː]</ipa>
       </pronunciation>
     </example>
-    <para role="noindent">with lengthened vowels.</para>
+    <para role="noindent">。</para>
   </section>
   <section xml:id="section-stress">
     <title><anchor xml:id="c3s9"/>Syllabication And Stress</title>
