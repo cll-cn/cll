@@ -379,7 +379,7 @@
       </pronunciation>
     </example>
     <para role="noindent">，技术上是一个不同的Lojban名字。因为Lojban化名字的意图是使他们听起来更像其原本对应物，逗号被允许表示元音持阻或某些不Lojban的音。这样的例外只影响拼写准确度和读者恰当地重产生期望的发音；它将不影响单词边界的识别。</para>
-    <para> <indexterm type="general"><primary>撇号</primary><secondary>在名字中比逗号更被偏好</secondary></indexterm> 仍然，若Lojban名字通常分立更好。因此，撇号在常见的不试图完美模拟非Lojban发音的Lojban化名字中更被偏好。（完美，在任何时候，不是真的可以达到的，因为一些音就是缺少合理的Lojban对应物。）</para>
+    <para> <indexterm type="general"><primary>撇号</primary><secondary>在名字中比逗号更被推荐</secondary></indexterm> 仍然，若Lojban名字通常分立更好。因此，撇号在常见的不试图完美模拟非Lojban发音的Lojban化名字中更被推荐。（完美，在任何时候，不是真的可以达到的，因为一些音就是缺少合理的Lojban对应物。）</para>
     <para>若
     <xref linkend="example-random-id-k2b9"/>中撇号用来代替逗号，它会呈现为：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2bc">
@@ -1145,16 +1145,16 @@
     <para role="noindent">。</para>
   </section>
   <section xml:id="section-stress">
-    <title><anchor xml:id="c3s9"/>Syllabication And Stress</title>
-    <para> <indexterm type="general"><primary>syllabication</primary><secondary>definition of</secondary></indexterm> A Lojban word has one syllable for each of its vowels, diphthongs, and syllabic consonants (referred to simply as 
+    <title><anchor xml:id="c3s9"/>音节划分和重音</title>
+    <para> <indexterm type="general"><primary>音节划分</primary><secondary>定义</secondary></indexterm> Lojban单词每个元音、双元音和成音节辅音（为了本节的目的简单地称为
     
-    <quote>vowels</quote> for the purposes of this section.) Syllabication rules determine which of the consonants separating two vowels belong to the preceding vowel and which to the following vowel. These rules are conventional only; the phonetic facts of the matter about how utterances are syllabified in any language are always very complex.</para>
-    <para> <indexterm type="general"><primary>syllabication</primary><secondary>rules for</secondary></indexterm> A single consonant always belongs to the following vowel. A consonant pair is normally divided between the two vowels; however, if the pair constitute a valid initial consonant pair, they are normally both assigned to the following vowel. A consonant triple is divided between the first and second consonants. Apostrophes and commas, of course, also represent syllable breaks. Syllabic consonants usually appear alone in their syllables.</para>
-    <para> <indexterm type="general"><primary>syllabication</primary><secondary>and names</secondary></indexterm> It is permissible to vary from these rules in Lojbanized names. For example, there are no definitive rules for the syllabication of names with consonant clusters longer than three consonants. The comma is used to indicate variant syllabication or to explicitly mark normal syllabication.</para>
+    <quote>元音</quote>）。音节划分规则决定哪些分隔两元音的辅音归属于前一个元音哪些归属于后一个元音。这些规则只是方便；任何语言中句子划分音节的音韵事实非常复杂。</para>
+    <para> <indexterm type="general"><primary>音节划分</primary><secondary>规则</secondary></indexterm> 单辅音总属于后一个音节。辅音对普通来说分在两个元音间；然而，若对构成有效开头辅音对，它们普通来说分配给后一个元音。三辅音结合体在第一个和第二个辅音间分隔。撇号和逗号，当然，代表破开音节。成音节辅音通常在它们的音节中独自出现。</para>
+    <para> <indexterm type="general"><primary>音节划分</primary><secondary>与名字</secondary></indexterm> 允许在Lojban化名字中改变这些规则。例如，有超过三个辅音的辅音群的名字的音节划分没有明确规则。逗号用来指示变化的音节划分或明确标记普通音节划分。</para>
     
     
     
-    <para> <indexterm type="general"><primary>syllabication</primary><secondary>examples of</secondary></indexterm> Here are some examples of Lojban syllabication:</para>
+    <para> <indexterm type="general"><primary>音节划分</primary><secondary>例子</secondary></indexterm> 这里有一些Lojban音节划分的例子：</para>
     
     <example role="pronunciation-example" xml:id="example-random-id-C9tX">
       <title>
@@ -1165,7 +1165,7 @@
         <jbo role="pronunciation">pu,je,nai,ca,je,ba</jbo>
       </pronunciation>
     </example>
-    <para role="indent">This word has no consonant pairs and is therefore syllabified before each medial consonant.</para>
+    <para role="indent">这单词没有辅音对，因此在每个中间的辅音前划分音节。</para>
     
     <example role="pronunciation-example" xml:id="example-random-id-WfXq">
       <title>
@@ -1176,7 +1176,7 @@
         <jbo role="pronunciation">nin,mu</jbo>
       </pronunciation>
     </example>
-    <para role="indent">This word is split at a consonant pair.</para>
+    <para role="indent">这单词在辅音对处被破裂。</para>
     <example role="pronunciation-example" xml:id="example-random-id-cwtY">
       <title>
         <anchor xml:id="c3e9d3"/>
@@ -1186,7 +1186,7 @@
         <jbo role="pronunciation">fit,pri</jbo>
       </pronunciation>
     </example>
-    <para role="indent">This word is split at a consonant triple, between the first two consonants of the triple.</para>
+    <para role="indent">这单词在三辅音结合体被破裂，在三结合体的前两个辅音间。</para>
     <example role="pronunciation-example" xml:id="example-random-id-WHAV">
       <title>
         <anchor xml:id="c3e9d4"/>
@@ -1198,9 +1198,9 @@
         
       </pronunciation>
     </example>
-    <para role="indent">This word contains the consonant pair 
-    <morphology>rg</morphology>; the 
-    <letteral>r</letteral> may be pronounced syllabically or not.</para>
+    <para role="indent">这单词包含辅音对
+    <morphology>rg</morphology>；
+    <letteral>r</letteral>可能被成音节地发音或者不。</para>
     <example role="pronunciation-example" xml:id="example-random-id-nK5r">
       <title>
         <anchor xml:id="c3e9d5"/>
@@ -1211,28 +1211,28 @@
         <jbo role="pronunciation">kle,zba</jbo>
       </pronunciation>
     </example>
-    <para role="indent">This word contains the permissible initial pair 
-    <morphology>zb</morphology>, and so may be syllabicated either between 
-    <letteral>z</letteral> and 
-    <letteral>b</letteral> or before 
-    <morphology>zb</morphology>.</para>
-    <para> <indexterm type="general"><primary>stressed vowel</primary><secondary>compared with stressed syllable</secondary></indexterm>  <indexterm type="general"><primary>stressed syllable</primary><secondary>compared with stressed vowel</secondary></indexterm>  <indexterm type="general"><primary>stress</primary><secondary>definition of</secondary></indexterm> Stress is a relatively louder pronunciation of one syllable in a word or group of words. Since every syllable has a vowel sound (or diphthong or syllabic consonant) as its nucleus, and the stress is on the vowel sound itself, the terms 
-    <quote>stressed syllable</quote> and 
-    <quote>stressed vowel</quote> are largely interchangeable concepts.</para>
-    <para> <indexterm type="general"><primary>stress</primary><secondary>rules for</secondary></indexterm> Most Lojban words are stressed on the next-to-the-last, or penultimate, syllable. In counting syllables, however, syllables whose vowel is 
-    <letteral>y</letteral> or which contain a syllabic consonant (<letteral>l</letteral>, 
-    <letteral>m</letteral>, 
-    <letteral>n</letteral>, or 
-    <letteral>r</letteral>) are never counted. (The Lojban term for penultimate stress is 
-    <jbophrase>da'amoi terbasna</jbophrase>.) Similarly, syllables created solely by adding a buffer vowel, such as 
-    <phrase role="IPA">[ɪ]</phrase>, are not counted.</para>
-    <para> <indexterm type="general"><primary>stress</primary><secondary>levels of</secondary></indexterm> There are actually three levels of stress &ndash; primary, secondary, and weak. Weak stress is the lowest level, so it really means no stress at all. Weak stress is required for syllables containing 
-    <letteral>y</letteral>, a syllabic consonant, or a buffer vowel.</para>
-    <para> <indexterm type="general"><primary>names</primary><secondary>stress on</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>stress on</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>stress on</secondary></indexterm>  <indexterm type="general"><primary>stress</primary><secondary>primary</secondary></indexterm> Primary stress is required on the penultimate syllable of Lojban content words (called 
-    <valsi>brivla</valsi>). Lojbanized names may be stressed on any syllable, but if a syllable other than the penultimate is stressed, the syllable (or at least its vowel) must be capitalized in writing. Lojban structural words (called 
-    <valsi>cmavo</valsi>) may be stressed on any syllable or none at all. However, primary stress may not be used in a syllable just preceding a brivla, unless a pause divides them; otherwise, the two words may run together.</para>
-    <para> <indexterm type="general"><primary>stress</primary><secondary>secondary</secondary></indexterm> Secondary stress is the optional and non-distinctive emphasis used for other syllables besides those required to have either weak or primary stress. There are few rules governing secondary stress, which typically will follow a speaker's native language habits or preferences. Secondary stress can be used for contrast, or for emphasis of a point. Secondary stress can be emphasized at any level up to primary stress, although the speaker must not allow a false primary stress in brivla, since errors in word resolution could result.</para>
-    <para>  The following are Lojban words with stress explicitly shown:</para>
+    <para role="indent">这单词包含允许开头对
+    <morphology>zb</morphology>，因此能在
+    <letteral>z</letteral>与
+    <letteral>b</letteral>间或在
+    <morphology>zb</morphology>前划分音节。</para>
+    <para> <indexterm type="general"><primary>重音元音</primary><secondary>与重音音节相比</secondary></indexterm>  <indexterm type="general"><primary>重音音节</primary><secondary>与重音元音相比</secondary></indexterm>  <indexterm type="general"><primary>重音</primary><secondary>定义</secondary></indexterm> 重音是一单词或单词群中的一音节中相对大声的发音。因为每个音节有一元音（或双元音或成音节辅音）作为它的核，且重音时在元音本身上的，形式
+    <quote>重音音节</quote>和
+    <quote>重音元音</quote>是大范围内可互换的概念。</para>
+    <para> <indexterm type="general"><primary>重音</primary><secondary>规则</secondary></indexterm> 多数Lojban单词在倒数第二个，或者说倒数第二个（译：英文中为不同单词）音节上重读。数音节时，然而，元音是 syllables whose vowel is 
+    <letteral>y</letteral>的或包含成音节辅音（<letteral>l</letteral>、
+    <letteral>m</letteral>、
+    <letteral>n</letteral>或
+    <letteral>r</letteral>）的音节不数。（倒数第二重音的Lojban形式为
+    <jbophrase>da'amoi terbasna</jbophrase>。）相似地，独自靠加入缓冲元音，像
+    <phrase role="IPA">[ɪ]</phrase>，形成的音节不数。</para>
+    <para> <indexterm type="general"><primary>重音</primary><secondary>等级</secondary></indexterm> 实际上有三级重音&ndash;主、次、弱。弱重音是最低的等级，它实际上意味着根本没有重音。对包含
+    <letteral>y</letteral>、成音节辅音或缓冲元音的音节，弱重音是被要求的。</para>
+    <para> <indexterm type="general"><primary>名字</primary><secondary>重音</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>重音</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>重音</secondary></indexterm>  <indexterm type="general"><primary>重音</primary><secondary>主</secondary></indexterm> 主重音要求落在Lojban内容词（称为
+    <valsi>brivla</valsi>）倒数第二个音节上。Lojban化的名字可在任何音节上重读，但若非倒数第二个音节被重读，那个音节（或至少它的元音）必须在书写时大写。Lojban结构词（称为
+    <valsi>cmavo</valsi>）能在任意音节上重读或根本不重读。然而，主重音不能落在恰在brivla前的音节上，除非有一个停顿把他们分隔开来；否则，两单词可能混在一起。</para>
+    <para> <indexterm type="general"><primary>重音</primary><secondary>次</secondary></indexterm> 次重音被除被要求用弱重音和主重音外其他音节选用，不是起区分作用的重点。几乎没有控制次重音的规则，一般遵循说话者的母语习惯或推荐。次重音可被用来对比或对重点的强调。次重音可被强调至到主重音位置的任何级别，尽管说话者禁止在brivla中引入错误主重音，因为单词解析中的错误会反映出来。</para>
+    <para>  下面是明确表示重音的Lojban语段：</para>
     <example role="pronunciation-example" xml:id="example-random-id-cxzt">
       <title>
         <anchor xml:id="c3e9d6"/>
@@ -1242,10 +1242,10 @@
         <jbo role="pronunciation">DI,ky,jvo</jbo>
       </pronunciation>
     </example>
-    <para role="noindent">(In a fully-buffered dialect, the pronunciation would be: 
-    <phrase role="IPA">['di kə ʒɪ vo]</phrase>.) Note that the syllable 
-    <valsi>ky</valsi> is not counted in determining stress. The vowel 
-    <letteral>y</letteral> is never stressed in a normal Lojban context.</para>
+    <para role="noindent">（在一完全缓冲方言中，发音可能为：
+    <phrase role="IPA">['di kə ʒɪ vo]</phrase>）。注意音节
+    <valsi>ky</valsi>不在决定音节时计入。元音
+    <letteral>y</letteral>在正常Lojban语境中从不重读。</para>
     <example role="pronunciation-example" xml:id="example-random-id-Sz52">
       <title>
         
@@ -1260,10 +1260,10 @@
         <jbo role="pronunciation">.ARM,strong.</jbo>
       </pronunciation>
     </example>
-    <para role="indent">This is a Lojbanized version of the name 
-    <quote>Armstrong</quote>. The final 
+    <para role="indent">这是姓名
+    <quote>Armstrong</quote>的一Lojban化版本。最后的
     
-    <letteral>g</letteral> must be explicitly pronounced. With full buffering, the name would be pronounced:</para>
+    <letteral>g</letteral>必须明确发音。完全缓冲时，名字可能发音为：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2PA">
       <title>
         <anchor xml:id="c3e9d8"/>
@@ -1272,16 +1272,16 @@
         <ipa>[ˈʔa rɪ mɪ sɪ tɪ ro nɪ gɪʔ]</ipa>
       </pronunciation>
     </example>
-    <para role="indent">However, there is no need to insert a buffer in every possible place just because it is inserted in one place: partial buffering is also acceptable. In every case, however, the stress remains in the same place: on the first syllable.</para>
-    <para> <indexterm type="general"><primary>-ng</primary><secondary>Lojban contrasted with English</secondary></indexterm> The English pronunciation of 
-    <quote>Armstrong</quote>, as spelled in English, is not correct by Lojban standards; the letters 
+    <para role="indent">然而，不需要只因为缓冲音被插入到一个地方就在所有可能位置都插入它；部分缓冲也可接受。在任何情况下，然而，重音留在相同的位置：第一音节。</para>
+    <para> <indexterm type="general"><primary>-ng</primary><secondary>Lojban与英语比较</secondary></indexterm> 
+    <quote>Armstrong</quote>的英语发音，如同在英语中拼写的那样，不符合Lojban规范；字母
     
-    <quote>ng</quote> in English represent a velar nasal (IPA 
-    <phrase role="IPA">[ŋ]</phrase>) which is a single consonant. In Lojban, 
-    <morphology>ng</morphology> represents two separate consonants that must both be pronounced; you may not use 
-    <phrase role="IPA">[ŋ]</phrase> to pronounce Lojban 
-    <morphology>ng</morphology>, although 
-    <phrase role="IPA">[ŋg]</phrase> is acceptable. English speakers are likely to have to pronounce the ending with a buffer, as one of the following:</para>
+    <quote>ng</quote>在英语中代表软腭鼻音单辅音（国际音标
+    <phrase role="IPA">[ŋ]</phrase>）。在Lojban中，
+    <morphology>ng</morphology>代表两个必须都发音的分开的辅音；你不能用
+    <phrase role="IPA">[ŋ]</phrase>来发Lojban
+    <morphology>ng</morphology>的音，尽管
+    <phrase role="IPA">[ŋg]</phrase>可接受。说英语的人可能会用缓冲来发那个结尾的音，如同以下一种：</para>
     <example role="pronunciation-example" xml:id="example-random-id-k2T5">
       <title>
         <anchor xml:id="c3e9d9"/>
@@ -1294,8 +1294,8 @@
         <ipa>[ˈʔarm stro nɪgʔ]</ipa>
       </pronunciation>
     </example>
-    <para role="indent">The normal English pronunciation of the name 
-    <quote>Armstrong</quote> could be Lojbanized as:</para>
+    <para role="indent">名字
+    <quote>Armstrong</quote>的通常英语发音可被Lojban化为</para>
     
     <example role="pronunciation-example" xml:id="example-random-id-vY2y">
       <title>
@@ -1305,11 +1305,11 @@
         <jbo role="pronunciation">.ARMstron.</jbo>
       </pronunciation>
     </example>
-    <para role="noindent">since Lojban 
-    <letteral>n</letteral> is allowed to be pronounced as the velar nasal 
-    <phrase role="IPA">[ŋ]</phrase>.</para>
-    <para>Here is another example showing the use of 
-    <letteral>y</letteral>:</para>
+    <para role="noindent">因为Lojban
+    <letteral>n</letteral>允许发作软腭鼻音
+    <phrase role="IPA">[ŋ]</phrase>。</para>
+    <para>这里有另一个展示
+    <letteral>y</letteral>的使用的例子：</para>
     <example role="pronunciation-example" xml:id="example-random-id-hNb7">
       <title>
         <anchor xml:id="c3e9d11"/>
@@ -1320,13 +1320,13 @@
         <jbo role="pronunciation">BI,syd,ja</jbo>
       </pronunciation>
     </example>
-    <para role="indent">This word is a compound word, or lujvo, built from the two affixes 
-    <rafsi>bis</rafsi> and 
-    <rafsi>dja</rafsi>. When they are joined, an impermissible consonant pair results: 
-    <morphology>sd</morphology>. In accordance with the algorithm for making lujvo, explained in 
-    <xref linkend="section-lujvo-making"/>, a 
-    <letteral>y</letteral> is inserted to separate the impermissible consonant pair; the 
-    <letteral>y</letteral> is not counted as a syllable for purposes of stress determination.</para>
+    <para role="indent">这单词是组合词，或者说，由两词缀
+    <rafsi>bis</rafsi>和
+    <rafsi>dja</rafsi>组成。当它们合并时，不允许辅音对产生了：
+    <morphology>sd</morphology>。参照在
+    <xref linkend="section-lujvo-making"/>中解释的创造lujvo的算法，
+    <letteral>y</letteral>会被插入来分开不允许辅音对；
+    <letteral>y</letteral>不作为音节计入重音决定。</para>
     <example role="pronunciation-example" xml:id="example-random-id-5g4j">
       <title>
         <anchor xml:id="c3e9d12"/>
@@ -1337,10 +1337,10 @@
         <jbo role="pronunciation">da'U,dja</jbo>
       </pronunciation>
     </example>
-    <para role="indent">  These two syllabications sound the same to a Lojban listener &ndash; the association of unbuffered consonants in syllables is of no import in recognizing the word.</para>
+    <para role="indent">  这两个音节划分对Lojban听者听起来相同&ndash;音节中未缓冲辅音的联系在识别单词不重要。</para>
     <example role="pronunciation-example" xml:id="example-random-id-Ki4a">
       <title>
-        <indexterm type="example"><primary>syllabication</primary><secondary>variants of</secondary></indexterm>
+        <indexterm type="example"><primary>音节划分</primary><secondary>变体</secondary></indexterm>
         <anchor xml:id="c3e9d13"/>
       </title>
       <pronunciation>
@@ -1350,11 +1350,11 @@
         <jbo role="pronunciation">e'U.BRI,di</jbo>
       </pronunciation>
     </example>
-    <para role="indent">In 
-    <xref linkend="example-random-id-Ki4a"/>, 
-    <valsi>e'u</valsi> is a cmavo and 
-    <valsi>bridi</valsi> is a brivla. Either of the first two pronunciations is permitted: no primary stress on either syllable of 
-    <valsi>e'u</valsi>, or primary stress on the first syllable. The third pronunciation, which places primary stress on the second syllable of the cmavo, requires that &ndash; since the following word is a brivla &ndash; the two words must be separated by a pause. Consider the following two cases:</para>
+    <para role="indent">在
+    <xref linkend="example-random-id-Ki4a"/>中，
+    <valsi>e'u</valsi>是一个cmavo，
+    <valsi>bridi</valsi>是一个brivla。前两个发音的每一个都允许；
+    <valsi>e'u</valsi>的每个音节上都没有主重音，或者主重音在第一音节上。把主重音放在cmavo的第二音节上的第三个发音，要求&ndash;因为接下来的词是brivla&ndash;两个单词必须用停顿隔开。考虑接下来两种情况：</para>
     <example xml:id="example-random-id-qIXo" role="pronunciation-example">
       <title>
         <anchor xml:id="c3e9d14"/>
@@ -1373,14 +1373,14 @@
         <jbo role="pronunciation">le re no bliPREnu</jbo>
       </pronunciation>
     </example>
-    <para role="indent">If the cmavo 
-    <valsi>no</valsi> in 
-    <xref linkend="example-random-id-qiXR"/> were to be stressed, the phrase would sound exactly like the given pronunciation of 
-    <xref linkend="example-random-id-qIXo"/>, which is unacceptable in Lojban: a single pronunciation cannot represent both.</para>
+    <para role="indent">若
+    <xref linkend="example-random-id-qiXR"/>中的
+    <valsi>no</valsi>被加重。词组听起来正像
+    <xref linkend="example-random-id-qIXo"/>的给定读音，这在Lojban中不可接受：单个发音不能代表两个。</para>
   </section>
   <section xml:id="section-anglophone-phonetics">
-    <title><anchor xml:id="c3s10"/>IPA For English Speakers</title>
-    <para> <indexterm type="general"><primary>IPA pronunciation</primary><secondary>description</secondary></indexterm>  <indexterm type="general"><primary>television</primary></indexterm>  <indexterm type="general"><primary>Received Pronunciation</primary></indexterm>  <indexterm type="general"><primary>General American</primary></indexterm> There are many dialects of English, thus making it difficult to define the standardized symbols of the IPA in terms useful to every reader. All the symbols used in this chapter are repeated here, in more or less alphabetical order, with examples drawn from General American. In addition, some attention is given to the Received Pronunciation of (British) English. These two dialects are referred to as GA and RP respectively. Speakers of other dialects should consult a book on phonetics or their local television sets.</para>
+    <title><anchor xml:id="c3s10"/>为说英语的人准备的国际音标</title>
+    <para> <indexterm type="general"><primary>国际音标发音</primary><secondary>描述</secondary></indexterm>  <indexterm type="general"><primary>电视</primary></indexterm>  <indexterm type="general"><primary>英式英语标准发音</primary></indexterm>  <indexterm type="general"><primary>通用美式英语</primary></indexterm> 英语有很多方言，因而难以定义对每位读者有用的国际音标标准符号。本章中使用的所有符号差不多按字母表顺序在此重复，有取自通用美式英语的例子。另，也稍关注（英式）英语标准发音。这两种方言分别称作GA和RP。其它方言的说话者应参阅音韵学或关于他们当地电视节目的书。</para>
     
     
     
@@ -1389,101 +1389,101 @@
       <colgroup/>
       <tr><td><phrase role="IPA">[ˈ]</phrase></td>
         <td>
-          An IPA indicator of primary stress; the syllable which follows 
-          <phrase role="IPA">[ˈ]</phrase> receives primary stress.
+          主重音的国际音标指示；在
+          <phrase role="IPA">[ˈ]</phrase>之后的音节发主重音。
       </td></tr>
       <tr><td><phrase role="IPA">[ʔ]</phrase></td>
         <td>
-          An allowed variant of Lojban 
-          <letteral>.</letteral>. This sound is not usually considered part of English. It is the catch in your throat that sometimes occurs prior to the beginning of a word (and sometimes a syllable) which starts with a vowel. In some dialects, like Cockney and some kinds of American English, it is used between vowels instead of 
-          <quote>t</quote>: 
+          Lojban
+          <letteral>.</letteral>的允许变体。这声音不是通常认为的英语组分。它是在以元音开头的单词（有时是音节）前出现的喉咙的。在某些方言中，像伦敦东部方言和某些美式英语中，它在元音间代替
+          <quote>t</quote>：
           <quote>bottle</quote>
-          <phrase role="IPA">[boʔl̩]</phrase>. The English interjection 
-          <quote>uh-oh!</quote> almost always has it between the syllables.
+          <phrase role="IPA">[boʔl̩]</phrase>。英语感叹词
+          <quote>uh-oh!</quote>通常总是在音节间有它。
       </td></tr>
       <tr><td><phrase role="IPA">[ː]</phrase></td>
         <td>
-          A symbol indicating that the previous vowel is to be spoken for a longer time than usual. Lojban vowels can be pronounced long in order to make a greater contrast with buffer vowels.
+          一个指示前一个元音将被念得比通常久。Lojban元音可发音较久来与缓冲元音形成更大的对比。
       </td></tr>
       <tr><td><phrase role="IPA">[a]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>a</letteral>. This sound doesn't occur in GA, but sounds somewhat like the 
-          <quote>ar</quote> of 
-          <quote>park</quote>, as spoken in RP or New England American. It is pronounced further forward in the mouth than 
-          <phrase role="IPA">[ɑ]</phrase>.
+          Lojban
+          <letteral>a</letteral>的推荐发音。这声音不在GA中出现，但听起来像
+          <quote>park</quote>中的
+          <quote>ar</quote>，在RP或美国新英格兰口音。在嘴中它比
+          <phrase role="IPA">[ɑ]</phrase>发得往前。
       </td></tr>
       <tr><td><phrase role="IPA">[ɑ]</phrase></td>
         <td>
-          An allowed variant of Lojban 
-          <letteral>a</letteral>. The 
-          <quote>a</quote> of GA 
-          <quote>father</quote>. The sound 
-          <phrase role="IPA">[a]</phrase> is preferred because GA speakers often relax an unstressed 
-          <phrase role="IPA">[ɑ]</phrase> into a schwa 
-          <phrase role="IPA">[ə]</phrase>, as in the usual pronunciations of 
-          <quote>about</quote> and 
-          <quote>sofa</quote>. Because schwa is a distinct vowel in Lojban, English speakers must either learn to avoid this shift or to use 
-          <phrase role="IPA">[a]</phrase> instead: the Lojban word for 
-          <quote>sofa</quote> is 
-          <valsi>sfofa</valsi>, pronounced 
-          <phrase role="IPA">[sfofa]</phrase> or 
-          <phrase role="IPA">[sfofɑ]</phrase> but never 
-          <phrase role="IPA">[sfofə]</phrase> which would be the non-word 
-          <valsi valid="false">sfofy</valsi>.
+          Lojban
+          <letteral>a</letteral>的允许变体。
+          GA<quote>father</quote>中的
+          <quote>a</quote>。音
+          <phrase role="IPA">[a]</phrase>更推荐因为说GA的人通常将不重读的
+          <phrase role="IPA">[ɑ]</phrase>放松为央中元音
+          <phrase role="IPA">[ə]</phrase>，如同在
+          <quote>about</quote>
+          <quote>sofa</quote>的通常发音中一样。因为央中元音是Lojban独立元音，说英语的人一定要么学者注意避免这转换或用
+          <phrase role="IPA">[a]</phrase>代替：
+          <quote>sofa</quote>的Lojban单词为
+          <valsi>sfofa</valsi>，发作
+          <phrase role="IPA">[sfofa]</phrase>或
+          <phrase role="IPA">[sfofɑ]</phrase>但永不是
+          会成为非单词<valsi valid="false">sfofy</valsi>的
+          <phrase role="IPA">[sfofə]</phrase>。
       </td></tr>
       <tr><td><phrase role="IPA">[æ]</phrase></td>
         <td>
-          Not a Lojban sound. The 
-          <quote>a</quote> of English 
-          <quote>cat</quote>.
+          不是Lojban音。英语
+          <quote>cat</quote>中的
+          <quote>a</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[b]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>b</letteral>. As in English 
-          <quote>boy</quote>, 
-          <quote>sober</quote>, or 
-          <quote>job</quote>.
+          Lojban
+          <letteral>b</letteral>的推荐发音。如同英语
+          <quote>boy</quote>、
+          <quote>sober</quote>或
+          <quote>job</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[β]</phrase></td>
         <td>
-          An allowed variant of Lojban 
-          <letteral>v</letteral>. Not an English sound; the Spanish 
-          <quote xml:lang="es">b</quote> or 
-          <quote xml:lang="es">v</quote> between vowels. This sound should not be used for Lojban 
-          <letteral>b</letteral>.
+          Lojban
+          <letteral>v</letteral>的允许变体。不是英语音；西班牙语元音间的
+          <quote xml:lang="es">b</quote>或
+          <quote xml:lang="es">v</quote>。这音不应用来发Lojban
+          <letteral>b</letteral>。
       </td></tr>
       <tr><td><phrase role="IPA">[d]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>d</letteral>. As in English 
-          <quote>dog</quote>, 
-          <quote>soda</quote>, or 
-          <quote>mad</quote>.
+          Lojban
+          <letteral>d</letteral>的推荐发音。如同英语
+          <quote>dog</quote>、
+          <quote>soda</quote>或
+          <quote>mad</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[ɛ]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>e</letteral>. The 
-          <quote>e</quote> of English 
-          <quote>met</quote>.
+          Lojban
+          <letteral>e</letteral>的推荐发音。英语
+          <quote>met</quote>中的
+          <quote>e</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[e]</phrase></td>
         <td>
-          An allowed variant of Lojban 
-          <letteral>e</letteral>. This sound is not found in English, but is the Spanish 
-          <quote xml:lang="es">e</quote>, or the tense 
-          <quote xml:lang="it">e</quote> of Italian. The vowel of English 
-          <quote>say</quote> is similar except for the off-glide: you can learn to make this sound by holding your tongue steady while saying the first part of the English vowel.
+          Lojban
+          <letteral>e</letteral>的允许变体。英语中找不到这个音，但在西班牙语的
+          <quote xml:lang="es">e</quote>或意大利语的短
+          <quote xml:lang="it">e</quote>。英语
+          <quote>say</quote>的元音很想，除掉除阻部分：你能通过发英语元音第一部分的同时固定舌头来学着发这个音。
       </td></tr>
       <tr><td><phrase role="IPA">[ə]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>y</letteral>. As in the 
-          <quote>a</quote> of English 
-          <quote>sofa</quote> or 
-          <quote>about</quote>. Schwa is generally unstressed in Lojban, as it is in English. It is a totally relaxed sound made with the tongue in the middle of the mouth.
+          Lojban
+          <letteral>y</letteral>的推荐发音。如同英语
+          <quote>sofa</quote>或
+          <quote>about</quote>的
+          <quote>a</quote>。央中元音通常在Lojban中不重读，如同在英语中一样。它是舌在嘴中央发出的完全放松的音。
       </td></tr>
       <tr><td><phrase role="IPA">[f]</phrase></td>
         <td>
