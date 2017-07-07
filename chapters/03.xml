@@ -1487,311 +1487,311 @@
       </td></tr>
       <tr><td><phrase role="IPA">[f]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>f</letteral>. As in 
-          <quote>fee</quote>, 
-          <quote>loafer</quote>, or 
-          <quote>chef</quote>.
+          Lojban
+          <letteral>f</letteral>的推荐发音。如同在
+          <quote>fee</quote>、
+          <quote>loafer</quote>或
+          <quote>chef</quote>中一样。
       </td></tr>
       <tr><td><phrase role="IPA">[ɸ]</phrase></td>
         <td>
-          An allowed variant of Lojban 
-          <letteral>f</letteral>. Not an English sound; the Japanese 
+          Lojban
+          <letteral>f</letteral>的允许变体。不是英语的音；是日语
           <!-- if you put xml:lang="ja" here, it tries to render f
                as a japanese character; this does not work well -->
-          <quote>f</quote> sound.
+          <quote>f</quote>的音。
       </td></tr>
       <tr><td><phrase role="IPA">[g]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>g</letteral>. As in English 
-          <quote>go</quote>, 
-          <quote>eagle</quote>, or 
-          <quote>dog</quote>.
+          Lojban
+          <letteral>g</letteral>的推荐发音。如同在英语
+          <quote>go</quote>、
+          <quote>eagle</quote>或
+          <quote>dog</quote>中一样。
       </td></tr>
       <tr><td><phrase role="IPA">[h]</phrase></td>
         <td>
-          The preferred pronunciation of the Lojban apostrophe sound. As in English 
-          <quote>aha</quote> or the second "h" in 
-          <quote>oh, hello</quote>.
+          Lojban撇号的推荐发音。如同在英语
+          <quote>aha</quote>或
+          <quote>oh, hello</quote>中的h音一样。
       </td></tr>
       <tr><td><phrase role="IPA">[i]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>i</letteral>. Essentially like the English vowel of 
-          <quote>pizza</quote> or 
-          <quote>machine</quote>, although the English vowel is sometimes pronounced with an off-glide, which should not be present in Lojban.
+          Lojban
+          <letteral>i</letteral>推荐发音。特别像
+          <quote>pizza</quote>或
+          <quote>machine</quote>的英语元音，尽管英语元音有时伴随着不能在Lojban中表现的除阻发音。
       </td></tr>
       <tr><td><phrase role="IPA">[ɪ]</phrase></td>
         <td>
-          A possible Lojban buffer vowel. The 
+          一种可能的Lojban缓冲元音。
 
-          <quote>i</quote> of English 
-          <quote>bit</quote>.
+          英语<quote>bit</quote>中的
+          <quote>i</quote>.
       </td></tr>
       <tr><td><phrase role="IPA">[ɨ]</phrase></td>
         <td>
-          A possible Lojban buffer vowel. The 
+          一种可能的Lojban缓冲元音。
 
-          <quote>u</quote> of 
-          <quote>just</quote> in some varieties of GA, those which make the word sound more or less like 
-          <quote>jist</quote>. Also Russian 
-          <quote xml:lang="ru">y</quote> as in 
-          <quote xml:lang="ru">byt'</quote> (to be); like a schwa 
-          <phrase role="IPA">[ə]</phrase>, but higher in the mouth.
+          GA一些变体中的<quote>just</quote>中的
+          <quote>u</quote>，它们把这单词发得差不多像
+          <quote>jist</quote>。也是俄语
+          <quote xml:lang="ru">byt'</quote>（是）中的
+          <quote xml:lang="ru">y</quote>；像央中元音
+          <phrase role="IPA">[ə]</phrase>，但在嘴中更高。
       </td></tr>
       <tr><td><phrase role="IPA">[j]</phrase></td>
         <td>
-          Used in Lojban diphthongs beginning or ending with 
-          <letteral>i</letteral>. Like the 
-          <quote>y</quote> in English 
-          <quote>yard</quote> or 
-          <quote>say</quote>.
+          用在Lojban以
+          <letteral>i</letteral>起始的双元音。像
+          英语<quote>yard</quote>或
+          <quote>say</quote>中的
+          <quote>y</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[k]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>k</letteral>. As in English 
-          <quote>kill</quote>, 
-          <quote>token</quote>, or 
-          <quote>flak</quote>.
+          Lojban
+          <letteral>k</letteral>推荐发音。如同英语中的
+          <quote>kill</quote>、
+          <quote>token</quote>或
+          <quote>flak</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[l]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>l</letteral>. As in English 
-          <quote>low</quote>, 
-          <quote>nylon</quote>, or 
-          <quote>excel</quote>.
+          Lojban
+          <letteral>l</letteral>推荐发音。如同英语中的
+          <quote>low</quote>、
+          <quote>nylon</quote>或
+          <quote>excel</quote>。
       </td></tr>
       <tr><td>[l̩]</td>
         <td>
-          The syllabic version of Lojban 
-          <letteral>l</letteral>, as in English 
-          <quote>bottle</quote> or 
-          <quote>middle</quote>.
+          Lojban
+          <letteral>l</letteral>成音节版本，如同英语中的
+          <quote>bottle</quote>或
+          <quote>middle</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[m]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>m</letteral>. As in English 
-          <quote>me</quote>, 
-          <quote>humor</quote>, or 
-          <quote>ham</quote>.
+          Lojban
+          <letteral>m</letteral>推荐发音。如同英语中的
+          <quote>me</quote>、
+          <quote>humor</quote>或
+          <quote>ham</quote>。
       </td></tr>
       <tr><td>[m̩]</td>
         <td>
-          The syllabic version of Lojban 
-          <letteral>m</letteral>. As in English 
-          <quote>catch 'em</quote> or 
-          <quote>bottom</quote>.
+          Lojban
+          <letteral>m</letteral>成音节版本。如同英语中的
+          <quote>catch 'em</quote>或
+          <quote>bottom</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[n]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>n</letteral>. As in English 
-          <valsi>no</valsi>, 
-          <quote>honor</quote>, or 
-          <quote>son</quote>.
+          Lojban
+          <letteral>n</letteral>推荐发音。如同英语中的
+          <valsi>no</valsi>、
+          <quote>honor</quote>或
+          <quote>son</quote>。
       </td></tr>
       <tr><td>[n̩]</td>
         <td>
-          The syllabic version of Lojban 
-          <letteral>n</letteral>. As in English 
-          <quote>button</quote>.
+          Lojban
+          <letteral>n</letteral>成音节版本。如同英语中的
+          <quote>button</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[ŋ]</phrase></td>
         <td>
-          An allowed variant of Lojban 
-          <letteral>n</letteral>, especially in Lojbanized names and before 
-          <letteral>g</letteral> or 
-          <letteral>k</letteral>. As in English 
-          <quote>sing</quote> or 
-          <quote>singer</quote> (but not 
-          <quote>finger</quote> or 
-          <quote>danger</quote>).
+          Lojban
+          <letteral>n</letteral>允许变体，尤其在Lojban化名字中和
+          <letteral>g</letteral>或
+          <letteral>k</letteral>前。如同英语中的
+          <quote>sing</quote>或
+          <quote>singer</quote>（但非
+          <quote>finger</quote>或
+          <quote>danger</quote>）。
       </td></tr>
       <tr><td>[ŋ̍]</td>
         <td>
-          An allowed variant of Lojban syllabic 
-          <letteral>n</letteral>, especially in Lojbanized names.
+          Lojban成音节
+          <letteral>n</letteral>允许变体，尤其在Lojban化名字中。
       </td></tr>
       <tr><td><phrase role="IPA">[o]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>o</letteral>. As in the French 
-          <quote xml:lang="fr">haute (cuisine)</quote> or Spanish 
-          <quote xml:lang="es">como</quote>. There is no exact English equivalent of this sound. The nearest GA equivalent is the 
-          <quote>o</quote> of 
-          <quote>dough</quote> or 
-          <quote>joke</quote>, but it is essential that the off-glide (a 
-          <phrase role="IPA">[w]</phrase>-like sound) at the end of the vowel is not pronounced when speaking Lojban. The RP sound in these words is 
-          <phrase role="IPA">[əw]</phrase> in IPA terms, and has no 
-          <phrase role="IPA">[o]</phrase> in it at all; unless you can speak with a Scots, Irish, or American accent, you may have trouble with this sound.
+          Lojban
+          <letteral>o</letteral>推荐发音。如同在法语
+          <quote xml:lang="fr">haute (cuisine)</quote>中或西班牙语
+          <quote xml:lang="es">como</quote>。没有英语该音等价物。最接近的GA等价物是
+          <quote>dough</quote>或
+          <quote>joke</quote>中的
+          <quote>o</quote>，但说Lojban时元音结尾除阻（类
+          <phrase role="IPA">[w]</phrase>音）不发音是必要的。这些单词的RP音用国际音标是
+          <phrase role="IPA">[əw]</phrase>，其中根本没有
+          <phrase role="IPA">[o]</phrase>；除非你说的有苏格兰、爱尔兰或美国口音，你会在该音上有困难。
       </td></tr>
       <tr><td><phrase role="IPA">[ɔ]</phrase></td>
         <td>
-          An allowed variant of Lojban 
-          <letteral>o</letteral>, especially before 
-          <letteral>r</letteral>. This sound is a shortened form of the 
-          <quote>aw</quote> in GA 
-          <quote>dawn</quote> (for those people who don't pronounce 
-          <quote>dawn</quote> and 
-          <quote>Don</quote> alike; if you do, you may have trouble with this sound). In RP, but not GA, it is the 
-          <quote>o</quote> of 
-          <quote>hot</quote>.
+          Lojban
+          <letteral>o</letteral>允许变体，尤其在
+          <letteral>r</letteral>前。该音是GA
+          <quote>dawn</quote>中的
+          <quote>aw</quote>的缩短形式（对那些不将
+          <quote>dawn</quote>和
+          <quote>Don</quote>发得相像的人；如果你发得相像，你会在该音上有困难）。在RP而非GA中，它是
+          <quote>hot</quote>中的
+          <quote>o</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[p]</phrase></td>
         <td>
-          The preferred pronunciation of Lojban 
-          <letteral>p</letteral>. As in English 
-          <quote>pay</quote>, 
-          <quote>super</quote>, or 
-          <quote>up</quote>.
+          Lojban
+          <letteral>p</letteral>推荐发音。如同英语中的
+          <quote>pay</quote>、
+          <quote>super</quote>或
+          <quote>up</quote>。
       </td></tr>
       <tr><td><phrase role="IPA">[r]</phrase></td>
         <td>
-          One version of Lojban 
-          <letteral>r</letteral>. Not an English sound. The Spanish 
-          <quote xml:lang="es">rr</quote> and the Scots 
-          <quote>r</quote>, a tongue-tip trill.
+          Lojban
+          <letteral>r</letteral>的一个版本。非英语音。西班牙语
+          <quote xml:lang="es">rr</quote>和苏格兰语
+          <quote>r</quote>，舌尖颤音。
       </td></tr>
       <tr><td><phrase role="IPA">[ɹ]</phrase></td>
         <td>
-          One version of Lojban 
-          <letteral>r</letteral>. As in GA 
-          <quote>right</quote>, 
-          <quote>baron</quote>, or 
-          <quote>car</quote>. Not found in RP.
+          Lojban
+          <letteral>r</letteral>的一个版本。如同GA中的
+          <quote>right</quote>、
+          <quote>baron</quote>或
+          <quote>car</quote>。在RP中未发现。
       </td></tr>
       <tr><td><phrase role="IPA">[ɾ]</phrase></td>
         <td>
-          One version of Lojban 
-          <letteral>r</letteral>. In GA, appears as a variant of 
-          <quote>t</quote> or 
-          <quote>d</quote> in the words 
-          <quote>metal</quote> and 
-          <quote>medal</quote> respectively. A tongue-tip flap.
+          Lojban
+          <letteral>r</letteral>的一个版本。在GA中，分别作为
+          <quote>t</quote>或
+          <quote>d</quote>的变体在单词
+          <quote>metal</quote>和
+          <quote>medal</quote>中出现。舌尖弹音。
       </td></tr>
       <tr><td><phrase role="IPA">[ʀ]</phrase></td>
         <td>
-          One version of Lojban 
-          <letteral>r</letteral>. Not an English sound. The French or German 
-          <phrase xml:lang="de"><quote xml:lang="fr">r</quote></phrase> in <!--not sure how else to designate two languages at once-->
-          <quote xml:lang="fr">reine</quote> or 
-          <quote xml:lang="de">rot</quote> respectively. A uvular trill.
+          Lojban
+          <letteral>r</letteral>的一个版本。非英语音。法语
+          <quote xml:lang="fr">reine</quote>或德语
+          <quote xml:lang="de">rot</quote>中的分别的
+          <phrase xml:lang="de"><quote xml:lang="fr">r</quote></phrase>。<!--not sure how else to designate two languages at once-->小舌颤音。
       </td></tr>
       <tr><td>
-        <phrase role="IPA">[r̩]</phrase>, 
-        <phrase role="IPA">[ɹ̩]</phrase>, 
-        <phrase role="IPA">[ɾ̩]</phrase>, 
+        <phrase role="IPA">[r̩]</phrase>、
+        <phrase role="IPA">[ɹ̩]</phrase>、
+        <phrase role="IPA">[ɾ̩]</phrase>、
         <phrase role="IPA">[ʀ̩]</phrase></td>
       <td>
-        Syllabic versions of the above.
-        <phrase role="IPA">[ɹ̩]</phrase> appears in the GA (but not RP) pronunciation of 
-        <quote>bird</quote>.
+        上述的成音节版本。
+        <phrase role="IPA">[ɹ̩]</phrase>在GA（而非RP）
+        <quote>bird</quote>的发音中出现。
     </td></tr>
     <tr><td><phrase role="IPA">[s]</phrase></td>
       <td>
-        The preferred pronunciation of Lojban 
-        <letteral>s</letteral>. As in English 
-        <quote>so</quote>, 
-        <quote>basin</quote>, or 
-        <quote>yes</quote>.
+        Lojban
+        <letteral>s</letteral>的推荐发音。如同英语中的
+        <quote>so</quote>、
+        <quote>basin</quote>或
+        <quote>yes</quote>。
     </td></tr>
     <tr><td><phrase role="IPA">[ʃ]</phrase></td>
       <td>
-        The preferred pronunciation of Lojban 
-        <letteral>c</letteral>. The 
-        <quote>sh</quote> of English 
-        <quote>ship</quote>, 
-        <quote>ashen</quote>, or 
-        <quote>dish</quote>.
+        Lojban
+        <letteral>c</letteral>推荐发音。英语
+        <quote>ship</quote>、
+        <quote>ashen</quote>或
+        <quote>dish</quote>中的
+        <quote>sh</quote>。
     </td></tr>
     <tr><td><phrase role="IPA">[ʂ]</phrase></td>
       <td>
-        An allowed variant of Lojban 
-        <letteral>c</letteral>. Not an English sound. The Hindi retroflex 
-        <quote xml:lang="hi">s</quote> with dot below, or Klingon 
-        <quote xml:lang="tlh">S</quote>.
+        Lojban
+        <letteral>c</letteral>的允许 。非英语音。印地语下面有点的卷舌
+        <quote xml:lang="hi">s</quote>，或克林贡语
+        <quote xml:lang="tlh">S</quote>。
     </td></tr>
     <tr><td><phrase role="IPA">[t]</phrase></td>
       <td>
-        The preferred pronunciation of Lojban 
-        <letteral>t</letteral>. As in English 
-        <quote>tea</quote>, 
-        <quote>later</quote>, or 
-        <quote>not</quote>. It is important to avoid the GA habit of pronouncing the 
-        <quote>t</quote> between vowels as 
-        <phrase role="IPA">[d]</phrase> or 
-        <phrase role="IPA">[ɾ]</phrase>.
+        Lojban
+        <letteral>t</letteral>的推荐发音。如同英语中的
+        <quote>tea</quote>、
+        <quote>later</quote>或
+        <quote>not</quote>。避免将元音前的
+        <quote>t</quote>发音为
+        <phrase role="IPA">[d]</phrase>或
+        <phrase role="IPA">[ɾ]</phrase>的GA习惯是重要的。
     </td></tr>
     <tr><td><phrase role="IPA">[θ]</phrase></td>
       <td>
-        Not normally a Lojban sound, but a possible variant of Lojban 
-        <letteral>'</letteral> . The 
-        <quote>th</quote> of English 
-        <quote>thin</quote> (but not 
-        <quote>then</quote>).
+        通常不是Lojban音，但是Lojban
+        <letteral>'</letteral>的可能变体。英语
+        <quote>thin</quote>（但非
+        <quote>then</quote>）中的
+        <quote>th</quote>。
     </td></tr>
     <tr><td><phrase role="IPA">[v]</phrase></td>
       <td>
-        The preferred pronunciation of Lojban 
-        <letteral>v</letteral>. As in English 
-        <quote>voice</quote>, 
-        <quote>savor</quote>, or 
-        <quote>live</quote>.
+        Lojban
+        <letteral>v</letteral>推荐发音。如同英语中的
+        <quote>voice</quote>、
+        <quote>savor</quote>或
+        <quote>live</quote>。
     </td></tr>
     <tr><td><phrase role="IPA">[w]</phrase></td>
       <td>
-        Used in Lojban diphthongs beginning or ending with 
-        <letteral>u</letteral>. Like the 
-        <quote>w</quote> in English 
+        用在以
+        <letteral>u</letteral>起始的Lojban中。像英语
         <quote>wet</quote>
-        <phrase role="IPA">[wɛt]</phrase> or 
+        <phrase role="IPA">[wɛt]</phrase>或
         <quote>cow</quote>
-        <phrase role="IPA">[kɑw]</phrase>.
+        <phrase role="IPA">[kɑw]</phrase>中的
+        <quote>w</quote>。
     </td></tr>
     <tr><td><phrase role="IPA">[x]</phrase></td>
       <td>
-        The preferred pronunciation of Lojban 
-        <letteral>x</letteral>. Not normally an English sound, but used in some pronunciations of 
-        <quote>loch</quote> and 
-        <quote>Bach</quote>; 
-        <quote>gh</quote> in Scots 
-        <quote>might</quote> and 
-        <quote>night</quote>. The German 
-        <quote xml:lang="de">Ach-Laut</quote>. To pronounce 
-        <phrase role="IPA">[x]</phrase>, force air through your throat without vibrating your vocal chords; there should be lots of scrape.
+        Lojban
+        <letteral>x</letteral>推荐发音。非通常英语音，但用在
+        <quote>loch</quote>和
+        <quote>Bach</quote>的一些发音中；苏格兰语
+        <quote>might</quote>和
+        <quote>night</quote>中的
+        <quote>gh</quote>。德语
+        <quote xml:lang="de">Ach-Laut</quote>。发
+        <phrase role="IPA">[x]</phrase>的音时，使空气不颤动声带通过喉咙；应有很多碎片。
     </td></tr>
     <tr><td><phrase role="IPA">[ʏ]</phrase></td>
       <td>
-        A possible Lojban buffer vowel. Not an English sound: the 
+        一可能Lojban缓冲元音。非英语音：德语
 
-        <quote xml:lang="de">ü</quote> of German 
-        <quote xml:lang="de">hübsch</quote>.
+        <quote xml:lang="de">hübsch</quote>.中的
+        <quote xml:lang="de">ü</quote>。
     </td></tr>
     <tr><td><phrase role="IPA">[z]</phrase></td>
       <td>
-        The preferred pronunciation of Lojban 
-        <letteral>z</letteral>. As in English 
-        <quote>zoo</quote>, 
-        <quote>hazard</quote>, or 
-        <quote>fizz</quote>.
+        Lojban
+        <letteral>z</letteral>推荐发音。如同英语中的
+        <quote>zoo</quote>、
+        <quote>hazard</quote>或
+        <quote>fizz</quote>。
     </td></tr>
     <tr><td><phrase role="IPA">[ʒ]</phrase></td>
       <td>
-        The preferred pronunciation of Lojban 
-        <letteral>j</letteral>. The 
-        <quote>si</quote> of English 
-        <quote>vision</quote>, or the consonant at the end of GA 
-        <quote>garage</quote>.
+        Lojban
+        <letteral>j</letteral>推荐发音。英语
+        <quote>vision</quote>中的，
+        <quote>si</quote>或GA
+        <quote>garage</quote>的末尾辅音。
     </td></tr>
     <tr><td><phrase role="IPA">[ʐ]</phrase></td>
       <td>
-        An allowed variant of Lojban 
-        <letteral>j</letteral>. Not an English sound. The voiced version of 
-        <phrase role="IPA">[ʂ]</phrase>.
+        Lojban
+        <letteral>j</letteral>的允许变体。非英语音。
+        <phrase role="IPA">[ʂ]</phrase>的浊音版。
     </td></tr>
   </informaltable>
   </section>
