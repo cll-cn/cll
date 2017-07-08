@@ -1796,13 +1796,13 @@
   </informaltable>
   </section>
   <section xml:id="section-anglophone-diphthongs">
-    <title><anchor xml:id="c3s11"/>English Analogues For Lojban Diphthongs</title>
-    <para> <indexterm type="general"><primary>diphthongs</primary><secondary>English analogues of</secondary></indexterm> Here is a list of English words that contain diphthongs that are similar to the Lojban diphthongs. This list does not constitute an official pronunciation guide; it is intended as a help to English-speakers.</para>
+    <title><anchor xml:id="c3s11"/>Lojban双元音英语类似物</title>
+    <para> <indexterm type="general"><primary>双元音</primary><secondary>英语类似物</secondary></indexterm> 这是一份包含类似Lojban双元音的双元音的英语单词。该表不构成官方发音指南；它意在成为对说英语的人的帮助。</para>
     <informaltable class="vertsep">
         <thead>
           <tr>
             <td>Lojban</td>
-            <td>English</td>
+            <td>英语</td>
           </tr>
         </thead>
           <tr>
@@ -1835,11 +1835,11 @@
           </tr>
           <tr>
             <td><diphthong>io</diphthong></td>          
-            <td><quote>yodel</quote> (in GA only)</td>
+            <td><quote>yodel</quote>（只在GA中）</td>
           </tr>
           <tr>
             <td><diphthong>iu</diphthong></td>          
-            <td><quote>unicorn</quote> or <quote>few</quote></td>
+            <td><quote>unicorn</quote>或<quote>few</quote></td>
           </tr>
           <tr>
             <td><diphthong>ua</diphthong></td>          
@@ -1855,7 +1855,7 @@
           </tr>
           <tr>
             <td><diphthong>uo</diphthong></td>          
-            <td><quote>woe</quote> (in GA only)</td>
+            <td><quote>woe</quote>（只在GA中）</td>
           </tr>
           <tr>
             <td><diphthong>uu</diphthong></td>          
@@ -1863,11 +1863,11 @@
           </tr>
           <tr>
             <td><diphthong>iy</diphthong></td>          
-            <td><quote>million</quote> (the <quote>io</quote> part, that is)</td>
+            <td><quote>million</quote>（<quote>io</quote>部分，那是）</td>
           </tr>
           <tr>
             <td><diphthong>uy</diphthong></td>          
-            <td><quote>was</quote> (when unstressed)</td>
+            <td><quote>was</quote>（不重读时）</td>
           </tr>
     </informaltable>
   </section>
