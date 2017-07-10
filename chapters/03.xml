@@ -1872,119 +1872,119 @@
     </informaltable>
   </section>
   <section xml:id="section-oddball-orthographies">
-    <title><anchor xml:id="c3s12"/>Oddball Orthographies</title>
-    <para> <indexterm type="general"><primary>orthography</primary><secondary>non-standard</secondary></indexterm> The following notes describe ways in which Lojban has been written or could be written that differ from the standard orthography explained in the rest of this chapter. Nobody needs to read this section except people with an interest in the obscure. Technicalities are used without explanation or further apology.</para>
+    <title><anchor xml:id="c3s12"/>古怪的正字法</title>
+    <para> <indexterm type="general"><primary>正字法</primary><secondary>不标准</secondary></indexterm> 下列表述描述了与本章其余部分解释的标准正字法不同的Lojban已经或可以写的方法。除对无名之物感兴趣的人外没人需要读本节。会在没有解释或进一步致歉的情况下使用术语。</para>
     
-    <para>There exists an alternative orthography for Lojban, which is designed to be as compatible as possible (but no more so) with the orthography used in pre-Lojban versions of Loglan. The consonants undergo no change, except that 
+    <para>有一个设计来与Lojban前版本Loglan中用的正字法尽可能兼容（但不再如此）的Lojban备选正字法。辅音没有经历变化，除了
     
-    <letteral>x</letteral> is replaced by 
-    <letteral>h</letteral>. The individual vowels likewise remain unchanged. However, the vowel pairs and diphthongs are changed as follows:</para>
-    
-    <itemizedlist role="bullets">
-      <listitem>
-        <para>
-          <diphthong>ai</diphthong>, 
-          <diphthong>ei</diphthong>, 
-          <diphthong>oi</diphthong>, 
-          <diphthong>au</diphthong> become 
-          <diphthong>ai</diphthong>, 
-          <diphthong>ei</diphthong>, 
-          <diphthong>oi</diphthong>, 
-          <diphthong>ao</diphthong>.
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          <diphthong>ia</diphthong> through 
-          <diphthong>iu</diphthong> and 
-          <diphthong>ua</diphthong> through 
-          <diphthong>uu</diphthong> remain unchanged.
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          <morphology>a'i</morphology>, 
-          
-          <morphology>e'i</morphology>, 
-          <morphology>o'i</morphology> and 
-          
-          <morphology>a'o</morphology> become 
-          
-          <diphthong>a,i</diphthong>, 
-          <diphthong>e,i</diphthong>, 
-          <diphthong>o,i</diphthong> and 
-          <diphthong>a,o</diphthong>.
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          <morphology>i'a</morphology> through 
-          <morphology>i'u</morphology> and 
-          <morphology>u'a</morphology> through 
-          <morphology>u'u</morphology> are changed to 
-          
-          <diphthong>ia</diphthong> through 
-          <diphthong>iu</diphthong> and 
-          <diphthong>ua</diphthong> through 
-          <diphthong>uu</diphthong> in lujvo and cmavo other than attitudinals, but become 
-          <diphthong>i,a</diphthong> through 
-          <diphthong>i,u</diphthong> and 
-          <diphthong>u,a</diphthong> through 
-          <diphthong>u,u</diphthong> in names, fu'ivla, and attitudinal cmavo.
-        </para>
-      </listitem>
-      <listitem>
-        <para>All other vowel pairs simply drop the apostrophe.</para>
-        
-      </listitem>
-    </itemizedlist>
-    <para role="indent">The result of these rules is to eliminate the apostrophe altogether, replacing it with comma where necessary, and otherwise with nothing. In addition, names and the cmavo 
-    <valsi>i</valsi> are capitalized, and irregular stress is marked with an apostrophe (now no longer used for a sound) following the stressed syllable.</para>
-    
-    
-    <para>Three points must be emphasized about this alternative orthography:</para>
+    <letteral>x</letteral>被
+    <letteral>h</letteral>取代。独立元音也类似地没变。然而，元音对和双元音如下变化：</para>
     
     <itemizedlist role="bullets">
       <listitem>
-        <para> <indexterm type="general"><primary>non-standard orthographies</primary><secondary>caveat</secondary></indexterm> It is not standard, and has not been used.</para>
+        <para>
+          <diphthong>ai</diphthong>、
+          <diphthong>ei</diphthong>、
+          <diphthong>oi</diphthong>、
+          <diphthong>au</diphthong>变成
+          <diphthong>ai</diphthong>、
+          <diphthong>ei</diphthong>、
+          <diphthong>oi</diphthong>、
+          <diphthong>ao</diphthong>。
+        </para>
       </listitem>
       <listitem>
-        <para>It does not represent any changes to the standard Lojban phonology; it is simply a representation of the same phonology using a different written form.</para>
+        <para>
+          <diphthong>ia</diphthong>到
+          <diphthong>iu</diphthong>和
+          <diphthong>ua</diphthong>到
+          <diphthong>uu</diphthong>没变。
+        </para>
       </listitem>
       <listitem>
-        <para>It was designed to aid in a planned rapprochement between the Logical Language Group and The Loglan Institute, a group headed by James Cooke Brown. The rapprochement never took place.</para>
+        <para>
+          <morphology>a'i</morphology>、
+          
+          <morphology>e'i</morphology>、
+          <morphology>o'i</morphology>和
+          
+          <morphology>a'o</morphology>变成
+          
+          <diphthong>a,i</diphthong>、
+          <diphthong>e,i</diphthong>、
+          <diphthong>o,i</diphthong>和
+          <diphthong>a,o</diphthong>。
+        </para>
+      </listitem>
+      <listitem>
+        <para>在lujvo和非情感词cmavo中
+          <morphology>i'a</morphology>到
+          <morphology>i'u</morphology>和
+          <morphology>u'a</morphology>到
+          <morphology>u'u</morphology>变为
+          
+          <diphthong>ia</diphthong>到
+          <diphthong>iu</diphthong>和
+          <diphthong>ua</diphthong>到
+          <diphthong>uu</diphthong>，在名字、fu'ivla和情感cmavo中变为
+          <diphthong>i,a</diphthong>到
+          <diphthong>i,u</diphthong>和
+          <diphthong>u,a</diphthong>到
+          <diphthong>u,u</diphthong>。
+        </para>
+      </listitem>
+      <listitem>
+        <para>所有其他元音对简单地去掉撇号。</para>
         
       </listitem>
     </itemizedlist>
-    <para role="indent"> <indexterm type="general"><primary>non-standard orthographies</primary><secondary>Cyrillic</secondary></indexterm> There also exists a Cyrillic orthography for Lojban which was designed when the introductory Lojban brochure was translated into Russian. It uses the 
-    <quote>а</quote>, 
-    <quote>б</quote>, 
-    <quote>в</quote>, 
-    <quote>г</quote>, 
-    <quote>д</quote>, 
-    <quote>е</quote>, 
-    <quote>ж</quote>, 
-    <quote>з</quote>, 
-    <quote>и</quote>, 
-    <quote>к</quote>, 
-    <quote>л</quote>, 
-    <quote>м</quote>, 
-    <quote>н</quote>, 
-    <quote>о</quote>, 
-    <quote>п</quote>, 
-    <quote>р</quote>, 
-    <quote>с</quote>, 
-    <quote>т</quote>, 
-    <quote>у</quote>, 
-    <quote>ф</quote>, 
-    <quote>х</quote>, and 
-    <quote>ш</quote> in the obvious ways. The Latin letter 
-    <quote>y</quote> is mapped onto the hard sign 
-    <quote>ъ</quote>, as in Bulgarian. The apostrophe, comma, and period are unchanged. Diphthongs are written as vowel pairs, as in the Roman representation.</para>
-    <para> <indexterm type="general"><primary>Tolkien</primary><secondary>and non-standard Lojban orthography</secondary></indexterm>  <indexterm type="general"><primary>non-standard orthographies</primary><secondary>Tengwar</secondary></indexterm> Finally, an orthography using the Tengwar of Féanor, a fictional orthography invented by J. R. R. Tolkien and described in the Appendixes to 
+    <para role="indent">这些规则的结果为省略全部撇号、在必要的地方用逗号代替，其余不用东西代替。另，名字和cmavo
+    <valsi>i</valsi>大写，不规则重音在重读音节用撇号（不再用于音）标记。</para>
     
     
-    <citetitle pubwork="book">The Lord Of The Rings</citetitle>, has been devised for Lojban. The following mapping, which closely resembles that used for Westron, will be meaningful only to those who have read those appendixes. In brief, the tincotéma and parmatéma are used in the conventional ways; the calmatéma represents palatal consonants, and the quessetéma represents velar consonants.</para>
+    <para>必须在本备选正字法中强调的三点：</para>
+    
+    <itemizedlist role="bullets">
+      <listitem>
+        <para> <indexterm type="general"><primary>不标准正字法</primary><secondary>附加说明</secondary></indexterm> 它不标准，已不再使用。</para>
+      </listitem>
+      <listitem>
+        <para>它不不代表对标准Lojban正字法的任何改变；它只代表对同一音韵的不同书面表现形式。
+      </listitem>
+      <listitem>
+        <para>它被设计来帮助Logical Language Group与James Cooke Brown领导的Loglan Institute的规划的重归就好。重归就好从未发生。</para>
+        
+      </listitem>
+    </itemizedlist>
+    <para role="indent"> <indexterm type="general"><primary>不标准正字法</primary><secondary>西里尔</secondary></indexterm> 也有当宣传Lojban小册被翻译至俄语时设计的西里尔正字法。它显然使用
+    <quote>а</quote>、
+    <quote>б</quote>、
+    <quote>в</quote>、
+    <quote>г</quote>、
+    <quote>д</quote>、
+    <quote>е</quote>、
+    <quote>ж</quote>、
+    <quote>з</quote>、
+    <quote>и</quote>、
+    <quote>к</quote>、
+    <quote>л</quote>、
+    <quote>м</quote>、
+    <quote>н</quote>、
+    <quote>о</quote>、
+    <quote>п</quote>、
+    <quote>р</quote>、
+    <quote>с</quote>、
+    <quote>т</quote>、
+    <quote>у</quote>、
+    <quote>ф</quote>、
+    <quote>х</quote>和
+    <quote>ш</quote>。拉丁字母
+    <quote>y</quote>映射到硬音符号
+    <quote>ъ</quote>，如同在保加利亚语中一样。撇号、逗号和句号没有改变。双元音写为元音对，如同拉丁（译：此处不确定）表示一样。</para>
+    <para> <indexterm type="general"><primary>Tolkien</primary><secondary>与不标准Lojban正字法</secondary></indexterm>  <indexterm type="general"><primary>不标准正字法</primary><secondary>Tengwar</secondary></indexterm> 最后，使用Féanor的Tengwar，一种J.R.R.Tolkien发明的、在
+    
+    
+    <citetitle pubwork="book">魔戒</citetitle>附录中详细阐述的功能性正字法，已被设计给Lojban。下列接近地模拟Westron用的的对应，将只对那些读了那些附录的人有意义。简短地说，tincotéma和parmatéma如常使用；calmatéma代表硬腭辅音，quessetéma代表软腭辅音。</para>
     
     <informaltable>
       <colgroup/>
@@ -2026,20 +2026,20 @@
         </tr>
       </informaltable>
 
-    <para>The letters 
-    <quote xml:lang="qya">vala</quote> and 
-    <quote xml:lang="qya">anna</quote> are used for 
-    <letteral>u</letteral> and 
-    <letteral>i</letteral> only when those letters are used to represent glides. Of the additional letters, 
-    <letteral>r</letteral>, 
-    <letteral>l</letteral>, 
-    <letteral>s</letteral>, and 
-    <letteral>z</letteral> are written with 
-    <quote xml:lang="qya">rómen</quote>, 
-    <quote xml:lang="qya">lambe</quote>, 
-    <quote xml:lang="qya">silme</quote>, and 
-    <quote xml:lang="qya">áre</quote>/ 
-    <quote xml:lang="qya">esse</quote> respectively; the inverted forms are used as free variants.</para>
-    <para>Lojban, like Quenya, is a vowel-last language, so tehtar are read as following the tengwar on which they are placed. The conventional tehtar are used for the five regular vowels, and the dot below for <letteral>y</letteral>. The Lojban apostrophe is represented by <quote xml:lang="qya">halla</quote>. There is no equivalent of the Lojban comma or period.</para>
+    <para>字母
+    <quote xml:lang="qya">vala</quote>和
+    <quote xml:lang="qya">anna</quote>用作
+    <letteral>u</letteral>和
+    <letteral>i</letteral>仅当那些字母代表成阻或除阻时。对于附加字母
+    <letteral>r</letteral>、
+    <letteral>l</letteral>、
+    <letteral>s</letteral>和
+    <letteral>z</letteral>分别写作
+    <quote xml:lang="qya">rómen</quote>、
+    <quote xml:lang="qya">lambe</quote>、
+    <quote xml:lang="qya">silme</quote>和
+    <quote xml:lang="qya">áre</quote>/
+    <quote xml:lang="qya">esse</quote>；倒置版本当做自由变体。</para>
+    <para>Lojban，像Quenya一样，是一种元音置于最后的语言，所以tehtar跟随着它们被放置的tengwar后发音。常规tehtar用于五个常规元音，下面的点用于<letteral>y</letteral>。Lojban撇号由<quote xml:lang="qya">halla</quote>代表。没有Lojban逗号或句号的等价物。</para>
   </section>
 </chapter>
