@@ -1,45 +1,45 @@
 <chapter xml:id="chapter-morphology">
-  <title><anchor xml:id="c4"/>The Shape Of Words To Come: Lojban Morphology</title>
+  <title><anchor xml:id="c4"/>即将到来的单词的样子：Lojban形态学</title>
   <mediaobject xml:id="chapter-morphology-picture">
-    <textobject><phrase>The picture for chapter 4</phrase></textobject>
+    <textobject><phrase>第4章的图片</phrase></textobject>
     <imageobject>
       <imagedata fileref="media/chapter-morphology.gif"/>
     </imageobject>
   </mediaobject>
   
   <section xml:id="section-morphology-introduction">
-    <title><anchor xml:id="c4s1"/>Introductory</title>
-    <para><indexterm type="general"><primary>word forms</primary><secondary>in Lojban (see also morphology)</secondary></indexterm>  <indexterm type="general"><primary>morphology</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>morphology</primary><secondary>simplicity of</secondary></indexterm> Morphology is the part of grammar that deals with the form of words. Lojban's morphology is fairly simple compared to that of many languages, because Lojban words don't change form depending on how they are used. English has only a small number of such changes compared to languages like Russian, but it does have changes like 
-    <quote>boys</quote> as the plural of 
+    <title><anchor xml:id="c4s1"/>介绍</title>
+    <para><indexterm type="general"><primary>单词形态</primary><secondary>Lojban中（参见形态学）</secondary></indexterm>  <indexterm type="general"><primary>形态学</primary><secondary>定义</secondary></indexterm>  <indexterm type="general"><primary>形态学</primary><secondary>简单</secondary></indexterm> 形态学是解决词形的语法部分。Lojban的形态学与许多语言相比相当简单，因为Lojban单词不随着它们被如何使用而改变词形。英语只有一小部分这种变化，与俄语相比，但它有像
+    <quote>boys</quote>作为
     
-    <quote>boy</quote>, or 
-    <quote>walked</quote> as the past-tense form of 
-    <quote>walk</quote>. To make plurals or past tenses in Lojban, you add separate words to the sentence that express the number of boys, or the time when the walking was going on.</para>
-    <para> <indexterm type="general"><primary>word forms</primary><secondary>as related to grammatical uses</secondary></indexterm>  <indexterm type="general"><primary>derivational morphology</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>morphology</primary><secondary>derivational</secondary></indexterm> However, Lojban does have what is called 
-    <quote>derivational morphology</quote>: the capability of building new words from old words. In addition, the form of words tells us something about their grammatical uses, and sometimes about the means by which they entered the language. Lojban has very orderly rules for the formation of words of various types, both the words that already exist and new words yet to be created by speakers and writers.</para>
+    <quote>boy</quote>的复数，或
+    <quote>walked</quote>作为
+    <quote>walk</quote>的过去式的变化。为在Lojban中使用复数或过去时态，你向句子添加单独的词来表达男孩的数或走路发生的时间。</para>
+    <para> <indexterm type="general"><primary>词形</primary><secondary>与语法用途有关</secondary></indexterm>  <indexterm type="general"><primary>派生形态学</primary><secondary>定义</secondary></indexterm>  <indexterm type="general"><primary>形态学</primary><secondary>派生</secondary></indexterm> 然而，Lojban确实有所谓
+    <quote>派生形态学</quote>：从旧词构建新词的能力。另，词形告诉我们关于它们的语法功用，有时关于它们进入语言的途径的一些事。Lojban有非常清楚的不同类型词的形成规则，包括早已存在的词和将被说话者和作者创造出来的词。</para>
     
-    <para> <indexterm type="general"><primary>morphology</primary><secondary>conventions for</secondary></indexterm> A stream of Lojban sounds can be uniquely broken up into its component words according to specific rules. These so-called 
-    <quote>morphology rules</quote> are summarized in this chapter. (However, a detailed algorithm for breaking sounds into words has not yet been fully debugged, and so is not presented in this book.) First, here are some conventions used to talk about groups of Lojban letters, including vowels and consonants.</para>
+    <para> <indexterm type="general"><primary>形态学</primary><secondary>约定</secondary></indexterm> 一串Lojban音流可按一定规则唯一拆解为其组分词。这些所谓
+    <quote>形态学规则</quote>在本章中总结。（然而，将音拆解为词的详细算法尚未完全除错，因而不在本书中出现。）首先，这里有一些讨论Lojban字母群，包括元音和辅音，的约定。</para>
     
     <orderedlist>
       <listitem>
-        <para> <indexterm type="general"><primary>y</primary><secondary>considered not to be a vowel for morphological discussions</secondary></indexterm>  <indexterm type="general"><primary>V</primary><secondary>as a symbol for a single vowel</secondary></indexterm>  <indexterm type="general"><primary>morphology</primary><secondary>symbolic conventions for discussing</secondary></indexterm> V represents any single Lojban vowel except 
-        <letteral>y</letteral>; that is, it represents 
-        <letteral>a</letteral>, 
-        <letteral>e</letteral>, 
-        <letteral>i</letteral>, 
-        <letteral>o</letteral>, or 
-        <letteral>u</letteral>.</para>
+        <para> <indexterm type="general"><primary>y</primary><secondary>在形态学讨论中不视作元音</secondary></indexterm>  <indexterm type="general"><primary>V</primary><secondary>作为单元音的符号</secondary></indexterm>  <indexterm type="general"><primary>形态学</primary><secondary>讨论的符号约定</secondary></indexterm> V代表除
+        <letteral>y</letteral>外任意单个Lojban元音；即，它代表
+        <letteral>a</letteral>、
+        <letteral>e</letteral>、
+        <letteral>i</letteral>、
+        <letteral>o</letteral>或
+        <letteral>u</letteral>。</para>
       </listitem>
       <listitem>
-        <para> <indexterm type="general"><primary>VV string</primary><secondary>as a symbol for a double vowel</secondary></indexterm> VV represents either a diphthong, one of the following:
+        <para> <indexterm type="general"><primary>VV字符串</primary><secondary>作为重元音的符号</secondary></indexterm> VV代表或者一个双元音，以下：
         <simplelist type="horiz" columns="4">
           <member><diphthong>ai</diphthong></member>
           <member><diphthong>ei</diphthong></member>
           <member><diphthong>oi</diphthong></member>
           <member><diphthong>au</diphthong></member>
         </simplelist>
-        or a two-syllable vowel pair with an apostrophe separating the vowels, one of the following:
+        中的一个，或者一个有分隔元音的撇号双音节元音对，以下：
         <simplelist type="horiz" columns="5">
           <member><morphology>a'a</morphology></member>
           <member><morphology>a'e</morphology></member>
@@ -70,11 +70,11 @@
           <member><morphology>u'i</morphology></member>
           <member><morphology>u'o</morphology></member>
           <member><morphology>u'u</morphology></member>
-        </simplelist>
+        </simplelist>中的一个。
         </para>
       </listitem>
       <listitem>
-        <para> <indexterm type="general"><primary>apostrophe</primary><secondary>as not a consonant for morphological discussions</secondary></indexterm>  <indexterm type="general"><primary>syllabic r</primary><secondary>as a consonant for morphological discussions</secondary></indexterm>  <indexterm type="general"><primary>syllabic n</primary><secondary>as a consonant for morphological discussions</secondary></indexterm>  <indexterm type="general"><primary>syllabic m</primary><secondary>as a consonant for morphological discussions</secondary></indexterm>  <indexterm type="general"><primary>syllabic l</primary><secondary>considered as a consonant for morphological discussions</secondary></indexterm>  <indexterm type="general"><primary>C string</primary><secondary>as a symbol for a single consonant</secondary></indexterm> C represents a single Lojban consonant, not including the apostrophe, one of
+        <para> <indexterm type="general"><primary>撇号</primary><secondary>在形态学讨论中不作为辅音</secondary></indexterm>  <indexterm type="general"><primary>成音节r</primary><secondary>在形态学讨论中作为辅音</secondary></indexterm>  <indexterm type="general"><primary>成音节n</primary><secondary>在形态学讨论中作为辅音</secondary></indexterm>  <indexterm type="general"><primary>成音节m</primary><secondary>在形态学讨论中作为辅音</secondary></indexterm>  <indexterm type="general"><primary>成音节l</primary><secondary>在形态学讨论中考虑为辅音</secondary></indexterm>  <indexterm type="general"><primary>C字符串</primary><secondary>作为单个辅音的符号</secondary></indexterm> C代表单个Lojban辅音，不包括撇号，即
         <simplelist type="inline">
           <member><letteral>b</letteral></member> 
           <member><letteral>c</letteral></member> 
@@ -92,13 +92,13 @@
           <member><letteral>t</letteral></member> 
           <member><letteral>v</letteral></member> 
           <member><letteral>x</letteral></member>
-          <member> or <letteral>z</letteral></member>
+          <member>或<letteral>z</letteral></member>
         </simplelist>
-        . Syllabic <letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>, and <letteral>r</letteral> always count as consonants for the purposes of this chapter.
+        中的一个。成音节<letteral>l</letteral>、<letteral>m</letteral>、<letteral>n</letteral>和<letteral>r</letteral>为本章目的通常作为辅音。
         </para>
       </listitem>
       <listitem>
-        <para> <indexterm type="general"><primary>CC string</primary><secondary>as a symbol for a permissible initial consonant pair</secondary></indexterm> CC represents two adjacent consonants of type C which constitute one of the 48 permissible initial consonant pairs: </para>
+        <para> <indexterm type="general"><primary>CC字符串</primary><secondary>作为允许开头辅音对的符号</secondary></indexterm> CC代表构成48个允许开头辅音对之一的两个C类型相邻辅音：</para>
         <informaltable class="noborder">
           <tr>
             <td><morphology>pl</morphology></td>
@@ -228,29 +228,29 @@
         </informaltable>
       </listitem>
       <listitem>
-        <para> <indexterm type="general"><primary>C/C string</primary><secondary>as a symbol for a permissible consonant pair</secondary></indexterm> C/C represents two adjacent consonants which constitute one of the permissible consonant pairs (not necessarily a permissible initial consonant pair). The permissible consonant pairs are explained in <xref linkend="section-clusters"/>. In brief, any consonant pair is permissible unless it: contains two identical letters, contains both a voiced (excluding <letteral>r</letteral>, <letteral>l</letteral>, <letteral>m</letteral>, <letteral>n</letteral>) and an unvoiced consonant, or is one of certain specified forbidden pairs.
+        <para> <indexterm type="general"><primary>C/C字符串</primary><secondary>作为允许辅音对的符号</secondary></indexterm> C/C代表组成允许辅音对（不必是允许开头辅音对）之一的两个相邻辅音。允许辅音对在<xref linkend="section-clusters"/>中解释。简短地说，任何辅音对是允许的除非它：包含两个相同字母，包含一个浊（除了<letteral>r</letteral>、<letteral>l</letteral>、<letteral>m</letteral>、<letteral>n</letteral>）和一个清辅音，或是某些特定的禁止组合之一。
         </para>
       </listitem>
       <listitem>
-        <para> <indexterm type="general"><primary>C/CC string</primary><secondary>as a symbol for a consonant triple</secondary></indexterm> C/CC represents a consonant triple. The first two consonants must constitute a permissible consonant pair; the last two consonants must constitute a permissible initial consonant pair.</para>
+        <para> <indexterm type="general"><primary>C/CC字符串</primary><secondary>作为三辅音结合体的符号</secondary></indexterm> C/CC代表一个三辅音结合体。前两个辅音必须组成允许辅音对；后两个辅音必须组成允许开头辅音对。</para>
       </listitem>
     </orderedlist>
-    <para> <indexterm type="general"><primary>brivla</primary><secondary>as one of the 3 basic word classes</secondary></indexterm>  <indexterm type="general"><primary>cmene</primary><secondary>as one of the 3 basic word classes</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>as one of the 3 basic word classes</secondary></indexterm>  <indexterm type="general"><primary>parts of speech</primary></indexterm>  <indexterm type="general"><primary>word classes</primary></indexterm> Lojban has three basic word classes &ndash; parts of speech &ndash; in contrast to the eight that are traditional in English. These three classes are called cmavo, brivla, and cmene. Each of these classes has uniquely identifying properties &ndash; an arrangement of letters that allows the word to be uniquely and unambiguously recognized as a separate word in a string of Lojban, upon either reading or hearing, and as belonging to a specific word-class.</para>
+    <para> <indexterm type="general"><primary>brivla</primary><secondary>作为3种基础单词类型之一</secondary></indexterm>  <indexterm type="general"><primary>cmene</primary><secondary>作为3种基础单词类型之一</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>作为3种基础单词类型之一</secondary></indexterm>  <indexterm type="general"><primary>语段的部分</primary></indexterm>  <indexterm type="general"><primary>单词类型</primary></indexterm> Lojban有三种基本单词类型&ndash;语段的部分&ndash;与英语传统的八种形成对比。这三种类型称为cmavo、brivla和cmene。这些类型每一种有独特识别属性&ndash;允许单词唯一无模糊作为Lojban字符串中一独立单词在读或听是被识别并属于某单词类别的字母排列。</para>
     
     
-    <para>They are also functionally different: cmavo are the structure words, corresponding to English words like 
+    <para>它们也在功能上不同：cmavo是结构词，对应于英语词汇像
     
-    <quote>and</quote>, 
-    <quote>if</quote>, 
-    <quote>the</quote> and 
-    <quote>to</quote>; brivla are the content words, corresponding to English words like 
-    <quote>come</quote>, 
-    <quote>red</quote>, 
-    <quote>doctor</quote>, and 
-    <quote>freely</quote>; cmene are proper names, corresponding to English 
-    <quote>James</quote>, 
-    <quote>Afghanistan</quote>, and 
-    <quote>Pope John Paul II</quote>.</para>
+    <quote>and</quote>、
+    <quote>if</quote>、
+    <quote>the</quote>和
+    <quote>to</quote>；brivla是内容词，对应于英语词汇像
+    <quote>come</quote>、
+    <quote>red</quote>、
+    <quote>doctor</quote>和
+    <quote>freely</quote>；cmene是合适的名字，对应于英语
+    <quote>James</quote>、
+    <quote>Afghanistan</quote>和
+    <quote>Pope John Paul II</quote>。</para>
   </section>
   <section xml:id="section-cmavo">
     <title><anchor xml:id="c4s2"/>cmavo</title>
