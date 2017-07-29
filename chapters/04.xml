@@ -254,14 +254,14 @@
   </section>
   <section xml:id="section-cmavo">
     <title><anchor xml:id="c4s2"/>cmavo</title>
-    <para> <indexterm type="general"><primary>punctuation marks</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>numbers</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>prepositions</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>conjunctions</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>articles</primary><secondary>cmavo as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>structure words</primary></indexterm>  <indexterm type="general"><primary>selma'o</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>definition</secondary></indexterm> The first group of Lojban words discussed in this chapter are the cmavo. They are the structure words that hold the Lojban language together. They often have no semantic meaning in themselves, though they may affect the semantics of brivla to which they are attached. The cmavo include the equivalent of English articles, conjunctions, prepositions, numbers, and punctuation marks. There are over a hundred subcategories of cmavo, known as <valsi>selma'o</valsi>, each having a specifically defined grammatical usage. The various selma'o are discussed throughout 
-    <xref linkend="chapter-selbri"/> to 
-    <xref linkend="chapter-structure"/> and summarized in 
-    <xref linkend="chapter-catalogue"/>.</para>
-    <para> <indexterm type="general"><primary>cmavo</primary><secondary>structure of</secondary></indexterm> Standard cmavo occur in four forms defined by their word structure. Here are some examples of the various forms:</para>
+    <para> <indexterm type="general"><primary>标点符号</primary><secondary>作为Lojban等价物的cmavo</secondary></indexterm>  <indexterm type="general"><primary>数字</primary><secondary>作为Lojban等价物的cmavo</secondary></indexterm>  <indexterm type="general"><primary>介词</primary><secondary>作为Lojban等价物的cmavo</secondary></indexterm>  <indexterm type="general"><primary>连词</primary><secondary>作为Lojban等价物的cmavo</secondary></indexterm>  <indexterm type="general"><primary>冠词</primary><secondary>作为Lojban等价物的cmavo</secondary></indexterm>  <indexterm type="general"><primary>结构词</primary></indexterm>  <indexterm type="general"><primary>selma'o</primary><secondary>定义</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>定义</secondary></indexterm> 在本章讨论的第一群Lojban单词是cmavo。它们是将Lojban维持在一起的结构词。它们经常本身没有语义，虽然它们能影响它们附着的brivla的语义。cmavo包括英语冠词、连词、介词、数字和标点符号的等价物。有一百多个被称为<valsi>selma'o</valsi>的cmavo子类，每个有明确定义的用途。多样的selma'o在
+    <xref linkend="chapter-selbri"/>到
+    <xref linkend="chapter-structure"/>间讨论并在
+    <xref linkend="chapter-catalogue"/>总结。</para>
+    <para> <indexterm type="general"><primary>cmavo</primary><secondary>结构</secondary></indexterm> 标准cmavo以由其单词结构定义的四种方式出现。这里有多样形式的一些例子：</para>
     <informaltable>
           <tr>
-            <td>V-form</td>
+            <td>V形式</td>
             <td><valsi>.a</valsi></td>
             <td><valsi>.e</valsi></td>
             <td><valsi>.i</valsi></td>
@@ -269,7 +269,7 @@
             <td><valsi>.u</valsi></td>
           </tr>
           <tr>
-            <td>CV-form</td>
+            <td>CV形式</td>
             <td><valsi>ba</valsi></td>
             <td><valsi>ce</valsi></td>
             <td><valsi>di</valsi></td>
@@ -277,7 +277,7 @@
             <td><valsi>gu</valsi></td>
           </tr>
           <tr>
-            <td>VV-form</td>
+            <td>VV形式</td>
             <td><valsi>.au</valsi></td>
             <td><valsi>.ei</valsi></td>
             <td><valsi>.ia</valsi></td>
@@ -285,7 +285,7 @@
             <td><valsi>u'e</valsi></td>
           </tr>
           <tr>
-            <td>CVV-form</td>
+            <td>CVV形式</td>
             <td><valsi>ki'a</valsi></td>
             <td><valsi>pei</valsi></td>
             <td><valsi>mi'o</valsi></td>
@@ -293,20 +293,20 @@
             <td><valsi>cu'u</valsi></td>
           </tr>
     </informaltable>
-    <para>In addition, there is the cmavo 
-    <valsi>.y.</valsi> (remember that 
-    <letteral>y</letteral> is not a V), which must have pauses before and after it.</para>
-    <para> <indexterm type="general"><primary>cmavo</primary><secondary>lack of relation of form to grammatical use</secondary></indexterm>  <indexterm type="general"><primary>experimental cmavo</primary><secondary>forms for</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>for experimental use</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>simple</secondary></indexterm> A simple cmavo thus has the property of having only one or two vowels, or of having a single consonant followed by one or two vowels. Words consisting of three or more vowels in a row, or a single consonant followed by three or more vowels, are also of cmavo form, but are reserved for experimental use: a few examples are 
-    <jbophrase>ku'a'e</jbophrase>, 
+    <para>另，有必须在其前后停顿的cmavo
+    <valsi>.y.</valsi>（注意
+    <letteral>y</letteral>不是V）。</para>
+    <para> <indexterm type="general"><primary>cmavo</primary><secondary>形式与语法用途关系的缺乏</secondary></indexterm>  <indexterm type="general"><primary>试验cmavo</primary><secondary>形式</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>为试验用途</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>简单</secondary></indexterm> 简单cmavo从而具有只有一两个元音或有由一两个元音跟随的单辅音的属性。由连续三个或更多元音或由三个或更多元音跟随的单辅音构成的词也有cmavo的形式，但保留作试验用途：一些例子是
+    <jbophrase>ku'a'e</jbophrase>、
     
-    <jbophrase>sau'e</jbophrase>, and 
-    <jbophrase>bai'ai</jbophrase>. All CVV cmavo beginning with the letter 
-    <letteral>x</letteral> are also reserved for experimental use. In general, though, the form of a cmavo tells you little or nothing about its grammatical use.</para>
-    <para> <indexterm type="general"><primary>experimental cmavo</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>experimental</secondary></indexterm> 
-    <quote>Experimental use</quote> means that the language designers will not assign any standard meaning or usage to these words, and words and usages coined by Lojban speakers will not appear in official dictionaries for the indefinite future. Experimental-use words provide an escape hatch for adding grammatical mechanisms (as opposed to semantic concepts) the need for which was not foreseen.</para>
-    <para> <indexterm type="general"><primary>cmavo</primary><secondary>diphthongs in</secondary></indexterm> The cmavo of VV-form include not only the diphthongs and vowel pairs listed in 
+    <jbophrase>sau'e</jbophrase>和
+    <jbophrase>bai'ai</jbophrase>。所有字母
+    <letteral>x</letteral>开头的CVV形式cmavo也保留作试验用途。通常，然而，cmavo的形式告诉你几乎没有或干脆没有关于它语法用途的事情。</para>
+    <para> <indexterm type="general"><primary>试验cmavo</primary><secondary>定义</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>试验</secondary></indexterm> 
+    <quote>试验用途</quote>意为语言设计者将不对这些词制定任何标准意思或用法，说Lojban的人生造的词和用法在不确定的未来内将不会出现在官方词典中。试验用的词为添加曾经未被预见其需要的语法机制（与语意方面相对）提供躲避通道。</para>
+    <para> <indexterm type="general"><primary>cmavo</primary><secondary>其中的双元音</secondary></indexterm> VV形式的cmavo不仅包含
     
-    <xref linkend="section-morphology-introduction"/>, but also the following ten additional diphthongs:</para>
+    <xref linkend="section-morphology-introduction"/>中列出的双元音和元音对，还有以下十个额外双辅音：</para>
     <simplelist type="horiz" columns="5">
       <member><valsi>.ia</valsi></member>
       <member><valsi>.ie</valsi></member>
@@ -320,22 +320,22 @@
       <member><valsi>.uo</valsi></member>
       <member><valsi>.uu</valsi></member>
     </simplelist>
-    <para>In addition, cmavo can have the form 
-    <morphology>Cy</morphology>, a consonant followed by the letter 
-    <letteral>y</letteral>. These cmavo represent letters of the Lojban alphabet, and are discussed in detail in 
+    <para>另，cmavo可以具有
+    <morphology>Cy</morphology>，由字母
+    <letteral>y</letteral>跟随着的辅音的形式。这些cmavo代表Lojban字母表的字母，在
     
-    <xref linkend="chapter-letterals"/>.</para>
-    <para> <indexterm type="general"><primary>compound cmavo</primary><secondary>compared with sequence of simple cmavo</secondary></indexterm>  <indexterm type="general"><primary>compound cmavo</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>compound</secondary></indexterm> Compound cmavo are sequences of cmavo attached together to form a single written word. A compound cmavo is always identical in meaning and in grammatical use to the separated sequence of simple cmavo from which it is composed. These words are written in compound form merely to save visual space, and to ease the reader's burden in identifying when the component cmavo are acting together.</para>
-    <para> <indexterm type="general"><primary>compound cmavo</primary><secondary>recognition of</secondary></indexterm> Compound cmavo, while not visually short like their components, can be readily identified by two characteristics:</para>
+    <xref linkend="chapter-letterals"/>中详细讨论。</para>
+    <para> <indexterm type="general"><primary>组合cmavo</primary><secondary>与单个cmavo的序列相比</secondary></indexterm>  <indexterm type="general"><primary>组合cmavo</primary><secondary>定义</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>组合词</secondary></indexterm> 组合cmavo是连在一起形成单个书面词的cmavo序列。组合cmavo总是在意义与语法使用上与形成它的简单cmavo的分列序列相同。这些单词写成组合词形式主要为了节省视觉空间，当组成cmavo共同作用时缓解阅读者识别的负担。</para>
+    <para> <indexterm type="general"><primary>组合cmavo</primary><secondary>识别</secondary></indexterm> 组合cmavo，当视觉上不像它们的组分一样短时，可由两项特征容易地识别出：</para>
     <orderedlist>
         <listitem>
-          <para>They have no consonant pairs or clusters, and</para>
+          <para>它们没有辅音对或群，且</para>
         </listitem>
         <listitem>
-          <para>They end in a vowel.</para>
+          <para>它们以元音终止。</para>
         </listitem>
     </orderedlist>
-    <para>For example:</para>
+    <para>例如：</para>
     <example xml:id="example-random-id-qiXV" role="compound-cmavo-example">
       <title>
         <anchor xml:id="c4e2d1"/>
@@ -363,16 +363,16 @@
         <jbo>ki'e .u'e</jbo>
       </compound-cmavo>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>pauses</primary><secondary>before vowels</secondary></indexterm> The cmavo 
-    <valsi>u'e</valsi> begins with a vowel, and like all words beginning with a vowel, requires a pause (represented by 
-    <letteral>.</letteral>) before it. This pause cannot be omitted simply because the cmavo is incorporated into a compound cmavo. On the other hand,</para>
+    <para role="indent"> <indexterm type="general"><primary>停顿</primary><secondary>元音前</secondary></indexterm> cmavo
+    <valsi>u'e</valsi>以元音开始，如同所有以元音开始的词一样，要求在它前面有一个停顿（
+    <letteral>.</letteral>表达）。这停顿不能简单地被省略因为cmavo会被合并为一个组合cmavo。另一方面，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-FDhH">
       <title>
         <anchor xml:id="c4e2d4"/>
       </title>
       <jbophrase>ki'e'u'e</jbophrase>
     </example>
-    <para role="noindent">is a single cmavo reserved for experimental purposes: it has four vowels.</para>
+    <para role="noindent">是单个保留作试验目的的cmavo；它有四个元音。</para>
     <example role="compound-cmavo-example" xml:id="example-random-id-CtnR">
       <title>
         <anchor xml:id="c4e2d5"/>
@@ -382,11 +382,11 @@
         <jbo>cy. .ibu .abu</jbo>
       </compound-cmavo>
     </example>
-    <para role="indent">Again the pauses are required (see 
-    <xref linkend="section-pauses"/>); the pause after 
-    <valsi>cy.</valsi> merges with the pause before 
-    <valsi>.ibu</valsi>.</para>
-    <para> <indexterm type="general"><primary>stress</primary><secondary>on cmavo</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>stress on</secondary></indexterm> There is no particular stress required in cmavo or their compounds. Some conventions do exist that are not mandatory. For two-syllable cmavo, for example, stress is typically placed on the first vowel; an example is</para>
+    <para role="indent">再次要求停顿（参见
+    <xref linkend="section-pauses"/>）；
+    <valsi>cy.</valsi>后的停顿与
+    <valsi>.ibu</valsi>前的停顿合并。</para>
+    <para> <indexterm type="general"><primary>重音</primary><secondary>cmavo上的</secondary></indexterm>  <indexterm type="general"><primary>cmavo</primary><secondary>重音</secondary></indexterm> cmavo或它们的组合词没有要求特定重音。确实存在一些非强制的惯例。对双音节cmavo，举例来说，重音通常位于第一个元音；一个例子是</para>
     <example role="pronunciation-example" xml:id="example-random-id-pdGY">
       <title>
         <anchor xml:id="c4e2d6"/>
@@ -396,8 +396,8 @@
         <jbo role="pronunciation">.E'o ko ko KURji</jbo>
       </pronunciation>
     </example>
-    <para role="indent">This convention results in a consistent rhythm to the language, since brivla are required to have penultimate stress; some find this esthetically pleasing.</para>
-    <para> <indexterm type="general"><primary>pause</primary><secondary>requirement between stressed syllables</secondary></indexterm> If the final syllable of one word is stressed, and the first syllable of the next word is stressed, you must insert a pause or glottal stop between the two stressed syllables. Thus</para>
+    <para role="indent">这惯例导致语言的一致韵律，既然brivla要求具有倒数第二个音节的重音；一些人发现这在审美上使人高兴。</para>
+    <para> <indexterm type="general"><primary>停顿</primary><secondary>重音音节间的要求</secondary></indexterm> 如果一个词最后一个音节重读，且下一个词第一个音节重读，你必须在两个重读音节间插入一个停顿或喉塞音。这样</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-uqDz">
       <title>
@@ -405,7 +405,7 @@
       </title>
       <jbophrase>le re nanmu</jbophrase>
     </example>
-    <para role="noindent">can be optionally pronounced</para>
+    <para role="noindent">可选发为</para>
     <example role="pronunciation-example" xml:id="example-random-id-dfzc">
       <title>
         <anchor xml:id="c4e2d8"/>
@@ -414,11 +414,11 @@
         <jbo role="pronunciation">le RE. NANmu</jbo>
       </pronunciation>
     </example>
-    <para role="noindent">since there are no rules forcing stress on either of the first two words; the stress on 
-    <valsi>re</valsi>, though, demands that a pause separate 
-    <valsi>re</valsi> from the following syllable 
-    <jbophrase>nan</jbophrase> to ensure that the stress on 
-    <jbophrase>nan</jbophrase> is properly heard as a stressed syllable. The alternative pronunciation</para>
+    <para role="noindent">因为没有规则要求在前两个词上的重音；
+    <valsi>re</valsi>上的重音，然而，要求一个停顿分隔
+    <valsi>re</valsi>与接下来的音节
+    <jbophrase>nan</jbophrase>来保证
+    <jbophrase>nan</jbophrase>上的重音作为重读音节被恰当地听到。备选发音</para>
     
     
     <example role="pronunciation-example" xml:id="example-random-id-bLbf">
@@ -429,13 +429,13 @@
         <jbo>LE re NANmu</jbo>
       </pronunciation>
     </example>
-    <para role="noindent">is also valid; this would apply secondary stress (used for purposes of emphasis, contrast or sentence rhythm) to 
-    <valsi>le</valsi>, comparable in rhythmical effect to the English phrase 
-    <quote>THE two men</quote>. In 
-    <xref linkend="example-random-id-dfzc"/>, the secondary stress on 
-    <valsi>re</valsi> would be similar to that in the English phrase 
-    <quote>the TWO men</quote>.</para>
-    <para>Both cmavo may also be left unstressed, thus:</para>
+    <para role="noindent">也是合法的；这会要求
+    <valsi>le</valsi>上的次重音（用作强调、对比或句子韵律的目的），韵律上的影响与英语短语
+    <quote>THE two men</quote>类似。
+    <xref linkend="example-random-id-dfzc"/>中，
+    <valsi>re</valsi>上的次重音与英语短语
+    <quote>the TWO men</quote>类似。</para>
+    <para>两个cmavo都可能不重读，这样：</para>
     <example role="pronunciation-example" xml:id="example-random-id-sg0p">
       <title>
         <anchor xml:id="c4e2d10"/>
@@ -444,7 +444,7 @@
         <jbo role="pronunciation">le re NANmu</jbo>
       </pronunciation>
     </example>
-    <para role="indent">This would probably be the most common usage.</para>
+    <para role="indent">这大概会是最常见的用法。</para>
   </section>
   <section xml:id="section-morphology-brivla">
     <title><anchor xml:id="c4s3"/>brivla</title>
