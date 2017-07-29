@@ -448,54 +448,54 @@
   </section>
   <section xml:id="section-morphology-brivla">
     <title><anchor xml:id="c4s3"/>brivla</title>
-    <para> <indexterm type="general"><primary>adverbs</primary><secondary>brivla as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>verbs</primary><secondary>brivla as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>adjectives</primary><secondary>brivla as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>nouns</primary><secondary>brivla as Lojban equivalents</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>definition</secondary></indexterm> Predicate words, called 
-    <valsi>brivla</valsi>, are at the core of Lojban. They carry most of the semantic information in the language. They serve as the equivalent of English nouns, verbs, adjectives, and adverbs, all in a single part of speech.</para>
+    <para> <indexterm type="general"><primary>副词</primary><secondary>作为Lojban等价物的brivla</secondary></indexterm>  <indexterm type="general"><primary>动词</primary><secondary>作为Lojban等价物的cmavo</secondary></indexterm>  <indexterm type="general"><primary>形容词</primary><secondary>作为Lojban等价物的cmavo</secondary></indexterm>  <indexterm type="general"><primary>名词</primary><secondary>作为Lojban等价物的cmavo</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>定义</secondary></indexterm> 断言词，称作
+    <valsi>brivla</valsi>，处于Lojban的核心。它们在语言中携带大多数语义信息。它们用作英语名词、动词、形容词和副词的等价物，均为语言中的单一部分。</para>
     
     
     
     
-    <para> <indexterm type="general"><primary>subtypes of words</primary></indexterm>  <indexterm type="general"><primary>types and subtypes of words</primary></indexterm> Every brivla belongs to one of three major subtypes. These subtypes are defined by the form, or morphology, of the word &ndash; all words of a particular structure can be assigned by sight or sound to a particular type (cmavo, brivla, or cmene) and subtype. Knowing the type and subtype then gives you, the reader or listener, significant clues to the meaning and the origin of the word, even if you have never heard the word before.</para>
+    <para> <indexterm type="general"><primary>词的子类</primary></indexterm>  <indexterm type="general"><primary>词的类型和子类</primary></indexterm> 每个brivla属于三种主要子类之一。这些子类由其形式，或者说形态学定义&ndash;所有特定结构的词可由视觉或听觉归属到特定类型（cmavo、brivla或cmene）和子类中。明白类型和子类将给你，读者或听者，对意思和词源显著的线索，即使你之前从未听过这个词。</para>
     
-    <para> <indexterm type="general"><primary>flexible vocabulary</primary></indexterm> The same principle allows you, when speaking or writing, to invent new brivla for new concepts 
-    <quote>on the fly</quote>; yet it offers people that you are trying to communicate with a good chance to figure out your meaning. In this way, Lojban has a flexible vocabulary which can be expanded indefinitely.</para>
+    <para> <indexterm type="general"><primary>可调整的词汇</primary></indexterm> 相同的原则允许你，说话或写作时，为了新概念
+    <quote>on the fly</quote>发明新词汇；然而它向你在尝试沟通的人提供了一个指出你的意思的好机会。这样，Lojban拥有了一个可以无限拓展的可调整词汇表。</para>
     
-    <para> <indexterm type="general"><primary>brivla</primary><secondary>properties of</secondary></indexterm> All brivla have the following properties:</para>
+    <para> <indexterm type="general"><primary>brivla</primary><secondary>特性</secondary></indexterm> 所有brivla有以下特性：</para>
     <orderedlist>
       <listitem>
-        <para>always end in a vowel;</para>
+        <para>总是以元音结尾；</para>
       </listitem>
       <listitem>
-        <para>always contain a consonant pair in the first five letters, where 
-        <letteral>y</letteral> and apostrophe are not counted as letters for this purpose (see 
-        <xref linkend="section-rafsi"/>.);</para>
+        <para>通常在前五个字母中包含一个辅音对，其中
+        <letteral>y</letteral>和撇号在这种目的下不算作字母（参见
+        <xref linkend="section-rafsi"/>。）；</para>
       </listitem>
       <listitem>
-        <para>always are stressed on the next-to-the-last (penultimate) syllable; this implies that they have two or more syllables.</para>
+        <para>通常在倒数第二个（倒数第二个）音节重读；这暗示它们有两个或更多音节。</para>
       </listitem>
     </orderedlist>
-    <para> <indexterm type="general"><primary>cmene form</primary><secondary>contrasted with brivla form</secondary></indexterm>  <indexterm type="general"><primary>cmavo form</primary><secondary>contrasted with brivla form</secondary></indexterm>  <indexterm type="general"><primary>brivla form</primary><secondary>contrasted with cmene form</secondary></indexterm>  <indexterm type="general"><primary>brivla form</primary><secondary>contrasted with cmavo form</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>recognition of</secondary></indexterm> The presence of a consonant pair distinguishes brivla from cmavo and their compounds. The final vowel distinguishes brivla from cmene, which always end in a consonant. Thus 
-    <jbophrase>da'amei</jbophrase> must be a compound cmavo because it lacks a consonant pair; 
-    <valsi>lojban.</valsi> must be a name because it lacks a final vowel.</para>
-    <para> <indexterm type="general"><primary>consonant pairs</primary><secondary>letter y within</secondary></indexterm>  <indexterm type="general"><primary>y</primary><secondary>letter</secondary><tertiary>between letters of consonant pair</tertiary></indexterm>  <indexterm type="general"><primary>consonant pairs</primary><secondary>in brivla</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>consonant pairs in</secondary></indexterm> Thus, 
-    <valsi valid='maybe'>bisycla</valsi> has the consonant pair 
-    <morphology>sc</morphology> in the first five non- 
-    <letteral>y</letteral> letters even though the 
-    <morphology>sc</morphology> actually appears in the form of 
-    <valsi>sy.</valsi>. Similarly, the word 
-    <valsi valid='maybe'>ro'inre'o</valsi> contains 
-    <morphology>nr</morphology> in the first five letters because the apostrophes are not counted for this purpose.</para>
-    <para> <indexterm type="general"><primary>brivla</primary><secondary>subtypes of</secondary></indexterm> The three subtypes of brivla are:</para>
+    <para> <indexterm type="general"><primary>cmene的形式</primary><secondary>与brivla的形式对比</secondary></indexterm>  <indexterm type="general"><primary>cmavo的形式</primary><secondary>与brivla的形式对比</secondary></indexterm>  <indexterm type="general"><primary>brivla的形式</primary><secondary>与cmene的形式对比</secondary></indexterm>  <indexterm type="general"><primary>brivla的形式</primary><secondary>与cmavo的形式对比</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>辨识</secondary></indexterm> 辅音对的出现将brivla与cmavo和它们的组合词区分开来。结尾元音将brivla与通常以辅音结尾的cmene分离开来。这样
+    <jbophrase>da'amei</jbophrase>必定是组合cmavo因为它缺少辅音对；
+    <valsi>lojban.</valsi>必定是名字因为它缺少结尾元音。</para>
+    <para> <indexterm type="general"><primary>辅音对</primary><secondary>其中的字母y</secondary></indexterm>  <indexterm type="general"><primary>y</primary><secondary>字母</secondary><tertiary>在辅音对字母间</tertiary></indexterm>  <indexterm type="general"><primary>辅音对</primary><secondary>在brivla中</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>其中的辅音对</secondary></indexterm> 这样，
+    <valsi valid='maybe'>bisycla</valsi>在前五个非
+    <letteral>y</letteral>字母中有辅音对
+    <morphology>sc</morphology>即使
+    <morphology>sc</morphology>实际上以
+    <valsi>sy.</valsi>的形式出现。类似地，单词
+    <valsi valid='maybe'>ro'inre'o</valsi>在前五个字母中包含
+    <morphology>nr</morphology>因为撇号在这种目的下不被计入。</para>
+    <para> <indexterm type="general"><primary>brivla</primary><secondary>子类</secondary></indexterm> brivla的三种子类是：</para>
     <orderedlist>
       <listitem>
-        <para> <indexterm type="general"><primary>gismu</primary><secondary>as a subtype of brivla</secondary></indexterm>  <indexterm type="general"><primary>primitive roots</primary><secondary>gismu as</secondary></indexterm> gismu, the Lojban primitive roots from which all other brivla are built;</para>
+        <para> <indexterm type="general"><primary>gismu</primary><secondary>作为brivla的子类</secondary></indexterm>  <indexterm type="general"><primary>原始根词</primary><secondary>gismu作为</secondary></indexterm> gismu，其余所有brivla从中构建的Lojban原始根词；</para>
         
       </listitem>
       <listitem>
-        <para> <indexterm type="general"><primary>compound of gismu</primary><secondary>lujvo as</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>as a subtype of brivla</secondary></indexterm> lujvo, the compounds of two or more gismu; and</para>
+        <para> <indexterm type="general"><primary>gismu的组合词</primary><secondary>lujvo作为</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>作为brivla的子类</secondary></indexterm> lujvo，两个或更多gismu的组合词；和</para>
       </listitem>
       <listitem>
-        <para> <indexterm type="general"><primary>borrowing from other language</primary><secondary>fu'ivla as</secondary></indexterm>  <indexterm type="general"><primary>fu'ivla</primary><secondary>as a subtype of brivla</secondary></indexterm> fu'ivla (literally 
-        <quote>copy-word</quote>), the specialized words that are not Lojban primitives or natural compounds, and are therefore borrowed from other languages.</para>
+        <para> <indexterm type="general"><primary>从其他语言中借来</primary><secondary>fu'ivla作为</secondary></indexterm>  <indexterm type="general"><primary>fu'ivla</primary><secondary>作为brivla的子类</secondary></indexterm> fu'ivla（字面上为
+        <quote>借词</quote>），非Lojban原始词或自然组合词且因此从其他语言中借来的专用词汇。</para>
       </listitem>
     </orderedlist>
   </section>
