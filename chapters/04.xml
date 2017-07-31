@@ -501,56 +501,56 @@
   </section>
   <section xml:id="section-gismu">
     <title><anchor xml:id="c4s4"/>gismu</title>
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>rationale for choice of</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>definition</secondary></indexterm> The gismu, or Lojban root words, are those brivla representing concepts most basic to the language. The gismu were chosen for various reasons: some represent concepts that are very familiar and basic; some represent concepts that are frequently used in other languages; some were added because they would be helpful in constructing more complex words; some because they represent fundamental Lojban concepts (like 
-    <valsi>cmavo</valsi> and 
-    <valsi>gismu</valsi> themselves).</para>
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>as partitioning semantic space</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>selection of</secondary></indexterm> The gismu do not represent any sort of systematic partitioning of semantic space. Some gismu may be superfluous, or appear for historical reasons: the gismu list was being collected for almost 35 years and was only weeded out once. Instead, the intention is that the gismu blanket semantic space: they make it possible to talk about the entire range of human concerns.</para>
-    <para> <indexterm type="general"><primary>learning Lojban</primary><secondary>magnitude of task</secondary></indexterm>  <indexterm type="general"><primary>cmavo and gismu</primary><secondary>major</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>and cmavo</secondary><tertiary>major</tertiary></indexterm> There are about 1350 gismu. In learning Lojban, you need only to learn most of these gismu and their combining forms (known as 
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>选择的基本原理</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>定义</secondary></indexterm> gismu，或者说Lojban根词，是那些代表语言最基本概念的brivla。gismu基于许多原因被选择：一些代表非常熟悉和基本的概念；一些代表在其他原因中常用的概念；一些被加进来因为它们会在构建更复杂的词是有助益；一些因为它们代表基础Lojban概念（像
+    <valsi>cmavo</valsi>和
+    <valsi>gismu</valsi>它们自己）。</para>
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>分割语义空间</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>选择</secondary></indexterm> gismu不代表语义空间的任何一种系统分割。一些gismu可能多余，或因历史原因出现；gismu表曾收集近35年且仅精简过一次。相反，目的为gismu覆盖语义空间：它们使谈论人类概念的全部范畴成为可能。</para>
+    <para> <indexterm type="general"><primary>学习Lojban</primary><secondary>任务的重要性</secondary></indexterm>  <indexterm type="general"><primary>cmavo和gismu</primary><secondary>主要</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>和cmavo</secondary><tertiary>主要</tertiary></indexterm> 有大概1350个gismu。学习Lojban时，你只需要学习这些gismu的大部分和它们的结合形式（称为
     
     
-    <valsi>rafsi</valsi>) as well as perhaps 200 major cmavo, and you will be able to communicate effectively in the language. This may sound like a lot, but it is a small number compared to the vocabulary needed for similar communications in other languages.</para>
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>rules for</secondary></indexterm> All gismu have very strong form restrictions. Using the conventions defined in 
-    <xref linkend="section-morphology-introduction"/>, all gismu are of the forms CVC/CV or CCVCV. They must meet the rules for all brivla given in 
-    <xref linkend="section-morphology-brivla"/>; furthermore, they:</para>
+    <valsi>rafsi</valsi>）和大概200个主要cmavo，然后你将能用这门语言有效交流。这可能听起来很多，但它与其他语言中相似的交流所需的词汇量相比很小。</para>
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>规则</secondary></indexterm> 所有gismu有非常强的形式限制。使用
+    <xref linkend="section-morphology-introduction"/>中定义的惯例，所有gismu是CVC/CV或CCVCV形式的。它们必须符合
+    <xref linkend="section-morphology-brivla"/>中对所有brivla的规则；更进一步，它们：</para>
     <orderedlist>
       <listitem>
-        <para>always have five letters;</para>
+        <para>总是有五个字母；</para>
       </listitem>
       <listitem>
-        <para>always start with a consonant and end with a single vowel;</para>
+        <para>总是以辅音开头，以单个元音结尾；
       </listitem>
       <listitem>
-        <para>always contain exactly one consonant pair, which is a permissible initial pair (CC) if it's at the beginning of the gismu, but otherwise only has to be a permissible pair (C/C);</para>
+        <para>总是包含正好一个若在gismu的开头就是允许开头对（CC）、否则只需要是允许对（C/C）的辅音对；</para>
       </listitem>
       <listitem>
-        <para>are always stressed on the first syllable (since that is penultimate).</para>
+        <para>同时在第一音节重读（因为那是倒数第二个）。</para>
       </listitem>
     </orderedlist>
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>length of</secondary></indexterm> The five letter length distinguishes gismu from lujvo and fu'ivla. In addition, no gismu contains 
-    <letteral>'</letteral> .</para>
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>conflicts between</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>special</secondary></indexterm> With the exception of five special brivla variables, 
-    <valsi>broda</valsi>, 
-    <valsi>brode</valsi>, 
-    <valsi>brodi</valsi>, 
-    <valsi>brodo</valsi>, and 
-    <valsi>brodu</valsi>, no two gismu differ only in the final vowel. Furthermore, the set of gismu was specifically designed to reduce the likelihood that two similar sounding gismu could be confused. For example, because 
-    <valsi>gismu</valsi> is in the set of gismu, 
-    <valsi valid="false">kismu</valsi>, 
-    <valsi valid="false">xismu</valsi>, 
-    <valsi valid="false">gicmu</valsi>, 
-    <valsi valid="false">gizmu</valsi>, and 
-    <valsi valid="false">gisnu</valsi> cannot be.</para>
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>source of</secondary></indexterm> Almost all Lojban gismu are constructed from pieces of words drawn from other languages, specifically Chinese, English, Hindi, Spanish, Russian, and Arabic, the six most widely spoken natural languages. For a given concept, words in the six languages that represent that concept were written in Lojban phonetics. Then a gismu was selected to maximize the recognizability of the Lojban word for speakers of the six languages by weighting the inclusion of the sounds drawn from each language by the number of speakers of that language. See 
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>长度</secondary></indexterm> 五个字母的长度将gismu与lujvo和fu'ivla区分开。另，没有gismu包含
+    <letteral>'</letteral>。</para>
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>之间的冲突</secondary></indexterm>  <indexterm type="general"><primary>gismu</primary><secondary>特别</secondary></indexterm> 有着五个特别brivla变量，
+    <valsi>broda</valsi>、
+    <valsi>brode</valsi>、
+    <valsi>brodi</valsi>、
+    <valsi>brodo</valsi>和
+    <valsi>brodu</valsi>的例外，没有两个gismu仅在最后一个元音上不同。更进一步，gismu集合特别设计为减少两个听起来相似的gismu可能被混淆的可能性例如，因为
+    <valsi>gismu</valsi>在gismu集合中，
+    <valsi valid="false">kismu</valsi>、
+    <valsi valid="false">xismu</valsi>、
+    <valsi valid="false">gicmu</valsi>、
+    <valsi valid="false">gizmu</valsi>和
+    <valsi valid="false">gisnu</valsi>不能在。</para>
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>来源</secondary></indexterm> 几乎所有Lojban的gismu由其他语言，尤其是中文、英语、印地语、西班牙语、俄语和阿拉伯语，六个说得最广泛的语言，中词的片段构建。对于一个给定的概念，把这六种语言中代表这个概念的词用Lojban语音写下来。然后通过以每种语言的使用者为权重，衡量来自每种语言的音被包含的数量，挑选出gismu来最大化Lojban词对说这六种语言的人的识别度。参见
     
-    <xref linkend="section-gismu-making"/> for a full explanation of the algorithm.</para>
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>examples of</secondary></indexterm> Here are a few examples of gismu, with rough English equivalents (not definitions):</para>
+    <xref linkend="section-gismu-making"/>来获取对这种算法的完整解释。</para>
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>例子</secondary></indexterm> 这里有一些包含近似汉语等价物（非定义）的gismu的例子：</para>
     <example xml:id="example-random-id-qJ0x" role="interlinear-gloss-example">
       <title>
         <anchor xml:id="c4e4d1"/>
       </title>
       <interlinear-gloss>
         <jbo>creka</jbo>
-        <natlang>shirt</natlang>
+        <natlang>衬衫</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qj4M" role="interlinear-gloss-example">
@@ -559,7 +559,7 @@
       </title>
       <interlinear-gloss>
         <jbo>lijda</jbo>
-        <natlang>religion</natlang>
+        <natlang>宗教</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qJ4M" role="interlinear-gloss-example">
@@ -568,7 +568,7 @@
       </title>
       <interlinear-gloss>
         <jbo>blanu</jbo>
-        <natlang>blue</natlang>
+        <natlang>蓝</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qJ5Y" role="interlinear-gloss-example">
@@ -577,7 +577,7 @@
       </title>
       <interlinear-gloss>
         <jbo>mamta</jbo>
-        <natlang>mother</natlang>
+        <natlang>母</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qj6K" role="interlinear-gloss-example">
@@ -586,7 +586,7 @@
       </title>
       <interlinear-gloss>
         <jbo>cukta</jbo>
-        <natlang>book</natlang>
+        <natlang>书</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qJ6R" role="interlinear-gloss-example">
@@ -595,7 +595,7 @@
       </title>
       <interlinear-gloss>
         <jbo>patfu</jbo>
-        <natlang>father</natlang>
+        <natlang>父</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qJ6y" role="interlinear-gloss-example">
@@ -604,7 +604,7 @@
       </title>
       <interlinear-gloss>
         <jbo>nanmu</jbo>
-        <natlang>man</natlang>
+        <natlang>男人</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qj71" role="interlinear-gloss-example">
@@ -613,11 +613,11 @@
       </title>
       <interlinear-gloss>
         <jbo>ninmu</jbo>
-        <natlang>woman</natlang>
+        <natlang>女人</natlang>
       </interlinear-gloss>
     </example>
-    <para role="indent">A small number of gismu were formed differently; see 
-    <xref linkend="section-cultural-gismu"/> for a list.</para>
+    <para role="indent">一小部分gismu以不同的方式构建；参见
+    <xref linkend="section-cultural-gismu"/>以获得列表。</para>
   </section>
   <section xml:id="section-lujvo">
     <title><anchor xml:id="c4s5"/>lujvo</title>
