@@ -621,8 +621,8 @@
   </section>
   <section xml:id="section-lujvo">
     <title><anchor xml:id="c4s5"/>lujvo</title>
-    <para> <indexterm type="general"><primary>modifying brivla (see also seltau)</primary></indexterm>  <indexterm type="general"><primary>seltau</primary><secondary>compared with English adverb</secondary></indexterm>  <indexterm type="general"><primary>seltau</primary><secondary>compared with English adjective</secondary></indexterm>  <indexterm type="general"><primary>tanru</primary><secondary>explanation of</secondary></indexterm> When specifying a concept that is not found among the gismu (or, more specifically, when the relevant gismu seems too general in meaning), a Lojbanist generally attempts to express the concept as a tanru. Lojban tanru are an elaboration of the concept of 
-    <quote>metaphor</quote> used in English. In Lojban, any brivla can be used to modify another brivla. The first of the pair modifies the second. This modification is usually restrictive &ndash; the modifying brivla reduces the broader sense of the modified brivla to form a more narrow, concrete, or specific concept. Modifying brivla may thus be seen as acting like English adverbs or adjectives. For example,</para>
+    <para> <indexterm type="general"><primary>修饰brivla（参见seltau）</primary></indexterm>  <indexterm type="general"><primary>seltau</primary><secondary>与英语副词相比</secondary></indexterm>  <indexterm type="general"><primary>seltau</primary><secondary>与英语形容词相比</secondary></indexterm>  <indexterm type="general"><primary>tanru</primary><secondary>解释</secondary></indexterm> 详述不在gismu中找得到的概念时（或，确切地说，相关gismu在意义上看似太宽泛时），说Lojban的人通常尝试将概念表达为tanru。Lojban的tanru是英语中用的
+    <quote>暗喻</quote>概念的详细描述。在Lojban中，任何brivla可被用来修饰另一个brivla。对的第一个修饰第二个。这修饰通常是限制性的&ndash;修饰brivla减少被修饰brivla更广泛的含义来形成一个更紧、更具体或更特定的概念。修饰brivla可这样看起来像英语副词或形容词一样行动。例如，</para>
     
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-xhQP">
@@ -631,64 +631,64 @@
       </title>
       <jbophrase>skami pilno</jbophrase>
     </example>
-    <para role="noindent">is the tanru which expresses the concept of 
-    <quote>computer user</quote>.</para>
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>combination of</secondary></indexterm> The simplest Lojban tanru are pairings of two concepts or ideas. Such tanru take two simpler ideas that can be represented by gismu and combine them into a single more complex idea. Two-part tanru may then be recombined in pairs with other tanru, or with individual gismu, to form more complex or more specific ideas, and so on.</para>
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>ambiguity of</secondary></indexterm> The meaning of a tanru is usually at least partly ambiguous: 
-    <jbophrase>skami pilno</jbophrase> could refer to a computer that is a user, or to a user of computers. There are a variety of ways that the modifier component can be related to the modified component. It is also possible to use cmavo within tanru to provide variations (or to prevent ambiguities) of meaning.</para>
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>and creativity</secondary></indexterm> Making tanru is essentially a poetic or creative act, not a science. While the syntax expressing the grouping relationships within tanru is unambiguous, tanru are still semantically ambiguous, since the rules defining the relationships between the gismu are flexible. The process of devising a new tanru is dealt with in detail in 
-    <xref linkend="chapter-selbri"/>.</para>
-    <para><indexterm type="general"><primary>tanru</primary><secondary>expression of</secondary></indexterm> To express a simple tanru, simply say the component gismu together. Thus the binary metaphor 
-    <quote>big boat</quote> becomes the tanru</para>
+    <para role="noindent">是能够表达
+    <quote>计算机用户</quote>概念的tanru。</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>结合</secondary></indexterm> 最简单的Lojban的tanru是两个概念或主意的组对。这样的tanru把两个可由gismu表达的更简单的主意组合为单个更复杂的主意。两部分的tanru可能然后与其他tanru或独立gismu重组合来形成更复杂或更特定的概念，并接下来持续下去。</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>歧义</secondary></indexterm> tanru的含义总是至少部分是模糊的：
+    <jbophrase>skami pilno</jbophrase>可指是使用者的计算机，或计算机的使用者。有许多修饰成分联系被修饰成分的方式。在tanru中使用cmavo来提供意义上的变化（或避免歧义）也是可能的。</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>和创意</secondary></indexterm> 创造tanru根本上是一项诗意或者说创造性的活动而非科学。当表达tanru中组合关系的句法模糊时，tanru仍在语义上明确，因为定义gismu间关系的规则可调整。想出新tanru的过程在
+    <xref linkend="chapter-selbri"/>中详细解决。</para>
+    <para><indexterm type="general"><primary>tanru</primary><secondary>表达</secondary></indexterm> 为表达简单tanru，简单地把组分tanru一起说。这样二元暗喻
+    <quote>大船</quote>成为tanru</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-oLE3">
       <title>
-        <indexterm type="example"><primary>big boat</primary></indexterm>
+        <indexterm type="example"><primary>大船</primary></indexterm>
         <anchor xml:id="c4e5d2"/>
       </title>
       <jbophrase>barda bloti</jbophrase>
     </example>
-    <para role="noindent">representing roughly the same concept as the English word 
-    <quote>ship</quote>.</para>
+    <para role="noindent">粗略代表与英语单词
+    <quote>ship（大船）</quote>相同的概念。</para>
     <para> 
 
-<indexterm type="general"><primary>paternal grandmother</primary><secondary>example</secondary></indexterm>
+<indexterm type="general"><primary>祖母</primary><secondary>例子</secondary></indexterm>
 
- The binary metaphor 
-    <quote>father mother</quote> can refer to a paternal grandmother (<quote>a father-ly type of mother</quote>), while 
-    <quote>mother father</quote> can refer to a maternal grandfather (<quote>a mother-ly type of father</quote>). In Lojban, these become the tanru</para>
+二元隐喻
+    <quote>父亲母亲</quote>可指祖母（<quote>父亲有关类型的母亲</quote>），与此同时
+    <quote>母亲父亲</quote>可指外祖父（<quote>母亲有关类型的父亲</quote>）。在Lojban中，这些分别成为tanru</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-4wK9">
       <title>
         
 
-<indexterm type="example"><primary>father mother</primary></indexterm>
+<indexterm type="example"><primary>父亲母亲</primary></indexterm>
 
 
         <anchor xml:id="c4e5d3"/>
       </title>
       <jbophrase>patfu mamta</jbophrase>
     </example>
-    <para role="noindent">and</para>
+    <para role="noindent">和</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KQ4s">
       <title>
         
 
-<indexterm type="example"><primary>mother father</primary></indexterm>
+<indexterm type="example"><primary>母亲父亲</primary></indexterm>
 
 
         <anchor xml:id="c4e5d4"/>
       </title>
       <jbophrase>mamta patfu</jbophrase>
     </example>
-    <para role="noindent">respectively.</para>
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>ambiguity in</secondary></indexterm> The possibility of semantic ambiguity can easily be seen in the last case. To interpret 
-    <xref linkend="example-random-id-KQ4s"/>, the listener must determine what type of motherliness pertains to the father being referred to. In an appropriate context, 
-    <jbophrase>mamta patfu</jbophrase> could mean not 
-    <quote>grandfather</quote> but simply 
-    <quote>father with some motherly attributes</quote>, depending on the culture. If absolute clarity is required, there are ways to expand upon and explain the exact interrelationship between the components; but such detail is usually not needed.</para>
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>to lujvo</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>from tanru</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>from tanru</secondary></indexterm> When a concept expressed in a tanru proves useful, or is frequently expressed, it is desirable to choose one of the possible meanings of the tanru and assign it to a new brivla. For 
-    <xref linkend="example-random-id-xhQP"/>, we would probably choose 
-    <quote>user of computers</quote>, and form the new word</para>
+    <para role="noindent">。</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>歧义</secondary></indexterm> 上例中语义歧义可能性可轻易看出。为说明
+    <xref linkend="example-random-id-KQ4s"/>，听者必须决定哪种母亲有关类型适用于被指的父亲。恰当语境中，
+    <jbophrase>mamta patfu</jbophrase>可以不意味着
+    <quote>外祖父</quote>而是简单地
+    <quote>有些母亲特征的父亲</quote>，取决于文化。若要求彻底明了，有拓展和解释组分间确切关系的方式；但这样的细节通常不需要。</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>向lujvo去</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>从tanru来</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>从tanru来</secondary></indexterm> tanru表达的概念被证明有用或经常表达时，值得选择tanru的一个可能含义并指定给它一个新brivla。对
+    <xref linkend="example-random-id-xhQP"/>来说，我们可能会选择
+    <quote>电脑的使用者</quote>，然后形成新词</para>
     <example role="lujvo-example" xml:id="example-random-id-v5YD">
       <title>
         <anchor xml:id="c4e5d5"/>
@@ -697,26 +697,26 @@
         <jbo>sampli</jbo>
       </lujvo-making>
     </example>
-    <para role="indent">Such a brivla, built from the rafsi which represent its component words, is called a 
-    <valsi>lujvo</valsi>. Another example, corresponding to the tanru of 
-    <xref linkend="example-random-id-oLE3"/>, would be:</para>
+    <para role="indent">这样从代表它的组成单词的rafsi构建的brivla称为
+    <valsi>lujvo</valsi>。另一个例子，对应
+    <xref linkend="example-random-id-oLE3"/>的tanru，会是：</para>
     <example role="lujvo-example" xml:id="example-random-id-aiAR">
       <title>
         <anchor xml:id="c4e5d6"/>
       </title>
       <lujvo-making>
         <jbo>bralo'i</jbo>
-        <gloss><quote>big-boat</quote></gloss>
-        <natlang>ship</natlang>
+        <gloss><quote>大-船</quote></gloss>
+        <natlang>ship（大船）</natlang>
       </lujvo-making>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>lujvo</primary><secondary>construction of</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>definition</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>unambiguous decomposition of</secondary></indexterm> The lujvo representing a given tanru is built from units representing the component gismu. These units are called 
-    <valsi>rafsi</valsi> in Lojban. Each rafsi represents only one gismu. The rafsi are attached together in the order of the words in the tanru, occasionally inserting so-called 
-    <quote>hyphen</quote> letters to ensure that the pieces stick together as a single word and cannot accidentally be broken apart into cmavo, gismu, or other word forms. As a result, each lujvo can be readily and accurately recognized, allowing a listener to pick out the word from a string of spoken Lojban, and if necessary, unambiguously decompose the word to a unique source tanru, thus providing a strong clue to its meaning.</para>
+    <para role="indent"> <indexterm type="general"><primary>lujvo</primary><secondary>构建</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>定义</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>明确分解</secondary></indexterm> 代表给定tanru的lujvo由代表组成gismu的单元构建。这些单元在Lojban中称为
+    <valsi>rafsi</valsi>。每个rafsi只代表一个gismu。rafsi以tanru中词的顺序连在一起，偶尔插入所谓
+    <quote>连字符</quote>字母来保证片段粘在一起成为一个完整的单词且不会被误拆成cmavo、gismu或其他词形。因此，每个lujvo可便利准确地被识别，允许听者从一串Lojban口语中挑出单词并，如果必要，将单词明确拆解成唯一源tanru，进而为其意义提供强粘合。</para>
     
-    <para>The lujvo that can be built from the tanru 
-    <jbophrase>mamta patfu</jbophrase> in 
-    <xref linkend="example-random-id-KQ4s"/> is</para>
+    <para>可从
+    <xref linkend="example-random-id-KQ4s"/>中的tanru</para>
+    <jbophrase>mamta patfu</jbophrase>构筑的lujvo是
     <example role="lujvo-example" xml:id="example-random-id-TCUH">
       <title>
         <anchor xml:id="c4e5d7"/>
@@ -725,37 +725,37 @@
         <jbo>mampa'u</jbo>
       </lujvo-making>
     </example>
-    <para role="noindent">which refers specifically to the concept 
-    <quote>maternal grandfather</quote>. The two gismu that constitute the tanru are represented in 
-    <valsi valid='maybe'>mampa'u</valsi> by the rafsi 
-    <rafsi>mam-</rafsi> and 
-    <rafsi>-pa'u</rafsi>, respectively; these two rafsi are then concatenated together to form 
-    <valsi valid='maybe'>mampa'u</valsi>.</para>
-    <para> <indexterm type="general"><primary>long rafsi form</primary><secondary>compared with short form in effect on lujvo meaning</secondary></indexterm>  <indexterm type="general"><primary>short rafsi form</primary><secondary>compared with long form in effect on lujvo meaning</secondary></indexterm>  <indexterm type="general"><primary>rafsi form</primary><secondary>effect of choice on meaning of lujvo</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>multiple forms of</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>meaning of</secondary></indexterm> Like gismu, lujvo have only one meaning. When a lujvo is formally entered into a dictionary of the language, a specific definition will be assigned based on one particular interrelationship between the terms. (See 
-    <xref linkend="chapter-lujvo"/> for how this has been done.) Unlike gismu, lujvo may have more than one form. This is because there is no difference in meaning between the various rafsi for a gismu when they are used to build a lujvo. A long rafsi may be used, especially in noisy environments, in place of a short rafsi; the result is considered the same lujvo, even though the word is spelled and pronounced differently. Thus the word 
+    <para role="noindent">特别指定概念
+    <quote>外祖父</quote>。组成tanru的两个gismu在
+    <valsi valid='maybe'>mampa'u</valsi>中分别由rafsi
+    <rafsi>mam-</rafsi>和
+    <rafsi>-pa'u</rafsi>表示；这两个rafsi接着串联在一起形成
+    <valsi valid='maybe'>mampa'u</valsi>。</para>
+    <para> <indexterm type="general"><primary>长rafsi形式</primary><secondary>在对lujvo意义的影响上与短形式相比</secondary></indexterm>  <indexterm type="general"><primary>短rafsi形式</primary><secondary>在对lujvo意义的影响上与长形式相比</secondary></indexterm>  <indexterm type="general"><primary>rafsi形式</primary><secondary>选择对lujvo意义的影响</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>多种形式</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>意义</secondary></indexterm> 像gismu一样，lujvo只有一个意义。当lujvo正式进入语言的词典，将基于词语间某种特定的相互关系指定一个明确的定义。（参见
+    <xref linkend="chapter-lujvo"/>来得知这是怎么完成的。）不像gismu，lujvo可有多于一种形式。这是因为gismu的多样的rafsi间在用来构建rafsi时没有意义上的差别。长rafsi可能使用，尤其在嘈杂的环境中，代替短rafsi；结果被认为是同一个lujvo，即使词被不同地拼写和发音。这样单词
     
     
-    <valsi>brivla</valsi>, built from the tanru 
-    <jbophrase>bridi valsi</jbophrase>, is the same lujvo as 
-    <valsi valid="false">brivalsi</valsi>, 
-    <valsi valid="false">bridyvla</valsi>, and 
-    <valsi valid="false">bridyvalsi</valsi>, each of which uses a different combination of rafsi.</para>
-    <para> <indexterm type="general"><primary>apostrophe</primary><secondary>and consonant cluster determination in lujvo</secondary></indexterm>  <indexterm type="general"><primary>' symbol</primary><secondary>and consonant cluster determination in lujvo</secondary></indexterm>  <indexterm type="general"><primary>y-hyphen</primary><secondary>and consonant cluster determination</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>rules for combining to form lujvo</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>rules for formation of</secondary></indexterm> When assembling rafsi together into lujvo, the rules for valid brivla must be followed: a consonant cluster must occur in the first five letters (excluding 
-    <letteral>y</letteral> and 
-    <letteral>'</letteral> ), and the lujvo must end in a vowel.</para>
-    <para> <indexterm type="general"><primary>glue in lujvo</primary><secondary>y-hyphen as</secondary></indexterm>  <indexterm type="general"><primary>y-hyphen</primary><secondary>and stress determination</secondary></indexterm>  <indexterm type="general"><primary>y-hyphen</primary><secondary>use of</secondary></indexterm> A 
-    <letteral>y</letteral> (which is ignored in determining stress or consonant clusters) is inserted in the middle of the consonant cluster to glue the word together when the resulting cluster is either not permissible or the word is likely to break up. There are specific rules describing these conditions, detailed in 
+    <valsi>brivla</valsi>，由tanru
+    <jbophrase>bridi valsi</jbophrase>构建，和
+    <valsi valid="false">brivalsi</valsi>、
+    <valsi valid="false">bridyvla</valsi>和
+    <valsi valid="false">bridyvalsi</valsi>是相同的lujvo，它们每一个使用了不同的rafsi组合。</para>
+    <para> <indexterm type="general"><primary>撇号</primary><secondary>和lujvo中的辅音</secondary></indexterm>  <indexterm type="general"><primary>'符号</primary><secondary>和lujvo中的辅音群决定</secondary></indexterm>  <indexterm type="general"><primary>y连字符</primary><secondary>和辅音群决定</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>结合来形成lujvo的规则</secondary></indexterm>  <indexterm type="general"><primary>lujvo</primary><secondary>形成的规则</secondary></indexterm> 将rafsi集合在一起成lujvo时，有效brivla的规则必须遵守：（除
+    <letteral>y</letteral>和
+    <letteral>'</letteral>外）前五个字母必须出现辅音群，lujvo必须以元音结尾。</para>
+    <para> <indexterm type="general"><primary>lujvo中的粘合剂</primary><secondary>y连字符作为</secondary></indexterm>  <indexterm type="general"><primary>y连字符</primary><secondary>和重音决定</secondary></indexterm>  <indexterm type="general"><primary>y连字符</primary><secondary>使用</secondary></indexterm> 要么产生的群不允许要么单词似乎崩析时在辅音群中间插入
+    <letteral>y</letteral>（在决定重音或辅音群时省略）来把单词粘合在一起。有描述这些情况的明确规则，在
     
     
-    <xref linkend="section-rafsi"/>.</para>
-    <para> <indexterm type="general"><primary>glue in lujvo</primary><secondary>n-hyphen as</secondary></indexterm>  <indexterm type="general"><primary>n-hyphen</primary><secondary>use of</secondary></indexterm>  <indexterm type="general"><primary>glue in lujvo</primary><secondary>r-hyphen as</secondary></indexterm>  <indexterm type="general"><primary>r-hyphen</primary><secondary>use of</secondary></indexterm> An 
-    <letteral>r</letteral> (in some cases, an 
-    <letteral>n</letteral>) is inserted when a CVV-form rafsi attaches to the beginning of a lujvo in such a way that there is no consonant cluster. For example, in the lujvo</para>
+    <xref linkend="section-rafsi"/>中详细说明。</para>
+    <para> <indexterm type="general"><primary>lujvo中的粘合剂</primary><secondary>n连字符作为</secondary></indexterm>  <indexterm type="general"><primary>n连字符</primary><secondary>使用</secondary></indexterm>  <indexterm type="general"><primary>lujvo中的粘合剂</primary><secondary>r连字符作为</secondary></indexterm>  <indexterm type="general"><primary>r连字符</primary><secondary>使用</secondary></indexterm> CVV形式的rafsi以没有 辅音群的方式连接在lujvo开头时插入
+    <letteral>r</letteral>（某些场合下，
+    <letteral>n</letteral>）。例如，在
     <example role="lujvo-example" xml:id="example-random-id-3Qtv">
       <title>
         
 
-<indexterm type="example"><primary>field rations</primary></indexterm>
+<indexterm type="example"><primary>军粮</primary></indexterm>
 
 
         <anchor xml:id="c4e5d8"/>
@@ -763,21 +763,21 @@
       <lujvo-making>
         <jbo>soirsai</jbo>
         <veljvo>sonci sanmi</veljvo>
-        <gloss><quote>soldier meal</quote></gloss>
-        <natlang>field rations</natlang>
+        <gloss><quote>士兵餐</quote></gloss>
+        <natlang>军粮</natlang>
       </lujvo-making>
     </example>
-    <para role="noindent">   <indexterm type="general"><primary>cmavo</primary><secondary>contrasted with same-form rafsi in meaning</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>contrasted with same-form cmavo in meaning</secondary></indexterm> the rafsi 
-    <rafsi>soi-</rafsi> and 
-    <rafsi>-sai</rafsi> are joined, with the additional 
+    <para role="noindent">   <indexterm type="general"><primary>cmavo</primary><secondary>与同形rafsi在意思上相比</secondary></indexterm>  <indexterm type="general"><primary>rafsi</primary><secondary>与同形cmavo在意思上相比</secondary></indexterm> rafsi
+    <rafsi>soi-</rafsi>和
+    <rafsi>-sai</rafsi>加入，以及额外的
     
-    <letteral>r</letteral> making up the 
-    <morphology>rs</morphology> consonant pair needed to make the word a brivla. Without the 
-    <letteral>r</letteral>, the word would break up into 
-    <jbophrase>soi sai</jbophrase>, two cmavo. The pair of cmavo have no relation to their rafsi lookalikes; they will either be ungrammatical (as in this case), or will express a different meaning from what was intended.</para>
+    <letteral>r</letteral>形成需要的
+    <morphology>rs</morphology>辅音对来使单词成为brivla。没有
+    <letteral>r</letteral>，单词将崩析为
+    <jbophrase>soi sai</jbophrase>两个cmavo。这对cmavo和与它们看起来像的rafsi没有关系；它们将要么不和语法（如同在这个情形），要么表达与想要表达的不同的意思。</para>
     
-    <para>Learning rafsi and the rules for assembling them into lujvo is clearly seen to be necessary for fully using the potential Lojban vocabulary.</para>
-    <para> <indexterm type="general"><primary>lujvo</primary><secondary>invention of</secondary></indexterm> Most important, it is possible to invent new lujvo while you speak or write in order to represent a new or unfamiliar concept, one for which you do not know any existing Lojban word. As long as you follow the rules for building these compounds, there is a good chance that you will be understood without explanation.</para>
+    <para>学习rafsi和将rafsi集合成lujvo的规则可被清晰地看出是为完全使用潜在Lojban词汇所必须的。</para>
+    <para> <indexterm type="general"><primary>lujvo</primary><secondary>发明</secondary></indexterm> 更重要的是，你说或写来表达一个你不知道任何存在的Lojban词来代表的新或陌生概念时可能发明新lujvo。只要你遵循构造这些组合词的规则，你将不需要解释就能被理解。</para>
   </section>
   <section xml:id="section-rafsi">
     <title><anchor xml:id="c4s6"/>rafsi</title>
