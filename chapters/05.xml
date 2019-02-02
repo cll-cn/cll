@@ -624,69 +624,69 @@
   </section>
 
   <section xml:id="section-logical-connection">
-    <title><anchor xml:id="c5s6"/>Logical connection within tanru</title>
-    <para>The following cmavo are discussed in this section:</para>
+    <title><anchor xml:id="c5s6"/>tanru内的逻辑联系</title>
+    <para>本节要讨论以下cmavo：</para>
     <cmavo-list>
       <cmavo-entry>
         <cmavo>je</cmavo>
         <selmaho>JA</selmaho>
-        <description>tanru logical <quote>and</quote></description>
+        <description>tanru逻辑<quote>与</quote></description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>ja</cmavo>
         <selmaho>JA</selmaho>
-        <description>tanru logical <quote>or</quote></description>
+        <description>tanru逻辑<quote>或</quote></description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>joi</cmavo>
         <selmaho>JOI</selmaho>
-        <description>mixed mass <quote>and</quote></description>
+        <description>混合实体<quote>与</quote></description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>gu'e</cmavo>
         <selmaho>GUhA</selmaho>
-        <description>tanru forethought logical <quote>and</quote></description>
+        <description>tanru前置逻辑<quote>与</quote></description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>gi</cmavo>
         <selmaho>GI</selmaho>
-        <description>forethought connection separator</description>
+        <description>前置连接分隔词</description>
       </cmavo-entry>
     </cmavo-list>
-    <para role="indent">  Consider the English phrase 
-    <quote>big red dog</quote>. How shall this be rendered as a Lojban tanru? The naive attempt:</para>
+    <para role="indent">  考虑英语短语
+    <quote>大红狗</quote>。该如何将其翻译为Lojban的tanru？天真的尝试：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-riAq">
       <title>
         
 
-<indexterm type="example"><primary>big red dog</primary></indexterm>
+<indexterm type="example"><primary>大红狗</primary></indexterm>
 
 
         <anchor xml:id="c5e6d1"/>
       </title>
       <interlinear-gloss>
         <jbo valid="iffy">barda - xunre - gerku</jbo>
-        <gloss>(big type-of red) type-of dog</gloss>
+        <gloss>（大 型的 红） 型的 狗</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent">will not do, as it means a dog whose redness is big, in whatever way redness might be described as 
-    <quote>big</quote>. Nor is</para>
+    <para role="noindent">不行，它指（以任何红色可能被描述为
+    <quote>大</quote>的方式）红色很大的狗。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-6MqF">
       <title>
         <anchor xml:id="c5e6d2"/>
       </title>
       <interlinear-gloss>
         <jbo valid="iffy">barda - xunre bo gerku</jbo>
-        <gloss>big type-of (red type-of dog)</gloss>
+        <gloss>大 型的 （红 型的 狗）</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>adjective ordering</primary></indexterm> much better. After all, the straightforward understanding of the English phrase is that the dog is big as compared with other dogs, not merely as compared with other red dogs. In fact, the bigness and redness are independent properties of the dog, and only obscure rules of English adjective ordering prevent us from saying 
+    <para role="noindent"> <indexterm type="general"><primary>形容词次序</primary></indexterm>也没好到哪去。毕竟，这个英语短语的直接理解是这个狗比其他狗大而不仅比其他红狗大。实际上，大和红是狗的两个独立属性，只是英语形容词次序的模糊规则阻止我们说
     
-    <quote>red big dog</quote>.</para>
-    <para> <indexterm type="general"><primary>logical connectives</primary><secondary>in tanru</secondary></indexterm> The Lojban approach to this problem is to introduce the cmavo 
-    <valsi>je</valsi>, which is one of the many equivalents of English 
-    <quote>and</quote>. A big red dog is one that is both big and red, and we can say:</para>
+    <quote>红大狗</quote>。</para>
+    <para> <indexterm type="general"><primary>逻辑连词</primary><secondary>tanru中的</secondary></indexterm> Lojban解决该问题的方法是引进cmavo
+    <valsi>je</valsi>（英文
+    <quote>and</quote>的众多等价物之一）。大红狗既大又红，我们可以说：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-0UrF">
       <title>
@@ -694,132 +694,132 @@
       </title>
       <interlinear-gloss>
         <jbo>barda je xunre - gerku</jbo>
-        <gloss>(big and red) type-of dog</gloss>
+        <gloss>（大 和 红） 型的 狗</gloss>
       </interlinear-gloss>
     </example>
-    <para role="indent">Of course,</para>
+    <para role="indent">当然，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-DzeP">
       <title>
         <anchor xml:id="c5e6d4"/>
       </title>
       <interlinear-gloss>
         <jbo>xunre je barda - gerku</jbo>
-        <gloss>(red and big) type-of dog</gloss>
+        <gloss>（红 和 大） 型的 狗</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>logical connectives in tanru</primary><secondary>effect on tanru grouping</secondary></indexterm> is equally satisfactory and means the same thing. As these examples indicate, joining two brivla with 
-    <valsi>je</valsi> makes them a unit for tanru purposes. However, explicit grouping with 
-    <valsi>bo</valsi> or 
-    <valsi>ke</valsi>&hellip;<valsi>ke'e</valsi> associates brivla more closely than 
-    <valsi>je</valsi> does:</para>
+    <para role="noindent"> <indexterm type="general"><primary>tanru中的逻辑连词</primary><secondary>对tanru结合的影响</secondary></indexterm>一样令人满意，而且指同样的东西。正如这些例子表明的，用
+    <valsi>je</valsi>连接起brivla产生tanru的单元。不过，用
+    <valsi>bo</valsi>或
+    <valsi>ke</valsi>……<valsi>ke'e</valsi>的显式结合比
+    <valsi>je</valsi>产生的结合更紧密：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-LES9">
       <title>
         <anchor xml:id="c5e6d5"/>
       </title>
       <interlinear-gloss>
         <jbo>barda je pelxu bo xunre gerku</jbo>
-        <gloss>(big and (yellow type-of red)) dog</gloss>
+        <gloss>（大 和 （黄 型的 红）） 狗</gloss>
       </interlinear-gloss>
       <interlinear-gloss>
         <jbo>barda je ke pelxu - xunre ke'e gerku</jbo>
-        <gloss>(big and ( yellow type-of red) ) dog</gloss>
-        <natlang>big yellowish-red dog</natlang>
+        <gloss>（大 和 （ 黄 型的 红 ）） 狗</gloss>
+        <natlang>大的黄红色的狗</natlang>
       </interlinear-gloss>
     </example>
-    <para role="indent">With no grouping indicators, we get:</para>
+    <para role="indent">没有结合指示词时，我们得到：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-fuhg">
       <title>
         <anchor xml:id="c5e6d6"/>
       </title>
       <interlinear-gloss>
         <jbo valid="iffy">barda je pelxu - xunre - gerku</jbo>
-        <gloss>((big and yellow) type-of red) type-of dog</gloss>
-        <natlang>biggish- and yellowish-red dog</natlang>
+        <gloss>（（大 和 黄） 型的 红） 型的 狗</gloss>
+        <natlang>又大又黄地红的狗</natlang>
       </interlinear-gloss>
     </example>
-    <para role="noindent">which again raises the question of 
-    <xref linkend="example-random-id-riAq"/>: what does 
-    <quote>biggish-red</quote> mean?</para>
-    <para> <indexterm type="general"><primary>logical connectives in tanru</primary><secondary>usefulness of</secondary></indexterm> Unlike 
-    <valsi>bo</valsi> and 
-    <valsi>ke</valsi>&hellip;<valsi>ke'e</valsi>, 
-    <valsi>je</valsi> is useful as well as merely legal within simple tanru. It may be used to partly resolve the ambiguity of simple tanru:</para>
+    <para role="noindent">。这又引出了
+    <xref linkend="example-random-id-riAq"/>的问题：
+    <quote>大红</quote>是什么意思？</para>
+    <para> <indexterm type="general"><primary>tanru中的逻辑连词</primary><secondary>实用性</secondary></indexterm> 和
+    <valsi>bo</valsi>与
+    <valsi>ke</valsi>……<valsi>ke'e</valsi>不同，
+    <valsi>je</valsi>不仅有用，而且在简单tanru中也合法。它可以用来部分解决简单tanru的歧义：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-W56H">
       <title>
         <anchor xml:id="c5e6d7"/>
       </title>
       <interlinear-gloss>
         <jbo>ta blanu je zdani</jbo>
-        <gloss>that is-blue and is-a-house</gloss>
+        <gloss>那 是蓝色的 并且 是房子</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent">definitely refers to something which is both blue and is a house, and not to any of the other possible interpretations of simple 
-    <jbophrase>blanu zdani</jbophrase>. Furthermore, 
-    <jbophrase>blanu zdani</jbophrase> refers to something which is blue in the way that houses are blue; 
-    <jbophrase>blanu je zdani</jbophrase> has no such implication &ndash; the blueness of a 
-    <jbophrase>blanu je zdani</jbophrase> is independent of its houseness.</para>
-    <para>With the addition of 
-    <valsi>je</valsi>, many more versions of 
-    <quote>pretty little girls' school</quote> are made possible: see 
+    <para role="noindent">一定指蓝而且是房子的东西，而非简单的
+    <jbophrase>blanu zdani</jbophrase>的其余可能解释。而且，
+    <jbophrase>blanu zdani</jbophrase>指以房子蓝的方式蓝的东西；
+    <jbophrase>blanu je zdani</jbophrase>没有这样的暗示——
+    <jbophrase>blanu je zdani</jbophrase>的蓝和它的房子性相独立。</para>
+    <para>加上了
+    <valsi>je</valsi>，
+    <quote>漂亮小女校</quote>就可能存在更多版本：完整列表参见
     
-    <xref linkend="section-pretty-school-groupings"/> for a complete list.</para>
-    <para>A subtle point in the semantics of tanru like 
-    <xref linkend="example-random-id-0UrF"/> needs special elucidation. There are at least two possible interpretations of:</para>
+    <xref linkend="section-pretty-school-groupings"/>。</para>
+    <para>像
+    <xref linkend="example-random-id-0UrF"/>的tanru的语义细微之处需要特别澄清。至少存在两种可能的解释：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-N5Bt">
       <title>
         <anchor xml:id="c5e6d8"/>
       </title>
       <interlinear-gloss>
         <jbo>ta melbi je nixli - ckule</jbo>
-        <gloss>That is-a-(beautiful and girl) type-of school.</gloss>
+        <gloss>那 是（漂亮 和 女孩） 型的 学校。</gloss>
       </interlinear-gloss>
     </example>
-    <para role="indent">It can be understood as:</para>
+    <para role="indent">它可以理解成：</para>
     <example xml:id="example-random-id-FCDa">
       <title>
         <anchor xml:id="c5e6d9"/>
       </title>
-      <para>That is a girls' school and a beautiful school.</para>
+      <para>那是女校而且是漂亮的学校。</para>
     </example>
     <para role="noindent">or as:</para>
     <example xml:id="example-random-id-aFxm">
       <title>
         <anchor xml:id="c5e6d10"/>
       </title>
-      <para>That is a school for things which are both girls and beautiful.</para>
+      <para>那是为既是女孩也漂亮的东西开的学校。</para>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>logical connectives in tanru</primary><secondary>ambiguity of</secondary></indexterm> The interpretation specified by 
-    <xref linkend="example-random-id-FCDa"/> treats the tanru as a sort of abbreviation for:</para>
+    <para role="indent"> <indexterm type="general"><primary>tanru中的逻辑连词</primary><secondary>歧义</secondary></indexterm> 
+    <xref linkend="example-random-id-FCDa"/>的解释把tanru用作缩略：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pHHw">
       <title>
         <anchor xml:id="c5e6d11"/>
       </title>
       <interlinear-gloss>
         <jbo>ta ke melbi - ckule ke'e je ke nixli - ckule [ke'e]</jbo>
-        <gloss>That is-a-( beautiful type-of school ) and ( girl type-of school )</gloss>
+        <gloss>那 是（ 漂亮 型的 学校 ） 和 （ 女孩 型的 学校 ）</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent">whereas the interpretation specified by 
-    <xref linkend="example-random-id-aFxm"/> does not. This is a kind of semantic ambiguity for which Lojban does not compel a firm resolution. The way in which the school is said to be of type 
-    <quote>beautiful and girl</quote> may entail that it is separately a beautiful school and a girls' school; but the alternative interpretation, that the members of the school are beautiful and girls, is also possible. Still another interpretation is:</para>
+    <para role="noindent">，不过
+    <xref linkend="example-random-id-aFxm"/>的解释不这样用。这种语义模糊Lojban不强制明确的解决方案。学校称为
+    <quote>漂亮和女孩</quote>型的方式可能暗示它分别是漂亮的学校和女校；但其余的解释，像学校的成员漂亮而且是女孩，也有可能。还有一种解释是：</para>
     <example xml:id="example-random-id-2cjH">
       <title>
         <anchor xml:id="c5e6d12"/>
       </title>
-      <para>That is a school for beautiful things and also for girls.</para>
+      <para>这是为漂亮的东西和女孩服务的学校。</para>
     </example>
-    <para role="noindent">so while the logical connectives help to resolve the meaning of tanru, they by no means compel a single meaning in and of themselves.</para>
-    <para> <indexterm type="general"><primary>logical connectives in tanru</primary><secondary>effect on formal logical manipulations</secondary></indexterm> In general, logical connectives within tanru cannot undergo the formal manipulations that are possible with the related logical connectives that exist outside tanru; see 
-    <xref linkend="section-tanru"/> for further details.</para>
-    <para> The logical connective 
-    <valsi>je</valsi> is only one of the fourteen logical connectives that Lojban provides. Here are a few examples of some of the others:</para>
+    <para role="noindent">所以尽管逻辑连词帮助解释tanru的意义，它们并不强制自己含义唯一。</para>
+    <para> <indexterm type="general"><primary>tanru中的逻辑连词</primary><secondary>对形式逻辑转换的影响</secondary></indexterm> 一般而言，tanru中的逻辑连词不能进行tanru外的相关逻辑连词可以进行的形式转换；更多细节参见
+    <xref linkend="section-tanru"/>。</para>
+    <para> 逻辑连词
+    <valsi>je</valsi>只是Lojban提供的十四个逻辑连词之一。这是其余的一些例子：</para>
     <example xml:id="example-random-id-qJse" role="interlinear-gloss-example">
       <title>
         <anchor xml:id="c5e6d13"/>
       </title>
       <interlinear-gloss>
         <jbo>le bajra cu jinga ja te jinga</jbo>
-        <natlang>the runner(s) is/are winner(s) or loser(s).</natlang>
+        <natlang>跑者胜利或失败。</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qJsg" role="interlinear-gloss-example">
@@ -828,8 +828,8 @@
       </title>
       <interlinear-gloss>
         <jbo>blanu naja lenku skapi</jbo>
-        <gloss>(blue only-if cold) skin</gloss>
-        <natlang>skin which is blue only if it is cold</natlang>
+        <gloss>（蓝 仅当 冷） 皮肤</gloss>
+        <natlang>只有冷的时候变蓝的皮肤</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qjsy" role="interlinear-gloss-example">
@@ -838,8 +838,8 @@
       </title>
       <interlinear-gloss>
         <jbo>xamgu jo tordu nuntavla</jbo>
-        <gloss>(good if-and-only-if short) speech</gloss>
-        <natlang>speech which is good if (and only if) it is short</natlang>
+        <gloss>（好 当且仅当 短） 讲话</gloss>
+        <natlang>好就是短、短就是好的讲话</natlang>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qjtD" role="interlinear-gloss-example">
@@ -848,149 +848,149 @@
       </title>
       <interlinear-gloss>
         <jbo>vajni ju pluka nuntavla</jbo>
-        <gloss>(important whether-or-not pleasing) event-of-talking</gloss>
-        <natlang>speech which is important, whether or not it is pleasing</natlang>
+        <gloss>（重要 无论 令人愉快） 讲话</gloss>
+        <natlang>无论好听与否总是很重要的讲话</natlang>
       </interlinear-gloss>
     </example>
-    <para role="indent">In 
-    <xref linkend="example-random-id-qJse"/>, 
-    <valsi>ja</valsi> is grammatically equivalent to 
-    <valsi>je</valsi> but means 
-    <quote>or</quote> (more precisely, 
-    <quote>and/or</quote>). Likewise, 
-    <valsi>naja</valsi> means 
-    <quote>only if</quote> in 
-    <xref linkend="example-random-id-qJsg"/>, 
-    <valsi>jo</valsi> means 
-    <quote>if and only if</quote> in 
-    <xref linkend="example-random-id-qjsy"/>, and 
-    <valsi>ju</valsi> means 
-    <quote>whether or not</quote> in 
-    <xref linkend="example-random-id-qjtD"/>.</para>
-    <para> <indexterm type="general"><primary>multiple logical connectives</primary><secondary>within tanru</secondary></indexterm> Now consider the following example:</para>
+    <para role="indent">在
+    <xref linkend="example-random-id-qJse"/>中
+    <valsi>ja</valsi>与
+    <valsi>je</valsi>在语法上等价，但它指
+    <quote>或</quote>（更确切地讲，
+    <quote>与/或</quote>）。类似地，在
+    <xref linkend="example-random-id-qJsg"/>中
+    <valsi>naja</valsi>指
+    <quote>仅当</quote>，在
+    <xref linkend="example-random-id-qjsy"/>中
+    <valsi>jo</valsi>指
+    <quote>当且仅当</quote>，在
+    <xref linkend="example-random-id-qjtD"/>中
+    <valsi>ju</valsi>指
+    <quote>无论</quote>。</para>
+    <para> <indexterm type="general"><primary>多个逻辑连词</primary><secondary>tanru中</secondary></indexterm>考虑下例：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NuWM">
       <title>
         <anchor xml:id="c5e6d17"/>
       </title>
       <interlinear-gloss>
         <jbo>ricfu je blanu jabo crino</jbo>
-        <gloss>rich and (blue or green)</gloss>
+        <gloss>富有 且 （蓝 或 绿）</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>tanru grouping with JA+BO</primary><secondary>effect on tanru grouping</secondary></indexterm> which illustrates a new grammatical feature: the use of both 
-    <valsi>ja</valsi> and 
-    <valsi>bo</valsi> between tanru components. The two cmavo combine to form a compound whose meaning is that of 
-    <valsi>ja</valsi> but which groups more closely; 
-    <valsi>ja</valsi><valsi>bo</valsi> is to 
+    <para role="noindent"> <indexterm type="general"><primary>用JA+BO结合的tanru</primary><secondary>对tanru结合的影响</secondary></indexterm>引入了新语法特性：在tanru组分间同时使用
+    <valsi>ja</valsi>和
+    <valsi>bo</valsi>。两个cmavo结合为指
+    <valsi>ja</valsi>但结合地更紧密的组合词；
+    <valsi>ja</valsi><valsi>bo</valsi>与
     
-    <valsi>ja</valsi> as plain 
-    <valsi>bo</valsi> is to no cmavo at all. However, both 
-    <valsi>ja</valsi> and 
-    <valsi>ja</valsi><valsi>bo</valsi> group less closely than 
+    <valsi>ja</valsi>的关系和平凡的
+    <valsi>bo</valsi>与没有cmavo的关系相同。不过，
+    <valsi>ja</valsi>和
+    <valsi>ja</valsi><valsi>bo</valsi>都没有
     
-    <valsi>bo</valsi> does:</para>
+    <valsi>bo</valsi>结合得紧密：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-KxqX">
       <title>
         <anchor xml:id="c5e6d18"/>
       </title>
       <interlinear-gloss>
         <jbo>ricfu je blanu jabo crino bo blanu</jbo>
-        <gloss>rich and (blue or green [-] blue)</gloss>
-        <natlang>rich and (blue or greenish-blue)</natlang>
+        <gloss>富有 且 （蓝 或 绿 [-] 蓝）</gloss>
+        <natlang>富有且（蓝或蓝绿）</natlang>
       </interlinear-gloss>
     </example>
-    <para role="indent">An alternative form of 
-    <xref linkend="example-random-id-NuWM"/> is:</para>
+    <para role="indent">
+    <xref linkend="example-random-id-NuWM"/>的替代形式之一是：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-2WtT">
       <title>
         <anchor xml:id="c5e6d19"/>
       </title>
       <interlinear-gloss>
         <jbo>ricfu je ke blanu ja crino [ke'e]</jbo>
-        <gloss>rich and ( blue or green )</gloss>
+        <gloss>富有 且 （ 蓝 或 绿 ）</gloss>
       </interlinear-gloss>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>non-logical connectives</primary><secondary>within tanru</secondary></indexterm> In addition to the logical connectives, there are also a variety of non-logical connectives, grammatically equivalent to the logical ones. The only one with a well-understood meaning in tanru contexts is 
-    <valsi>joi</valsi>, which is the kind of 
-    <quote>and</quote> that denotes a mixture:</para>
+    <para role="indent"> <indexterm type="general"><primary>非逻辑连词</primary><secondary>tanru中的</secondary></indexterm> 除逻辑连词外，还有一种非逻辑连词，和逻辑连词在语法上等价。tanru语境中唯一意义良好的是
+    <valsi>joi</valsi>，是指示混合的那种
+    <quote>和</quote>：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-Hr1L">
       <title>
         <anchor xml:id="c5e6d20"/>
       </title>
       <interlinear-gloss>
         <jbo>ti blanu joi xunre bolci</jbo>
-        <gloss>This is-a-(blue and red) ball.</gloss>
+        <gloss>这 是（蓝色 和 红色） 的球。</gloss>
         
       </interlinear-gloss>
     </example>
-    <para role="indent">The ball described is neither solely red nor solely blue, but probably striped or in some other way exhibiting a combination of the two colors. 
-    <xref linkend="example-random-id-Hr1L"/> is distinct from:</para>
+    <para role="indent">被描述的球既不完全红也不完全蓝，可能是褪去了部分颜色或者通过别的什么方式具有两种颜色的结合。
+    <xref linkend="example-random-id-Hr1L"/>与</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-NAhT">
       <title>
         <anchor xml:id="c5e6d21"/>
       </title>
       <interlinear-gloss>
         <jbo>ti blanu xunre bolci</jbo>
-        <natlang>This is a bluish-red ball</natlang>
+        <natlang>这是蓝红色的球</natlang>
       </interlinear-gloss>
     </example>
-    <para role="noindent">which would be a ball whose color is some sort of purple tending toward red, since 
-    <valsi>xunre</valsi> is the more important of the two components. On the other hand,</para>
+    <para role="noindent">完全不同，后者指颜色有些偏红的紫球，因为
+    <valsi>xunre</valsi>两个组分中更重要。另一方面，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-78C3">
       <title>
         <anchor xml:id="c5e6d22"/>
       </title>
       <interlinear-gloss>
         <jbo>ti blanu je xunre bolci</jbo>
-        <gloss>This is-a-(blue and red) ball</gloss>
+        <gloss>这 是（蓝 且 红） 球</gloss>
         
       </interlinear-gloss>
     </example>
-    <para role="noindent">is probably self-contradictory, seeming to claim that the ball is independently both blue and red at the same time, although some sensible interpretation may exist.</para>
+    <para role="noindent">大概自相矛盾，似乎在说球独立地同时既蓝又红，虽然可能存在合理的解释。</para>
     
-    <para> <indexterm type="general"><primary>forethought logical connectives</primary><secondary>within tanru</secondary></indexterm> Finally, just as English 
-    <quote>and</quote> has the variant form 
-    <quote>both ... and</quote>, so 
-    <valsi>je</valsi> between tanru components has the variant form 
-    <valsi>gu'e</valsi>&hellip;<valsi>gi</valsi>, where 
-    <valsi>gu'e</valsi> is placed before the components and 
-    <valsi>gi</valsi> between them:</para>
+    <para> <indexterm type="general"><primary>前置逻辑连词</primary><secondary>tanru中的</secondary></indexterm> 最后，正如英语的
+    <quote>and</quote>有变体
+    <quote>both ... and</quote>一样，tanru组分间的
+    <valsi>je</valsi>也有变体
+    <valsi>gu'e</valsi>……<valsi>gi</valsi>，其中
+    <valsi>gu'e</valsi>放在组分之前，
+    <valsi>gi</valsi>放在组分之间：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-gLbh">
       <title>
         <anchor xml:id="c5e6d23"/>
       </title>
       <interlinear-gloss>
         <jbo>gu'e barda gi xunre - gerku</jbo>
-        <gloss>(both big and red) type-of dog</gloss>
+        <gloss>（既 大 又 红） 型的 狗</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent">is equivalent in meaning to 
-    <xref linkend="example-random-id-0UrF"/>. For each logical connective related to 
-    <valsi>je</valsi>, there is a corresponding connective related to 
-    <valsi>gu'e</valsi>&hellip;<valsi>gi</valsi> in a systematic way.</para>
-    <para> <indexterm type="general"><primary>forethought logical connectives in tanru</primary><secondary>effect on tanru grouping</secondary></indexterm> The portion of a 
-    <valsi>gu'e</valsi>&hellip;<valsi>gi</valsi> construction before the 
-    <valsi>gi</valsi> is a full selbri, and may use any of the selbri resources including 
-    <valsi>je</valsi> logical connections. After the 
-    <valsi>gi</valsi>, logical connections are taken to be wider in scope than the 
-    <valsi>gu'e</valsi>&hellip;<valsi>gi</valsi>, which has in effect the same scope as 
-    <valsi>bo</valsi>:</para>
+    <para role="noindent">和
+    <xref linkend="example-random-id-0UrF"/>同义。对每个与
+    <valsi>je</valsi>类似的逻辑连词，系统地存在与
+    <valsi>gu'e</valsi>……<valsi>gi</valsi>类似的对应连词。</para>
+    <para> <indexterm type="general"><primary>tanru中的前置逻辑连词</primary><secondary>对tanru结合的影响</secondary></indexterm>
+    <valsi>gu'e</valsi>……<valsi>gi</valsi>结构中
+    <valsi>gi</valsi>前的部分是完整的selbri，可以利用包括
+    <valsi>je</valsi>逻辑上连接的任何selbri资源。在
+    <valsi>gi</valsi>后，逻辑上的连接比
+    <valsi>gu'e</valsi>……<valsi>gi</valsi>的范围大，实际上和
+    <valsi>bo</valsi>的一样大：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ETVe">
       <title>
         <anchor xml:id="c5e6d24"/>
       </title>
       <interlinear-gloss>
         <jbo>gu'e barda je xunre gi gerku ja mlatu</jbo>
-        <gloss>(both (big and red) and dog) or cat</gloss>
-        <natlang>something which is either big, red, and a dog, or else a cat</natlang>
+        <gloss>（既 （大 且 红） 又 狗） 或 猫</gloss>
+        <natlang>某个既大又红且是狗的东西或猫</natlang>
       </interlinear-gloss>
     </example>
-    <para role="noindent">leaves 
-    <valsi>mlatu</valsi> outside the 
-    <valsi>gu'e</valsi>&hellip;<valsi>gi</valsi> construction. The scope of the 
-    <valsi>gi</valsi> arm extends only to a single brivla or to two or more brivla connected with 
-    <valsi>bo</valsi> or 
-    <valsi>ke</valsi>&hellip;<valsi>ke'e</valsi>.</para>
+    <para role="noindent">
+    <valsi>mlatu</valsi>处在
+    <valsi>gu'e</valsi>……<valsi>gi</valsi>结构外。
+    <valsi>gi</valsi>作用域只连接起一个brivla或者多个由
+    <valsi>bo</valsi>或
+    <valsi>ke</valsi>……<valsi>ke'e</valsi>连接起的brivla。</para>
   </section>
 
   <section xml:id="section-be-sumti">
