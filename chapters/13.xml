@@ -615,7 +615,7 @@
         <anchor xml:id="c13e3d3"/>
       </title>
       <interlinear-gloss>
-        <jbo>.ai mi benji do le ckana</jbo>
+        <jbo>.ai mi muvgau do le ckana</jbo>
         <gloss>[intent] I transfer you to-the bed.</gloss>
         <natlang>I'm putting you to bed.</natlang>
       </interlinear-gloss>
@@ -2120,8 +2120,8 @@
         <indexterm type="example"><primary>hit cousin</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>mi darxi le mi tamne po'o fo le nazbi</jbo>
-        <gloss>I hit the of-me cousin [only] at-locus the nose.</gloss>
+        <jbo>mi darxi le mi tamne ku po'o fo le nazbi</jbo>
+        <gloss>I hit the of-me cousin - [only] at-locus the nose.</gloss>
         <natlang>I hit only my cousin on his nose (no one else).</natlang>
       </interlinear-gloss>
     </example>
@@ -2133,8 +2133,8 @@
         <indexterm type="example"><primary>hit cousin</primary></indexterm>
       </title>
       <interlinear-gloss>
-        <jbo>mi darxi le mi tamne fo le nazbi po'o</jbo>
-        <gloss>I hit the of-me cousin at-locus the nose [only].</gloss>
+        <jbo>mi darxi le mi tamne fo le nazbi ku po'o</jbo>
+        <gloss>I hit the of-me cousin at-locus the nose - [only].</gloss>
         <natlang>I hit my cousin only on his nose (nowhere else).</natlang>
       </interlinear-gloss>
     </example>
@@ -3092,7 +3092,7 @@
     <jbophrase>sei ... se'u</jbophrase> indicate the speaker of each sentence.</para>
       <interlinear-gloss>
         <jbo>la rik. .e la .alis. nerkla le kafybarja</jbo>
-        <gloss>That-name Rick and that-named Alice in-go to-the coffee-bar.</gloss>
+        <gloss>That-named Rick and that-named Alice in-go to-the coffee-bar.</gloss>
         <natlang>Rick and Alice go into the coffee bar.</natlang>
       </interlinear-gloss>
       <interlinear-gloss>

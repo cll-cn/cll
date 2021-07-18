@@ -5,6 +5,46 @@ This version is the same as the original Red Book (the one with the
 gold lettering), with only errata fixes and the like; no
 substantial content changes.
 
+2019-10-08
+==========
+
+Updated everything, which led to various knock-on changes.  Most are
+quite minor.  No significant content changes (a few word definitions
+got updated from jbovlaste).
+
+- updated Prince version
+- build supports podman as well as docker
+- non-container builds no longer officially supported
+- jbovlaste.xml is now stored in the github tree so we don't get
+  surprise word definition changes we didn't want
+- diffs now support vimdiff mode
+- much easier addition of new versions to official/ using
+  scripts/update_official
+- fixed an issue where "table > tr" was working in the CSS only
+  because of a Prince bug; it turns out that HTML inserts an
+  invisble "tbody" in between the two
+- fixed an issue where the namespace for MathML was no longer
+  correct for the new Prince version
+- updated gems, including dealing with the rename of Trollop to
+  Optimist
+
+2018-05-21
+==========
+
+Rollup of many minor changes.  I am, in particular, not noting any
+scripting or build process or build documentation changes here
+unless they are significant in some way.
+
+- reorder words in the gloss of {jo'i} example
+- Cleanup of chapter 18 tables
+- Added docker support; this doesn't change the output, but it does
+  make building the CLL yourself *much* easier
+- Moved from latest Docbook to a specific version, for better
+  repeatability.  This also made no changes to the output.
+- Align a gloss in chapter 16 (https://github.com/lojban/cll/issues/253 )
+- quotations must begin with {lo'u}, not {le'u} (#252)
+- Fix a misaligned example gloss in section 18.5 (#251) (#250)
+
 2016-08-27
 ==========
 

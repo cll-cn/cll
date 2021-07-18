@@ -1,7 +1,7 @@
 <chapter xml:id="chapter-tour">
-  <title><anchor xml:id="c2"/>A Quick Tour of Lojban Grammar, With Diagrams</title>
+  <title><anchor xml:id="c2"/>Lojban语法快览：有简图</title>
   <mediaobject xml:id="chapter-tour-picture">
-    <textobject><phrase>The picture for chapter 2</phrase></textobject>
+    <textobject><phrase>第二章的图片</phrase></textobject>
     <imageobject>
       <imagedata fileref="media/chapter-tour.gif" />
     </imageobject>
@@ -202,59 +202,59 @@
     <para>All Lojban words are pronounced as they are spelled: there are no silent letters.</para>
   </section>
   <section xml:id="section-sumti-cmavo">
-    <title><anchor xml:id="c2s3"/>Words that can act as sumti</title>
-    <para> <indexterm type="general"><primary>pro-sumti</primary><secondary>quick-tour version</secondary></indexterm> Here is a short table of single words used as sumti. This table provides examples only, not the entire set of such words, which may be found in 
-    <xref linkend="section-koha-summary"/>.</para>
+    <title><anchor xml:id="c2s3"/>可以充当sumti的词</title>
+    <para> <indexterm type="general"><primary>代sumti</primary><secondary>快览版</secondary></indexterm> 这里有一个用作sumti的单词的短表。该表仅提供例子而非可能在
+    <xref linkend="section-koha-summary"/>中找到的该类单词的全集。</para>
     <cmavo-list>
       <cmavo-entry>
         <cmavo>mi</cmavo>
-        <description>I/me, we/us</description>
+        <description>我（们）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>do</cmavo>
-        <description>you</description>
+        <description>你（们）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>ti</cmavo>
-        <description>this, these</description>
+        <description>这（些）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>ta</cmavo>
-        <description>that, those</description>
+        <description>那（些）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>tu</cmavo>
-        <description>that far away, those far away</description>
+        <description>很远的那（些）</description>
       </cmavo-entry>
       <cmavo-entry>
         <cmavo>zo'e</cmavo>
-        <description>unspecified value (used when a sumti is unimportant or obvious)</description>
+        <description>未指定的值（当一个sumti不重要或显而易见时使用）</description>
       </cmavo-entry>
     </cmavo-list>
-    <para role="indent">Lojban sumti are not specific as to number (singular or plural), nor gender (masculine/feminine/neutral). Such distinctions can be optionally added by methods that are beyond the scope of this chapter.</para>
+    <para role="indent">Lojban的sumti不指明数（单/多）、性（阳/阴/中）。这样的区分可以通过超出本章范围的方法选择性添加。</para>
     
-    <para> <indexterm type="general"><primary>pointing cmavo</primary><secondary>quick-tour version</secondary></indexterm> The cmavo 
-    <valsi>ti</valsi>, 
-    <valsi>ta</valsi>, and 
-    <valsi>tu</valsi> refer to whatever the speaker is pointing at, and should not be used to refer to things that cannot in principle be pointed at.</para>
-    <para> <indexterm type="general"><primary>names</primary><secondary>quick-tour version</secondary></indexterm> Names may also be used as sumti, provided they are preceded with the word 
-    <valsi>la</valsi>:</para>
+    <para> <indexterm type="general"><primary>指示cmavo</primary><secondary>快览版</secondary></indexterm>cmavo
+    <valsi>ti</valsi>、
+    <valsi>ta</valsi>和
+    <valsi>tu</valsi>指任何说话者所指的东西，且不应用来指原则上不能（物理意义上）指的东西。</para>
+    <para> <indexterm type="general"><primary>名字</primary><secondary>快览版</secondary></indexterm> 名字也可用作sumti，假如在前面插入
+    <valsi>la</valsi>的话：</para>
     <informaltable>
           <tr>
             <td><jbophrase>la meris.</jbophrase></td>
-            <td>the one/ones named Mary</td>
+            <td>Mary（们）</td>
           </tr>
           <tr>
             <td><jbophrase>la djan.</jbophrase></td>
-            <td>the one/ones named John</td>
+            <td>John（们）</td>
           </tr>
     </informaltable>
-    <para>Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see 
-    <xref linkend="section-names"/> for more information.</para>
+    <para>来自其他语言的名字可能产生其他Lojban拼写，而且有对那些字母能出现在Lojban名字里的限制：更多信息参见
+    <xref linkend="section-names"/>。</para>
   </section>
   <section xml:id="section-some-selbri">
-    <title><anchor xml:id="c2s4"/>Some words used to indicate selbri relations</title>
-    <para> <indexterm type="general"><primary>selbri list for quick tour</primary></indexterm> Here is a short table of some words used as Lojban selbri in this chapter:</para>
+    <title><anchor xml:id="c2s4"/>一些用以指明selbri关系的词</title>
+    <para> <indexterm type="general"><primary>用于快览的selbri列表</primary></indexterm> 这里有一个在本章中用作Lojban selbri的短表：</para>
     <para role="allowbreaks"/>
     <informaltable class="vertsep">
       <!-- This table is redundant with the glossary, but there's
@@ -262,107 +262,107 @@
            -->
           <tr>
             <td><valsi>vecnu</valsi></td>
-            <td>x1 (seller) sells x2 (goods) to x3 (buyer) for x4 (price)</td>
+            <td>x1（商家）将x2（货物）销售给x3（消费者）以x4（价格）</td>
           </tr>
           <tr>
             <td><valsi>tavla</valsi></td>
-            <td>x1 (talker) talks to x2 (audience) about x3 (topic) in language x4</td>
+            <td>x1（讲话者）向x2（听众）说x3（话题）以语言x4</td>
           </tr>
           <tr>
             <td><valsi>sutra</valsi></td>
-            <td>x1 (agent) is fast at doing x2 (action)</td>
+            <td>x1（行为主体）做x2（行动）快</td>
           </tr>
           <tr>
             <td><valsi>blari'o</valsi></td>
-            <td>x1 (object/light source) is blue-green</td>
+            <td>x1（物体或光源）蓝绿</td>
           </tr>
           <tr>
             <td><valsi>melbi</valsi></td>
-            <td>x1 (object/idea) is beautiful to x2 (observer) by standard x3</td>
+            <td>x1（物体或想法）对x2（观察者）以标准x3来说漂亮</td>
           </tr>
           <tr>
             <td><valsi>cutci</valsi></td>
-            <td>x1 is a shoe/boot for x2 (foot) made of x3 (material)</td>
+            <td>x1是为x2（脚）以x3（材料）制造的鞋</td>
           </tr>
           <tr>
             <td><valsi>bajra</valsi></td>
-            <td>x1 runs on x2 (surface) using x3 (limbs) in manner x4 (gait)</td>
+            <td>x1在x2（表面）上用x3（肢体）以x4方式跑</td>
           </tr>
           <tr>
             <td><valsi>klama</valsi></td>
-            <td>x1 goes/comes to x2 (destination) from x3 (origin point) via x4 (route) using x5 (means of transportation)</td>
+            <td>x1去/来到x2（目的地）从x3（出发地）通过x4（路径）使用x5（交通方式）</td>
           </tr>
           <tr>
             <td><valsi>pluka</valsi></td>
-            <td>x1 pleases/is pleasing to x2 (experiencer) under conditions x3</td>
+            <td>x1使x2（体验者）在情形x3下满意</td>
           </tr>
 
           <tr>
             <td><valsi>gerku</valsi></td>
-            <td>x1 is a dog of breed x2</td>
+            <td>x1是x2品种的狗</td>
           </tr>
           <tr>
             <td><valsi>kurji</valsi></td>
-            <td>x1 takes care of x2</td>
+            <td>x1照顾x2</td>
           </tr>
           <tr>
             <td><valsi>kanro</valsi></td>
-            <td>x1 is healthy by standard x2</td>
+            <td>x1以标准x2健康</td>
           </tr>
 
           <tr>
             <td><valsi>stali</valsi></td>
-            <td>x1 stays/remains with x2</td>
+            <td>x1容忍/留在x2</td>
           </tr>
           <tr>
             <td><valsi>zarci</valsi></td>
-            <td>x1 is a market/store/shop selling x2 (products) operated by x3 (storekeeper)</td>
+            <td>x1是卖x2（产品）被x3（店主）经营的市场/商店</td>
           </tr>
     </informaltable>
-    <para> <indexterm type="general"><primary>x1</primary><secondary>notation convention</secondary><tertiary>quick-tour version</tertiary></indexterm> Each selbri (relation) has a specific rule that defines the role of each sumti in the bridi, based on its position. In the table above, that order was expressed by labeling the sumti positions as x1, x2, x3, x4, and x5.</para>
-    <para> <indexterm type="general"><primary>words not in the dictionary</primary></indexterm> Like the table in 
-    <xref linkend="section-sumti-cmavo"/>, this table is far from complete: in fact, no complete table can exist, because Lojban allows new words to be created (in specified ways) whenever a speaker or writer finds the existing supply of words inadequate. This notion is a basic difference between Lojban (and some other languages such as German and Chinese) and English; in English, most people are very leery of using words that 
-    <quote>aren't in the dictionary</quote>. Lojbanists are encouraged to invent new words; doing so is a major way of participating in the development of the language. 
-    <xref linkend="chapter-morphology"/> explains how to make new words, and 
-    <xref linkend="chapter-lujvo"/> explains how to give them appropriate meanings.</para>
+    <para> <indexterm type="general"><primary>x1</primary><secondary>惯例</secondary><tertiary>快览版</tertiary></indexterm> 每个bridi（关系）有一个特定的定义bridi中每个sumti角色的规则。在上面的表格中，那种关系被以将sumti位置标为x1、x2、x3、x4和x5的方式来表达。</para>
+    <para> <indexterm type="general"><primary>不在词典中的词</primary></indexterm> 像 
+    <xref linkend="section-sumti-cmavo"/>里的表格，该表远非完整；实际上没有完整表格能够存在，因为Lojban允许任何说话者或作者发现现有词汇供应不足时有新单词被创造（通过特定方式）。该主张是Lojban（以及其他一些语言如德语和汉语）和英语的不同之处；英语中，大多数人对使用
+    <quote>不在词典中</quote>的词持怀疑态度。Lojban语者被鼓励发明新词汇；这么做是参与到该语言的发展中来的一种主要方式。
+    <xref linkend="chapter-morphology"/>解释了如何发明新词汇，而
+    <xref linkend="chapter-lujvo"/>解释了如何给予它们大约的意思。</para>
   </section>
   <section xml:id="section-some-simple-bridi">
-    <title><anchor xml:id="c2s5"/>Some simple Lojban bridi</title>
-    <para> <indexterm type="general"><primary>bridi</primary><secondary>quick-tour version</secondary></indexterm> Let's look at a simple Lojban bridi. The place structure of the gismu 
-    <valsi>tavla</valsi> is</para>
+    <title><anchor xml:id="c2s5"/>一些简单的Lojban的bridi</title>
+    <para> <indexterm type="general"><primary>bridi</primary><secondary>快览版</secondary></indexterm> 让我们看一个简单的Lojban的bridi。gismu
+    <valsi>tavla</valsi>的位结构是</para>
     <example xml:id="example-random-id-5Lis">
       <title>
         <anchor xml:id="c2e5d1"/>
       </title>
-      <para>x1 talks to x2 about x3 in language x4</para>
+      <para>x1向x2说x3以语言x4</para>
     </example>
-    <para role="noindent">where the 
-    <quote>x</quote> es with following numbers represent the various arguments that could be inserted at the given positions in the English sentence. For example:</para>
+    <para role="noindent">其中带着数字的
+    <quote>x</quote>代表在英语句子中可插入该位置的多样的论元。例如：</para>
     <example xml:id="example-random-id-3bc3">
       <title>
-        <indexterm type="example"><primary>engineering</primary></indexterm>
+        <indexterm type="example"><primary>工程学</primary></indexterm>
         <anchor xml:id="c2e5d2"/>
       </title>
-      <para>John talks to Sam about engineering in Lojban.</para>
+      <para>John对Sam谈论工程学用Lojban。</para>
       
     </example>
     <para role="noindent"> 
 
 
- has 
-    <quote>John</quote> in the x1 place, 
-    <quote>Sam</quote> in the x2 place, 
-    <quote>engineering</quote> in the x3 place, and 
+ 有
+    <quote>John</quote>在x1位，
+    <quote>Sam</quote>在x2位，
+    <quote>工程学</quote>在x3位，
     
-    <quote>Lojban</quote> in the x4 place, and could be paraphrased:</para>
+    <quote>Lojban</quote>在x4位，且可被意译为：</para>
     <example xml:id="example-random-id-pVMH">
       <title>
         <anchor xml:id="c2e5d3"/>
       </title>
-      <para>Talking is going on, with speaker John and listener Sam and subject matter engineering and language Lojban.</para>
+      <para>谈话正在进行，说话者为John，听者为Sam，主题为工程学，语言为Lojban。</para>
     </example>
-    <para role="indent">The Lojban bridi corresponding to 
-    <xref linkend="example-random-id-5Lis"/> will have the form</para>
+    <para role="indent">与
+    <xref linkend="example-random-id-5Lis"/>对应的Lojban的bridi将有形式</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k01t">
       <title>
         <anchor xml:id="c2e5d4"/>
@@ -378,8 +378,8 @@
         </jbo>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>cu</primary><secondary>use of</secondary><tertiary>quick-tour version</tertiary></indexterm>  <indexterm type="general"><primary>cu</primary><secondary>omission of</secondary><tertiary>quick-tour version</tertiary></indexterm> The word 
-    <valsi>cu</valsi> serves as a separator between any preceding sumti and the selbri. It can often be omitted, as in the following examples.</para>
+    <para role="indent"> <indexterm type="general"><primary>cu</primary><secondary>使用</secondary><tertiary>快览版</tertiary></indexterm>  <indexterm type="general"><primary>cu</primary><secondary>省略</secondary><tertiary>快览版</tertiary></indexterm> 单词
+    <valsi>cu</valsi>充当任何在前的sumti与selbri的分隔符。它可以常常被省略，如下例所示。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k02C">
       <title>
         <anchor xml:id="c2e5d5"/>
@@ -392,7 +392,7 @@
           <sumti>zo'e</sumti> 
           <sumti>zo'e</sumti>
         </jbo>
-        <natlang>I talk to you about something in some language.</natlang>
+        <natlang>我向你说了些什么以某种语言。</natlang>
 
         
       </interlinear-gloss-itemized>
@@ -409,7 +409,7 @@
           <sumti>ta</sumti> 
           <sumti>zo'e</sumti>
         </jbo>
-        <natlang>You talk to me about that thing in a language.</natlang>
+        <natlang>你对我说了那件事以某种语言。You </natlang>
 
         
       </interlinear-gloss-itemized>
@@ -426,11 +426,11 @@
           <sumti>tu</sumti> 
           <sumti>ti</sumti>
         </jbo>
-        <natlang>I talk to someone about that thing yonder in this language.</natlang>
+        <natlang>我对某人谈论较远的那个东西以这种语言。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">(<xref linkend="example-random-id-k03n"/> is a bit unusual, as there is no easy way to point to a language; one might point to a copy of this book, and hope the meaning gets across!)</para>
-    <para> <indexterm type="general"><primary>ellipsis</primary><secondary>quick-tour version</secondary></indexterm> When there are one or more occurrences of the cmavo 
+    <para role="noindent">（<xref linkend="example-random-id-k03n"/>很不寻常，因为没有指明语言的容易方式；一个人可能指着本书的一份复制品，希望含义能传达到。）</para>
+    <para> <indexterm type="general"><primary>省略</primary><secondary>快览版</secondary></indexterm> 当有一或多个cmavo出现时，
     <valsi>zo'e</valsi> at the end of a bridi, they may be omitted, a process called 
     <quote>ellipsis</quote>. 
 
@@ -446,7 +446,7 @@
           <selbri>tavla</selbri> 
           <sumti>do</sumti>
         </jbo>
-        <natlang>I talk to you (about something in some language).</natlang>
+        <natlang>我对你谈论（某个东西，以某种语言）。</natlang>
 
         
       </interlinear-gloss-itemized>
@@ -462,17 +462,17 @@
           <sumti>mi</sumti> 
           <sumti>ta</sumti>
         </jbo>
-        <natlang>You talk to me about that thing (in some language).</natlang>
+        <natlang>你对我说了那件事（以某种语言）。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Note that 
-    <xref linkend="example-random-id-k03n"/> is not subject to ellipsis by this direct method, as the 
+    <para role="indent">注意
+    <xref linkend="example-random-id-k03n"/>不适用于这种直接的省略，因为其中的
 
-    <valsi>zo'e</valsi> in it is not at the end of the bridi.</para>
+    <valsi>zo'e</valsi>不在bridi的末尾。</para>
   </section>
   <section xml:id="section-variant-bridi-structure">
-    <title><anchor xml:id="c2s6"/>Variant bridi structure</title>
-    <para> <indexterm type="general"><primary>sumti placement</primary><secondary>variant</secondary><tertiary>quick-tour version</tertiary></indexterm> Consider the sentence</para>
+    <title><anchor xml:id="c2s6"/>变量bridi结构</title>
+    <para> <indexterm type="general"><primary>sumti位置</primary><secondary>变量</secondary><tertiary>快览版</tertiary></indexterm> 考虑这个句子</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k068">
       <title>
         <anchor xml:id="c2e6d1"/>
@@ -487,27 +487,27 @@
           <sumti>zo'e</sumti>
         </jbo>
         <gloss>
-          <sumti>seller-x1</sumti>
+          <sumti>销售者-x1</sumti>
           <elidable></elidable>
-          <selbri>sells</selbri>
-          <sumti>goods-sold-x2</sumti>
-          <sumti>buyer-x3</sumti>
-          <sumti>price-x4</sumti>
+          <selbri>贩卖</selbri>
+          <sumti>被销售的货物-x2</sumti>
+          <sumti>购买者-x3</sumti>
+          <sumti>价格-x4</sumti>
         </gloss>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>sell</selbri>
-          <sumti>this</sumti>
-          <sumti>to that</sumti>
-          <sumti>for some price.</sumti>
+          <selbri>贩卖</selbri>
+          <sumti>这个</sumti>
+          <sumti>给那个</sumti>
+          <sumti>以某个价格。</sumti>
         </gloss>
-        <natlang>I sell this-thing/these-things to that-buyer/those-buyers.</natlang>
+        <natlang>我贩卖这个（些）东西给那个（些）购买者、</natlang>
         <comment>(the price is obvious or unimportant)</comment>
       </interlinear-gloss-itemized>
     </example>
     <para role="indent">
-    <xref linkend="example-random-id-k068"/> has one sumti (the x1) before the selbri. It is also possible to put more than one sumti before the selbri, without changing the order of sumti:</para>
+    <xref linkend="example-random-id-k068"/>在selbri前有一个sumti（x1）。在selbri前放不知一个sumti也是可能的，如果不改变sumti的顺序的话：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0aR">
       <title>
         <anchor xml:id="c2e6d2"/>
@@ -521,21 +521,21 @@
           <sumti>ta</sumti>
         </jbo>
         <gloss>
-          <sumti>seller-x1</sumti>
-          <sumti>goods-sold-x2</sumti>
+          <sumti>销售者-x1</sumti>
+          <sumti>被贩卖的货物-x2</sumti>
           <elidable></elidable>
-          <selbri>sells</selbri>
-          <sumti>buyer-x3</sumti>
+          <selbri>贩卖</selbri>
+          <sumti>购买者-x3</sumti>
         </gloss>
         <gloss>
-          <sumti>I</sumti>
-          <sumti>this</sumti>
+          <sumti>我</sumti>
+          <sumti>这个</sumti>
           <elidable></elidable>
-          <selbri>sell</selbri>
-          <sumti>to that.</sumti>
+          <selbri>销售</selbri>
+          <sumti>给了那个。</sumti>
         </gloss>
-        <comment>(translates as stilted or poetic English)</comment>
-        <natlang>I this thing do sell to that buyer.</natlang>
+        <comment>（翻译为生硬或者诗歌化的汉语）</comment>
+        <natlang>吾以此售彼。</natlang>
       </interlinear-gloss-itemized>
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Bm">
@@ -551,28 +551,28 @@
           <selbri>vecnu</selbri>
         </jbo>
         <gloss>
-          <sumti>seller-x1</sumti>
-          <sumti>goods-sold-x2</sumti>
-          <sumti>buyer-x3</sumti>
+          <sumti>销售者-x1</sumti>
+          <sumti>被贩卖的货物-x2</sumti>
+          <sumti>购买者-x3</sumti>
           <elidable></elidable>
-          <selbri>sells</selbri>
+          <selbri>贩卖</selbri>
         </gloss>
         <gloss>
-          <sumti>I</sumti>
-          <sumti>this</sumti>
-          <sumti>to that</sumti>
+          <sumti>我</sumti>
+          <sumti>这个</sumti>
+          <sumti>给那个</sumti>
           <elidable></elidable>
-          <selbri>sell</selbri>
+          <selbri>贩卖</selbri>
         </gloss>
-        <comment>(translates as stilted or poetic English)</comment>
-        <natlang>I this thing to that buyer do sell.</natlang>
+        <comment>（翻译为生硬或诗歌化的汉语）</comment>
+        <natlang>吾以此彼之售也。</natlang>
       </interlinear-gloss-itemized>
     </example>
     <para role="indent">
-      <xref linkend="example-random-id-k068"/> through 
-    <xref linkend="example-random-id-k0Bm"/> mean the same thing. Usually, placing more than one sumti before the selbri is done for style or for emphasis on the sumti that are out-of-place from their normal position. (Native speakers of languages other than English may prefer such orders.)</para>
-    <para> <indexterm type="general"><primary>observatives</primary><secondary>quick-tour version</secondary></indexterm> If there are no sumti before the selbri, then it is understood that the x1 sumti value is equivalent to 
-    <valsi>zo'e</valsi>; i.e. unimportant or obvious, and therefore not given. Any sumti after the selbri start counting from x2.</para>
+      从<xref linkend="example-random-id-k068"/>到
+    <xref linkend="example-random-id-k0Bm"/>意味着一样的东西。通常，将多于一个sumti放在selbri前面是为了风格或者是为了强调不在通常位置的sumti。（非汉语母语者可能偏爱这样的顺序。）</para>
+    <para> <indexterm type="general"><primary>observatives</primary><secondary>快览版</secondary></indexterm> 如果selbri前没有sumti，那么它被理解为x1位的sumti的价值相当于
+    <valsi>zo'e</valsi>；也就是说不重要或显而易见，因此没被给出。selbri后的任意从x2开始数。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0br">
       <title>
         <anchor xml:id="c2e6d4"/>
@@ -585,22 +585,22 @@
           <comment></comment>
         </jbo>
         <gloss>
-          <sumti>object/idea-x1</sumti>
+          <sumti>对象/主意-x1</sumti>
           <elidable></elidable>
-          <selbri>is-beautiful</selbri> 
-          <comment>(to someone by some standard)</comment>
+          <selbri>漂亮</selbri> 
+          <comment>（对于某人以某标准）</comment>
         </gloss>
         <gloss>
-          <sumti>That/Those</sumti>
+          <sumti>那个（些）</sumti>
           <elidable></elidable>
-          <selbri>is/are beautiful.</selbri>
+          <selbri>漂亮。</selbri>
           <comment></comment>
         </gloss>
-        <natlang>That is beautiful.</natlang>
-        <natlang>Those are beautiful.</natlang>
+        <natlang>那漂亮。</natlang>
+        <natlang>那些漂亮。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">when the x1 is omitted, becomes:</para>
+    <para role="noindent">当x1省略时，变成：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Ch">
       <title>
         <anchor xml:id="c2e6d5"/>
@@ -612,33 +612,33 @@
           <comment/>
         </jbo>
         <gloss>
-          <sumti>unspecified-x1</sumti>
-          <selbri>is-beautiful</selbri> 
-          <comment>to someone by some standard</comment>
+          <sumti>不确定的-x1</sumti>
+          <selbri>漂亮</selbri> 
+          <comment>对于某人以某标准</comment>
         </gloss>
-        <natlang>Beautiful!</natlang>
-        <natlang>It's beautiful!</natlang>
+        <natlang>漂亮！</natlang>
+        <natlang>真漂亮！</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Omitting the x1 adds emphasis to the selbri relation, which has become first in the sentence. This kind of sentence is termed an observative, because it is often used when someone first observes or takes note of the relationship, and wishes to quickly communicate it to someone else. Commonly understood English observatives include 
+    <para role="indent">省略x1增进了对句中在首位的selbri关系的强调。这种句子被称为观察句，因为它常在某人首次观察或注意关系且希望快速将其传达给他人时使用。通常被认为的汉语观察句包括当看到烟或闻到其气味时的
     
     
-    <quote>Smoke!</quote> upon seeing smoke or smelling the odor, or 
-    <quote>Car!</quote> to a person crossing the street who might be in danger. Any Lojban selbri can be used as an observative if no sumti appear before the selbri.</para>
+    <quote>烟！</quote>，或对某个可能在危险中的在过马路的人的
+    <quote>车！</quote>。如果selbri前sumti的话任何Lojban的selbri可以被用为观察句。</para>
     
-    <para>The word 
-    <valsi>cu</valsi> does not occur in an observative; 
+    <para>单词
+    <valsi>cu</valsi>不在观察句中出现；
     
-    <valsi>cu</valsi> is a separator, and there must be a sumti before the selbri that needs to be kept separate for 
-    <valsi>cu</valsi> to be used. With no sumti preceding the selbri, 
-    <valsi>cu</valsi> is not permitted. Short words like 
-    <valsi>cu</valsi> which serve grammatical functions are called 
-    <valsi>cmavo</valsi> in Lojban.</para>
+    <valsi>cu</valsi>是分隔符，且必须在selbri前有需要使用
+    <valsi>cu</valsi>的sumti来使相互分离。既然selbri前没有sumti，
+    <valsi>cu</valsi>不被允许。用为语法功能的短单词像
+    <valsi>cu</valsi>在Lojban中叫做
+    <valsi>cmavo</valsi>。</para>
   </section>
   <section xml:id="section-order-of-sumti">
-    <title><anchor xml:id="c2s7"/>Varying the order of sumti</title>
-    <para> <indexterm type="general"><primary>sumti reordering</primary><secondary>quick-tour version</secondary></indexterm> For one reason or another you may want to change the order, placing one particular sumti at the front of the bridi. The cmavo 
-    <valsi>se</valsi>, when placed before the last word of the selbri, will switch the meanings of the first and second sumti places. So</para>
+    <title><anchor xml:id="c2s7"/>变换sumti的顺序</title>
+    <para> <indexterm type="general"><primary>sumti重序化</primary><secondary>快览版</secondary></indexterm> 因为某些原因你可能想改变顺序，将一个特定的sumti放在bridi的开头。cmavo
+    <valsi>se</valsi>，放在selbri的最后一个单词前时，将交换第一个和第二个sumti位的意思。所以</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0dU">
       <title>
         <anchor xml:id="c2e7d1"/>
@@ -650,10 +650,10 @@
           <sumti>do</sumti>
           <sumti>ti</sumti>
         </jbo>
-        <natlang>I talk to you about this.</natlang>
+        <natlang>我对你说这个。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">has the same meaning as</para>
+    <para role="noindent">意思同于</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0eV">
       <title>
         <anchor xml:id="c2e7d2"/>
@@ -665,11 +665,11 @@
           <sumti>mi</sumti>
           <sumti>ti</sumti>
         </jbo>
-        <natlang>You are talked to by me about this.</natlang>
+        <natlang>你被我说了这个。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> The cmavo 
-    <valsi>te</valsi>, when used in the same location, switches the meanings of the first and the third sumti places.</para>
+    <para role="indent"> cmavo
+    <valsi>te</valsi>，用在相同位置时，交换第一个和第三个sumti位的意思。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0FJ">
       <title>
         <anchor xml:id="c2e7d3"/>
@@ -681,10 +681,10 @@
           <sumti>do</sumti>
           <sumti>ti</sumti>
         </jbo>
-        <natlang>I talk to you about this.</natlang>
+        <natlang>我对你说这个。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">has the same meaning as</para>
+    <para role="noindent">意思同于</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0fo">
       <title>
         <anchor xml:id="c2e7d4"/>
@@ -696,74 +696,74 @@
           <sumti>do</sumti>
           <sumti>mi</sumti>
         </jbo>
-        <natlang>This is talked about to you by me.</natlang>
+        <natlang>这个东西对你说，我。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Note that only the first and third sumti have switched places; the second sumti has remained in the second place.</para>
-    <para> The cmavo 
-    <valsi>ve</valsi> and 
-    <valsi>xe</valsi> switch the first and fourth sumti places, and the first and fifth sumti places, respectively. These changes in the order of places are known as 
-    <quote>conversions</quote>, and the 
-    <valsi>se</valsi>, 
-    <valsi>te</valsi>, 
-    <valsi>ve</valsi>, and 
-    <valsi>xe</valsi> cmavo are said to convert the selbri.</para>
-    <para>More than one of these operators may be used on a given selbri at one time, and in such a case they are evaluated from left to right. However, in practice they are used one at a time, as there are better tools for complex manipulation of the sumti places. See 
-    <xref linkend="section-SE"/> for details.</para>
-    <para> <indexterm type="general"><primary>passive voice</primary></indexterm> The effect is similar to what in English is called the 
-    <quote>passive voice</quote>. In Lojban, the converted selbri has a new place structure that is renumbered to reflect the place reversal, thus having effects when such a conversion is used in combination with other constructs such as 
+    <para role="indent">注意只有第一个和第三个sumti被交换了位置；第二个sumti留在第二位。</para>
+    <para> cmavo
+    <valsi>ve</valsi>和
+    <valsi>xe</valsi>分别交换第一个和第四个sumti位，第一个和第五个sumti位。这些位置的改变被称为
+    <quote>换位</quote>，cmavo
+    <valsi>se</valsi>、
+    <valsi>te</valsi>、
+    <valsi>ve</valsi>和
+    <valsi>xe</valsi>被称为换了selbri的位。</para>
+    <para>多于一个这样的运算符可能同时作用于一个给定的selbri，在这种情况下它们从左到右作用。然而，实际上它们一次用一个，因为有更好的用于sumti位复杂操作的工具详见
+    <xref linkend="section-SE"/>。</para>
+    <para> <indexterm type="general"><primary>被动语态</primary></indexterm> 其效果类似汉语中的
+    <quote>被动语态</quote>。Lojban中，被换了位的selbri有被重编号来相应位翻转的新位结构，这样就在这样一个换位在与其他结构例如
     
     
-    <jbophrase>le selbri [ku]</jbophrase> (see 
-    <xref linkend="section-description-sumti"/>).</para>
+    <jbophrase>le selbri [ku]</jbophrase>的组合中发挥作用（见
+    <xref linkend="section-description-sumti"/>）。</para>
   </section>
   <section xml:id="section-structure-of-utterances">
-    <title><anchor xml:id="c2s8"/>The basic structure of longer utterances</title>
-    <para> People don't always say just one sentence. Lojban has a specific structure for talk or writing that is longer than one sentence. The entirety of a given speech event or written text is called an utterance. The sentences (usually, but not always, bridi) in an utterance are separated by the cmavo 
-    <valsi>ni'o</valsi> and 
-    <valsi>i</valsi>. These correspond to a brief pause (or nothing at all) in spoken English, and the various punctuation marks like period, question mark, and exclamation mark in written English. These separators prevent the sumti at the beginning of the next sentence from being mistaken for a trailing sumti of the previous sentence.</para>
+    <title><anchor xml:id="c2s8"/>更长话语的基本结构</title>
+    <para> 人们通常不会只说一句话。Lojban有多于一句话的说话或写作的明确结构。一个给定的说话事件或写作文本整体被称作一个话语。一个话语中的句子（通常，但不总是bridi）被cmavo
+    <valsi>ni'o</valsi>和
+    <valsi>i</valsi>分隔。这些在汉语口语中对应着短暂的停顿（或者什么也不对应），在书面语中对应着象句号、问号和叹号之类的多样的标点。这些分隔符避免了下一句打头的sumti被误认为上一句最后的sumti。</para>
     
-    <para>The cmavo 
-    <valsi>ni'o</valsi> separates paragraphs (covering different topics of discussion). In a long text or utterance, the topical structure of the text may be indicated by multiple 
-    <valsi>ni'o</valsi> s, with perhaps 
-    <jbophrase>ni'oni'oni'o</jbophrase> used to indicate a chapter, 
-    <jbophrase>ni'oni'o</jbophrase> to indicate a section, and a single 
-    <valsi>ni'o</valsi> to indicate a subtopic corresponding to a single English paragraph.</para>
-    <para>The cmavo 
-    <valsi>i</valsi> separates sentences. It is sometimes compounded with words that modify the exact meaning (the semantics) of the sentence in the context of the utterance. (The cmavo 
-    <valsi>xu</valsi>, discussed in 
-    <xref linkend="section-basic-questions"/>, is one such word &ndash; it turns the sentence from a statement to a question about truth.) When more than one person is talking, a new speaker will usually omit the 
-    <valsi>i</valsi> even though she/he may be continuing on the same topic.</para>
-    <para>It is still O.K. for a new speaker to say the 
-    <valsi>i</valsi> before continuing; indeed, it is encouraged for maximum clarity (since it is possible that the second speaker might merely be adding words onto the end of the first speaker's sentence). A good translation for 
-    <valsi>i</valsi> is the 
-    <quote>and</quote> used in run-on sentences when people are talking informally: 
-    <quote>I did this, and then I did that, and ..., and ...</quote>.</para>
+    <para>cmavo 
+    <valsi>ni'o</valsi>分隔（包括不同主题的）段落。在一份长文本或长话语中，文本的话题结构可能由许多
+    <valsi>ni'o</valsi>提示，同时可能用
+    <jbophrase>ni'oni'oni'o</jbophrase>指示章，
+    <jbophrase>ni'oni'o</jbophrase>指示节，单个的
+    <valsi>ni'o</valsi>指示对应于一个汉语段的子话题。</para>
+    <para>cmavo 
+    <valsi>i</valsi>分隔句子。他有时与在话语上下文中修饰句子中特定意思（语义）的词构成组合词。（cmavo 
+    <valsi>xu</valsi>，在
+    <xref linkend="section-basic-questions"/>第三章中被讨论，是一个这样的词——它将句子从陈述句转为对真假的提问句（译：即一般疑问句。）当多余一个人在谈论时，一个新的对话者通常将省略
+    <valsi>i</valsi>，即使他/她可能继续相同的话题。</para>
+    <para>新对话者依然可以在继续前说
+    <valsi>i</valsi>；实际上，最大化的清晰是被鼓励的（因为第二名对话者可能只是在第一名对话者句子后面加词）。好的对
+    <valsi>i</valsi>的翻译为人们非正式谈话时用的
+    <quote>然后</quote>：
+    <quote>我做了这个，然后我做了那个，然后……然后……</quote></para>
   </section>
   <section xml:id="section-basic-tanru">
     <title><anchor xml:id="c2s9"/>tanru</title>
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>quick-tour version</secondary></indexterm> When two gismu are adjacent, the first one modifies the second, and the selbri takes its place structure from the rightmost word. Such combinations of gismu are called 
-    <valsi>tanru</valsi>. For example,</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>快览版</secondary></indexterm> 当两个gismu相邻，第一个修饰第二个，且selbri使用最右边的词的位结构。这样的gismu的组合叫做
+    <valsi>tanru</valsi>。例如，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-GPcS">
       <title>
         <anchor xml:id="c2e9d1"/>
       </title>
       <jbophrase>sutra tavla</jbophrase>
     </example>
-    <para role="noindent">has the place structure</para>
+    <para role="noindent">具有位结构</para>
     <example xml:id="example-random-id-ANfh">
       <title>
-        <indexterm type="example"><primary>fast talker</primary></indexterm>
+        <indexterm type="example"><primary>快的说话者</primary></indexterm>
 
         <anchor xml:id="c2e9d2"/>
       </title>
-      <para>x1 is a fast type-of talker to x2 about x3 in language x4</para>
-      <para>x1 talks fast to x2 about x3 in language x4</para>
+      <para>x1是一个快型的说话者对于x2来说关于x3以语言x4</para>
+      <para>x1对x2快速地说x3以语言x4</para>
     </example>
     <para role="indent"> 
 
 
-  <indexterm type="general"><primary>tanru default grouping</primary><secondary>quick-tour version</secondary></indexterm> When three or more gismu are in a row, the first modifies the second, and that combined meaning modifies the third, and that combined meaning modifies the fourth, and so on. For example</para>
+  <indexterm type="general"><primary>tanru默认结合</primary><secondary>快览版</secondary></indexterm>当有三个或更多gismu在同一行时，第一个修饰第二个，然后结合义修饰第三个，然后结合义修饰第四个，然后接着下去。例如，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-pzS9">
       <title>
         <anchor xml:id="c2e9d3"/>
@@ -773,65 +773,65 @@
     <para role="noindent"> 
 
 
- has the place structure</para>
+ 具有位结构</para>
     <example xml:id="example-random-id-7KPn">
       <title>
-        <indexterm type="example"><primary>fast-talker shoe</primary></indexterm>
+        <indexterm type="example"><primary>快速说话者的鞋</primary></indexterm>
 
         <anchor xml:id="c2e9d4"/>
       </title>
-      <para>s1 is a fast-talker type of shoe worn by s2 of material s3</para>
+      <para>s1是一个快速说话者型的鞋被s2穿着由s3材料制造</para>
     </example>
-    <para role="indent">That is, it is a shoe that is worn by a fast talker rather than a shoe that is fast and is also worn by a talker.</para>
+    <para role="indent">那就是说，它是被一个快速说话者穿着的鞋而非一个既快又被一个说话者穿着的鞋。</para>
     
-    <para>Note especially the use of 
-    <quote>type-of</quote> as a mechanism for connecting the English translations of the two or more gismu; this convention helps the learner understand each tanru in its context. Creative interpretations are also possible, however:</para>
+    <para>特别注意
+    <quote>型</quote>作为一种连接两个或多个gismu的汉语翻译的方法的使用；这个惯例帮助学习者理解其上下文中每个tanru的意思。创造性的理解也有可能，然而：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-jE94">
       <title>
-        <indexterm type="example"><primary>runner shoe</primary></indexterm>
+        <indexterm type="example"><primary>跑步鞋</primary></indexterm>
 
         <anchor xml:id="c2e9d5"/>
       </title>
       <interlinear-gloss>
         <jbo>bajra cutci</jbo>
-        <gloss>runner shoe</gloss>
+        <gloss>跑步 鞋</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent"> 
 
 
- most probably refers to shoes suitable for runners, but might be interpreted in some imaginative instances as 
-    <quote>shoes that run (by themselves?)</quote>. In general, however, the meaning of a tanru is determined by the literal meaning of its components, and not by any connotations or figurative meanings. Thus</para>
+ 多数可能指的是适合跑步者穿着的鞋，但也可能被理解为一些创作型的例子如
+    <quote>（自己？）会跑的鞋</quote>。通常，然而，tanru的意思被其组分的字面意思而不被任意内涵或比喻性的含义决定。这样，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-HcV5">
       <title>
        <anchor xml:id="c2e9d6"/>
       </title>
       <interlinear-gloss>
         <jbo>sutra tavla</jbo>
-        <gloss>fast talker</gloss>
+        <gloss>快速 说话者</gloss>
       </interlinear-gloss>
     </example>
-    <para role="noindent">would not necessarily imply any trickery or deception, unlike the English idiom, and a</para>
+    <para role="noindent">未必暗示任何诡计或骗局，而不像中文习语，且</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-8umU">
       <title>
-        <indexterm type="example"><primary>Lepidoptera</primary></indexterm>
-        <indexterm type="example"><primary>butterfly</primary><secondary>social</secondary></indexterm> 
-        <indexterm type="example"><primary>social butterfly</primary></indexterm> 
+        <indexterm type="example"><primary>鳞翅类</primary></indexterm>
+        <indexterm type="example"><primary>蝴蝶</primary><secondary>社交</secondary></indexterm> 
+        <indexterm type="example"><primary>社交蝴蝶</primary></indexterm> 
         <anchor xml:id="c2e9d7"/>
       </title>
       <interlinear-gloss>
         <jbo>jikca toldi</jbo>
-        <gloss>social butterfly</gloss>
+        <gloss>社交 蝴蝶</gloss>
       </interlinear-gloss>
     </example>
     <para role="noindent"> 
 
 
- must always be an insect with large brightly-colored wings, of the family 
-    <emphasis>Lepidoptera</emphasis>.</para>
+ 必然总是有着大且颜色鲜艳的翅膀的昆虫，属于
+    <emphasis>鳞翅目</emphasis>.</para>
     
-    <para> <indexterm type="general"><primary>tanru</primary><secondary>place structure of</secondary><tertiary>quick-tour version</tertiary></indexterm> The place structure of a tanru is always that of the final component of the tanru. Thus, the following has the place structure of 
-    <valsi>klama</valsi>:</para>
+    <para> <indexterm type="general"><primary>tanru</primary><secondary>位结构</secondary><tertiary>快览版</tertiary></indexterm> tanru的位结构与tanru的最后一个组分一致。这样下例有着
+    <valsi>klama</valsi>的位结构：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0FP">
       <title>
         <anchor xml:id="c2e9d8"/>
@@ -844,16 +844,16 @@
           <sumti>la meris.</sumti>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>quickly-go</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>快速地去</selbri>
+          <sumti>Mary那里。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>tanru conversion</primary><secondary>effect on place structure</secondary><tertiary>quick-tour version</tertiary></indexterm> With the conversion 
-    <jbophrase>se klama</jbophrase> as the final component of the tanru, the place structure of the entire selbri is that of 
-    <jbophrase>se klama</jbophrase>: the x1 place is the destination, and the x2 place is the one who goes:</para>
+    <para role="indent"> <indexterm type="general"><primary>tanru换位</primary><secondary>位结构上的影响</secondary><tertiary>快览版</tertiary></indexterm> 有着换位
+    <jbophrase>se klama</jbophrase>作为tanru的最后组分，整个selbri的位结构是
+    <jbophrase>se klama</jbophrase>的：x1位是终点，x2位是行者：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0J1">
       <title>
@@ -868,15 +868,15 @@
           <sumti>la meris.</sumti>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>quickly</selbri>
-          <selbri>am-gone-to</selbri>
-          <sumti>by Mary.</sumti>
+          <selbri>快速地</selbri>
+          <selbri>被接近</selbri>
+          <sumti>被Mary。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>tanru</primary><secondary>and conversion</secondary><tertiary>quick-tour version</tertiary></indexterm> The following example shows that there is more to conversion than merely switching places, though:</para>
+    <para role="indent"> <indexterm type="general"><primary>tanru</primary><secondary>换位</secondary><tertiary>快览版</tertiary></indexterm> 然而下例表明换位不只是仅仅交换位置：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0LW">
       <title>
         <anchor xml:id="c2e9d10"/>
@@ -891,20 +891,20 @@
         <gloss>
           <sumti>Tom</sumti>
           <elidable></elidable>
-          <selbri>beautifully-talks</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>漂亮地对之说话</selbri>
+          <sumti>其名为Mary。</sumti>
         </gloss>
         <gloss>
           <sumti>Tom</sumti>
           <elidable></elidable>
-          <selbri>is a beautiful-talker</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>是一个漂亮的谈话者</selbri>
+          <sumti>对Mary而言。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">has the place structure of 
-    <valsi>tavla</valsi>, but note the two distinct interpretations.</para>
-    <para>Now, using conversion, we can modify the place structure order:</para>
+    <para role="noindent">有着
+    <valsi>tavla</valsi>的位结构，但注意两种单独的理解。</para>
+    <para>现在，使用换位，我们可以修饰位结构顺序：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0mh">
       <title>
@@ -920,23 +920,23 @@
         <gloss>
           <sumti>Mary</sumti>
           <elidable></elidable>
-          <selbri>is beautifully-talked-to</selbri>
-          <sumti>by Tom.</sumti>
+          <selbri>漂亮地被之讲话</selbri>
+          <sumti>其名为Tom。</sumti>
         </gloss>
         <gloss>
           <sumti>Mary</sumti>
           <elidable></elidable>
-          <selbri>is a beautiful-audience</selbri>
+          <selbri>是一个漂亮的听众</selbri>
           <sumti>for Tom.</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">and we see that the modification has been changed so as to focus on Mary's role in the bridi relationship, leading to a different set of possible interpretations.</para>
-    <para>Note that there is no place structure change if the modifying term is converted, and so less drastic variation in possible meanings:</para>
+    <para role="noindent">我们发现修饰已经改变来关注于bridi关系中Mary的角色，导致另一群不同的理解。</para>
+    <para>注意如果修饰成分被换位了不会有位结构的变动，因此造成较少可能意思上的激烈改变：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-qIv0">
       <title>
         <anchor xml:id="c2e9d12"/>
-        <indexterm type="example"><primary>talker</primary></indexterm>
+        <indexterm type="example"><primary>说话者</primary></indexterm>
       </title>
       <interlinear-gloss-itemized>
         <jbo>
@@ -948,8 +948,8 @@
         <gloss>
           <sumti>Tom</sumti>
           <elidable></elidable>
-          <selbri>is talkerly-beautiful</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>以讲话者来说漂亮</selbri>
+          <sumti>对Mary。</sumti>
         </gloss>
 
       </interlinear-gloss-itemized>
@@ -968,24 +968,24 @@
         <gloss>
           <sumti>Tom</sumti>
           <elidable></elidable>
-          <selbri>is audiencely-beautiful</selbri>
-          <sumti>to Mary.</sumti>
+          <selbri>以听者来说漂亮</selbri>
+          <sumti>对Mary。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">and we see that the manner in which Tom is seen as beautiful by Mary changes, but Tom is still the one perceived as beautiful, and Mary, the observer of beauty.</para>
+    <para role="noindent">我们注意到Tom被Mary视为漂亮的方式改变了，但Tom仍然是被感觉为漂亮的那一个，Mary仍是漂亮的观察者。</para>
   </section>
   <section xml:id="section-description-sumti">
-    <title><anchor xml:id="c2s10"/>Description sumti</title>
+    <title><anchor xml:id="c2s10"/>描述型sumti</title>
     <para> 
 
-  <indexterm type="general"><primary>descriptions</primary><secondary>quick-tour version</secondary></indexterm> Often we wish to talk about things other than the speaker, the listener and things we can point to. Let's say I want to talk about a talker other than 
-    <valsi>mi</valsi>. What I want to talk about would naturally fit into the first place of 
-    <valsi>tavla</valsi>. Lojban, it turns out, has an operator that pulls this first place out of a selbri and converts it to a sumti called a 
-    <quote>description sumti</quote>. The description sumti 
-    <jbophrase>le tavla ku</jbophrase> means 
-    <quote>the talker</quote>, and may be used wherever any sumti may be used.</para>
-    <para>For example,</para>
+  <indexterm type="general"><primary>项描述</primary><secondary>快览版</secondary></indexterm> 常常我们希望谈论不是说话者、听者和我们可以指向的东西。假设我想谈论一个不是
+    <valsi>mi</valsi>的说话者。我想谈论的东西自然适合
+    <valsi>tavla</valsi>的第一个位。Lojban，事实证明，有一个将一个selbri的第一个位提取出来并将其转化为一个被称为
+    <quote>描述型sumti</quote>的sumti的操作符。描述型sumti
+    <jbophrase>le tavla ku</jbophrase>意味着
+    <quote>讲话者</quote>，可以在任何任意sumti可以出现的地方出现。</para>
+    <para>例如，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Pj">
       <title>
         <anchor xml:id="c2e10d1"/>
@@ -1000,24 +1000,24 @@
         </jbo>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">means the same as</para>
+    <para role="noindent">与下例同义</para>
     <example xml:id="example-random-id-oH9T">
       <title>
         <anchor xml:id="c2e10d2"/>
       </title>
-      <para>I talk to you about the talker</para>
+      <para>我对你说说话者</para>
     </example>
-    <para role="noindent">where 
-    <quote>the talker</quote> is presumably someone other than me, though not necessarily.</para>
-    <para>Similarly 
-    <jbophrase>le sutra tavla ku</jbophrase> is 
-    <quote>the fast talker</quote>, and 
+    <para role="noindent">其中
+    <quote>说话者</quote>假设为不是我的某人，尽管并不必要。</para>
+    <para>相似地
+    <jbophrase>le sutra tavla ku</jbophrase>是
+    <quote>快速说话者</quote>，
     
-    <jbophrase>le sutra te tavla ku</jbophrase> is 
-    <quote>the fast subject of talk</quote> or 
-    <quote>the subject of fast talk</quote>. Which of these related meanings is understood will depend on the context in which the expression is used. The most plausible interpretation within the context will generally be assumed by a listener to be the intended one.</para>
-    <para>In many cases the word 
-    <valsi>ku</valsi> may be omitted. In particular, it is never necessary in a description at the end of a sentence, so:</para>
+    <jbophrase>le sutra te tavla ku</jbophrase>是
+    <quote>说话的快速主题</quote>或
+    <quote>快速说话的主题</quote>。这些相关意思哪个被理解取决于该表达所处的上下文。上下文中看起来最可能的理解通常将会被听者假定为所想表达的理解。</para>
+    <para>许多情形下单词
+    <valsi>ku</valsi>可省略。特别地，ku在句子末尾的项描述永不必要，因此：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Q2">
       <title>
         <anchor xml:id="c2e10d3"/>
@@ -1030,33 +1030,33 @@
           <sumti>le tavla</sumti>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
-          <selbri>talk-to</selbri>
-          <sumti>you</sumti>
-          <sumti>about-the talker</sumti>
+          <sumti>我</sumti>
+          <selbri>说</selbri>
+          <sumti>对你</sumti>
+          <sumti>关于说话者</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">means exactly the same thing as 
-    <xref linkend="example-random-id-k0Pj"/>.</para>
-    <para> <indexterm type="general"><primary>cu</primary><secondary>need for</secondary><tertiary>quick-tour version</tertiary></indexterm> There is a problem when we want to say 
-    <quote>The fast one is talking.</quote> The 
-    <quote>obvious</quote> translation 
-    <jbophrase>le sutra tavla</jbophrase> turns out to mean 
-    <quote>the fast talker</quote>, and has no selbri at all. To solve this problem we can use the word 
+    <para role="noindent">完全与下例同义
+    <xref linkend="example-random-id-k0Pj"/>。</para>
+    <para> <indexterm type="general"><primary>cu</primary><secondary>需要</secondary><tertiary>快览版</tertiary></indexterm> 当我们想说
+    <quote>快速的在说话</quote>是有个问题。
+    <quote>显然的</quote>翻译
+    <jbophrase>le sutra tavla</jbophrase>实际上意味着
+    <quote>快速的说话者</quote>，根本没有selbri。为解决该问题我们可在selbri前用到现在为止一直可选的词
     
-    <valsi>cu</valsi>, which so far has always been optional, in front of the selbri.</para>
-    <para>The word 
-    <valsi>cu</valsi> has no meaning, and exists only to mark the beginning of the selbri within the bridi, separating it from a previous sumti. It comes before any other part of the selbri, including other cmavo like 
-    <valsi>se</valsi> or 
-    <valsi>te</valsi>. Thus:</para>
+    <valsi>cu</valsi>。</para>
+    <para>单词
+    <valsi>cu</valsi>无意义，只为标识bridi中selbri的开始而存在，将它与前一个sumti中分开。它在selbri的任何其他部分之前出现，包括其他cmavo像
+    <valsi>se</valsi>或
+    <valsi>te</valsi>。这样：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0QA">
       <title>
         <anchor xml:id="c2e10d4"/>
       </title>
       <interlinear-gloss-itemized>
         <jbo> <sumti>le sutra tavla</sumti> </jbo>
-        <gloss> <sumti>The fast talker</sumti> </gloss>
+        <gloss> <sumti> 快速的 说话者</sumti> </gloss>
       </interlinear-gloss-itemized>
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0qb">
@@ -1070,9 +1070,9 @@
           <selbri>tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The fast one</sumti>
+          <sumti>那快速的</sumti>
           <elidable></elidable>
-          <selbri>is talking.</selbri>
+          <selbri>在说话。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
@@ -1082,7 +1082,7 @@
       </title>
       <interlinear-gloss-itemized>
         <jbo><sumti>le sutra se tavla</sumti></jbo>
-        <gloss><sumti>The fast talked-to one</sumti> </gloss>
+        <gloss><sumti> 快速地 被 说的</sumti> </gloss>
       </interlinear-gloss-itemized>
     </example>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0ru">
@@ -1096,13 +1096,13 @@
           <selbri>se tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The fast one</sumti>
+          <sumti>快速的</sumti>
           <elidable></elidable>
-          <selbri>is talked to.</selbri>
+          <selbri>被说。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>KU selma'o</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>ku</primary><secondary>quick-tour version</secondary></indexterm> Consider the following more complex example, with two description sumti.</para>
+    <para role="indent"> <indexterm type="general"><primary>KU selma'o</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>ku</primary><secondary>快览版</secondary></indexterm> 考虑下面用两个描述型sumti的更复杂的例子。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0S1">
       <title>
         <anchor xml:id="c2e10d8"/>
@@ -1118,34 +1118,34 @@
           <elidable>ku</elidable>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>talk-to</selbri>
-          <sumti>the seller</sumti>
+          <selbri>说</selbri>
+          <sumti>对销售者</sumti>
           <elidable></elidable>
-          <sumti>about the blue-green-thing.</sumti>
+          <sumti>蓝绿色的东西。</sumti>
           <elidable></elidable>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The sumti 
-    <jbophrase>le vecnu</jbophrase> contains the selbri 
-    <valsi>vecnu</valsi>, which has the 
-    <quote>seller</quote> in the x1 place, and uses it in this sentence to describe a particular 
-    <quote>seller</quote> that the speaker has in mind (one that he or she probably expects the listener will also know about). Similarly, the speaker has a particular blue-green thing in mind, which is described using 
-    <valsi>le</valsi> to mark 
-    <valsi>blari'o</valsi>, a selbri whose first sumti is something blue-green.</para>
-    <para>It is safe to omit both occurrences of 
-    <valsi>ku</valsi> in 
-    <xref linkend="example-random-id-k0S1"/>, and it is also safe to omit the 
-    <valsi>cu</valsi>.</para>
+    <para role="indent">sumti
+    <jbophrase>le vecnu</jbophrase>包括有着
+    <quote>销售者</quote>在x1位的selbri
+    <valsi>vecnu</valsi>，在本句中用它来描述一个特定的说话者心中的
+    <quote>销售者</quote>（他/她可能认为听者会知道的一个销售者）。相似地，说话者心中有一个用
+    <valsi>le</valsi>来标记
+    <valsi>blari'o</valsi>的特定的蓝绿色的东西，一个第一个sumti是什么暗绿色东西的selbri。</para>
+    <para>省略两个
+    <xref linkend="example-random-id-k0S1"/>中的
+    <valsi>ku</valsi>也是安全的，省略
+    <valsi>cu</valsi>也是安全的。</para>
   </section>
   <section xml:id="section-some-brivla">
-    <title><anchor xml:id="c2s11"/>Examples of brivla</title>
-    <para> <indexterm type="general"><primary>brivla</primary><secondary>types of</secondary><tertiary>quick-tour version</tertiary></indexterm> The simplest form of selbri is an individual word. A word which may by itself express a selbri relation is called a 
-    <valsi>brivla</valsi>. The three types of brivla are gismu (root words), lujvo (compounds), and fu'ivla (borrowings from other languages). All have identical grammatical uses. So far, most of our selbri have been gismu or tanru built from gismu.</para>
+    <title><anchor xml:id="c2s11"/>brivla的例子</title>
+    <para> <indexterm type="general"><primary>brivla</primary><secondary>类型</secondary><tertiary>快览版</tertiary></indexterm> selbru最简单的形式是一个独立的单词。一个可以独自表达selbri关系的单词叫做一个
+    <valsi>brivla</valsi>。brivla的三种类型是gismu（根词）、lujvo（组合词）和fu'ivla（借自其他语言）。全部语法功能相同。至今，大部分selbri是gismu或gismu构建的tanru。</para>
     
-    <para> <indexterm type="general"><primary>gismu</primary><secondary>quick-tour version</secondary></indexterm> gismu:</para>
+    <para> <indexterm type="general"><primary>gismu</primary><secondary>快览版</secondary></indexterm> gismu：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0SM">
       <title>
         <anchor xml:id="c2e11d1"/>
@@ -1161,18 +1161,18 @@
           <sumti>ta</sumti>
         </jbo>
         <gloss>
-          <sumti>Go-er</sumti>
+          <sumti>行者</sumti>
           <elidable></elidable>
-          <selbri>goes</selbri>
-          <sumti>destination</sumti>
-          <sumti>origin</sumti>
-          <sumti>route</sumti>
-          <sumti>means.</sumti>
+          <selbri>去</selbri>
+          <sumti>终点</sumti>
+          <sumti>起始地</sumti>
+          <sumti>路线</sumti>
+          <sumti>交通方式。</sumti>
         </gloss>
-        <natlang>I go here (to this) using that means (from somewhere via some route).</natlang>
+        <natlang>我去这里（到这）用那种交通方式（从某地通过某些路线）。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>lujvo</primary><secondary>quick-tour version</secondary></indexterm> lujvo:</para>
+    <para role="noindent"> <indexterm type="general"><primary>lujvo</primary><secondary>快览版</secondary></indexterm> lujvo：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0SR">
       <title>
         <anchor xml:id="c2e11d2"/>
@@ -1184,13 +1184,13 @@
           <selbri>blari'o</selbri>
         </jbo>
         <gloss>
-          <sumti>That</sumti>
+          <sumti>那</sumti>
           <elidable></elidable>
-          <selbri>is-blue-green.</selbri>
+          <selbri>蓝绿。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent"> <indexterm type="general"><primary>fu'ivla</primary><secondary>quick-tour version</secondary></indexterm> fu'ivla:</para>
+    <para role="noindent"> <indexterm type="general"><primary>fu'ivla</primary><secondary>快览版</secondary></indexterm> fu'ivla：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0Tj">
       <title>
         <anchor xml:id="c2e11d3"/>
@@ -1202,15 +1202,15 @@
           <selbri>djarspageti</selbri>
         </jbo>
         <gloss>
-          <sumti>This</sumti>
+          <sumti>这</sumti>
           <elidable></elidable>
-          <selbri>is-spaghetti.</selbri>
+          <selbri>是意大利面。</selbri>
         </gloss>
 
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>cmavo as selbri</primary><secondary>quick-tour version</secondary></indexterm> Some cmavo may also serve as selbri, acting as variables that stand for another selbri. The most commonly used of these is 
-    <valsi>go'i</valsi>, which represents the main bridi of the previous Lojban sentence, with any new sumti or other sentence features being expressed replacing the previously expressed ones. Thus, in this context:</para>
+    <para role="indent"> <indexterm type="general"><primary>作为selbri的cmavo</primary><secondary>快览版</secondary></indexterm> 一些cmavo也可做selbri，充当代表另一selbri的变量。这中最常用的是代表上一Lojban句的主bridi（译：原文如此）、填充任意新sumti或其他被表述的详情的句子来代替已被表述的那些的
+    <valsi>go'i</valsi>。这样，在该上下文中：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0UC">
       <title>
         <anchor xml:id="c2e11d4"/>
@@ -1222,25 +1222,25 @@
           <selbri>go'i</selbri>
         </jbo>
         <gloss>
-          <sumti>That</sumti>
+          <sumti>那</sumti>
           <elidable></elidable>
-          <selbri>too/same-as-last selbri.</selbri>
+          <selbri>也/相同与上一selbri。</selbri>
         </gloss>
-        <natlang>That (is spaghetti), too.</natlang>
+        <natlang>那也（是意大利面）。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
   </section>
   <section xml:id="section-dihu-and-lahe-dihu">
-    <title><anchor xml:id="c2s12"/>The sumti <valsi>di'u</valsi> and <jbophrase>la'e di'u</jbophrase></title>
-    <para> <indexterm type="general"><primary>reference</primary><secondary>quick-tour version</secondary></indexterm> In English, I might say 
-    <quote>The dog is beautiful</quote>, and you might reply 
-    <quote>This pleases me.</quote> How do you know what 
+    <title><anchor xml:id="c2s12"/>sumti<valsi>di'u</valsi>和<jbophrase>la'e di'u</jbophrase></title>
+    <para> <indexterm type="general"><primary>reference</primary><secondary>快览版</secondary></indexterm> 汉语中，我可能说
+    <quote>狗漂亮</quote>，然后你可能回应
+    <quote>这使我高兴</quote>。你如何知道
     
-    <quote>this</quote> refers to? Lojban uses different expressions to convey the possible meanings of the English:</para>
+    <quote>这</quote>指什么？Lojban用几种不同的表达方式来表达汉语的可能意思：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0wB">
       <title>
-        <indexterm type="example"><primary>beautiful dog</primary></indexterm>
+        <indexterm type="example"><primary>漂亮的狗</primary></indexterm>
         <anchor xml:id="c2e12d1"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1250,11 +1250,11 @@
           <elidable elidable="false">cu</elidable> 
           <selbri>melbi</selbri>
         </jbo>
-        <natlang>The dog is beautiful.</natlang>
+        <natlang>狗漂亮。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The following three sentences all might translate as 
-    <quote>This pleases me.</quote></para>
+    <para role="indent">以下三个句子都可被翻译为
+    <quote>这使我高兴</quote>。</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0wS">
       <title>
@@ -1267,7 +1267,7 @@
           <selbri>pluka</selbri>
           <sumti>mi</sumti>
         </jbo>
-        <natlang>This (the dog) pleases me.</natlang>
+        <natlang>这（狗）使我高兴。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
@@ -1282,7 +1282,7 @@
           <selbri>pluka</selbri>
           <sumti>mi</sumti>
         </jbo>
-        <natlang>This (the last sentence) pleases me (perhaps because it is grammatical or sounds nice).</natlang>
+        <natlang>这（上个句子）使我高兴。（可能因为符合语法或听起来很好。（译：指像押韵或者别的不涉及内容方面的好。））</natlang>
 
       </interlinear-gloss-itemized>
     </example>
@@ -1297,22 +1297,22 @@
           <selbri>pluka</selbri>
           <sumti>mi</sumti>
         </jbo>
-        <natlang>This (the meaning of the last sentence; i.e. that the dog is beautiful) pleases me.</natlang>
+        <natlang>这（上个句子的意思，即狗漂亮）使我高兴。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>pleases</primary></indexterm> 
-    <xref linkend="example-random-id-k0YS"/> uses one sumti to point to or refer to another by inference. It is common to write 
-    <valsi>la'edi'u</valsi> as a single word; it is used more often than 
+    <para role="indent"> <indexterm type="general"><primary>使高兴</primary></indexterm> 
+    <xref linkend="example-random-id-k0YS"/>通过推理用一个sumti指向另一个。把
+    <valsi>la'edi'u</valsi>写为一个单词很平常；它比单独
     
-    <valsi>di'u</valsi> by itself.</para>
+    <valsi>di'u</valsi>用得多。</para>
   </section>
   <section xml:id="section-possession">
-    <title><anchor xml:id="c2s13"/>Possession</title>
-    <para> <indexterm type="general"><primary>possession</primary><secondary>quick-tour version</secondary></indexterm> 
-    <quote>Possession</quote> refers to the concept of specifying an object by saying who it belongs to (or with). A full explanation of Lojban possession is given in 
-    <xref linkend="chapter-relative-clauses"/>. A simple means of expressing possession, however, is to place a sumti representing the possessor of an object within the description sumti that refers to the object: specifically, between the 
-    <valsi>le</valsi> and the selbri of the description:</para>
+    <title><anchor xml:id="c2s13"/>领属关系</title>
+    <para> <indexterm type="general"><primary>领属关系</primary><secondary>快览版</secondary></indexterm> 
+    <quote>领属关系</quote>指通过说明归属于谁来修饰对象的概念。Lojban领属关系的完整解释在
+    <xref linkend="chapter-relative-clauses"/>中给出。表达领属关系的一种简单方式，然而，是在指示该物的描述型sumti中放置表示其拥有者的sumti；特别地，在
+    <valsi>le</valsi>和描述的selbri中：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k0zY">
       <title>
         <anchor xml:id="c2e13d1"/>
@@ -1324,53 +1324,53 @@
           <selbri>sutra</selbri>
         </jbo>
         <gloss>
-          <sumti>The of-me dog</sumti>
+          <sumti>我的狗</sumti>
           <elidable></elidable>
-          <selbri>is fast.</selbri>
+          <selbri>快。</selbri>
         </gloss>
-        <natlang>My dog is fast.</natlang>
+        <natlang>我的狗快。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>possession not ownership</primary><secondary>quick-tour version</secondary></indexterm> In Lojban, possession doesn't necessarily mean ownership: one may 
-    <quote>possess</quote> a chair simply by sitting on it, even though it actually belongs to someone else. English uses possession casually in the same way, but also uses it to refer to actual ownership or even more intimate relationships: 
-    <quote>my arm</quote> doesn't mean 
-    <quote>some arm I own</quote> but rather 
-    <quote>the arm that is part of my body</quote>. Lojban has methods of specifying all these different kinds of possession precisely and easily.</para>
+    <para role="indent"> <indexterm type="general"><primary>非拥有型领属关系</primary><secondary>快览版</secondary></indexterm> Lojban中，领属关系不必意味着拥有关系；一个人可能
+    <quote>有</quote>一把椅子，简单地通过坐在它上面，即使它可能实际上属于另外某人。汉语随便地用相同方式使用领属关系，但也用它指确实的领属关系甚至更密切的关系：
+    <quote>我的胳膊</quote>不意味着
+    <quote>我拥有的某只胳膊</quote>而是
+    <quote>作为我身体一部分的胳膊</quote>。Lojban有精确容易地区分所有这些不同类型的方法。</para>
   </section>
   <section xml:id="section-vocatives-and-commands">
-    <title><anchor xml:id="c2s14"/>Vocatives and commands</title>
+    <title><anchor xml:id="c2s14"/>呼格和命令</title>
     
-    <para> <indexterm type="general"><primary>vocatives</primary><secondary>quick-tour version</secondary></indexterm> You may call someone's attention to the fact that you are addressing them by using 
-    <valsi>doi</valsi> followed by their name. The sentence</para>
+    <para> <indexterm type="general"><primary>呼格</primary><secondary>快览版</secondary></indexterm> 你可能用跟着某人名字的
+    <valsi>doi</valsi>来提醒他们注意到你在称呼他们。句子</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-ahVb">
       <title>
         <anchor xml:id="c2e14d1"/>
       </title>
       <jbophrase>doi djan.</jbophrase>
     </example>
-    <para role="noindent">means 
-    <quote>Oh, John, I'm talking to you</quote>. It also has the effect of setting the value of 
-    <valsi>do</valsi>; 
-    <valsi>do</valsi> now refers to 
-    <quote>John</quote> until it is changed in some way in the conversation. Note that 
-    <xref linkend="example-random-id-ahVb"/> is not a bridi, but it is a legitimate Lojban sentence nevertheless; it is known as a 
-    <quote>vocative phrase</quote>.</para>
+    <para role="noindent">意味着
+    <quote>喔，John，我再对你说话</quote>。它也有设置
+    <valsi>do</valsi>的值的作用； 
+    <valsi>do</valsi>现在指
+    <quote>John</quote>直到在谈话中它被以某些方式改变。注意
+    <xref linkend="example-random-id-ahVb"/>不是bridi，但它是合法的Lojban句子虽然；它叫做
+    <quote>呼格词组</quote>。</para>
     
-    <para> Other cmavo can be used instead of 
-    <valsi>doi</valsi> in a vocative phrase, with a different significance. For example, the cmavo 
+    <para> 其他cmavo可在呼格词组中被用以取代
+    <valsi>doi</valsi>，伴随着不同的意味。例如，cmavo
     
-    <valsi>coi</valsi> means 
-    <quote>hello</quote> and 
-    <valsi>co'o</valsi> means 
-    <quote>good-bye</quote>. Either word may stand alone, they may follow one another, or either may be followed by a pause and a name. (Vocative phrases with 
-    <valsi>doi</valsi> do not need a pause before the name.)</para>
+    <valsi>coi</valsi>意味着
+    <quote>你好</quote>，
+    <valsi>co'o</valsi>意味着
+    <quote>再见</quote>。它们都可以独自存在，跟随另一个或被一个停顿和名字跟随。（有着
+    <valsi>doi</valsi>的呼格词组不需要在名字前有停顿。）</para>
     <example xml:id="example-random-id-qIWX" role="interlinear-gloss-example">
       <title>
         <anchor xml:id="c2e14d2"/>
       </title>
       <interlinear-gloss>
         <jbo>coi. djan.</jbo>
-        <gloss>Hello, John.</gloss>
+        <gloss>你好， John。</gloss>
       </interlinear-gloss>
     </example>
     <example xml:id="example-random-id-qIxE" role="interlinear-gloss-example">
@@ -1379,10 +1379,10 @@
       </title>
       <interlinear-gloss>
         <jbo>co'o. djan.</jbo>
-        <gloss>Good-bye, John.</gloss>
+        <gloss>再见， John。</gloss>
       </interlinear-gloss>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>imperatives</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>commands</primary><secondary>quick-tour version</secondary></indexterm> Commands are expressed in Lojban by a simple variation of the main bridi structure. If you say</para>
+    <para role="indent"> <indexterm type="general"><primary>祈使语气</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>命令</primary><secondary>快览版</secondary></indexterm> Lojban中命令用主bridi结构的简单变式表达。如果你说</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k11I">
       <title>   
         <anchor xml:id="c2e14d4"/>
@@ -1393,17 +1393,17 @@
           <selbri>tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>You</sumti>
-          <selbri>are-talking.</selbri>
+          <sumti>你</sumti>
+          <selbri>说话。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">you are simply making a statement of fact. In order to issue a command in Lojban, substitute the word 
-    <valsi>ko</valsi> for 
-    <valsi>do</valsi>. The bridi</para>
+    <para role="noindent">你只是简单陈述事实。为了在Lojban中表达命令，用单词
+    <valsi>ko</valsi>代替
+    <valsi>do</valsi>。bridi</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k11z">
       <title>
-        <indexterm type="example"><primary>Talk!</primary></indexterm>
+        <indexterm type="example"><primary>说话！</primary></indexterm>
         <anchor xml:id="c2e14d5"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1416,9 +1416,9 @@
     <para role="noindent">
  
 
- instructs the listener to do whatever is necessary to make 
-    <xref linkend="example-random-id-k11I"/> true; it means 
-    <quote>Talk!</quote> Other examples:</para>
+ 指示听话者做任何使
+    <xref linkend="example-random-id-k11I"/>实现的必要的事；它意味着
+    <quote>说话！</quote>其他例子：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k13h">
       <title>
         <anchor xml:id="c2e14d6"/>
@@ -1428,11 +1428,11 @@
           <sumti>ko</sumti>
           <selbri>sutra</selbri>
         </jbo>
-        <natlang>Be fast!</natlang>
+        <natlang>快！</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The 
-    <valsi>ko</valsi> need not be in the x1 place, but rather can occur anywhere a sumti is allowed, leading to possible Lojban commands that are very unlike English commands:</para>
+    <para role="indent">
+    <valsi>ko</valsi>不必在x1位，而是可出现在任何sumti被允许的地方，引导与汉语命令非常不同的可能Lojban命令：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k14j">
       <title>
@@ -1444,15 +1444,15 @@
           <selbri>tavla</selbri>
           <sumti>ko</sumti>
         </jbo>
-        <natlang>Be talked to by me.</natlang>
-        <natlang>Let me talk to you.</natlang>
+        <natlang>被我对着说话！</natlang>
+        <natlang>让我对你说话。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The cmavo 
-    <valsi>ko</valsi> can fill any appropriate sumti place, and can be used as often as is appropriate for the selbri:</para>
+    <para role="indent">cmavo
+    <valsi>ko</valsi>能填充任何合适的sumti位，可被用对selbri合适的任意多次：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k14X">
       <title>
-        <indexterm type="example"><primary>Take care!</primary></indexterm>
+        <indexterm type="example"><primary>照顾！</primary></indexterm>
         <anchor xml:id="c2e14d8"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1463,7 +1463,7 @@
         </jbo>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">and</para>
+    <para role="noindent">和</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k15M">
       <title>
         <anchor xml:id="c2e14d9"/>
@@ -1476,28 +1476,28 @@
         </jbo>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent"> 
+    <para role="noindent">
 
 
- both mean 
-    <quote>You take care of you</quote> and 
-    <quote>Be taken care of by you</quote>, or to put it colloquially, 
-    <quote>Take care of yourself</quote>.</para>
+都意味着
+    <quote>你照顾你自己</quote>和
+    <quote>被你自己照顾</quote>，或者口语化地说，
+    <quote>照顾你自己</quote>。</para>
   </section>
   <section xml:id="section-basic-questions">
-    <title><anchor xml:id="c2s15"/>Questions</title>
-    <para> <indexterm type="general"><primary>questions</primary><secondary>quick-tour version</secondary></indexterm> There are many kinds of questions in Lojban: full explanations appear in 
-    <xref linkend="section-questions-and-answers"/> and in various other chapters throughout the book. In this chapter, we will introduce three kinds: sumti questions, selbri questions, and yes/no questions.</para>
+    <title><anchor xml:id="c2s15"/>问题</title>
+    <para> <indexterm type="general"><primary>问题</primary><secondary>快览版</secondary></indexterm> Lojban中有很多种问题：完整解释在
+    <xref linkend="section-questions-and-answers"/>和全书其余一些章节中出现。本章中，我们讲介绍三种：sumti问题、selbri问题和是否问题。</para>
     
     
-    <para> <indexterm type="general"><primary>sumti questions</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>questions</primary><secondary>quick-tour version</secondary></indexterm> The cmavo 
-    <valsi>ma</valsi> is used to create a sumti question: it indicates that the speaker wishes to know the sumti which should be placed at the location of the 
-    <valsi>ma</valsi> to make the bridi true. It can be translated as 
-    <quote>Who?</quote> or 
-    <quote>What?</quote> in most cases, but also serves for 
-    <quote>When?</quote>, 
-    <quote>Where?</quote>, and 
-    <quote>Why?</quote> when used in sumti places that express time, location, or cause. For example:</para>
+    <para> <indexterm type="general"><primary>sumti问题</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>问题</primary><secondary>快览版</secondary></indexterm>cmavo
+    <valsi>ma</valsi>用来提出sumti问题：它表明说话者希望得知应被填充在
+    <valsi>ma</valsi>的位置来实现bridi的sumti。它可在多数情况下被翻译为
+    <quote>谁？</quote>或
+    <quote>什么？</quote>但当用在表示时间、处所或原因的sumti位也可充当
+    <quote>何时？</quote>、
+    <quote>何地？</quote>和
+    <quote>为何？</quote>例如：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k161">
       <title>
         <anchor xml:id="c2e15d1"/>
@@ -1510,27 +1510,27 @@
           <sumti>mi</sumti>
         </jbo>
         <gloss>
-          <sumti>Who?</sumti>
-          <selbri>talks</selbri>
-          <sumti>to-you</sumti>
-          <sumti>about-me.</sumti>
+          <sumti>谁？</sumti>
+          <selbri>说</selbri>
+          <sumti>对你</sumti>
+          <sumti>关于我。</sumti>
         </gloss>
-        <natlang>Who is talking to you about me?</natlang>
+        <natlang>谁对你说我？</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">The listener can reply by simply stating a sumti:</para>
+    <para role="indent">听者可简单陈述sumti来回答：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1Aa">
       <title>
         <anchor xml:id="c2e15d2"/>
       </title>
       <interlinear-gloss-itemized>
         <jbo> <sumti>la djan.</sumti> </jbo>
-        <natlang>John (is talking to you about me).</natlang>
+        <natlang>John（对你说我）。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Like 
-    <valsi>ko</valsi>, 
-    <valsi>ma</valsi> can occur in any position where a sumti is allowed, not just in the first position:</para>
+    <para role="indent">像
+    <valsi>ko</valsi>、
+    <valsi>ma</valsi>可出现在任何sumti被允许的地方，不止在首位：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1aE">
       <title>
         <anchor xml:id="c2e15d3"/>
@@ -1543,15 +1543,15 @@
           <sumti>ma</sumti>
         </jbo>
         <gloss>
-          <sumti>You</sumti>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>talk</selbri>
-          <sumti>to what/whom?</sumti>
+          <selbri>说话</selbri>
+          <sumti>对什么/谁？</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">A 
-    <valsi>ma</valsi> can also appear in multiple sumti positions in one sentence, in effect asking several questions at once.</para>
+    <para role="indent">
+    <valsi>ma</valsi>在同句中也可出现在许多sumti位，效果为同时问了几个问题。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1dc">
       <title>
         <anchor xml:id="c2e15d4"/>
@@ -1564,20 +1564,20 @@
           <sumti>ma</sumti>
         </jbo>
         <gloss>
-          <sumti>What/Who</sumti>
+          <sumti>什么/谁？</sumti>
           <elidable></elidable>
-          <selbri>talks</selbri>
-          <sumti>to what/whom?</sumti>
+          <selbri>说</selbri>
+          <sumti>对什么/谁？</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>separate questions</primary><secondary>quick-tour version</secondary></indexterm> The two separate 
-    <valsi>ma</valsi> positions ask two separate questions, and can therefore be answered with different values in each sumti place.</para>
+    <para role="indent"> <indexterm type="general"><primary>分别的问题</primary><secondary>快览版</secondary></indexterm>两个单独的
+    <valsi>ma</valsi>位置提问两个单独问题，可因此在每个sumti位用不同值回答。</para>
     
-    <para> <indexterm type="general"><primary>bridi questions</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>selbri questions</primary><secondary>quick-tour version</secondary></indexterm> The cmavo 
-    <valsi>mo</valsi> is the selbri analogue of 
-    <valsi>ma</valsi>. It asks the respondent to provide a selbri that would be a true relation if inserted in place of the 
-    <valsi>mo</valsi>:</para>
+    <para> <indexterm type="general"><primary>bridi问题</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>selbri问题</primary><secondary>快览版</secondary></indexterm> cmavo
+    <valsi>mo</valsi>是
+    <valsi>ma</valsi>的selbri相似物。它要求回答者提供一个如果插在
+    <valsi>mo</valsi>的位置会是真正关系的selbri：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1DE">
       <title>
         <anchor xml:id="c2e15d5"/>
@@ -1589,16 +1589,16 @@
           <selbri>mo</selbri>
         </jbo>
         <gloss>
-          <sumti>You</sumti>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>are-what/do-what?</selbri>
+          <selbri>是什么/做什么？</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">A 
-    <valsi>mo</valsi> may be used anywhere a brivla or other selbri might. Keep this in mind for later examples. Unfortunately, by itself, 
-    <valsi>mo</valsi> is a very non-specific question. The response to the question in 
-    <xref linkend="example-random-id-k1DE"/> could be:</para>
+    <para role="indent">
+    <valsi>mo</valsi>可被用在任何brivla或其他selbri可能的地方。在下面几个例子中在心中记住这个。不幸的是，独自， 
+    <valsi>mo</valsi>是非常不确定的问题。对
+    <xref linkend="example-random-id-k1DE"/>中问题的回答能是：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1DR">
       <title>
         <anchor xml:id="c2e15d6"/>
@@ -1609,10 +1609,10 @@
           <elidable>cu</elidable>
           <selbri>melbi</selbri>
         </jbo>
-        <natlang>I am beautiful.</natlang>
+        <natlang>我漂亮。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">or:</para>
+    <para role="noindent">或：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1gh">
       <title>
         <anchor xml:id="c2e15d7"/>
@@ -1623,34 +1623,34 @@
           <elidable>cu</elidable>
           <selbri>tavla</selbri>
         </jbo>
-        <natlang>I talk.</natlang>
+        <natlang>我说话。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>speaker-listener cooperation</primary></indexterm> Clearly, 
-    <valsi>mo</valsi> requires some cooperation between the speaker and the respondent to ensure that the right question is being answered. If context doesn't make the question specific enough, the speaker must ask the question more specifically using a more complex construction such as a tanru (see 
-    <xref linkend="section-basic-tanru"/>).</para>
-    <para>It is perfectly permissible for the respondent to fill in other unspecified places in responding to a 
-    <valsi>mo</valsi> question. Thus, the respondent in 
-    <xref linkend="example-random-id-k1gh"/> could have also specified an audience, a topic, and/or a language in the response.</para>
-    <para> <indexterm type="general"><primary>yes/no questions</primary><secondary>quick-tour version</secondary></indexterm> Finally, we must consider questions that can be answered 
-    <quote>Yes</quote> or 
-    <quote>No</quote>, such as</para>
+    <para role="indent"> <indexterm type="general"><primary>说话者-听者合作</primary></indexterm> 清楚地，
+    <valsi>mo</valsi>要求说话者与回答者间的一些合作来保证正确问题正被回答。如果上下文不使问题足够明确，说话者必须用更复杂的结构例如tanru（见
+    <xref linkend="section-basic-tanru"/>）更特定地问问题。</para>
+    <para>回答者在回答
+    <valsi>mo</valsi>问题时完全允许填充其余不明确的位。这样，
+    <xref linkend="example-random-id-k1gh"/>中的回答者也可在回答时指定听众、话题和/或语言。</para>
+    <para> <indexterm type="general"><primary>是否问题</primary><secondary>快览版</secondary></indexterm> 最后，我们必须考虑能被
+    <quote>是</quote>或
+    <quote>否</quote>回答的问题，例如</para>
     <example xml:id="example-random-id-fVMN">
       <title>
         <anchor xml:id="c2e15d8"/>
       </title>
-      <para>Are you talking to me?</para>
+      <para>你在对我说话吗？</para>
     </example>
-    <para role="indent">Like all yes-or-no questions in English, 
-    <xref linkend="example-random-id-fVMN"/> may be reformulated as</para>
+    <para role="indent">如同汉语中所有是否问题一样，
+    <xref linkend="example-random-id-fVMN"/>可被重制为</para>
     <example xml:id="example-random-id-648w">
       <title>
         <anchor xml:id="c2e15d9"/>
       </title>
-      <para>Is it true that you are talking to me?</para>
+      <para>你在对我说话是真的吗？</para>
     </example>
-    <para role="indent"> In Lojban we have a word that asks precisely that question in precisely the same way. The cmavo 
-    <valsi>xu</valsi>, when placed in front of a bridi, asks whether that bridi is true as stated. So</para>
+    <para role="indent"> Lojban中我们有一个提问恰好这个问题用恰好同一方式的词。cmavo
+    <valsi>xu</valsi>，当被放置于bridi前时，提问那个bridi是否如陈述般的真实。所以</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1gp">
       <title>
         <anchor xml:id="c2e15d10"/>
@@ -1663,25 +1663,25 @@
           <sumti>mi</sumti>
         </jbo>
         <gloss>
-          <cmavo>Is-it-true-that</cmavo>
-          <sumti>you</sumti>
-          <selbri>are-talking</selbri>
-          <sumti>to-me?</sumti>
+          <cmavo>是不是真的</cmavo>
+          <sumti>你</sumti>
+          <selbri>在说话</selbri>
+          <sumti>对我？</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">is the Lojban translation of 
-    <xref linkend="example-random-id-fVMN"/>.</para>
-    <para> <indexterm type="general"><primary>affirmative answer</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>go'i with xu</primary><secondary>quick-tour version</secondary></indexterm> The answer 
-    <quote>Yes</quote> may be given by simply restating the bridi without the 
-    <valsi>xu</valsi> question word. Lojban has a shorthand for doing this with the word 
-    <valsi>go'i</valsi>, mentioned in 
-    <xref linkend="section-some-brivla"/>. Instead of a negative answer, the bridi may be restated in such a way as to make it true. If this can be done by substituting sumti, it may be done with 
+    <para role="noindent">是
+    <xref linkend="example-random-id-fVMN"/>的Lojban翻译。</para>
+    <para> <indexterm type="general"><primary>肯定回答</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>有xu的go'i</primary><secondary>快览版</secondary></indexterm> 回答
+    <quote>是</quote>可被以简单地不要
+    <valsi>xu</valsi>问题词重表述bridi的方式给出。Lojban有个用单词
+    <valsi>go'i</valsi>来做此事的速记，在
+    <xref linkend="section-some-brivla"/>中提到。不是否定回答，bridi能用这样一种方式重表述来实现它。若这可被取代sumti来完成，它也可被
     
-    <valsi>go'i</valsi> as well. For example:</para>
+    <valsi>go'i</valsi>完成。例如：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1gU">
       <title>
-        <indexterm type="example"><primary>healthy</primary></indexterm>
+        <indexterm type="example"><primary>健康的</primary></indexterm>
         <anchor xml:id="c2e15d11"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1690,16 +1690,16 @@
           <sumti>do</sumti>
           <selbri>kanro</selbri>
         </jbo>
-        <natlang>Are you healthy?</natlang>
+        <natlang>你健康吗？</natlang>
       </interlinear-gloss-itemized>
     </example>
     <para role="noindent"> 
 
 
- can be answered with</para>
+ 可用</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1iE">
       <title>
-        <indexterm type="example"><primary>healthy</primary></indexterm>
+        <indexterm type="example"><primary>健康的</primary></indexterm>
         <anchor xml:id="c2e15d12"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1707,34 +1707,34 @@
           <sumti>mi</sumti>
           <selbri>kanro</selbri>
         </jbo>
-        <natlang>I am healthy.</natlang>
+        <natlang>我健康。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">or</para>
+    <para role="noindent">或</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1JT">
       <title>
-        <indexterm type="example"><primary>healthy</primary></indexterm>
+        <indexterm type="example"><primary>健康的</primary></indexterm>
         <anchor xml:id="c2e15d13"/>
       </title>
       <interlinear-gloss-itemized>
         <jbo>
           <selbri>go'i</selbri>
         </jbo>
-        <natlang>I am healthy.</natlang>
+        <natlang>我健康。</natlang>
 
 
       </interlinear-gloss-itemized>
     </example>
     <para role="noindent">
-      (Note that 
-      <valsi>do</valsi> to the questioner is 
-      <valsi>mi</valsi> to the respondent.)
+      （注意
+      <valsi>do</valsi>对提问者而言的是
+      <valsi>mi</valsi>对回答者而言的。)
     </para>
-    <para>or</para>
+    <para>或</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1jY">
       <title>
-        <indexterm type="example"><primary>healthy</primary></indexterm>
+        <indexterm type="example"><primary>健康的</primary></indexterm>
         <anchor xml:id="c2e15d14"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1743,14 +1743,14 @@
           <elidable elidable="false">cu</elidable>
           <selbri>kanro</selbri>
         </jbo>
-        <natlang>The talker is healthy.</natlang>
+        <natlang>说话者健康。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">or</para>
+    <para role="noindent">或</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1LE">
       <title>
-        <indexterm type="example"><primary>healthy</primary></indexterm>
+        <indexterm type="example"><primary>健康的</primary></indexterm>
         <anchor xml:id="c2e15d15"/>
       </title>
       <interlinear-gloss-itemized>
@@ -1759,24 +1759,24 @@
           <elidable elidable="false">cu</elidable>
           <selbri>go'i</selbri>
         </jbo>
-        <natlang>The talker is healthy.</natlang>
+        <natlang>说话者健康。</natlang>
 
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>negative answer</primary><secondary>quick-tour version</secondary></indexterm> A general negative answer may be given by 
+    <para role="indent"> <indexterm type="general"><primary>否定回答</primary><secondary>快览版</secondary></indexterm> 通常否定回答可由
     
-    <jbophrase>na go'i</jbophrase>. 
-    <valsi>na</valsi> may be placed before any selbri (but after the 
-    <valsi>cu</valsi>). It is equivalent to stating 
-    <quote>It is not true that ...</quote> before the bridi. It does not imply that anything else is true or untrue, only that that specific bridi is not true. More details on negative statements are available in 
-    <xref linkend="chapter-negation"/>.</para>
+    <jbophrase>na go'i</jbophrase>给出。
+    <valsi>na</valsi>可放在任意selbri前（但在
+    <valsi>cu</valsi>后）。它相当于陈述
+    <quote>……不是真的</quote>在bridi后。它不暗示任何其他事物是真或假，只是那个特定bridi不真。否定陈述更多细节可在
+    <xref linkend="chapter-negation"/>中看到。</para>
   </section>
   <section xml:id="section-attitudinals">
-    <title><anchor xml:id="c2s16"/>Indicators</title>
-    <para> <indexterm type="general"><primary>interjections</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>attitudinal indicators</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>indicators</primary><secondary>quick-tour version</secondary></indexterm> Different cultures express emotions and attitudes with a variety of intonations and gestures that are not usually included in written language. Some of these are available in some languages as interjections (i.e. <quote>Aha!</quote>, <quote>Oh no!</quote>, <quote>Ouch!</quote>, <quote>Aahh!</quote>, etc.), but they vary greatly from culture to culture.</para>
+    <title><anchor xml:id="c2s16"/>指示词</title>
+    <para> <indexterm type="general"><primary>感叹词</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>情感指示词</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>指示词</primary><secondary>快览版</secondary></indexterm> 不同文化用各种各样不通常包含在书面语中的腔调和手势表达情绪和态度。部分语言中这些中的一部分被用作感叹词（例如<quote>Aha!</quote>、<quote>Oh no!</quote>、<quote>Ouch!</quote>、<quote>Aahh!</quote>等），但他们在语言间变化得非常厉害。</para>
     
-    <para>Lojban has a group of cmavo known as 
-    <quote>attitudinal indicators</quote> which specifically covers this type of commentary on spoken statements. They are both written and spoken, but require no specific intonation or gestures. Grammatically they are very simple: one or more attitudinals at the beginning of a bridi apply to the entire bridi; anywhere else in the bridi they apply to the word immediately to the left. For example:</para>
+    <para>Lojban有一组被叫做
+    <quote>感情指示词</quote>的特别包含口头陈述中此类评论的cmavo。它们既被写又被说，但不要求特定的腔调或手势。从语法层面来说它们特别简单：bridi开头的一或多个情感词适用于整个bridi；在bridi中任何其他地方的它们适用于最靠近它们的左面的词。例如：</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1LH">
       <title>
@@ -1790,12 +1790,12 @@
           <selbri>klama</selbri>
         </jbo>
         <gloss>
-          <cmavo>Agreement!</cmavo>
-          <sumti>I</sumti>
+          <cmavo>同意！</cmavo>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
         </gloss>
-        <natlang>Yep! I'll go.</natlang>
+        <natlang>是的！我会走的。</natlang>
 
         
       </interlinear-gloss-itemized>
@@ -1812,12 +1812,12 @@
           <selbri>klama</selbri>
         </jbo>
         <gloss>
-          <cmavo>Obligation!</cmavo>
-          <sumti>I</sumti>
+          <cmavo>义务！</cmavo>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
         </gloss>
-        <natlang>I should go.</natlang>
+        <natlang>我该走了。</natlang>
 
         
       </interlinear-gloss-itemized>
@@ -1834,10 +1834,10 @@
           <sumti>le melbi</sumti>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go</selbri>
-          <sumti>to-the beautiful-thing</sumti>
+          <selbri>走</selbri>
+          <sumti>向漂亮的东西</sumti>
         </gloss>
       </interlinear-gloss-itemized>
       <interlinear-gloss-itemized>
@@ -1846,20 +1846,20 @@
           <elidable>ku</elidable>
         </jbo>
         <gloss>
-          <cmavo>and I am happy because it is the beautiful thing I'm going to</cmavo>
+          <cmavo>我高兴因为我正走向漂亮的东西</cmavo>
           <elidable></elidable>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>but/and equivalence</primary></indexterm>  <indexterm type="general"><primary>metalinguistic words</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>discursives</primary><secondary>quick-tour version</secondary></indexterm> Not all indicators indicate attitudes. Discursives, another group of cmavo with the same grammatical rules as attitudinal indicators, allow free expression of certain kinds of commentary about the main utterances. Using discursives allows a clear separation of these so-called 
+    <para role="indent"> <indexterm type="general"><primary>但/和等价</primary></indexterm>  <indexterm type="general"><primary>元语言单词</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>语篇词</primary><secondary>快览版</secondary></indexterm> 不是所有指示词都指示态度。语篇词，与情感指示词有相同语法规则的另一类cmavo，允许关于主话语的某些种类的评论的自由表达。用语篇词允许这些所谓的
     
-    <quote>metalinguistic</quote> features from the underlying statements and logical structure. By comparison, the English words 
+    <quote>元语言</quote>特征与接下来的陈述与语法结构之间的清晰分界。通过比较，通过推论的方式指示示例的对比或增加的分量的汉语词汇
     
-    <quote>but</quote> and 
-    <quote>also</quote>, which discursively indicate contrast or an added weight of example, are logically equivalent to 
-    <quote>and</quote>, which does not have a discursive content. The average English-speaker does not think about, and may not even realize, the paradoxical idea that 
-    <quote>but</quote> basically means 
-    <quote>and</quote>.</para>
+    <quote>但</quote>和
+    <quote>也</quote>，逻辑上相当于没有话语内容的
+    <quote>然后</quote>。通常的汉语使用者没有想过，甚至没意识到，
+    <quote>但</quote>基本上意味着
+    <quote>然后</quote>的悖论。</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1Rd">
       <title>
         <anchor xml:id="c2e16d4"/>
@@ -1875,13 +1875,13 @@
           <selbri>stali</selbri>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
           <cmavo></cmavo>
-          <sumti>You</sumti>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>stay.</selbri>
+          <selbri>留。</selbri>
         </gloss>
 
         
@@ -1903,15 +1903,15 @@
           <selbri>stali</selbri>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
           <cmavo></cmavo>
-          <cmavo>In addition,</cmavo>
-          <sumti>you</sumti>
+          <cmavo>另外，</cmavo>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>stay.</selbri>
-          <comment>added weight</comment>
+          <selbri>留。</selbri>
+          <comment>增加的分量</comment>
         </gloss>
 
         
@@ -1933,27 +1933,27 @@
           <selbri>stali</selbri>
         </jbo>
         <gloss>
-          <sumti>I</sumti>
+          <sumti>我</sumti>
           <elidable></elidable>
-          <selbri>go.</selbri>
+          <selbri>走。</selbri>
           <cmavo></cmavo>
-          <cmavo>However,</cmavo>
-          <sumti>you</sumti>
+          <cmavo>然而，</cmavo>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>stay.</selbri>
-          <comment>contrast</comment>
+          <selbri>留。</selbri>
+          <comment>对比</comment>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent"> <indexterm type="general"><primary>evidentials</primary><secondary>quick-tour version</secondary></indexterm> Another group of indicators are called 
-    <quote>evidentials</quote>. Evidentials show the speaker's relationship to the statement, specifically how the speaker came to make the statement. These include 
+    <para role="indent"> <indexterm type="general"><primary>证据词</primary><secondary>快览版</secondary></indexterm> 另一组指示词叫做
+    <quote>证据词</quote>。证据词展示了说话人与陈述间的关系，特别地，展示了说话者如何得出陈述。这包括
     
     
-    <valsi>za'a</valsi> (I directly observe the relationship), 
+    <valsi>za'a</valsi>（我直接观察到了关系）、
     
-    <valsi>pe'i</valsi> (I believe that the relationship holds), 
+    <valsi>pe'i</valsi>（我相信这关系成立）、
     
-    <valsi>ru'a</valsi> (I postulate the relationship), and others. Many American Indian languages use this kind of words.</para>
+    <valsi>ru'a</valsi>（我假定这关系）和其他的。许多美国印第安语用这种词。</para>
     
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1uT">
       <title>
@@ -1968,10 +1968,10 @@
           <selbri>melbi</selbri>
         </jbo>
         <gloss>
-          <cmavo>I opine!</cmavo>
-          <sumti>You</sumti>
+          <cmavo>我认为！</cmavo>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>are beautiful.</selbri>
+          <selbri>漂亮。</selbri>
         </gloss>
 
         
@@ -1990,32 +1990,32 @@
           <selbri>melbi</selbri>
         </jbo>
         <gloss>
-          <cmavo>I directly observe!</cmavo>
-          <sumti>You</sumti>
+          <cmavo>我直接观察到！</cmavo>
+          <sumti>你</sumti>
           <elidable></elidable>
-          <selbri>are beautiful.</selbri>
+          <selbri>漂亮。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
   </section>
   <section xml:id="section-tenses">
-    <title><anchor xml:id="c2s17"/>Tenses</title>
-    <para> <indexterm type="general"><primary>time tenses</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>quick-tour version</secondary></indexterm> In English, every verb is tagged for the grammatical category called tense: past, present, or future. The sentence</para>
+    <title><anchor xml:id="c2s17"/>时态词</title>
+    <para> <indexterm type="general"><primary>时间意义上的时态</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>tenses</primary><secondary>快览版</secondary></indexterm> 英语中，每个动词第一附着有叫做时态的语法标记：过去时、现在时、将来时。句子</para>
     <example xml:id="example-random-id-xIVa">
       <title>
         <anchor xml:id="c2e17d1"/>
       </title>
-      <para>John went to the store</para>
+      <para>John went to the store（John去了商店）</para>
     </example>
-    <para role="noindent">necessarily happens at some time in the past, whereas</para>
+    <para role="noindent">必须发生在过去的某个时点，而</para>
     <example xml:id="example-random-id-1Acu">
       <title>
         <anchor xml:id="c2e17d2"/>
       </title>
-      <para>John is going to the store</para>
+      <para>John is going to the store（John正在去商店）</para>
     </example>
-    <para role="noindent">is necessarily happening right now.</para>
-    <para> <indexterm type="general"><primary>sentences</primary><secondary>tenseless</secondary><tertiary>quick-tour version</tertiary></indexterm> The Lojban sentence</para>
+    <para role="noindent">必须正在发生。</para>
+    <para> <indexterm type="general"><primary>句子</primary><secondary>无时态</secondary><tertiary>快览版</tertiary></indexterm> Lojban句子</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1xz">
       <title>
         <anchor xml:id="c2e17d3"/>
@@ -2030,15 +2030,15 @@
         <gloss>
           <sumti>John</sumti>
           <elidable></elidable>
-          <selbri>goes/went/will-go</selbri>
-          <sumti>to-the store</sumti>
+          <selbri>去/去过/要去</selbri>
+          <sumti>商店</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">serves as a translation of either 
-    <xref linkend="example-random-id-xIVa"/> or 
-    <xref linkend="example-random-id-1Acu"/>, and of many other possible English sentences as well. It is not marked for tense, and can refer to an event in the past, the present or the future. This rule does not mean that Lojban has no way of representing the time of an event. A close translation of 
-    <xref linkend="example-random-id-xIVa"/> would be:</para>
+    <para role="noindent">充当
+    <xref linkend="example-random-id-xIVa"/>或
+    <xref linkend="example-random-id-1Acu"/>的翻译，也充当许多其他可能英语句子的翻译。它不标记时态，可以指一个过去、现在或将来的事件。这规则不意味着Lojban没有表示事件事件的方法。
+    <xref linkend="example-random-id-xIVa"/>的一项近似翻译可为：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1Y5">
       <title>
         <anchor xml:id="c2e17d4"/>
@@ -2052,14 +2052,14 @@
         </jbo>
         <gloss>
           <sumti>John</sumti>
-          <cmavo>[past]</cmavo>
-          <selbri>goes</selbri>
-          <sumti>to-the store</sumti>
+          <cmavo>[过去]</cmavo>
+          <selbri>去</selbri>
+          <sumti>商店</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">where the tag 
-    <valsi>pu</valsi> forces the sentence to refer to a time in the past. Similarly,</para>
+    <para role="noindent">，其中标签
+    <valsi>pu</valsi>使句子指一个过去时间。相似地，</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k1Y8">
       <title>
         <anchor xml:id="c2e17d5"/>
@@ -2073,20 +2073,20 @@
         </jbo>
         <gloss>
           <sumti>John</sumti>
-          <cmavo>[present]</cmavo>
-          <selbri>goes</selbri>
-          <sumti>to-the store</sumti>
+          <cmavo>[现在]</cmavo>
+          <selbri>去</selbri>
+          <sumti>商店</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">necessarily refers to the present, because of the tag 
-    <valsi>ca</valsi>. Tags used in this way always appear at the very beginning of the selbri, just after the 
-    <valsi>cu</valsi>, and they may make a 
-    <valsi>cu</valsi> unnecessary, since tags cannot be absorbed into tanru. Such tags serve as an equivalent to English tenses and adverbs. In Lojban, tense information is completely optional. If unspecified, the appropriate tense is picked up from context.</para>
+    <para role="noindent">必须指向现在，因为标签
+    <valsi>ca</valsi>。这种形式使用的标签通常出现在selbri的非常前边的地方，仅在
+    <valsi>cu</valsi>之后，他们可以使
+    <valsi>cu</valsi>没有必要，因为标签不能被包含在tanru中。这样的标签充当英语中时态和副词的等效品。Lojban中，时态信息完全是选用的。如果不特定，可能时态从上下文中摘取。</para>
     
-    <para> <indexterm type="general"><primary>space tenses</primary><secondary>quick-tour version</secondary></indexterm> Lojban also extends the notion of 
-    <quote>tense</quote> to refer not only to time but to space. The following example uses the tag 
-    <valsi>vu</valsi> to specify that the event it describes happens far away from the speaker:</para>
+    <para> <indexterm type="general"><primary>空间意义上的时态</primary><secondary>快览版</secondary></indexterm> Lojban也拓展了
+    <quote>时态</quote>的概念来指不仅时间还有空间。下例使用了标签
+    <valsi>vu</valsi>来指明它描述的事件发生在距说话者很远的地方：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k20b">
       <title>
         <anchor xml:id="c2e17d6"/>
@@ -2098,13 +2098,13 @@
           <sumti>zo'e</sumti>
         </jbo>
         <gloss>
-          <sumti>You</sumti>
-          <selbri>yonder sell</selbri>
-          <sumti>something-unspecified.</sumti>
+          <sumti>你</sumti>
+          <selbri>在远处卖</selbri>
+          <sumti>不明确的某物。</sumti>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">In addition, tense tags (either for time or space) can be prefixed to the selbri of a description, producing a tensed sumti:</para>
+    <para role="indent">另，时态标签（时间或空间的）可以附着到项描述的selbri前，产生一个带时态的sumti：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k26N">
       <title>
         <anchor xml:id="c2e17d7"/>
@@ -2117,20 +2117,20 @@
           <selbri>tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The earlier/former/past runner</sumti>
+          <sumti>之前的跑步者</sumti>
           <elidable></elidable>
           <elidable></elidable>
-          <selbri>talked/talks.</selbri>
+          <selbri>说过话/说话。</selbri>
         </gloss>
       </interlinear-gloss-itemized>
     </example>
-    <para role="noindent">(Since Lojban tense is optional, we don't know when he or she talks.)</para>
-    <para>Tensed sumti with space tags correspond roughly to the English use of 
-    <quote>this</quote> or 
-    <quote>that</quote> as adjectives, as in the following example, which uses the tag 
+    <para role="noindent">（因为Lojban时态可选，我们不知道他或她什么时候说话。）</para>
+    <para>带空间标签时态的sumti粗略对应汉语对作为副词的
+    <quote>这里</quote>或
+    <quote>那里</quote>的使用，正如在使用了意为
     
-    <valsi>vi</valsi> meaning 
-    <quote>nearby</quote>:</para>
+    <quote>附近</quote>
+    <valsi>vi</valsi>的下例中：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k28N">
       <title>
         <anchor xml:id="c2e17d8"/>
@@ -2143,22 +2143,22 @@
           <selbri>tavla</selbri>
         </jbo>
         <gloss>
-          <sumti>The nearby runner</sumti>
+          <sumti>附近的跑步者</sumti>
           <elidable></elidable>
           <elidable></elidable>
-          <selbri>talks.</selbri>
+          <selbri>说话。</selbri>
         </gloss>
-        <natlang>This runner talks.</natlang>
+        <natlang>这跑步者说话。</natlang>
       </interlinear-gloss-itemized>
     </example>
-    <para role="indent">Do not confuse the use of 
-    <valsi>vi</valsi> in 
-    <xref linkend="example-random-id-k28N"/> with the cmavo 
-    <valsi>ti</valsi>, which also means 
-    <quote>this</quote>, but in the sense of 
-    <quote>this thing</quote>.</para>
-    <para> <indexterm type="general"><primary>sumti with tenses</primary><secondary>quick-tour version</secondary></indexterm> Furthermore, a tense tag can appear both on the selbri and within a description, as in the following example (where 
-    <valsi>ba</valsi> is the tag for future time):</para>
+    <para role="indent">勿混淆
+    <xref linkend="example-random-id-k28N"/>中
+    <valsi>vi</valsi>的使用与也意为
+    <quote>这</quote>但在
+    <quote>这东西</quote>意义上的
+    <valsi>ti</valsi>。</para>
+    <para> <indexterm type="general"><primary>带时态的sumti</primary><secondary>快览版</secondary></indexterm> 而且，时态标签可同时出现在selvri和项描述中，如下例（其中
+    <valsi>ba</valsi>是未来时间的标签）：</para>
     <example role="interlinear-gloss-example" xml:id="example-random-id-k29L">
       <title>
         <anchor xml:id="c2e17d9"/>
@@ -2171,37 +2171,37 @@
           <selbri>ba klama</selbri>
         </jbo>
         <gloss>
-          <sumti>The here talker</sumti>
+          <sumti>这里的说话者</sumti>
           <elidable></elidable>
           <elidable></elidable>
-          <selbri>[future] goes.</selbri>
+          <selbri>[将来]走。</selbri>
         </gloss>
-        <natlang>The talker who is here will go.</natlang>
-        <natlang>This talker will go.</natlang>
+        <natlang>这里的说话者将走。</natlang>
+        <natlang>这说话者将走。</natlang>
       </interlinear-gloss-itemized>
     </example>
   </section>
   <section xml:id="section-terms">
-    <title><anchor xml:id="c2s18"/>Lojban grammatical terms</title>
+    <title><anchor xml:id="c2s18"/>Lojban语法术语</title>
     
-    <para> <indexterm type="general"><primary>grammatical terms</primary><secondary>quick-tour version</secondary></indexterm> Here is a review of the Lojban grammatical terms used in this chapter, plus some others used throughout this book. Only terms that are themselves Lojban words are included: there are of course many expressions like 
+    <para> <indexterm type="general"><primary>语法术语</primary><secondary>快览版</secondary></indexterm> 这是本章中用的Lojban语法术语的复习，加上一些其他用在本书中的。只包括本身是Lojban词的术语：当然有许多像
     
-    <quote>indicator</quote> in 
-    <xref linkend="chapter-quantifiers"/> that are not explained here. See the Index for further help with these.</para>
+    <xref linkend="chapter-quantifiers"/>中的
+    <quote>指示词</quote>的未在此解释的。参见目录以获得关于这些的进一步帮助。</para>
     <para role="allowbreaks"/>
     <informaltable class="vertsep">
       <colgroup/>
-        <tr><td><valsi>bridi</valsi></td><td>  <indexterm type="general"><primary>bridi</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> predication; the basic unit of Lojban expression; the main kind of Lojban sentence; a claim that some objects stand in some relationship, or that some single object has some property. </td></tr>
-        <tr><td><valsi>sumti</valsi></td><td>  <indexterm type="general"><primary>sumti</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> argument; words identifying something which stands in a specified relationship to something else, or which has a specified property. See <xref linkend="chapter-sumti"/>. </td></tr>
-        <tr><td><valsi>selbri</valsi></td><td>  <indexterm type="general"><primary>selbri</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> logical predicate; the core of a bridi; the word or words specifying the relationship between the objects referred to by the sumti. See <xref linkend="chapter-selbri"/>. </td></tr>
-        <tr><td><valsi>cmavo</valsi></td><td>  <indexterm type="general"><primary>cmavo</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> one of the Lojban parts of speech; a short word; a structural word; a word used for its grammatical function. </td></tr>
-        <tr><td><valsi>brivla</valsi></td><td>  <indexterm type="general"><primary>brivla</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> one of the Lojban parts of speech; a content word; a predicate word; can function as a selbri; is a gismu, a lujvo, or a fu'ivla. See <xref linkend="chapter-morphology"/>. </td></tr>
-        <tr><td><valsi>gismu</valsi></td><td>  <indexterm type="general"><primary>gismu</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> a root word; a kind of brivla; has associated rafsi. See <xref linkend="chapter-morphology"/>. </td></tr>
-        <tr><td><valsi>lujvo</valsi></td><td>  <indexterm type="general"><primary>lujvo</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> a compound word; a kind of brivla; may or may not appear in a dictionary; does not have associated rafsi. See <xref linkend="chapter-morphology"/> and <xref linkend="chapter-lujvo"/>. </td></tr>
-        <tr><td><valsi>fu'ivla</valsi></td><td>  <indexterm type="general"><primary>fu'ivla</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> a borrowed word; a kind of brivla; may or may not appear in a dictionary; copied in a modified form from some non-Lojban language; usually refers to some aspect of culture or the natural world; does not have associated rafsi. See <xref linkend="chapter-morphology"/>. </td></tr>
-        <tr><td><valsi>rafsi</valsi></td><td>  <indexterm type="general"><primary>rafsi</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> a word fragment; one or more is associated with each gismu; can be assembled according to rules in order to make lujvo; not a valid word by itself. See <xref linkend="chapter-morphology"/>. </td></tr>
-        <tr><td><valsi>tanru</valsi></td><td>  <indexterm type="general"><primary>tanru</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> a group of two or more brivla, possibly with associated cmavo, that form a selbri; always divisible into two parts, with the first part modifying the meaning of the second part (which is taken to be basic). See <xref linkend="chapter-selbri"/>. </td></tr>
-        <tr><td><valsi>selma'o</valsi></td><td>  <indexterm type="general"><primary>selma'o</primary><secondary>definition</secondary><tertiary>quick-tour version</tertiary></indexterm> a group of cmavo that have the same grammatical use (can appear interchangeably in sentences, as far as the grammar is concerned) but differ in meaning or other usage. See <xref linkend="chapter-catalogue"/>. </td></tr>
+        <tr><td><valsi>bridi</valsi></td><td>  <indexterm type="general"><primary>bridi</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>断言；Lojban表达的基本单位；Lojban句主要种类；某些对象有某关系或某单个对象有某特性的声明。</td></tr>
+        <tr><td><valsi>sumti</valsi></td><td>  <indexterm type="general"><primary>sumti</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>论元；定义在别的某些事物有特定联系的或有某特性的事物的词。参见<xref linkend="chapter-sumti"/>。</td></tr>
+        <tr><td><valsi>selbri</valsi></td><td>  <indexterm type="general"><primary>selbri</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>逻辑谓语；bridi的中心；明确被sumti指向的对象间关系的词或词组。参见<xref linkend="chapter-selbri"/>。</td></tr>
+        <tr><td><valsi>cmavo</valsi></td><td>  <indexterm type="general"><primary>cmavo</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>Lojban话语的一部分；短小单词；结构词；因为其语法作用而被使用的词。</td></tr>
+        <tr><td><valsi>brivla</valsi></td><td>  <indexterm type="general"><primary>brivla</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>Lojban话语的一部分；内容词；谓语词；能充当selbri；是gismu、lujvo或fu'ivla。参见<xref linkend="chapter-morphology"/>。</td></tr>
+        <tr><td><valsi>gismu</valsi></td><td>  <indexterm type="general"><primary>gismu</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>根词；一种brivla；有关联rafsi。参见<xref linkend="chapter-morphology"/>。</td></tr>
+        <tr><td><valsi>lujvo</valsi></td><td>  <indexterm type="general"><primary>lujvo</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>复合词；一种brivla；可以也可以不出现在词典中；没有关联rafsi。参见<xref linkend="chapter-morphology"/>和<xref linkend="chapter-lujvo"/>。</td></tr>
+        <tr><td><valsi>fu'ivla</valsi></td><td>  <indexterm type="general"><primary>fu'ivla</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>借词；一种brivla；可以也可以不出现在词典中；从某非Lojban语言中以调整后的形式借用；通常指文化或自然世界的某些方面；没有关联rafsi。参见<xref linkend="chapter-morphology"/>。</td></tr>
+        <tr><td><valsi>rafsi</valsi></td><td>  <indexterm type="general"><primary>rafsi</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>词的碎片；每个gismu关联一或多个；可以规则集合起来来创造lujvo；独自不是有效单词。参见<xref linkend="chapter-morphology"/>。</td></tr>
+        <tr><td><valsi>tanru</valsi></td><td>  <indexterm type="general"><primary>tanru</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>两个或多个brivla、可能还有有关的cmavo组成的、来构成selbri的集团，第一个部分修饰第二个部分（基本的）意思。参见<xref linkend="chapter-selbri"/>。</td></tr>
+        <tr><td><valsi>selma'o</valsi></td><td>  <indexterm type="general"><primary>selma'o</primary><secondary>定义</secondary><tertiary>快览版</tertiary></indexterm>一组有相同语法功能（若只关心语法，能在句子中相互交换地出现）但意思或其他方面不同的cmavo。参见<xref linkend="chapter-catalogue"/>。</td></tr>
     </informaltable>
   </section>
 </chapter>
