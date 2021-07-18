@@ -7,7 +7,6 @@ with pkgs; stdenv.mkDerivation {
     rubyPackages_3_0.nokogiri
   ];
   shellHook = ''
-      gem install optimist
-      gem install htmlentities
+      gem install optimist htmlentities
   '';
 }

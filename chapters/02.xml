@@ -7,67 +7,67 @@
     </imageobject>
   </mediaobject>
   <section xml:id="section-bridi">
-    <title><anchor xml:id="c2s1"/>bridi的概念</title>
-    <para> <indexterm type="general"><primary>bridi</primary><secondary>概念</secondary></indexterm> 本章给出了Lojban句子结构的有简图e的例子。先给出最一般的模式，再接上连续的Lojban句子基本成分的变体。有许多更多的能力未在本章给出，但在之后的章节中详细地给出了，所以本章是之后在全书中更缓慢地给出的材料的
-    <quote>快览</quote>。它也介绍了用以讨论Lojban语法的大部分Lojban词汇。</para>
+    <title><anchor xml:id="c2s1"/>The concept of the bridi</title>
+    <para> <indexterm type="general"><primary>bridi</primary><secondary>concept of</secondary></indexterm> This chapter gives diagrammed examples of basic Lojban sentence structures. The most general pattern is covered first, followed by successive variations on the basic components of the Lojban sentence. There are many more capabilities not covered in this chapter, but covered in detail in later chapters, so this chapter is a 
+    <quote>quick tour</quote> of the material later covered more slowly throughout the book. It also introduces most of the Lojban words used to discuss Lojban grammar.</para>
     <para> 
 
 
- 让我们考虑一下John和Sam和三个关于他们的陈述：</para>
+ Let us consider John and Sam and three statements about them:</para>
     
     <example xml:id="example-random-id-qIuj">
       <title> 
-        <indexterm type="example"><primary>父亲</primary></indexterm>
-        <indexterm type="example"><primary>John和Sam</primary></indexterm>
+        <indexterm type="example"><primary>father</primary></indexterm>
+        <indexterm type="example"><primary>John and Sam</primary></indexterm>
  
         <anchor xml:id="c2e1d1"/>
       </title>
-      <para>John是Sam的父亲。</para>
+      <para>John is the father of Sam.</para>
     </example>
     <example xml:id="example-random-id-qiuQ">
       <title> 
-        <indexterm type="example"><primary>击打</primary></indexterm>
-        <indexterm type="example"><primary>John和Sam</primary></indexterm>
+        <indexterm type="example"><primary>hits</primary></indexterm>
+        <indexterm type="example"><primary>John and Sam</primary></indexterm>
 
         <anchor xml:id="c2e1d2"/>
       </title>
-      <para>John打Sam。</para>
+      <para>John hits Sam.</para>
       
     </example>
     <example xml:id="example-random-id-qIuS">
       <title>
-        <indexterm type="example"><primary>更高</primary></indexterm>
-        <indexterm type="example"><primary>John和Sam</primary></indexterm>
+        <indexterm type="example"><primary>taller</primary></indexterm>
+        <indexterm type="example"><primary>John and Sam</primary></indexterm>
 
         <anchor xml:id="c2e1d3"/>
       </title>
-      <para>John比Sam更高。</para>
+      <para>John is taller than Sam.</para>
       
     </example>
-    <para role="indent"> <indexterm type="general"><primary>sumti</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>与bridi的关系</secondary></indexterm>  <indexterm type="general"><primary>断言</primary><secondary>与bridi的比较</secondary></indexterm>  <indexterm type="general"><primary>bridi</primary><secondary>与断言相比</secondary></indexterm>  <indexterm type="general"><primary>断言</primary><secondary>作为关系</secondary></indexterm>  <indexterm type="general"><primary>关系</primary><secondary>动作/静态/限定</secondary></indexterm> 这些例子都描述了John和Sam直接的关系。但在中文中，我们用名词 
+    <para role="indent"> <indexterm type="general"><primary>sumti</primary><secondary>relation with bridi</secondary></indexterm>  <indexterm type="general"><primary>brivla</primary><secondary>relation to bridi</secondary></indexterm>  <indexterm type="general"><primary>predication</primary><secondary>compared with bridi</secondary></indexterm>  <indexterm type="general"><primary>bridi</primary><secondary>compared with predication</secondary></indexterm>  <indexterm type="general"><primary>predication</primary><secondary>as a relationship</secondary></indexterm>  <indexterm type="general"><primary>relationship</primary><secondary>active/static/attributive compared</secondary></indexterm> These examples all describe relationships between John and Sam. However, in English, we use the noun 
     
-    <quote>父亲</quote>描述静态关系
-    <xref linkend="example-random-id-qIuj"/>，用动词 
-    <quote>击打</quote>描述动作关系
+    <quote>father</quote> to describe a static relationship in 
+    <xref linkend="example-random-id-qIuj"/>, the verb 
+    <quote>hits</quote> to describe an active relationship in 
     
-    <xref linkend="example-random-id-qiuQ"/>，用形容词 
-    <quote>更高</quote>来描述限定关系
-    
-    <xref linkend="example-random-id-qIuS"/>。在Lojban中我们没有这样的语法分别；这三个句子，当用Lojban表达时，在结构上是相同的。句子的同一部分用来表达关系。在形式逻辑中这整个结构叫做
-    <quote>断言</quote>；在Lojban中叫做
-    <valsi>bridi</valsi>，语言的中心部分是
-    <valsi>selbri</valsi>。逻辑学家称这样联系起来的事物为
-    <quote>论元</quote>，而Lojban语者称之为
-    <valsi>sumti</valsi>。这些Lojban中的形式将在这本书的剩余部分使用。</para>
+    <xref linkend="example-random-id-qiuQ"/>, and the adjective 
+    <quote>taller</quote> to describe an attributive relationship in 
+    
+    <xref linkend="example-random-id-qIuS"/>. In Lojban we make no such grammatical distinctions; these three sentences, when expressed in Lojban, are structurally identical. The same part of speech is used to represent the relationship. In formal logic this whole structure is called a 
+    <quote>predication</quote>; in Lojban it is called a 
+    <valsi>bridi</valsi>, and the central part of speech is the 
+    <valsi>selbri</valsi>. Logicians refer to the things thus related as 
+    <quote>arguments</quote>, while Lojbanists call them 
+    <valsi>sumti</valsi>. These Lojban terms will be used for the rest of the book.</para>
     <mediaobject>
         <textobject><phrase>
-                     bridi（谓句）
-              ___________|____________
-              |                      |
-              John  是   Sam      的父亲
-             |____|     |___|    |____|
-                |         |         |
-             sumti   sumti（论元） selbri
+                    bridi (predicate)
+               ______________|__________________
+               |                               |
+              John     is the father of       Sam
+             |____|    |______________|      |___|
+                |              |               |
+              sumti         selbri          sumti (argument)
         </phrase></textobject>
       <imageobject>
         <imagedata fileref="media/chapter-2-diagram.png" />
@@ -76,130 +76,130 @@
     <para> 
 
 
- 在一种关系中，有确定数量的事物被联系了。在汉语中，比如说，
-    <quote>给予</quote>有三个位：给予者、被给予者和接受者。例如：</para>
+ In a relationship, there are a definite number of things being related. In English, for example, 
+    <quote>give</quote> has three places: the donor, the recipient and the gift. For example:</para>
     <example xml:id="example-random-id-DE08">
       <title>
         <anchor xml:id="c2e1d4"/>
-        <indexterm type="example"><primary>给予</primary></indexterm>
+        <indexterm type="example"><primary>give</primary></indexterm>
       </title>
-      <para>John将那本书给了Sam。</para>
+      <para>John gives Sam the book.</para>
     </example>
-    <para role="noindent">和</para>
+    <para role="noindent">and</para>
     <example xml:id="example-random-id-IBBE">
       <title>
         <anchor xml:id="c2e1d5"/>
-        <indexterm type="example"><primary>给予</primary></indexterm>
+        <indexterm type="example"><primary>give</primary></indexterm>
       </title>
-      <para>Sam将那本书给了John。</para>
+      <para>Sam gives John the book.</para>
     </example>
-    <para role="noindent">有两种不同的意思因为
-    <quote>John</quote>和
-    <quote>Sam</quote>的相对位置被交换了。拓展地说，</para>
+    <para role="noindent">mean two different things because the relative positions of 
+    <quote>John</quote> and 
+    <quote>Sam</quote> have been switched. Further,</para>
     <example xml:id="example-random-id-DxbA">
       <title>
         <anchor xml:id="c2e1d6"/>
-        <indexterm type="example"><primary>给予</primary></indexterm>
+        <indexterm type="example"><primary>give</primary></indexterm>
       </title>
-      <para>那本书将Sam给了John。</para>
+      <para>The book gives John Sam.</para>
     </example>
-    <para role="noindent">对于我们来说很奇怪仅因为位填上了不寻常的论元。被
-    <quote>give</quote>表达的关系没有改变。</para>
-    <para> <indexterm type="general"><primary>位结构</primary><secondary>定义</secondary></indexterm> 在Lojban中，每个selbri一个特定的数字和论元的类型,统称为它的
-    <quote>位结构</quote>。最简单的selbri由单个根词组成，称为
-    <valsi>gismu</valsi>，词典中的定义明确给出其位结构。构筑Lojban句子的初级任务，在选定了关系本身之后，是决定你要用什么来填充sumti位。</para>
-    <para>本书采用Lojban形式
-    <valsi>bridi</valsi>、 
-    <valsi>sumti</valsi>和
-    <valsi>selbri</valsi>，因为超越无论如何只是意思粗略相似的对应词的汉语的联系，独立地理解它们是最好的。</para>
+    <para role="noindent">seems strange to us merely because the places are being filled by unorthodox arguments. The relationship expressed by 
+    <quote>give</quote> has not changed.</para>
+    <para> <indexterm type="general"><primary>place structure</primary><secondary>definition of</secondary></indexterm> In Lojban, each selbri has a specified number and type of arguments, known collectively as its 
+    <quote>place structure</quote>. The simplest kind of selbri consists of a single root word, called a 
+    <valsi>gismu</valsi>, and the definition in a dictionary gives the place structure explicitly. The primary task of constructing a Lojban sentence, after choosing the relationship itself, is deciding what you will use to fill in the sumti places.</para>
+    <para>This book uses the Lojban terms 
+    <valsi>bridi</valsi>, 
+    <valsi>sumti</valsi>, and 
+    <valsi>selbri</valsi>, because it is best to come to understand them independently of the English associations of the corresponding words, which are only roughly similar in meaning anyhow.</para>
     <para> 
 
-  <indexterm type="general"><primary>快览章节的双下划线表示惯例</primary></indexterm>  <indexterm type="general"><primary>快览章节的但下划线表示惯例</primary></indexterm>  <indexterm type="general"><primary>表示惯例</primary><secondary>快览章节</secondary></indexterm> 本章（但非本书其余部分）的Lojban示例用黑体（和通常的楷体）表示selbri，来帮助你区分它们。</para>
+  <indexterm type="general"><primary>double underscore notation convention for Quick Tour chapter</primary></indexterm>  <indexterm type="general"><primary>underscore notation for Quick Tour chapter</primary></indexterm>  <indexterm type="general"><primary>notation conventions</primary><secondary>for Quick Tour chapter</secondary></indexterm> The Lojban examples in this chapter (but not in the rest of the book) use boldface (as well as the usual italics) for selbri, to help you to tell them apart.</para>
   </section>
   <section xml:id="section-pronunciation">
-    <title><anchor xml:id="c2s2"/>发音</title>
-    <para> <indexterm type="general"><primary>发音</primary><secondary>快览版</secondary></indexterm> 详细
-    的发音和拼写规则在<xref linkend="chapter-phonology"/>中给出，但接下来的内容能避免读者在消化本章时太走错。</para>
-    <para> <indexterm type="general"><primary>元音</primary><secondary>发音</secondary><tertiary>快览版</tertiary></indexterm> Lojban有六个被识别的元音：
-    <letteral>a</letteral>、
-    <letteral>e</letteral>、
-    <letteral>i</letteral>、
-    <letteral>o</letteral>、
-    <letteral>u</letteral>和
-    <letteral>y</letteral>。前五个大约发音为
-    <quote>father</quote>中的
-    <quote>a</quote>（译：安中的a）、 
-    <quote>let</quote>中的
-    <letteral>e</letteral>（译：烟中的a）、
-    <quote>machine</quote>中的
-    <letteral>i</letteral>（译：七中的i）、
-    <quote>dome</quote>中的
-    <letteral>o</letteral>（译：我中的o）以及
-    <quote>flute</quote>中的
-    <letteral>u</letteral>（译：孤中的u）。
-    <letteral>y</letteral>的发音被称作
-    <quote>中央元音</quote>，是
-    <quote>about</quote>或
-    <quote>around</quote>中的
-    <quote>a</quote>（译：根中的e）。</para> 
-    <para> <indexterm type="general"><primary>辅音</primary><secondary>发音</secondary><tertiary>快览版</tertiary></indexterm> Lojban的辅音与其在英语中的同位辅音发音相似：
-    <letteral>b</letteral>、 
-    <letteral>d</letteral>、
-    <letteral>f</letteral>、 
-    <letteral>k</letteral>、
-    <letteral>l</letteral>、 
-    <letteral>m</letteral>、 
-    <letteral>n</letteral>、 
-    <letteral>p</letteral>、 
-    <letteral>r</letteral>、 
-    <letteral>t</letteral>、 
-    <letteral>v</letteral>和
-    <letteral>z</letteral>。字母
-    <letteral>c</letteral>，但是，发音和
-    <quote>hush</quote>中的
-    <quote>sh</quote>相同，
-    <letteral>j</letteral>是它的浊音对应，是
-    <quote>pleasure</quote>中的
-    <quote>s</quote>的发音。
-    <letteral>g</letteral>总是与
-    <quote>gift</quote>中的发音相同，不与
-    <quote>giant</quote>中的发音相同。
-    <letteral>s</letteral>和
-    <quote>sell</quote>中的发音相同，不与
-    <quote>rose</quote>中的发音相同。
-    <letteral>x</letteral>的发音在英语中的通常单词中找不到。（译：汉语拼音的h。）它与苏格兰语单词
-    <quote xml:lang="sco">loch</quote>中的
-    <quote xml:lang="sco">ch</quote>、西班牙语单词
-    <quote xml:lang="es">junta</quote>中的
-    <quote xml:lang="es">j</quote>、德语单词
-    <quote xml:lang="de">Bach</quote>中的
-    <quote xml:lang="de">ch</quote>相同；它也出现在英语感叹词
-    <quote>yecchh!</quote>中。在练习中它会变简单。字母
-    <letteral>r</letteral>可以发颤音，但并不必要。</para>
-    <para> <indexterm type="general"><primary>双元音</primary><secondary>发音</secondary><tertiary>快览版</tertiary></indexterm> Lojban的双元音
-    <diphthong>ai</diphthong>、
-    <diphthong>ei</diphthong>、
-    <diphthong>oi</diphthong>和
-    <diphthong>au</diphthong>发音非常像在英语单词
-    <quote>sigh</quote>、
-    <quote>say</quote>、
-    <quote>boy</quote>和
-    <quote>how</quote>中的。其余以
-    <letteral>i</letteral>开头的Lojban双元音发音很像英语中的
-    <quote>y</quote>（例如，
-    <diphthong>io</diphthong>发音为
-    <quote>yo</quote>)，或者
-    <letteral>u</letteral>发音像英语的
-    <quote>w</quote>（例如，
-    <diphthong>ua</diphthong>发音为
-    <quote>wa</quote>）。</para>
-    <para> <indexterm type="general"><primary>句号</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>逗号</primary><secondary>快览版</secondary></indexterm>  <indexterm type="general"><primary>省字号</primary><secondary>快览版</secondary></indexterm> Lojban也有三个
-    <quote>半字母</quote>：句号、逗号和省字号。句号代表喉塞音或停顿；它是语音流中空气流（译：此处不懂，望有识者告之）的要求的停顿。省字号听起来恰像英语字母
+    <title><anchor xml:id="c2s2"/>Pronunciation</title>
+    <para> <indexterm type="general"><primary>pronunciation</primary><secondary>quick-tour version</secondary></indexterm> Detailed pronunciation and spelling rules are given in 
+    <xref linkend="chapter-phonology"/>, but what follows will keep the reader from going too far astray while digesting this chapter.</para>
+    <para> <indexterm type="general"><primary>vowels</primary><secondary>pronunciation of</secondary><tertiary>quick-tour version</tertiary></indexterm> Lojban has six recognized vowels: 
+    <letteral>a</letteral>, 
+    <letteral>e</letteral>, 
+    <letteral>i</letteral>, 
+    <letteral>o</letteral>, 
+    <letteral>u</letteral> and 
+    <letteral>y</letteral>. The first five are roughly pronounced as 
+    <quote>a</quote> as in 
+    <quote>father</quote>, 
+    <letteral>e</letteral> as in 
+    <quote>let</quote>, 
+    <letteral>i</letteral> as in 
+    <quote>machine</quote>, 
+    <letteral>o</letteral> as in 
+    <quote>dome</quote> and 
+    <letteral>u</letteral> as in 
+    <quote>flute</quote>. 
+    <letteral>y</letteral> is pronounced as the sound called 
+    <quote>schwa</quote>, that is, as the unstressed 
+    <quote>a</quote> as in 
+    <quote>about</quote> or 
+    <quote>around</quote>.</para>
+    <para> <indexterm type="general"><primary>consonants</primary><secondary>pronunciation of</secondary><tertiary>quick-tour version</tertiary></indexterm> Twelve consonants in Lojban are pronounced more or less as their counterparts are in English: 
+    <letteral>b</letteral>, 
+    <letteral>d</letteral>, 
+    <letteral>f</letteral>, 
+    <letteral>k</letteral>, 
+    <letteral>l</letteral>, 
+    <letteral>m</letteral>, 
+    <letteral>n</letteral>, 
+    <letteral>p</letteral>, 
+    <letteral>r</letteral>, 
+    <letteral>t</letteral>, 
+    <letteral>v</letteral> and 
+    <letteral>z</letteral>. The letter 
+    <letteral>c</letteral>, on the other hand is pronounced as the 
+    <quote>sh</quote> in 
+    <quote>hush</quote>, while 
+    <letteral>j</letteral> is its voiced counterpart, the sound of the 
+    <quote>s</quote> in 
+    <quote>pleasure</quote>. 
+    <letteral>g</letteral> is always pronounced as it is in 
+    <quote>gift</quote>, never as in 
+    <quote>giant</quote>. 
+    <letteral>s</letteral> is as in 
+    <quote>sell</quote>, never as in 
+    <quote>rose</quote>. The sound of 
+    <letteral>x</letteral> is not found in English in normal words. It is found as 
+    <quote xml:lang="sco">ch</quote> in Scottish 
+    <quote xml:lang="sco">loch</quote>, as 
+    <quote xml:lang="es">j</quote> in Spanish 
+    <quote xml:lang="es">junta</quote>, and as 
+    <quote xml:lang="de">ch</quote> in German 
+    <quote xml:lang="de">Bach</quote>; it also appears in the English interjection 
+    <quote>yecchh!</quote>. It gets easier to say as you practice it. The letter 
+    <letteral>r</letteral> can be trilled, but doesn't have to be.</para>
+    <para> <indexterm type="general"><primary>diphthongs</primary><secondary>pronunciation of</secondary><tertiary>quick-tour version</tertiary></indexterm> The Lojban diphthongs 
+    <diphthong>ai</diphthong>, 
+    <diphthong>ei</diphthong>, 
+    <diphthong>oi</diphthong>, and 
+    <diphthong>au</diphthong> are pronounced much as in the English words 
+    <quote>sigh</quote>, 
+    <quote>say</quote>, 
+    <quote>boy</quote>, and 
+    <quote>how</quote>. Other Lojban diphthongs begin with an 
+    <letteral>i</letteral> pronounced like English 
+    <quote>y</quote> (for example, 
+    <diphthong>io</diphthong> is pronounced 
+    <quote>yo</quote>) or else with a 
+    <letteral>u</letteral> pronounced like English 
+    <quote>w</quote> (for example, 
+    <diphthong>ua</diphthong> is pronounced 
+    <quote>wa</quote>).</para>
+    <para> <indexterm type="general"><primary>period</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>comma</primary><secondary>quick-tour version</secondary></indexterm>  <indexterm type="general"><primary>apostrophe</primary><secondary>quick-tour version</secondary></indexterm> Lojban also has three 
+    <quote>semi-letters</quote>: the period, the comma and the apostrophe. The period represents a glottal stop or a pause; it is a required stoppage of the flow of air in the speech stream. The apostrophe sounds just like the English letter 
     
-    <quote>h</quote>。（译：不同于汉语拼音中的h。）与通常元音不同，它不会出现在单词的开头或结尾，也不会与一个辅音相邻；它只出现在两个元音之间。逗号没有与之相关的音，用来分隔可能会混在一起的音节（译：与拼音中的'相同）。它不在本章中使用。</para>
-    <para> <indexterm type="general"><primary>重音</primary><secondary>快览版</secondary></indexterm> 重音落在倒数第二个音节上，除非那个元音是永远不会被重读的
-    <letteral>y</letteral>；在这样的单词中倒数第三个音节会重读。如果一个单词只有一个音节，那么那个音节不会被重读。</para>
-    <para>所有Lojban单词拼读一致；没有不发音的字母。</para>
+    <quote>h</quote>. Unlike a regular consonant, it is not found at the beginning or end of a word, nor is it found adjacent to a consonant; it is only found between two vowels. The comma has no sound associated with it, and is used to separate syllables that might ordinarily run together. It is not used in this chapter.</para>
+    <para> <indexterm type="general"><primary>stress</primary><secondary>quick-tour version</secondary></indexterm> Stress falls on the next to the last syllable of all words, unless that vowel is 
+    <letteral>y</letteral>, which is never stressed; in such words the third-to-last syllable is stressed. If a word only has one syllable, then that syllable is not stressed.</para>
+    <para>All Lojban words are pronounced as they are spelled: there are no silent letters.</para>
   </section>
   <section xml:id="section-sumti-cmavo">
     <title><anchor xml:id="c2s3"/>可以充当sumti的词</title>
